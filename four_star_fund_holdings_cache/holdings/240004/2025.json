@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "240004",
+    "name": "华宝动力组合混合A",
+    "base_name": "华宝动力组合混合"
+  },
+  "fetched_at": "2026-06-14 22:43:24",
+  "quarters": {
+    "2025-Q4": [
+      {
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "market_value_wan": 8116.34
+      },
+      {
+        "stock_code": "600958",
+        "stock_name": "东方证券",
+        "market_value_wan": 5373.03
+      },
+      {
+        "stock_code": "300033",
+        "stock_name": "同花顺",
+        "market_value_wan": 5361.08
+      },
+      {
+        "stock_code": "300059",
+        "stock_name": "东方财富",
+        "market_value_wan": 5292.46
+      },
+      {
+        "stock_code": "600030",
+        "stock_name": "中信证券",
+        "market_value_wan": 5221.2
+      },
+      {
+        "stock_code": "601088",
+        "stock_name": "中国神华",
+        "market_value_wan": 5211.54
+      },
+      {
+        "stock_code": "601688",
+        "stock_name": "华泰证券",
+        "market_value_wan": 5200.65
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 5136.88
+      },
+      {
+        "stock_code": "601899",
+        "stock_name": "紫金矿业",
+        "market_value_wan": 4659.65
+      },
+      {
+        "stock_code": "002517",
+        "stock_name": "恺英网络",
+        "market_value_wan": 4492.6
+      }
+    ],
+    "2025-Q3": [
+      {
+        "stock_code": "300502",
+        "stock_name": "新易盛",
+        "market_value_wan": 13770.51
+      },
+      {
+        "stock_code": "300308",
+        "stock_name": "中际旭创",
+        "market_value_wan": 13512.78
+      },
+      {
+        "stock_code": "300033",
+        "stock_name": "同花顺",
+        "market_value_wan": 5970.63
+      },
+      {
+        "stock_code": "301031",
+        "stock_name": "中熔电气",
+        "market_value_wan": 5878.41
+      },
+      {
+        "stock_code": "300059",
+        "stock_name": "东方财富",
+        "market_value_wan": 5509.97
+      },
+      {
+        "stock_code": "600895",
+        "stock_name": "张江高科",
+        "market_value_wan": 4955.94
+      },
+      {
+        "stock_code": "603236",
+        "stock_name": "移远通信",
+        "market_value_wan": 4895.02
+      },
+      {
+        "stock_code": "688120",
+        "stock_name": "华海清科",
+        "market_value_wan": 4866.79
+      },
+      {
+        "stock_code": "688072",
+        "stock_name": "拓荆科技",
+        "market_value_wan": 4844.94
+      },
+      {
+        "stock_code": "688012",
+        "stock_name": "中微公司",
+        "market_value_wan": 4598.8
+      }
+    ],
+    "2025-Q2": [
+      {
+        "stock_code": "603986",
+        "stock_name": "兆易创新",
+        "market_value_wan": 5024.25
+      },
+      {
+        "stock_code": "002517",
+        "stock_name": "恺英网络",
+        "market_value_wan": 4693.49
+      },
+      {
+        "stock_code": "603236",
+        "stock_name": "移远通信",
+        "market_value_wan": 4162.67
+      },
+      {
+        "stock_code": "002947",
+        "stock_name": "恒铭达",
+        "market_value_wan": 3943.97
+      },
+      {
+        "stock_code": "688536",
+        "stock_name": "思瑞浦",
+        "market_value_wan": 3269.23
+      },
+      {
+        "stock_code": "300661",
+        "stock_name": "圣邦股份",
+        "market_value_wan": 3217.6
+      },
+      {
+        "stock_code": "301099",
+        "stock_name": "雅创电子",
+        "market_value_wan": 3203.46
+      },
+      {
+        "stock_code": "603197",
+        "stock_name": "保隆科技",
+        "market_value_wan": 3042.38
+      },
+      {
+        "stock_code": "688596",
+        "stock_name": "正帆科技",
+        "market_value_wan": 2946.91
+      },
+      {
+        "stock_code": "600030",
+        "stock_name": "中信证券",
+        "market_value_wan": 2865.3
+      }
+    ],
+    "2025-Q1": [
+      {
+        "stock_code": "002947",
+        "stock_name": "恒铭达",
+        "market_value_wan": 4648.17
+      },
+      {
+        "stock_code": "300533",
+        "stock_name": "冰川网络",
+        "market_value_wan": 4058.68
+      },
+      {
+        "stock_code": "002517",
+        "stock_name": "恺英网络",
+        "market_value_wan": 3986.57
+      },
+      {
+        "stock_code": "002241",
+        "stock_name": "歌尔股份",
+        "market_value_wan": 3937.99
+      },
+      {
+        "stock_code": "688120",
+        "stock_name": "华海清科",
+        "market_value_wan": 3828.73
+      },
+      {
+        "stock_code": "002315",
+        "stock_name": "焦点科技",
+        "market_value_wan": 3539.18
+      },
+      {
+        "stock_code": "688596",
+        "stock_name": "正帆科技",
+        "market_value_wan": 3489.04
+      },
+      {
+        "stock_code": "688332",
+        "stock_name": "中科蓝讯",
+        "market_value_wan": 3422.84
+      },
+      {
+        "stock_code": "603236",
+        "stock_name": "移远通信",
+        "market_value_wan": 3324.72
+      },
+      {
+        "stock_code": "002371",
+        "stock_name": "北方华创",
+        "market_value_wan": 3269.76
+      }
+    ]
+  }
+}

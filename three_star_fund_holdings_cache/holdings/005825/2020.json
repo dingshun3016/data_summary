@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "005825",
+    "name": "申万菱信智能驱动股票A",
+    "base_name": "申万菱信智能驱动股票"
+  },
+  "fetched_at": "2026-06-14 23:19:27",
+  "quarters": {
+    "2020-Q4": [
+      {
+        "stock_code": "300059",
+        "stock_name": "东方财富",
+        "market_value_wan": 1049.35
+      },
+      {
+        "stock_code": "002555",
+        "stock_name": "三七互娱",
+        "market_value_wan": 1009.39
+      },
+      {
+        "stock_code": "002594",
+        "stock_name": "比亚迪",
+        "market_value_wan": 961.79
+      },
+      {
+        "stock_code": "002027",
+        "stock_name": "分众传媒",
+        "market_value_wan": 944.82
+      },
+      {
+        "stock_code": "600456",
+        "stock_name": "宝钛股份",
+        "market_value_wan": 876.11
+      },
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 821.65
+      },
+      {
+        "stock_code": "002624",
+        "stock_name": "完美世界",
+        "market_value_wan": 804.17
+      },
+      {
+        "stock_code": "603444",
+        "stock_name": "吉比特",
+        "market_value_wan": 768.08
+      },
+      {
+        "stock_code": "300073",
+        "stock_name": "当升科技",
+        "market_value_wan": 751.61
+      },
+      {
+        "stock_code": "300450",
+        "stock_name": "先导智能",
+        "market_value_wan": 749.19
+      }
+    ],
+    "2020-Q3": [
+      {
+        "stock_code": "600438",
+        "stock_name": "通威股份",
+        "market_value_wan": 1917.75
+      },
+      {
+        "stock_code": "601012",
+        "stock_name": "隆基绿能",
+        "market_value_wan": 1893.25
+      },
+      {
+        "stock_code": "300377",
+        "stock_name": "赢时胜",
+        "market_value_wan": 1740.62
+      },
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 1598.41
+      },
+      {
+        "stock_code": "600732",
+        "stock_name": "爱旭股份",
+        "market_value_wan": 1457.41
+      },
+      {
+        "stock_code": "603444",
+        "stock_name": "吉比特",
+        "market_value_wan": 1432.67
+      },
+      {
+        "stock_code": "002624",
+        "stock_name": "完美世界",
+        "market_value_wan": 1350.32
+      },
+      {
+        "stock_code": "002594",
+        "stock_name": "比亚迪",
+        "market_value_wan": 1197.27
+      },
+      {
+        "stock_code": "002027",
+        "stock_name": "分众传媒",
+        "market_value_wan": 1169.15
+      },
+      {
+        "stock_code": "002555",
+        "stock_name": "三七互娱",
+        "market_value_wan": 1133.2
+      }
+    ],
+    "2020-Q2": [
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 3114.64
+      },
+      {
+        "stock_code": "002555",
+        "stock_name": "三七互娱",
+        "market_value_wan": 2966.71
+      },
+      {
+        "stock_code": "002463",
+        "stock_name": "沪电股份",
+        "market_value_wan": 2542.46
+      },
+      {
+        "stock_code": "603444",
+        "stock_name": "吉比特",
+        "market_value_wan": 2190.55
+      },
+      {
+        "stock_code": "300413",
+        "stock_name": "芒果超媒",
+        "market_value_wan": 2132.98
+      },
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 2093.05
+      },
+      {
+        "stock_code": "002142",
+        "stock_name": "宁波银行",
+        "market_value_wan": 2081.63
+      },
+      {
+        "stock_code": "000858",
+        "stock_name": "五粮液",
+        "market_value_wan": 1930.23
+      },
+      {
+        "stock_code": "000568",
+        "stock_name": "泸州老窖",
+        "market_value_wan": 1855.2
+      },
+      {
+        "stock_code": "002624",
+        "stock_name": "完美世界",
+        "market_value_wan": 1785.11
+      }
+    ],
+    "2020-Q1": [
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 1686.98
+      },
+      {
+        "stock_code": "002555",
+        "stock_name": "三七互娱",
+        "market_value_wan": 1320.44
+      },
+      {
+        "stock_code": "002463",
+        "stock_name": "沪电股份",
+        "market_value_wan": 1130.48
+      },
+      {
+        "stock_code": "002142",
+        "stock_name": "宁波银行",
+        "market_value_wan": 1061.22
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 1055.45
+      },
+      {
+        "stock_code": "603444",
+        "stock_name": "吉比特",
+        "market_value_wan": 952.1
+      },
+      {
+        "stock_code": "300003",
+        "stock_name": "乐普医疗",
+        "market_value_wan": 924.7
+      },
+      {
+        "stock_code": "000858",
+        "stock_name": "五粮液",
+        "market_value_wan": 881.28
+      },
+      {
+        "stock_code": "300413",
+        "stock_name": "芒果超媒",
+        "market_value_wan": 839.3
+      },
+      {
+        "stock_code": "600031",
+        "stock_name": "三一重工",
+        "market_value_wan": 821.06
+      }
+    ]
+  }
+}

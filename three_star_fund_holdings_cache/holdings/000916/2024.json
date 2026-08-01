@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "000916",
+    "name": "前海开源股息率100强股票A",
+    "base_name": "前海开源股息率100强股票"
+  },
+  "fetched_at": "2026-06-14 22:51:41",
+  "quarters": {
+    "2024-Q4": [
+      {
+        "stock_code": "000429",
+        "stock_name": "粤高速A",
+        "market_value_wan": 967.41
+      },
+      {
+        "stock_code": "601988",
+        "stock_name": "中国银行",
+        "market_value_wan": 964.32
+      },
+      {
+        "stock_code": "600012",
+        "stock_name": "皖通高速",
+        "market_value_wan": 951.34
+      },
+      {
+        "stock_code": "601398",
+        "stock_name": "工商银行",
+        "market_value_wan": 948.32
+      },
+      {
+        "stock_code": "600941",
+        "stock_name": "中国移动",
+        "market_value_wan": 915.74
+      },
+      {
+        "stock_code": "601328",
+        "stock_name": "交通银行",
+        "market_value_wan": 909.7
+      },
+      {
+        "stock_code": "601728",
+        "stock_name": "中国电信",
+        "market_value_wan": 909.58
+      },
+      {
+        "stock_code": "001965",
+        "stock_name": "招商公路",
+        "market_value_wan": 895.45
+      },
+      {
+        "stock_code": "600660",
+        "stock_name": "福耀玻璃",
+        "market_value_wan": 882.34
+      },
+      {
+        "stock_code": "601857",
+        "stock_name": "中国石油",
+        "market_value_wan": 856.18
+      }
+    ],
+    "2024-Q3": [
+      {
+        "stock_code": "601601",
+        "stock_name": "中国太保",
+        "market_value_wan": 1909.25
+      },
+      {
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "market_value_wan": 1877.12
+      },
+      {
+        "stock_code": "688036",
+        "stock_name": "传音控股",
+        "market_value_wan": 1838.58
+      },
+      {
+        "stock_code": "600066",
+        "stock_name": "宇通客车",
+        "market_value_wan": 1705.53
+      },
+      {
+        "stock_code": "000651",
+        "stock_name": "格力电器",
+        "market_value_wan": 1684.13
+      },
+      {
+        "stock_code": "600660",
+        "stock_name": "福耀玻璃",
+        "market_value_wan": 1640.08
+      },
+      {
+        "stock_code": "601919",
+        "stock_name": "中远海控",
+        "market_value_wan": 1627.57
+      },
+      {
+        "stock_code": "001979",
+        "stock_name": "招商蛇口",
+        "market_value_wan": 1582.58
+      },
+      {
+        "stock_code": "601988",
+        "stock_name": "中国银行",
+        "market_value_wan": 1581.12
+      },
+      {
+        "stock_code": "002032",
+        "stock_name": "苏泊尔",
+        "market_value_wan": 1578.87
+      }
+    ],
+    "2024-Q2": [
+      {
+        "stock_code": "600938",
+        "stock_name": "中国海油",
+        "market_value_wan": 1869.45
+      },
+      {
+        "stock_code": "601088",
+        "stock_name": "中国神华",
+        "market_value_wan": 1740.11
+      },
+      {
+        "stock_code": "600900",
+        "stock_name": "长江电力",
+        "market_value_wan": 1678.93
+      },
+      {
+        "stock_code": "600066",
+        "stock_name": "宇通客车",
+        "market_value_wan": 1660.13
+      },
+      {
+        "stock_code": "601857",
+        "stock_name": "中国石油",
+        "market_value_wan": 1650.06
+      },
+      {
+        "stock_code": "601398",
+        "stock_name": "工商银行",
+        "market_value_wan": 1616.69
+      },
+      {
+        "stock_code": "601919",
+        "stock_name": "中远海控",
+        "market_value_wan": 1604.78
+      },
+      {
+        "stock_code": "600236",
+        "stock_name": "桂冠电力",
+        "market_value_wan": 1581.78
+      },
+      {
+        "stock_code": "600256",
+        "stock_name": "广汇能源",
+        "market_value_wan": 1514.94
+      },
+      {
+        "stock_code": "601328",
+        "stock_name": "交通银行",
+        "market_value_wan": 1477.03
+      }
+    ],
+    "2024-Q1": [
+      {
+        "stock_code": "601088",
+        "stock_name": "中国神华",
+        "market_value_wan": 819.25
+      },
+      {
+        "stock_code": "600066",
+        "stock_name": "宇通客车",
+        "market_value_wan": 807.44
+      },
+      {
+        "stock_code": "001965",
+        "stock_name": "招商公路",
+        "market_value_wan": 803.2
+      },
+      {
+        "stock_code": "601857",
+        "stock_name": "中国石油",
+        "market_value_wan": 797.51
+      },
+      {
+        "stock_code": "600938",
+        "stock_name": "中国海油",
+        "market_value_wan": 743.03
+      },
+      {
+        "stock_code": "600282",
+        "stock_name": "南钢股份",
+        "market_value_wan": 731.98
+      },
+      {
+        "stock_code": "000338",
+        "stock_name": "潍柴动力",
+        "market_value_wan": 727.68
+      },
+      {
+        "stock_code": "601077",
+        "stock_name": "渝农商行",
+        "market_value_wan": 721.14
+      },
+      {
+        "stock_code": "601398",
+        "stock_name": "工商银行",
+        "market_value_wan": 710.53
+      },
+      {
+        "stock_code": "600188",
+        "stock_name": "兖矿能源",
+        "market_value_wan": 699.26
+      }
+    ]
+  }
+}

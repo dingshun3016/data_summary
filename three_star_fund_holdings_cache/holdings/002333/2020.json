@@ -1,0 +1,74 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "002333",
+    "name": "汇丰晋信沪港深C",
+    "base_name": "汇丰晋信沪港深"
+  },
+  "fetched_at": "2026-06-14 23:05:49",
+  "quarters": {
+    "2020-Q4": [
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 13841.32
+      },
+      {
+        "stock_code": "002241",
+        "stock_name": "歌尔股份",
+        "market_value_wan": 7398.47
+      },
+      {
+        "stock_code": "300207",
+        "stock_name": "欣旺达",
+        "market_value_wan": 3668.75
+      }
+    ],
+    "2020-Q3": [
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 10374.87
+      },
+      {
+        "stock_code": "300207",
+        "stock_name": "欣旺达",
+        "market_value_wan": 4400.89
+      },
+      {
+        "stock_code": "300122",
+        "stock_name": "智飞生物",
+        "market_value_wan": 3922.06
+      },
+      {
+        "stock_code": "601888",
+        "stock_name": "中国中免",
+        "market_value_wan": 3713.8
+      }
+    ],
+    "2020-Q2": [
+      {
+        "stock_code": "603259",
+        "stock_name": "药明康德",
+        "market_value_wan": 5380.45
+      },
+      {
+        "stock_code": "002497",
+        "stock_name": "雅化集团",
+        "market_value_wan": 4056.5
+      },
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 2448.94
+      }
+    ],
+    "2020-Q1": [
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 9585.65
+      }
+    ]
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "580008",
+    "name": "东吴新产业精选股票A",
+    "base_name": "东吴新产业精选股票"
+  },
+  "fetched_at": "2026-08-01 21:01:29",
+  "quarters": {
+    "2026-Q2": [
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 11498.43
+      },
+      {
+        "stock_code": "300502",
+        "stock_name": "新易盛",
+        "market_value_wan": 11435.39
+      },
+      {
+        "stock_code": "300308",
+        "stock_name": "中际旭创",
+        "market_value_wan": 10960.1
+      },
+      {
+        "stock_code": "601138",
+        "stock_name": "工业富联",
+        "market_value_wan": 8215.72
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 6178.12
+      },
+      {
+        "stock_code": "002463",
+        "stock_name": "沪电股份",
+        "market_value_wan": 5485.52
+      },
+      {
+        "stock_code": "002938",
+        "stock_name": "鹏鼎控股",
+        "market_value_wan": 5338.22
+      },
+      {
+        "stock_code": "603986",
+        "stock_name": "兆易创新",
+        "market_value_wan": 4457.32
+      },
+      {
+        "stock_code": "688256",
+        "stock_name": "寒武纪",
+        "market_value_wan": 4147.31
+      }
+    ],
+    "2026-Q1": [
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 7728.89
+      },
+      {
+        "stock_code": "300502",
+        "stock_name": "新易盛",
+        "market_value_wan": 7323.69
+      },
+      {
+        "stock_code": "300308",
+        "stock_name": "中际旭创",
+        "market_value_wan": 7185.95
+      },
+      {
+        "stock_code": "002463",
+        "stock_name": "沪电股份",
+        "market_value_wan": 5071.76
+      },
+      {
+        "stock_code": "002273",
+        "stock_name": "水晶光电",
+        "market_value_wan": 3186.32
+      },
+      {
+        "stock_code": "601138",
+        "stock_name": "工业富联",
+        "market_value_wan": 3182.29
+      },
+      {
+        "stock_code": "300390",
+        "stock_name": "天华新能",
+        "market_value_wan": 2380.89
+      },
+      {
+        "stock_code": "603067",
+        "stock_name": "振华股份",
+        "market_value_wan": 2315.22
+      }
+    ]
+  }
+}

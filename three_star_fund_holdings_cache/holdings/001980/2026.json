@@ -1,0 +1,85 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "001980",
+    "name": "中欧量化驱动混合A",
+    "base_name": "中欧量化驱动混合"
+  },
+  "fetched_at": "2026-08-01 20:54:37",
+  "quarters": {
+    "2026-Q2": [
+      {
+        "stock_code": "300308",
+        "stock_name": "中际旭创",
+        "market_value_wan": 2120.9
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 1717.45
+      },
+      {
+        "stock_code": "300502",
+        "stock_name": "新易盛",
+        "market_value_wan": 1540.57
+      },
+      {
+        "stock_code": "601688",
+        "stock_name": "华泰证券",
+        "market_value_wan": 1206.89
+      },
+      {
+        "stock_code": "600999",
+        "stock_name": "招商证券",
+        "market_value_wan": 1118.76
+      },
+      {
+        "stock_code": "600030",
+        "stock_name": "中信证券",
+        "market_value_wan": 979.98
+      },
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 689.92
+      },
+      {
+        "stock_code": "601899",
+        "stock_name": "紫金矿业",
+        "market_value_wan": 558.93
+      },
+      {
+        "stock_code": "688428",
+        "stock_name": "诺诚健华",
+        "market_value_wan": 427.65
+      }
+    ],
+    "2026-Q1": [
+      {
+        "stock_code": "300308",
+        "stock_name": "中际旭创",
+        "market_value_wan": 563.72
+      },
+      {
+        "stock_code": "300502",
+        "stock_name": "新易盛",
+        "market_value_wan": 473.84
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 457.94
+      },
+      {
+        "stock_code": "601988",
+        "stock_name": "中国银行",
+        "market_value_wan": 334.59
+      },
+      {
+        "stock_code": "601117",
+        "stock_name": "中国化学",
+        "market_value_wan": 305.1
+      }
+    ]
+  }
+}

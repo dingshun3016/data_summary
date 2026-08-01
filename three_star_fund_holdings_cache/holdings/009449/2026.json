@@ -1,0 +1,28 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "009449",
+    "name": "泰康申润一年持有期混合C",
+    "base_name": "泰康申润一年持有期混合"
+  },
+  "fetched_at": "2026-08-01 20:58:26",
+  "quarters": {
+    "2026-Q2": [
+      {
+        "stock_code": "920136",
+        "stock_name": "永励精密",
+        "market_value_wan": 0.58
+      },
+      {
+        "stock_code": "920193",
+        "stock_name": "吉和昌",
+        "market_value_wan": 0.26
+      },
+      {
+        "stock_code": "920189",
+        "stock_name": "康美特",
+        "market_value_wan": 0.16
+      }
+    ]
+  }
+}

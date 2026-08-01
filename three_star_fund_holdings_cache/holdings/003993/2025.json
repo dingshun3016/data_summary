@@ -1,0 +1,74 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "003993",
+    "name": "前海开源沪港深核心驱动混合",
+    "base_name": "前海开源沪港深核心驱动混合"
+  },
+  "fetched_at": "2026-06-14 23:12:04",
+  "quarters": {
+    "2025-Q4": [
+      {
+        "stock_code": "601899",
+        "stock_name": "紫金矿业",
+        "market_value_wan": 701.12
+      },
+      {
+        "stock_code": "601600",
+        "stock_name": "中国铝业",
+        "market_value_wan": 696.17
+      },
+      {
+        "stock_code": "000807",
+        "stock_name": "云铝股份",
+        "market_value_wan": 678.47
+      },
+      {
+        "stock_code": "002738",
+        "stock_name": "中矿资源",
+        "market_value_wan": 628.4
+      },
+      {
+        "stock_code": "600219",
+        "stock_name": "南山铝业",
+        "market_value_wan": 538.0
+      },
+      {
+        "stock_code": "002532",
+        "stock_name": "天山铝业",
+        "market_value_wan": 485.4
+      }
+    ],
+    "2025-Q3": [
+      {
+        "stock_code": "601899",
+        "stock_name": "紫金矿业",
+        "market_value_wan": 993.89
+      },
+      {
+        "stock_code": "002738",
+        "stock_name": "中矿资源",
+        "market_value_wan": 647.46
+      },
+      {
+        "stock_code": "300957",
+        "stock_name": "贝泰妮",
+        "market_value_wan": 396.7
+      }
+    ],
+    "2025-Q2": [
+      {
+        "stock_code": "601899",
+        "stock_name": "紫金矿业",
+        "market_value_wan": 658.32
+      }
+    ],
+    "2025-Q1": [
+      {
+        "stock_code": "601899",
+        "stock_name": "紫金矿业",
+        "market_value_wan": 855.26
+      }
+    ]
+  }
+}

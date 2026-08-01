@@ -1,0 +1,59 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "004450",
+    "name": "嘉实前沿科技沪港深股票A",
+    "base_name": "嘉实前沿科技沪港深股票"
+  },
+  "fetched_at": "2026-06-14 23:13:54",
+  "quarters": {
+    "2024-Q4": [
+      {
+        "stock_code": "688052",
+        "stock_name": "纳芯微",
+        "market_value_wan": 8801.48
+      },
+      {
+        "stock_code": "601933",
+        "stock_name": "永辉超市",
+        "market_value_wan": 7776.71
+      },
+      {
+        "stock_code": "688361",
+        "stock_name": "中科飞测",
+        "market_value_wan": 6893.83
+      }
+    ],
+    "2024-Q3": [
+      {
+        "stock_code": "000526",
+        "stock_name": "学大教育",
+        "market_value_wan": 9457.59
+      }
+    ],
+    "2024-Q2": [
+      {
+        "stock_code": "002415",
+        "stock_name": "海康威视",
+        "market_value_wan": 15561.11
+      },
+      {
+        "stock_code": "000526",
+        "stock_name": "学大教育",
+        "market_value_wan": 10065.86
+      }
+    ],
+    "2024-Q1": [
+      {
+        "stock_code": "000526",
+        "stock_name": "学大教育",
+        "market_value_wan": 11405.37
+      },
+      {
+        "stock_code": "002415",
+        "stock_name": "海康威视",
+        "market_value_wan": 8635.69
+      }
+    ]
+  }
+}

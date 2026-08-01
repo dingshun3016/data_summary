@@ -1,0 +1,80 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "009601",
+    "name": "招商科技动力3个月滚动持有股票A",
+    "base_name": "招商科技动力3个月滚动持有股票"
+  },
+  "fetched_at": "2026-08-01 20:48:20",
+  "quarters": {
+    "2026-Q2": [
+      {
+        "stock_code": "688256",
+        "stock_name": "寒武纪",
+        "market_value_wan": 12041.78
+      },
+      {
+        "stock_code": "688702",
+        "stock_name": "盛科通信",
+        "market_value_wan": 11089.6
+      },
+      {
+        "stock_code": "688629",
+        "stock_name": "华丰科技",
+        "market_value_wan": 9759.48
+      },
+      {
+        "stock_code": "688200",
+        "stock_name": "华峰测控",
+        "market_value_wan": 9400.55
+      },
+      {
+        "stock_code": "300604",
+        "stock_name": "长川科技",
+        "market_value_wan": 9334.42
+      },
+      {
+        "stock_code": "603061",
+        "stock_name": "金海通",
+        "market_value_wan": 8842.84
+      },
+      {
+        "stock_code": "688041",
+        "stock_name": "海光信息",
+        "market_value_wan": 8058.02
+      }
+    ],
+    "2026-Q1": [
+      {
+        "stock_code": "688041",
+        "stock_name": "海光信息",
+        "market_value_wan": 6600.5
+      },
+      {
+        "stock_code": "688256",
+        "stock_name": "寒武纪",
+        "market_value_wan": 6337.4
+      },
+      {
+        "stock_code": "688702",
+        "stock_name": "盛科通信",
+        "market_value_wan": 5068.35
+      },
+      {
+        "stock_code": "688521",
+        "stock_name": "芯原股份",
+        "market_value_wan": 5016.03
+      },
+      {
+        "stock_code": "688629",
+        "stock_name": "华丰科技",
+        "market_value_wan": 4675.19
+      },
+      {
+        "stock_code": "603019",
+        "stock_name": "中科曙光",
+        "market_value_wan": 4424.66
+      }
+    ]
+  }
+}

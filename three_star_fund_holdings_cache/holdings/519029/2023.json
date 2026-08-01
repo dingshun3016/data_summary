@@ -1,0 +1,214 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "519029",
+    "name": "华夏稳增混合",
+    "base_name": "华夏稳增混合"
+  },
+  "fetched_at": "2026-06-15 00:02:15",
+  "quarters": {
+    "2023-Q4": [
+      {
+        "stock_code": "603278",
+        "stock_name": "大业股份",
+        "market_value_wan": 5589.6
+      },
+      {
+        "stock_code": "002315",
+        "stock_name": "焦点科技",
+        "market_value_wan": 5504.55
+      },
+      {
+        "stock_code": "920033",
+        "stock_name": "康普化学",
+        "market_value_wan": 4887.75
+      },
+      {
+        "stock_code": "301302",
+        "stock_name": "华如科技",
+        "market_value_wan": 4831.91
+      },
+      {
+        "stock_code": "300472",
+        "stock_name": "新元科技",
+        "market_value_wan": 4727.7
+      },
+      {
+        "stock_code": "002371",
+        "stock_name": "北方华创",
+        "market_value_wan": 4677.88
+      },
+      {
+        "stock_code": "002268",
+        "stock_name": "电科网安",
+        "market_value_wan": 4623.89
+      },
+      {
+        "stock_code": "300933",
+        "stock_name": "中辰股份",
+        "market_value_wan": 4543.28
+      },
+      {
+        "stock_code": "920152",
+        "stock_name": "昆工科技",
+        "market_value_wan": 4281.67
+      }
+    ],
+    "2023-Q3": [
+      {
+        "stock_code": "300275",
+        "stock_name": "梅安森",
+        "market_value_wan": 5886.61
+      },
+      {
+        "stock_code": "300472",
+        "stock_name": "新元科技",
+        "market_value_wan": 5017.8
+      },
+      {
+        "stock_code": "002723",
+        "stock_name": "小崧股份",
+        "market_value_wan": 4629.81
+      },
+      {
+        "stock_code": "920152",
+        "stock_name": "昆工科技",
+        "market_value_wan": 4622.32
+      },
+      {
+        "stock_code": "301302",
+        "stock_name": "华如科技",
+        "market_value_wan": 4487.7
+      },
+      {
+        "stock_code": "920033",
+        "stock_name": "康普化学",
+        "market_value_wan": 4315.27
+      },
+      {
+        "stock_code": "300619",
+        "stock_name": "金银河",
+        "market_value_wan": 4119.54
+      },
+      {
+        "stock_code": "300007",
+        "stock_name": "汉威科技",
+        "market_value_wan": 3946.86
+      },
+      {
+        "stock_code": "300445",
+        "stock_name": "康斯特",
+        "market_value_wan": 3860.59
+      },
+      {
+        "stock_code": "688258",
+        "stock_name": "卓易信息",
+        "market_value_wan": 3621.0
+      }
+    ],
+    "2023-Q2": [
+      {
+        "stock_code": "920152",
+        "stock_name": "昆工科技",
+        "market_value_wan": 6565.36
+      },
+      {
+        "stock_code": "300007",
+        "stock_name": "汉威科技",
+        "market_value_wan": 5652.56
+      },
+      {
+        "stock_code": "300275",
+        "stock_name": "梅安森",
+        "market_value_wan": 5084.06
+      },
+      {
+        "stock_code": "688258",
+        "stock_name": "卓易信息",
+        "market_value_wan": 4443.43
+      },
+      {
+        "stock_code": "688143",
+        "stock_name": "长盈通",
+        "market_value_wan": 4361.53
+      },
+      {
+        "stock_code": "301270",
+        "stock_name": "汉仪股份",
+        "market_value_wan": 4157.83
+      },
+      {
+        "stock_code": "920033",
+        "stock_name": "康普化学",
+        "market_value_wan": 4116.39
+      },
+      {
+        "stock_code": "300643",
+        "stock_name": "万通智控",
+        "market_value_wan": 3921.96
+      },
+      {
+        "stock_code": "688531",
+        "stock_name": "日联科技",
+        "market_value_wan": 3911.53
+      },
+      {
+        "stock_code": "300445",
+        "stock_name": "康斯特",
+        "market_value_wan": 3831.58
+      }
+    ],
+    "2023-Q1": [
+      {
+        "stock_code": "603306",
+        "stock_name": "华懋科技",
+        "market_value_wan": 7360.22
+      },
+      {
+        "stock_code": "300007",
+        "stock_name": "汉威科技",
+        "market_value_wan": 6075.78
+      },
+      {
+        "stock_code": "300643",
+        "stock_name": "万通智控",
+        "market_value_wan": 5204.03
+      },
+      {
+        "stock_code": "920152",
+        "stock_name": "昆工科技",
+        "market_value_wan": 4771.14
+      },
+      {
+        "stock_code": "300472",
+        "stock_name": "新元科技",
+        "market_value_wan": 4578.96
+      },
+      {
+        "stock_code": "301302",
+        "stock_name": "华如科技",
+        "market_value_wan": 4575.73
+      },
+      {
+        "stock_code": "300456",
+        "stock_name": "赛微电子",
+        "market_value_wan": 3652.65
+      },
+      {
+        "stock_code": "688628",
+        "stock_name": "优利德",
+        "market_value_wan": 3544.59
+      },
+      {
+        "stock_code": "300353",
+        "stock_name": "东土科技",
+        "market_value_wan": 3251.07
+      },
+      {
+        "stock_code": "002315",
+        "stock_name": "焦点科技",
+        "market_value_wan": 3057.82
+      }
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "010062",
+    "name": "南方行业精选一年混合A",
+    "base_name": "南方行业精选一年混合"
+  },
+  "fetched_at": "2026-06-14 23:37:51",
+  "quarters": {
+    "2020-Q4": [
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 30511.88
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 29044.93
+      },
+      {
+        "stock_code": "000858",
+        "stock_name": "五粮液",
+        "market_value_wan": 23345.81
+      },
+      {
+        "stock_code": "600031",
+        "stock_name": "三一重工",
+        "market_value_wan": 17489.06
+      },
+      {
+        "stock_code": "300760",
+        "stock_name": "迈瑞医疗",
+        "market_value_wan": 12771.74
+      },
+      {
+        "stock_code": "600809",
+        "stock_name": "山西汾酒",
+        "market_value_wan": 10507.29
+      },
+      {
+        "stock_code": "600690",
+        "stock_name": "海尔智家",
+        "market_value_wan": 10223.13
+      }
+    ]
+  }
+}

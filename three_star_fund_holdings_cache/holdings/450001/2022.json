@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "450001",
+    "name": "国富中国收益混合A",
+    "base_name": "国富中国收益混合"
+  },
+  "fetched_at": "2026-06-15 00:00:16",
+  "quarters": {
+    "2022-Q4": [
+      {
+        "stock_code": "300782",
+        "stock_name": "卓胜微",
+        "market_value_wan": 14253.12
+      },
+      {
+        "stock_code": "002050",
+        "stock_name": "三花智控",
+        "market_value_wan": 11883.2
+      },
+      {
+        "stock_code": "300751",
+        "stock_name": "迈为股份",
+        "market_value_wan": 11404.67
+      },
+      {
+        "stock_code": "601100",
+        "stock_name": "恒立液压",
+        "market_value_wan": 10104.0
+      },
+      {
+        "stock_code": "002271",
+        "stock_name": "东方雨虹",
+        "market_value_wan": 9399.6
+      },
+      {
+        "stock_code": "300059",
+        "stock_name": "东方财富",
+        "market_value_wan": 9117.84
+      },
+      {
+        "stock_code": "603899",
+        "stock_name": "晨光股份",
+        "market_value_wan": 8796.8
+      },
+      {
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "market_value_wan": 8569.8
+      },
+      {
+        "stock_code": "002142",
+        "stock_name": "宁波银行",
+        "market_value_wan": 8003.31
+      },
+      {
+        "stock_code": "002648",
+        "stock_name": "卫星化学",
+        "market_value_wan": 7160.84
+      }
+    ],
+    "2022-Q3": [
+      {
+        "stock_code": "300782",
+        "stock_name": "卓胜微",
+        "market_value_wan": 13349.13
+      },
+      {
+        "stock_code": "002050",
+        "stock_name": "三花智控",
+        "market_value_wan": 11965.44
+      },
+      {
+        "stock_code": "300751",
+        "stock_name": "迈为股份",
+        "market_value_wan": 10095.41
+      },
+      {
+        "stock_code": "002648",
+        "stock_name": "卫星化学",
+        "market_value_wan": 8507.84
+      },
+      {
+        "stock_code": "300059",
+        "stock_name": "东方财富",
+        "market_value_wan": 8281.4
+      },
+      {
+        "stock_code": "002142",
+        "stock_name": "宁波银行",
+        "market_value_wan": 7781.33
+      },
+      {
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "market_value_wan": 7739.5
+      },
+      {
+        "stock_code": "601100",
+        "stock_name": "恒立液压",
+        "market_value_wan": 7721.43
+      },
+      {
+        "stock_code": "603868",
+        "stock_name": "飞科电器",
+        "market_value_wan": 6671.59
+      },
+      {
+        "stock_code": "002001",
+        "stock_name": "新和成",
+        "market_value_wan": 6657.0
+      }
+    ],
+    "2022-Q2": [
+      {
+        "stock_code": "300782",
+        "stock_name": "卓胜微",
+        "market_value_wan": 15279.41
+      },
+      {
+        "stock_code": "300751",
+        "stock_name": "迈为股份",
+        "market_value_wan": 9818.0
+      },
+      {
+        "stock_code": "601012",
+        "stock_name": "隆基绿能",
+        "market_value_wan": 9328.2
+      },
+      {
+        "stock_code": "002142",
+        "stock_name": "宁波银行",
+        "market_value_wan": 8832.0
+      },
+      {
+        "stock_code": "002001",
+        "stock_name": "新和成",
+        "market_value_wan": 8667.8
+      },
+      {
+        "stock_code": "603868",
+        "stock_name": "飞科电器",
+        "market_value_wan": 8332.5
+      },
+      {
+        "stock_code": "002648",
+        "stock_name": "卫星化学",
+        "market_value_wan": 8087.03
+      },
+      {
+        "stock_code": "300059",
+        "stock_name": "东方财富",
+        "market_value_wan": 7874.0
+      },
+      {
+        "stock_code": "603899",
+        "stock_name": "晨光股份",
+        "market_value_wan": 7851.2
+      },
+      {
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "market_value_wan": 7596.0
+      }
+    ],
+    "2022-Q1": [
+      {
+        "stock_code": "002271",
+        "stock_name": "东方雨虹",
+        "market_value_wan": 11649.52
+      },
+      {
+        "stock_code": "603868",
+        "stock_name": "飞科电器",
+        "market_value_wan": 9400.88
+      },
+      {
+        "stock_code": "300059",
+        "stock_name": "东方财富",
+        "market_value_wan": 9375.83
+      },
+      {
+        "stock_code": "002142",
+        "stock_name": "宁波银行",
+        "market_value_wan": 9221.68
+      },
+      {
+        "stock_code": "300751",
+        "stock_name": "迈为股份",
+        "market_value_wan": 8892.44
+      },
+      {
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "market_value_wan": 8424.0
+      },
+      {
+        "stock_code": "603899",
+        "stock_name": "晨光股份",
+        "market_value_wan": 7821.17
+      },
+      {
+        "stock_code": "002648",
+        "stock_name": "卫星化学",
+        "market_value_wan": 7683.0
+      },
+      {
+        "stock_code": "002001",
+        "stock_name": "新和成",
+        "market_value_wan": 7286.4
+      },
+      {
+        "stock_code": "601012",
+        "stock_name": "隆基绿能",
+        "market_value_wan": 7219.0
+      }
+    ]
+  }
+}

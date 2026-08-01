@@ -1,0 +1,115 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "001974",
+    "name": "景顺长城量化新动力股票A",
+    "base_name": "景顺长城量化新动力股票"
+  },
+  "fetched_at": "2026-08-01 20:54:37",
+  "quarters": {
+    "2026-Q2": [
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 1401.47
+      },
+      {
+        "stock_code": "300308",
+        "stock_name": "中际旭创",
+        "market_value_wan": 1386.08
+      },
+      {
+        "stock_code": "688256",
+        "stock_name": "寒武纪",
+        "market_value_wan": 1070.29
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 892.44
+      },
+      {
+        "stock_code": "300502",
+        "stock_name": "新易盛",
+        "market_value_wan": 822.18
+      },
+      {
+        "stock_code": "603986",
+        "stock_name": "兆易创新",
+        "market_value_wan": 643.85
+      },
+      {
+        "stock_code": "688041",
+        "stock_name": "海光信息",
+        "market_value_wan": 624.47
+      },
+      {
+        "stock_code": "601138",
+        "stock_name": "工业富联",
+        "market_value_wan": 557.0
+      },
+      {
+        "stock_code": "601328",
+        "stock_name": "交通银行",
+        "market_value_wan": 536.97
+      },
+      {
+        "stock_code": "600900",
+        "stock_name": "长江电力",
+        "market_value_wan": 529.66
+      }
+    ],
+    "2026-Q1": [
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 1613.23
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 1483.06
+      },
+      {
+        "stock_code": "601138",
+        "stock_name": "工业富联",
+        "market_value_wan": 634.5
+      },
+      {
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "market_value_wan": 633.69
+      },
+      {
+        "stock_code": "601899",
+        "stock_name": "紫金矿业",
+        "market_value_wan": 583.4
+      },
+      {
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "market_value_wan": 534.44
+      },
+      {
+        "stock_code": "300308",
+        "stock_name": "中际旭创",
+        "market_value_wan": 507.57
+      },
+      {
+        "stock_code": "601601",
+        "stock_name": "中国太保",
+        "market_value_wan": 443.97
+      },
+      {
+        "stock_code": "601939",
+        "stock_name": "建设银行",
+        "market_value_wan": 436.14
+      },
+      {
+        "stock_code": "601166",
+        "stock_name": "兴业银行",
+        "market_value_wan": 379.79
+      }
+    ]
+  }
+}

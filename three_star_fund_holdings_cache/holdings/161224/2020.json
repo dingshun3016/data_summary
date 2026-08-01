@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "161224",
+    "name": "国投瑞银新丝路混合(LOF)",
+    "base_name": "国投瑞银新丝路混合(LOF)"
+  },
+  "fetched_at": "2026-06-14 23:52:17",
+  "quarters": {
+    "2020-Q4": [
+      {
+        "stock_code": "000651",
+        "stock_name": "格力电器",
+        "market_value_wan": 880.17
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 759.24
+      },
+      {
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "market_value_wan": 530.48
+      },
+      {
+        "stock_code": "603288",
+        "stock_name": "海天味业",
+        "market_value_wan": 511.3
+      },
+      {
+        "stock_code": "603517",
+        "stock_name": "绝味食品",
+        "market_value_wan": 486.18
+      },
+      {
+        "stock_code": "688050",
+        "stock_name": "爱博医疗",
+        "market_value_wan": 476.01
+      },
+      {
+        "stock_code": "688029",
+        "stock_name": "南微医学",
+        "market_value_wan": 465.27
+      },
+      {
+        "stock_code": "600339",
+        "stock_name": "中油工程",
+        "market_value_wan": 451.74
+      },
+      {
+        "stock_code": "000938",
+        "stock_name": "紫光股份",
+        "market_value_wan": 436.89
+      },
+      {
+        "stock_code": "000860",
+        "stock_name": "顺鑫农业",
+        "market_value_wan": 433.79
+      }
+    ],
+    "2020-Q3": [
+      {
+        "stock_code": "000651",
+        "stock_name": "格力电器",
+        "market_value_wan": 1281.33
+      },
+      {
+        "stock_code": "000338",
+        "stock_name": "潍柴动力",
+        "market_value_wan": 893.77
+      },
+      {
+        "stock_code": "600887",
+        "stock_name": "伊利股份",
+        "market_value_wan": 850.08
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 734.14
+      },
+      {
+        "stock_code": "603517",
+        "stock_name": "绝味食品",
+        "market_value_wan": 659.44
+      },
+      {
+        "stock_code": "600585",
+        "stock_name": "海螺水泥",
+        "market_value_wan": 571.94
+      },
+      {
+        "stock_code": "600339",
+        "stock_name": "中油工程",
+        "market_value_wan": 562.6
+      },
+      {
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "market_value_wan": 556.56
+      },
+      {
+        "stock_code": "000776",
+        "stock_name": "广发证券",
+        "market_value_wan": 538.57
+      },
+      {
+        "stock_code": "603288",
+        "stock_name": "海天味业",
+        "market_value_wan": 528.38
+      }
+    ],
+    "2020-Q2": [
+      {
+        "stock_code": "000651",
+        "stock_name": "格力电器",
+        "market_value_wan": 952.07
+      },
+      {
+        "stock_code": "300003",
+        "stock_name": "乐普医疗",
+        "market_value_wan": 815.13
+      },
+      {
+        "stock_code": "603517",
+        "stock_name": "绝味食品",
+        "market_value_wan": 788.04
+      },
+      {
+        "stock_code": "300298",
+        "stock_name": "三诺生物",
+        "market_value_wan": 776.18
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 775.33
+      },
+      {
+        "stock_code": "600887",
+        "stock_name": "伊利股份",
+        "market_value_wan": 751.17
+      },
+      {
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "market_value_wan": 595.5
+      },
+      {
+        "stock_code": "600585",
+        "stock_name": "海螺水泥",
+        "market_value_wan": 492.59
+      },
+      {
+        "stock_code": "603288",
+        "stock_name": "海天味业",
+        "market_value_wan": 414.2
+      },
+      {
+        "stock_code": "000338",
+        "stock_name": "潍柴动力",
+        "market_value_wan": 413.93
+      }
+    ],
+    "2020-Q1": [
+      {
+        "stock_code": "000651",
+        "stock_name": "格力电器",
+        "market_value_wan": 878.53
+      },
+      {
+        "stock_code": "300003",
+        "stock_name": "乐普医疗",
+        "market_value_wan": 797.56
+      },
+      {
+        "stock_code": "600777",
+        "stock_name": "ST新潮",
+        "market_value_wan": 735.59
+      },
+      {
+        "stock_code": "600887",
+        "stock_name": "伊利股份",
+        "market_value_wan": 720.52
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 666.6
+      },
+      {
+        "stock_code": "300741",
+        "stock_name": "华宝股份",
+        "market_value_wan": 605.71
+      },
+      {
+        "stock_code": "600658",
+        "stock_name": "电子城",
+        "market_value_wan": 579.79
+      },
+      {
+        "stock_code": "603517",
+        "stock_name": "绝味食品",
+        "market_value_wan": 576.5
+      },
+      {
+        "stock_code": "600585",
+        "stock_name": "海螺水泥",
+        "market_value_wan": 512.98
+      },
+      {
+        "stock_code": "002521",
+        "stock_name": "齐峰新材",
+        "market_value_wan": 505.05
+      }
+    ]
+  }
+}

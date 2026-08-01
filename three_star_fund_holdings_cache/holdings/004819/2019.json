@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "004819",
+    "name": "国寿安保目标策略混合发起C",
+    "base_name": "国寿安保目标策略混合发起"
+  },
+  "fetched_at": "2026-06-14 23:15:07",
+  "quarters": {
+    "2019-Q4": [
+      {
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "market_value_wan": 1691.1
+      },
+      {
+        "stock_code": "002353",
+        "stock_name": "杰瑞股份",
+        "market_value_wan": 1389.7
+      },
+      {
+        "stock_code": "600585",
+        "stock_name": "海螺水泥",
+        "market_value_wan": 1369.81
+      },
+      {
+        "stock_code": "600309",
+        "stock_name": "万华化学",
+        "market_value_wan": 1348.08
+      },
+      {
+        "stock_code": "300136",
+        "stock_name": "信维通信",
+        "market_value_wan": 1316.02
+      },
+      {
+        "stock_code": "600031",
+        "stock_name": "三一重工",
+        "market_value_wan": 1278.64
+      },
+      {
+        "stock_code": "600703",
+        "stock_name": "三安光电",
+        "market_value_wan": 1230.12
+      },
+      {
+        "stock_code": "600563",
+        "stock_name": "法拉电子",
+        "market_value_wan": 1226.25
+      },
+      {
+        "stock_code": "600406",
+        "stock_name": "国电南瑞",
+        "market_value_wan": 1123.18
+      },
+      {
+        "stock_code": "601877",
+        "stock_name": "正泰电器",
+        "market_value_wan": 1123.12
+      }
+    ],
+    "2019-Q3": [
+      {
+        "stock_code": "600563",
+        "stock_name": "法拉电子",
+        "market_value_wan": 1201.08
+      },
+      {
+        "stock_code": "600703",
+        "stock_name": "三安光电",
+        "market_value_wan": 1154.56
+      },
+      {
+        "stock_code": "600406",
+        "stock_name": "国电南瑞",
+        "market_value_wan": 1084.46
+      },
+      {
+        "stock_code": "600031",
+        "stock_name": "三一重工",
+        "market_value_wan": 1070.91
+      },
+      {
+        "stock_code": "600104",
+        "stock_name": "上汽集团",
+        "market_value_wan": 1070.1
+      },
+      {
+        "stock_code": "600309",
+        "stock_name": "万华化学",
+        "market_value_wan": 1059.6
+      },
+      {
+        "stock_code": "002352",
+        "stock_name": "顺丰控股",
+        "market_value_wan": 1050.39
+      },
+      {
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "market_value_wan": 1042.5
+      },
+      {
+        "stock_code": "300136",
+        "stock_name": "信维通信",
+        "market_value_wan": 1038.2
+      },
+      {
+        "stock_code": "600585",
+        "stock_name": "海螺水泥",
+        "market_value_wan": 1033.36
+      }
+    ],
+    "2019-Q2": [
+      {
+        "stock_code": "300408",
+        "stock_name": "三环集团",
+        "market_value_wan": 62.24
+      },
+      {
+        "stock_code": "600406",
+        "stock_name": "国电南瑞",
+        "market_value_wan": 56.48
+      },
+      {
+        "stock_code": "002705",
+        "stock_name": "新宝股份",
+        "market_value_wan": 47.84
+      },
+      {
+        "stock_code": "600330",
+        "stock_name": "天通股份",
+        "market_value_wan": 47.54
+      },
+      {
+        "stock_code": "002088",
+        "stock_name": "鲁阳节能",
+        "market_value_wan": 45.56
+      },
+      {
+        "stock_code": "601877",
+        "stock_name": "正泰电器",
+        "market_value_wan": 44.04
+      },
+      {
+        "stock_code": "002430",
+        "stock_name": "杭氧股份",
+        "market_value_wan": 43.3
+      },
+      {
+        "stock_code": "002138",
+        "stock_name": "顺络电子",
+        "market_value_wan": 38.68
+      },
+      {
+        "stock_code": "002003",
+        "stock_name": "伟星股份",
+        "market_value_wan": 36.36
+      },
+      {
+        "stock_code": "600563",
+        "stock_name": "法拉电子",
+        "market_value_wan": 32.85
+      }
+    ],
+    "2019-Q1": [
+      {
+        "stock_code": "300408",
+        "stock_name": "三环集团",
+        "market_value_wan": 70.52
+      },
+      {
+        "stock_code": "002705",
+        "stock_name": "新宝股份",
+        "market_value_wan": 67.08
+      },
+      {
+        "stock_code": "600406",
+        "stock_name": "国电南瑞",
+        "market_value_wan": 63.96
+      },
+      {
+        "stock_code": "600330",
+        "stock_name": "天通股份",
+        "market_value_wan": 52.5
+      },
+      {
+        "stock_code": "601877",
+        "stock_name": "正泰电器",
+        "market_value_wan": 51.12
+      },
+      {
+        "stock_code": "002088",
+        "stock_name": "鲁阳节能",
+        "market_value_wan": 43.26
+      },
+      {
+        "stock_code": "002430",
+        "stock_name": "杭氧股份",
+        "market_value_wan": 43.22
+      },
+      {
+        "stock_code": "002138",
+        "stock_name": "顺络电子",
+        "market_value_wan": 41.6
+      },
+      {
+        "stock_code": "002003",
+        "stock_name": "伟星股份",
+        "market_value_wan": 41.15
+      },
+      {
+        "stock_code": "600563",
+        "stock_name": "法拉电子",
+        "market_value_wan": 36.76
+      }
+    ]
+  }
+}

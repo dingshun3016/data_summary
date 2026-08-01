@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "009395",
+    "name": "鑫元安鑫回报混合A",
+    "base_name": "鑫元安鑫回报混合"
+  },
+  "fetched_at": "2026-06-14 23:33:12",
+  "quarters": {
+    "2022-Q4": [
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 1554.3
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 1121.25
+      },
+      {
+        "stock_code": "000738",
+        "stock_name": "航发控制",
+        "market_value_wan": 959.71
+      },
+      {
+        "stock_code": "603659",
+        "stock_name": "璞泰来",
+        "market_value_wan": 635.13
+      },
+      {
+        "stock_code": "688596",
+        "stock_name": "正帆科技",
+        "market_value_wan": 629.03
+      },
+      {
+        "stock_code": "688789",
+        "stock_name": "宏华数科",
+        "market_value_wan": 532.25
+      },
+      {
+        "stock_code": "688600",
+        "stock_name": "皖仪科技",
+        "market_value_wan": 395.82
+      },
+      {
+        "stock_code": "688690",
+        "stock_name": "纳微科技",
+        "market_value_wan": 350.77
+      },
+      {
+        "stock_code": "603596",
+        "stock_name": "伯特利",
+        "market_value_wan": 319.2
+      },
+      {
+        "stock_code": "002158",
+        "stock_name": "汉钟精机",
+        "market_value_wan": 307.52
+      }
+    ],
+    "2022-Q3": [
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 1685.25
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 1142.54
+      },
+      {
+        "stock_code": "000738",
+        "stock_name": "航发控制",
+        "market_value_wan": 940.24
+      },
+      {
+        "stock_code": "002371",
+        "stock_name": "北方华创",
+        "market_value_wan": 643.1
+      },
+      {
+        "stock_code": "600690",
+        "stock_name": "海尔智家",
+        "market_value_wan": 514.23
+      },
+      {
+        "stock_code": "688690",
+        "stock_name": "纳微科技",
+        "market_value_wan": 468.16
+      },
+      {
+        "stock_code": "603659",
+        "stock_name": "璞泰来",
+        "market_value_wan": 459.79
+      },
+      {
+        "stock_code": "002011",
+        "stock_name": "盾安环境",
+        "market_value_wan": 409.34
+      },
+      {
+        "stock_code": "688596",
+        "stock_name": "正帆科技",
+        "market_value_wan": 339.64
+      },
+      {
+        "stock_code": "688789",
+        "stock_name": "宏华数科",
+        "market_value_wan": 331.45
+      }
+    ],
+    "2022-Q2": [
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 1840.5
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 1521.9
+      },
+      {
+        "stock_code": "603596",
+        "stock_name": "伯特利",
+        "market_value_wan": 1404.75
+      },
+      {
+        "stock_code": "000738",
+        "stock_name": "航发控制",
+        "market_value_wan": 1051.78
+      },
+      {
+        "stock_code": "000858",
+        "stock_name": "五粮液",
+        "market_value_wan": 886.47
+      },
+      {
+        "stock_code": "600809",
+        "stock_name": "山西汾酒",
+        "market_value_wan": 812.0
+      },
+      {
+        "stock_code": "002283",
+        "stock_name": "天润工业",
+        "market_value_wan": 795.97
+      },
+      {
+        "stock_code": "603659",
+        "stock_name": "璞泰来",
+        "market_value_wan": 695.46
+      },
+      {
+        "stock_code": "002371",
+        "stock_name": "北方华创",
+        "market_value_wan": 640.15
+      },
+      {
+        "stock_code": "002158",
+        "stock_name": "汉钟精机",
+        "market_value_wan": 298.53
+      }
+    ],
+    "2022-Q1": [
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 1547.1
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 1424.19
+      },
+      {
+        "stock_code": "603596",
+        "stock_name": "伯特利",
+        "market_value_wan": 1340.51
+      },
+      {
+        "stock_code": "002371",
+        "stock_name": "北方华创",
+        "market_value_wan": 904.2
+      },
+      {
+        "stock_code": "002283",
+        "stock_name": "天润工业",
+        "market_value_wan": 840.25
+      },
+      {
+        "stock_code": "603659",
+        "stock_name": "璞泰来",
+        "market_value_wan": 654.92
+      },
+      {
+        "stock_code": "600809",
+        "stock_name": "山西汾酒",
+        "market_value_wan": 637.25
+      },
+      {
+        "stock_code": "000858",
+        "stock_name": "五粮液",
+        "market_value_wan": 587.68
+      },
+      {
+        "stock_code": "688390",
+        "stock_name": "固德威",
+        "market_value_wan": 517.2
+      },
+      {
+        "stock_code": "600893",
+        "stock_name": "航发动力",
+        "market_value_wan": 338.1
+      }
+    ]
+  }
+}

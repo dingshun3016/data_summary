@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "481017",
+    "name": "工银量化策略混合A",
+    "base_name": "工银量化策略混合"
+  },
+  "fetched_at": "2026-06-15 00:01:14",
+  "quarters": {
+    "2018-Q4": [
+      {
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "market_value_wan": 453.66
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 367.81
+      },
+      {
+        "stock_code": "002179",
+        "stock_name": "中航光电",
+        "market_value_wan": 356.8
+      },
+      {
+        "stock_code": "000895",
+        "stock_name": "双汇发展",
+        "market_value_wan": 350.04
+      },
+      {
+        "stock_code": "600887",
+        "stock_name": "伊利股份",
+        "market_value_wan": 309.71
+      },
+      {
+        "stock_code": "600570",
+        "stock_name": "恒生电子",
+        "market_value_wan": 293.85
+      },
+      {
+        "stock_code": "002142",
+        "stock_name": "宁波银行",
+        "market_value_wan": 292.67
+      },
+      {
+        "stock_code": "002410",
+        "stock_name": "广联达",
+        "market_value_wan": 271.73
+      },
+      {
+        "stock_code": "600085",
+        "stock_name": "同仁堂",
+        "market_value_wan": 244.74
+      },
+      {
+        "stock_code": "300661",
+        "stock_name": "圣邦股份",
+        "market_value_wan": 241.53
+      }
+    ],
+    "2018-Q3": [
+      {
+        "stock_code": "600887",
+        "stock_name": "伊利股份",
+        "market_value_wan": 785.55
+      },
+      {
+        "stock_code": "600570",
+        "stock_name": "恒生电子",
+        "market_value_wan": 569.09
+      },
+      {
+        "stock_code": "300373",
+        "stock_name": "扬杰科技",
+        "market_value_wan": 521.48
+      },
+      {
+        "stock_code": "002027",
+        "stock_name": "分众传媒",
+        "market_value_wan": 490.68
+      },
+      {
+        "stock_code": "002410",
+        "stock_name": "广联达",
+        "market_value_wan": 452.7
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 452.16
+      },
+      {
+        "stock_code": "600085",
+        "stock_name": "同仁堂",
+        "market_value_wan": 450.52
+      },
+      {
+        "stock_code": "000002",
+        "stock_name": "万科A",
+        "market_value_wan": 422.17
+      },
+      {
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "market_value_wan": 421.73
+      },
+      {
+        "stock_code": "300661",
+        "stock_name": "圣邦股份",
+        "market_value_wan": 409.63
+      }
+    ],
+    "2018-Q2": [
+      {
+        "stock_code": "600570",
+        "stock_name": "恒生电子",
+        "market_value_wan": 700.13
+      },
+      {
+        "stock_code": "002410",
+        "stock_name": "广联达",
+        "market_value_wan": 679.63
+      },
+      {
+        "stock_code": "600085",
+        "stock_name": "同仁堂",
+        "market_value_wan": 547.03
+      },
+      {
+        "stock_code": "600585",
+        "stock_name": "海螺水泥",
+        "market_value_wan": 511.69
+      },
+      {
+        "stock_code": "600887",
+        "stock_name": "伊利股份",
+        "market_value_wan": 511.4
+      },
+      {
+        "stock_code": "600271",
+        "stock_name": "航天信息",
+        "market_value_wan": 505.6
+      },
+      {
+        "stock_code": "601601",
+        "stock_name": "中国太保",
+        "market_value_wan": 487.52
+      },
+      {
+        "stock_code": "002179",
+        "stock_name": "中航光电",
+        "market_value_wan": 409.95
+      },
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 389.9
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 359.15
+      }
+    ],
+    "2018-Q1": [
+      {
+        "stock_code": "601009",
+        "stock_name": "南京银行",
+        "market_value_wan": 1186.33
+      },
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 933.86
+      },
+      {
+        "stock_code": "002027",
+        "stock_name": "分众传媒",
+        "market_value_wan": 919.66
+      },
+      {
+        "stock_code": "000651",
+        "stock_name": "格力电器",
+        "market_value_wan": 840.55
+      },
+      {
+        "stock_code": "600887",
+        "stock_name": "伊利股份",
+        "market_value_wan": 691.71
+      },
+      {
+        "stock_code": "600183",
+        "stock_name": "生益科技",
+        "market_value_wan": 691.47
+      },
+      {
+        "stock_code": "002410",
+        "stock_name": "广联达",
+        "market_value_wan": 660.78
+      },
+      {
+        "stock_code": "600019",
+        "stock_name": "宝钢股份",
+        "market_value_wan": 627.98
+      },
+      {
+        "stock_code": "300285",
+        "stock_name": "国瓷材料",
+        "market_value_wan": 607.27
+      },
+      {
+        "stock_code": "002146",
+        "stock_name": "荣盛发展",
+        "market_value_wan": 476.17
+      }
+    ]
+  }
+}

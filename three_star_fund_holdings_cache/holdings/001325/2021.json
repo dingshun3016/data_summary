@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "001325",
+    "name": "鹏华弘和混合A",
+    "base_name": "鹏华弘和混合"
+  },
+  "fetched_at": "2026-06-14 22:55:46",
+  "quarters": {
+    "2021-Q4": [
+      {
+        "stock_code": "600031",
+        "stock_name": "三一重工",
+        "market_value_wan": 1596.0
+      },
+      {
+        "stock_code": "002050",
+        "stock_name": "三花智控",
+        "market_value_wan": 1265.0
+      },
+      {
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "market_value_wan": 1109.02
+      },
+      {
+        "stock_code": "688169",
+        "stock_name": "石头科技",
+        "market_value_wan": 1056.9
+      },
+      {
+        "stock_code": "002493",
+        "stock_name": "荣盛石化",
+        "market_value_wan": 998.8
+      },
+      {
+        "stock_code": "300441",
+        "stock_name": "鲍斯股份",
+        "market_value_wan": 959.65
+      },
+      {
+        "stock_code": "600309",
+        "stock_name": "万华化学",
+        "market_value_wan": 909.0
+      },
+      {
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "market_value_wan": 879.22
+      },
+      {
+        "stock_code": "000338",
+        "stock_name": "潍柴动力",
+        "market_value_wan": 751.38
+      },
+      {
+        "stock_code": "000001",
+        "stock_name": "平安银行",
+        "market_value_wan": 593.28
+      }
+    ],
+    "2021-Q3": [
+      {
+        "stock_code": "600031",
+        "stock_name": "三一重工",
+        "market_value_wan": 1958.88
+      },
+      {
+        "stock_code": "002493",
+        "stock_name": "荣盛石化",
+        "market_value_wan": 1146.8
+      },
+      {
+        "stock_code": "002050",
+        "stock_name": "三花智控",
+        "market_value_wan": 1069.71
+      },
+      {
+        "stock_code": "000338",
+        "stock_name": "潍柴动力",
+        "market_value_wan": 1012.44
+      },
+      {
+        "stock_code": "600309",
+        "stock_name": "万华化学",
+        "market_value_wan": 960.75
+      },
+      {
+        "stock_code": "300441",
+        "stock_name": "鲍斯股份",
+        "market_value_wan": 945.0
+      },
+      {
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "market_value_wan": 822.12
+      },
+      {
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "market_value_wan": 708.82
+      },
+      {
+        "stock_code": "300558",
+        "stock_name": "贝达药业",
+        "market_value_wan": 655.27
+      },
+      {
+        "stock_code": "603909",
+        "stock_name": "建发合诚",
+        "market_value_wan": 640.78
+      }
+    ],
+    "2021-Q2": [
+      {
+        "stock_code": "600031",
+        "stock_name": "三一重工",
+        "market_value_wan": 1860.48
+      },
+      {
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "market_value_wan": 1155.75
+      },
+      {
+        "stock_code": "300558",
+        "stock_name": "贝达药业",
+        "market_value_wan": 865.92
+      },
+      {
+        "stock_code": "600048",
+        "stock_name": "保利发展",
+        "market_value_wan": 779.11
+      },
+      {
+        "stock_code": "300124",
+        "stock_name": "汇川技术",
+        "market_value_wan": 742.6
+      },
+      {
+        "stock_code": "000002",
+        "stock_name": "万科A",
+        "market_value_wan": 738.11
+      },
+      {
+        "stock_code": "000338",
+        "stock_name": "潍柴动力",
+        "market_value_wan": 714.8
+      },
+      {
+        "stock_code": "300441",
+        "stock_name": "鲍斯股份",
+        "market_value_wan": 686.53
+      },
+      {
+        "stock_code": "300776",
+        "stock_name": "帝尔激光",
+        "market_value_wan": 672.12
+      },
+      {
+        "stock_code": "603018",
+        "stock_name": "华设集团",
+        "market_value_wan": 665.42
+      }
+    ],
+    "2021-Q1": [
+      {
+        "stock_code": "600031",
+        "stock_name": "三一重工",
+        "market_value_wan": 2185.6
+      },
+      {
+        "stock_code": "600690",
+        "stock_name": "海尔智家",
+        "market_value_wan": 1278.07
+      },
+      {
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "market_value_wan": 1258.41
+      },
+      {
+        "stock_code": "300776",
+        "stock_name": "帝尔激光",
+        "market_value_wan": 1122.32
+      },
+      {
+        "stock_code": "300760",
+        "stock_name": "迈瑞医疗",
+        "market_value_wan": 1105.53
+      },
+      {
+        "stock_code": "300441",
+        "stock_name": "鲍斯股份",
+        "market_value_wan": 1054.71
+      },
+      {
+        "stock_code": "300124",
+        "stock_name": "汇川技术",
+        "market_value_wan": 1024.41
+      },
+      {
+        "stock_code": "300558",
+        "stock_name": "贝达药业",
+        "market_value_wan": 953.32
+      },
+      {
+        "stock_code": "600276",
+        "stock_name": "恒瑞医药",
+        "market_value_wan": 917.22
+      },
+      {
+        "stock_code": "000002",
+        "stock_name": "万科A",
+        "market_value_wan": 900.0
+      }
+    ]
+  }
+}

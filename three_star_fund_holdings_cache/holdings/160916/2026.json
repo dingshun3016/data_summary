@@ -1,0 +1,115 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "160916",
+    "name": "大成优选混合(LOF)A",
+    "base_name": "大成优选混合(LOF)"
+  },
+  "fetched_at": "2026-08-01 21:00:17",
+  "quarters": {
+    "2026-Q2": [
+      {
+        "stock_code": "000739",
+        "stock_name": "普洛药业",
+        "market_value_wan": 5936.29
+      },
+      {
+        "stock_code": "600885",
+        "stock_name": "宏发股份",
+        "market_value_wan": 5173.5
+      },
+      {
+        "stock_code": "603259",
+        "stock_name": "药明康德",
+        "market_value_wan": 4980.4
+      },
+      {
+        "stock_code": "600233",
+        "stock_name": "圆通速递",
+        "market_value_wan": 4725.0
+      },
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 4606.95
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 3144.08
+      },
+      {
+        "stock_code": "689009",
+        "stock_name": "九号公司",
+        "market_value_wan": 3052.0
+      },
+      {
+        "stock_code": "688029",
+        "stock_name": "南微医学",
+        "market_value_wan": 2872.0
+      },
+      {
+        "stock_code": "603087",
+        "stock_name": "甘李药业",
+        "market_value_wan": 1135.2
+      },
+      {
+        "stock_code": "002897",
+        "stock_name": "意华股份",
+        "market_value_wan": 879.15
+      }
+    ],
+    "2026-Q1": [
+      {
+        "stock_code": "000739",
+        "stock_name": "普洛药业",
+        "market_value_wan": 6353.19
+      },
+      {
+        "stock_code": "600233",
+        "stock_name": "圆通速递",
+        "market_value_wan": 6045.0
+      },
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 4656.97
+      },
+      {
+        "stock_code": "603259",
+        "stock_name": "药明康德",
+        "market_value_wan": 3924.0
+      },
+      {
+        "stock_code": "600885",
+        "stock_name": "宏发股份",
+        "market_value_wan": 3608.8
+      },
+      {
+        "stock_code": "689009",
+        "stock_name": "九号公司",
+        "market_value_wan": 3537.6
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 3213.6
+      },
+      {
+        "stock_code": "688029",
+        "stock_name": "南微医学",
+        "market_value_wan": 2886.8
+      },
+      {
+        "stock_code": "603181",
+        "stock_name": "皇马科技",
+        "market_value_wan": 2830.0
+      },
+      {
+        "stock_code": "002318",
+        "stock_name": "久立特材",
+        "market_value_wan": 2422.4
+      }
+    ]
+  }
+}

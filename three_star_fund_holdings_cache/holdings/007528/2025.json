@@ -1,0 +1,89 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "007528",
+    "name": "融通量化多策略混合C",
+    "base_name": "融通量化多策略混合"
+  },
+  "fetched_at": "2026-06-14 23:24:57",
+  "quarters": {
+    "2025-Q4": [
+      {
+        "stock_code": "300308",
+        "stock_name": "中际旭创",
+        "market_value_wan": 134.2
+      },
+      {
+        "stock_code": "300502",
+        "stock_name": "新易盛",
+        "market_value_wan": 100.83
+      },
+      {
+        "stock_code": "688498",
+        "stock_name": "源杰科技",
+        "market_value_wan": 69.01
+      },
+      {
+        "stock_code": "603083",
+        "stock_name": "剑桥科技",
+        "market_value_wan": 56.44
+      },
+      {
+        "stock_code": "300274",
+        "stock_name": "阳光电源",
+        "market_value_wan": 51.31
+      }
+    ],
+    "2025-Q3": [
+      {
+        "stock_code": "300308",
+        "stock_name": "中际旭创",
+        "market_value_wan": 173.58
+      },
+      {
+        "stock_code": "300502",
+        "stock_name": "新易盛",
+        "market_value_wan": 151.43
+      },
+      {
+        "stock_code": "300476",
+        "stock_name": "胜宏科技",
+        "market_value_wan": 68.52
+      }
+    ],
+    "2025-Q2": [
+      {
+        "stock_code": "300502",
+        "stock_name": "新易盛",
+        "market_value_wan": 33.53
+      }
+    ],
+    "2025-Q1": [
+      {
+        "stock_code": "600580",
+        "stock_name": "卧龙电驱",
+        "market_value_wan": 29.67
+      },
+      {
+        "stock_code": "688256",
+        "stock_name": "寒武纪",
+        "market_value_wan": 27.6
+      },
+      {
+        "stock_code": "688041",
+        "stock_name": "海光信息",
+        "market_value_wan": 26.41
+      },
+      {
+        "stock_code": "600558",
+        "stock_name": "大西洋",
+        "market_value_wan": 26.21
+      },
+      {
+        "stock_code": "301012",
+        "stock_name": "扬电科技",
+        "market_value_wan": 25.63
+      }
+    ]
+  }
+}

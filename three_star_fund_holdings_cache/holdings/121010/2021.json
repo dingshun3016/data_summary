@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "121010",
+    "name": "国投瑞银瑞源灵活配置混合A",
+    "base_name": "国投瑞银瑞源灵活配置混合"
+  },
+  "fetched_at": "2026-06-14 23:51:24",
+  "quarters": {
+    "2021-Q4": [
+      {
+        "stock_code": "600383",
+        "stock_name": "金地集团",
+        "market_value_wan": 966.01
+      },
+      {
+        "stock_code": "601088",
+        "stock_name": "中国神华",
+        "market_value_wan": 954.05
+      },
+      {
+        "stock_code": "002100",
+        "stock_name": "天康生物",
+        "market_value_wan": 728.78
+      },
+      {
+        "stock_code": "600998",
+        "stock_name": "九州通",
+        "market_value_wan": 647.24
+      },
+      {
+        "stock_code": "000550",
+        "stock_name": "江铃汽车",
+        "market_value_wan": 630.38
+      },
+      {
+        "stock_code": "603866",
+        "stock_name": "桃李面包",
+        "market_value_wan": 627.64
+      },
+      {
+        "stock_code": "002508",
+        "stock_name": "老板电器",
+        "market_value_wan": 626.75
+      },
+      {
+        "stock_code": "600038",
+        "stock_name": "中直股份",
+        "market_value_wan": 615.9
+      },
+      {
+        "stock_code": "601155",
+        "stock_name": "新城控股",
+        "market_value_wan": 607.94
+      },
+      {
+        "stock_code": "600219",
+        "stock_name": "南山铝业",
+        "market_value_wan": 595.53
+      }
+    ],
+    "2021-Q3": [
+      {
+        "stock_code": "000001",
+        "stock_name": "平安银行",
+        "market_value_wan": 733.7
+      },
+      {
+        "stock_code": "000002",
+        "stock_name": "万科A",
+        "market_value_wan": 719.85
+      },
+      {
+        "stock_code": "600741",
+        "stock_name": "华域汽车",
+        "market_value_wan": 706.96
+      },
+      {
+        "stock_code": "600998",
+        "stock_name": "九州通",
+        "market_value_wan": 670.75
+      },
+      {
+        "stock_code": "601225",
+        "stock_name": "陕西煤业",
+        "market_value_wan": 594.52
+      },
+      {
+        "stock_code": "600900",
+        "stock_name": "长江电力",
+        "market_value_wan": 538.56
+      },
+      {
+        "stock_code": "601155",
+        "stock_name": "新城控股",
+        "market_value_wan": 524.16
+      },
+      {
+        "stock_code": "603995",
+        "stock_name": "甬金股份",
+        "market_value_wan": 508.82
+      },
+      {
+        "stock_code": "601939",
+        "stock_name": "建设银行",
+        "market_value_wan": 494.08
+      },
+      {
+        "stock_code": "600011",
+        "stock_name": "华能国际",
+        "market_value_wan": 481.31
+      }
+    ],
+    "2021-Q2": [
+      {
+        "stock_code": "601058",
+        "stock_name": "赛轮轮胎",
+        "market_value_wan": 582.78
+      },
+      {
+        "stock_code": "601088",
+        "stock_name": "中国神华",
+        "market_value_wan": 554.37
+      },
+      {
+        "stock_code": "600188",
+        "stock_name": "兖矿能源",
+        "market_value_wan": 511.03
+      },
+      {
+        "stock_code": "600201",
+        "stock_name": "生物股份",
+        "market_value_wan": 469.23
+      },
+      {
+        "stock_code": "603303",
+        "stock_name": "得邦照明",
+        "market_value_wan": 419.27
+      },
+      {
+        "stock_code": "600998",
+        "stock_name": "九州通",
+        "market_value_wan": 393.32
+      },
+      {
+        "stock_code": "002831",
+        "stock_name": "裕同科技",
+        "market_value_wan": 390.46
+      },
+      {
+        "stock_code": "600567",
+        "stock_name": "山鹰国际",
+        "market_value_wan": 366.74
+      },
+      {
+        "stock_code": "600741",
+        "stock_name": "华域汽车",
+        "market_value_wan": 365.42
+      },
+      {
+        "stock_code": "601225",
+        "stock_name": "陕西煤业",
+        "market_value_wan": 349.81
+      }
+    ],
+    "2021-Q1": [
+      {
+        "stock_code": "600998",
+        "stock_name": "九州通",
+        "market_value_wan": 691.13
+      },
+      {
+        "stock_code": "601088",
+        "stock_name": "中国神华",
+        "market_value_wan": 488.43
+      },
+      {
+        "stock_code": "601058",
+        "stock_name": "赛轮轮胎",
+        "market_value_wan": 422.3
+      },
+      {
+        "stock_code": "000582",
+        "stock_name": "北部湾港",
+        "market_value_wan": 386.46
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 381.71
+      },
+      {
+        "stock_code": "002756",
+        "stock_name": "永兴材料",
+        "market_value_wan": 366.88
+      },
+      {
+        "stock_code": "601966",
+        "stock_name": "玲珑轮胎",
+        "market_value_wan": 340.7
+      },
+      {
+        "stock_code": "600188",
+        "stock_name": "兖矿能源",
+        "market_value_wan": 340.28
+      },
+      {
+        "stock_code": "000089",
+        "stock_name": "深圳机场",
+        "market_value_wan": 287.89
+      },
+      {
+        "stock_code": "601398",
+        "stock_name": "工商银行",
+        "market_value_wan": 286.92
+      }
+    ]
+  }
+}

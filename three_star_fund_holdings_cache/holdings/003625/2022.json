@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "003625",
+    "name": "创金合信资源股票发起式C",
+    "base_name": "创金合信资源股票发起式"
+  },
+  "fetched_at": "2026-06-14 23:11:17",
+  "quarters": {
+    "2022-Q4": [
+      {
+        "stock_code": "601899",
+        "stock_name": "紫金矿业",
+        "market_value_wan": 6719.78
+      },
+      {
+        "stock_code": "601088",
+        "stock_name": "中国神华",
+        "market_value_wan": 5409.77
+      },
+      {
+        "stock_code": "603799",
+        "stock_name": "华友钴业",
+        "market_value_wan": 5392.67
+      },
+      {
+        "stock_code": "600188",
+        "stock_name": "兖矿能源",
+        "market_value_wan": 4306.38
+      },
+      {
+        "stock_code": "601225",
+        "stock_name": "陕西煤业",
+        "market_value_wan": 3659.17
+      },
+      {
+        "stock_code": "002460",
+        "stock_name": "赣锋锂业",
+        "market_value_wan": 3633.52
+      },
+      {
+        "stock_code": "002466",
+        "stock_name": "天齐锂业",
+        "market_value_wan": 3208.41
+      },
+      {
+        "stock_code": "600547",
+        "stock_name": "山东黄金",
+        "market_value_wan": 2542.66
+      },
+      {
+        "stock_code": "000630",
+        "stock_name": "铜陵有色",
+        "market_value_wan": 2167.74
+      },
+      {
+        "stock_code": "000807",
+        "stock_name": "云铝股份",
+        "market_value_wan": 2035.07
+      }
+    ],
+    "2022-Q3": [
+      {
+        "stock_code": "601899",
+        "stock_name": "紫金矿业",
+        "market_value_wan": 6503.66
+      },
+      {
+        "stock_code": "600188",
+        "stock_name": "兖矿能源",
+        "market_value_wan": 6433.93
+      },
+      {
+        "stock_code": "601088",
+        "stock_name": "中国神华",
+        "market_value_wan": 6197.14
+      },
+      {
+        "stock_code": "603799",
+        "stock_name": "华友钴业",
+        "market_value_wan": 5634.56
+      },
+      {
+        "stock_code": "002466",
+        "stock_name": "天齐锂业",
+        "market_value_wan": 4872.2
+      },
+      {
+        "stock_code": "601225",
+        "stock_name": "陕西煤业",
+        "market_value_wan": 4484.36
+      },
+      {
+        "stock_code": "002460",
+        "stock_name": "赣锋锂业",
+        "market_value_wan": 4055.83
+      },
+      {
+        "stock_code": "600111",
+        "stock_name": "北方稀土",
+        "market_value_wan": 3291.81
+      },
+      {
+        "stock_code": "000933",
+        "stock_name": "神火股份",
+        "market_value_wan": 2040.31
+      },
+      {
+        "stock_code": "600988",
+        "stock_name": "赤峰黄金",
+        "market_value_wan": 1887.05
+      }
+    ],
+    "2022-Q2": [
+      {
+        "stock_code": "603799",
+        "stock_name": "华友钴业",
+        "market_value_wan": 8667.17
+      },
+      {
+        "stock_code": "002460",
+        "stock_name": "赣锋锂业",
+        "market_value_wan": 8581.98
+      },
+      {
+        "stock_code": "601899",
+        "stock_name": "紫金矿业",
+        "market_value_wan": 7914.9
+      },
+      {
+        "stock_code": "601088",
+        "stock_name": "中国神华",
+        "market_value_wan": 6522.27
+      },
+      {
+        "stock_code": "600188",
+        "stock_name": "兖矿能源",
+        "market_value_wan": 5451.1
+      },
+      {
+        "stock_code": "601225",
+        "stock_name": "陕西煤业",
+        "market_value_wan": 4591.64
+      },
+      {
+        "stock_code": "600111",
+        "stock_name": "北方稀土",
+        "market_value_wan": 4532.42
+      },
+      {
+        "stock_code": "002466",
+        "stock_name": "天齐锂业",
+        "market_value_wan": 4108.15
+      },
+      {
+        "stock_code": "601677",
+        "stock_name": "明泰铝业",
+        "market_value_wan": 3652.71
+      },
+      {
+        "stock_code": "600219",
+        "stock_name": "南山铝业",
+        "market_value_wan": 2331.8
+      }
+    ],
+    "2022-Q1": [
+      {
+        "stock_code": "601899",
+        "stock_name": "紫金矿业",
+        "market_value_wan": 9397.32
+      },
+      {
+        "stock_code": "002460",
+        "stock_name": "赣锋锂业",
+        "market_value_wan": 7688.95
+      },
+      {
+        "stock_code": "603799",
+        "stock_name": "华友钴业",
+        "market_value_wan": 7057.83
+      },
+      {
+        "stock_code": "600111",
+        "stock_name": "北方稀土",
+        "market_value_wan": 6282.72
+      },
+      {
+        "stock_code": "601088",
+        "stock_name": "中国神华",
+        "market_value_wan": 5829.39
+      },
+      {
+        "stock_code": "600188",
+        "stock_name": "兖矿能源",
+        "market_value_wan": 5615.37
+      },
+      {
+        "stock_code": "000807",
+        "stock_name": "云铝股份",
+        "market_value_wan": 3686.9
+      },
+      {
+        "stock_code": "601225",
+        "stock_name": "陕西煤业",
+        "market_value_wan": 3594.02
+      },
+      {
+        "stock_code": "601677",
+        "stock_name": "明泰铝业",
+        "market_value_wan": 3525.81
+      },
+      {
+        "stock_code": "600219",
+        "stock_name": "南山铝业",
+        "market_value_wan": 3502.09
+      }
+    ]
+  }
+}

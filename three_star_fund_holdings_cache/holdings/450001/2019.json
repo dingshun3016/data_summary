@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "450001",
+    "name": "国富中国收益混合A",
+    "base_name": "国富中国收益混合"
+  },
+  "fetched_at": "2026-06-15 00:00:15",
+  "quarters": {
+    "2019-Q4": [
+      {
+        "stock_code": "603899",
+        "stock_name": "晨光股份",
+        "market_value_wan": 2193.3
+      },
+      {
+        "stock_code": "601012",
+        "stock_name": "隆基绿能",
+        "market_value_wan": 1862.25
+      },
+      {
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "market_value_wan": 1753.11
+      },
+      {
+        "stock_code": "002271",
+        "stock_name": "东方雨虹",
+        "market_value_wan": 1578.6
+      },
+      {
+        "stock_code": "002142",
+        "stock_name": "宁波银行",
+        "market_value_wan": 1548.25
+      },
+      {
+        "stock_code": "300003",
+        "stock_name": "乐普医疗",
+        "market_value_wan": 1355.85
+      },
+      {
+        "stock_code": "300059",
+        "stock_name": "东方财富",
+        "market_value_wan": 1261.6
+      },
+      {
+        "stock_code": "601966",
+        "stock_name": "玲珑轮胎",
+        "market_value_wan": 1238.22
+      },
+      {
+        "stock_code": "300251",
+        "stock_name": "光线传媒",
+        "market_value_wan": 885.0
+      },
+      {
+        "stock_code": "600009",
+        "stock_name": "上海机场",
+        "market_value_wan": 787.5
+      }
+    ],
+    "2019-Q3": [
+      {
+        "stock_code": "603899",
+        "stock_name": "晨光股份",
+        "market_value_wan": 1336.8
+      },
+      {
+        "stock_code": "002271",
+        "stock_name": "东方雨虹",
+        "market_value_wan": 1051.0
+      },
+      {
+        "stock_code": "601012",
+        "stock_name": "隆基绿能",
+        "market_value_wan": 1049.2
+      },
+      {
+        "stock_code": "002142",
+        "stock_name": "宁波银行",
+        "market_value_wan": 1008.4
+      },
+      {
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "market_value_wan": 926.09
+      },
+      {
+        "stock_code": "601933",
+        "stock_name": "永辉超市",
+        "market_value_wan": 800.1
+      },
+      {
+        "stock_code": "600009",
+        "stock_name": "上海机场",
+        "market_value_wan": 797.8
+      },
+      {
+        "stock_code": "300529",
+        "stock_name": "健帆生物",
+        "market_value_wan": 759.0
+      },
+      {
+        "stock_code": "300059",
+        "stock_name": "东方财富",
+        "market_value_wan": 709.44
+      },
+      {
+        "stock_code": "601966",
+        "stock_name": "玲珑轮胎",
+        "market_value_wan": 652.16
+      }
+    ],
+    "2019-Q2": [
+      {
+        "stock_code": "603899",
+        "stock_name": "晨光股份",
+        "market_value_wan": 1758.8
+      },
+      {
+        "stock_code": "601012",
+        "stock_name": "隆基绿能",
+        "market_value_wan": 1381.98
+      },
+      {
+        "stock_code": "600298",
+        "stock_name": "安琪酵母",
+        "market_value_wan": 1265.2
+      },
+      {
+        "stock_code": "002142",
+        "stock_name": "宁波银行",
+        "market_value_wan": 969.6
+      },
+      {
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "market_value_wan": 958.87
+      },
+      {
+        "stock_code": "601933",
+        "stock_name": "永辉超市",
+        "market_value_wan": 918.9
+      },
+      {
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "market_value_wan": 779.77
+      },
+      {
+        "stock_code": "601966",
+        "stock_name": "玲珑轮胎",
+        "market_value_wan": 680.0
+      },
+      {
+        "stock_code": "603711",
+        "stock_name": "香飘飘",
+        "market_value_wan": 679.4
+      },
+      {
+        "stock_code": "300059",
+        "stock_name": "东方财富",
+        "market_value_wan": 650.4
+      }
+    ],
+    "2019-Q1": [
+      {
+        "stock_code": "002142",
+        "stock_name": "宁波银行",
+        "market_value_wan": 1274.21
+      },
+      {
+        "stock_code": "600298",
+        "stock_name": "安琪酵母",
+        "market_value_wan": 1217.7
+      },
+      {
+        "stock_code": "601012",
+        "stock_name": "隆基绿能",
+        "market_value_wan": 1213.46
+      },
+      {
+        "stock_code": "002271",
+        "stock_name": "东方雨虹",
+        "market_value_wan": 948.15
+      },
+      {
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "market_value_wan": 903.97
+      },
+      {
+        "stock_code": "600201",
+        "stock_name": "生物股份",
+        "market_value_wan": 888.98
+      },
+      {
+        "stock_code": "601933",
+        "stock_name": "永辉超市",
+        "market_value_wan": 863.94
+      },
+      {
+        "stock_code": "601966",
+        "stock_name": "玲珑轮胎",
+        "market_value_wan": 848.76
+      },
+      {
+        "stock_code": "603711",
+        "stock_name": "香飘飘",
+        "market_value_wan": 797.5
+      },
+      {
+        "stock_code": "600104",
+        "stock_name": "上汽集团",
+        "market_value_wan": 782.1
+      }
+    ]
+  }
+}

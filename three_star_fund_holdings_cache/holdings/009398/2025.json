@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "009398",
+    "name": "华富成长企业精选股票A",
+    "base_name": "华富成长企业精选股票"
+  },
+  "fetched_at": "2026-06-14 23:33:18",
+  "quarters": {
+    "2025-Q4": [
+      {
+        "stock_code": "600309",
+        "stock_name": "万华化学",
+        "market_value_wan": 1236.08
+      },
+      {
+        "stock_code": "301035",
+        "stock_name": "润丰股份",
+        "market_value_wan": 912.69
+      },
+      {
+        "stock_code": "000792",
+        "stock_name": "盐湖股份",
+        "market_value_wan": 760.88
+      },
+      {
+        "stock_code": "600096",
+        "stock_name": "云天化",
+        "market_value_wan": 627.44
+      },
+      {
+        "stock_code": "000830",
+        "stock_name": "鲁西化工",
+        "market_value_wan": 616.4
+      },
+      {
+        "stock_code": "002064",
+        "stock_name": "华峰化学",
+        "market_value_wan": 616.22
+      },
+      {
+        "stock_code": "600141",
+        "stock_name": "兴发集团",
+        "market_value_wan": 609.3
+      },
+      {
+        "stock_code": "600346",
+        "stock_name": "恒力石化",
+        "market_value_wan": 604.25
+      },
+      {
+        "stock_code": "603067",
+        "stock_name": "振华股份",
+        "market_value_wan": 470.76
+      },
+      {
+        "stock_code": "600938",
+        "stock_name": "中国海油",
+        "market_value_wan": 465.07
+      }
+    ],
+    "2025-Q3": [
+      {
+        "stock_code": "603986",
+        "stock_name": "兆易创新",
+        "market_value_wan": 1866.38
+      },
+      {
+        "stock_code": "688052",
+        "stock_name": "纳芯微",
+        "market_value_wan": 1590.28
+      },
+      {
+        "stock_code": "002384",
+        "stock_name": "东山精密",
+        "market_value_wan": 1496.5
+      },
+      {
+        "stock_code": "688484",
+        "stock_name": "南芯科技",
+        "market_value_wan": 1110.21
+      },
+      {
+        "stock_code": "002241",
+        "stock_name": "歌尔股份",
+        "market_value_wan": 1051.88
+      },
+      {
+        "stock_code": "002415",
+        "stock_name": "海康威视",
+        "market_value_wan": 806.6
+      },
+      {
+        "stock_code": "301345",
+        "stock_name": "涛涛车业",
+        "market_value_wan": 730.8
+      },
+      {
+        "stock_code": "300433",
+        "stock_name": "蓝思科技",
+        "market_value_wan": 682.99
+      },
+      {
+        "stock_code": "300567",
+        "stock_name": "精测电子",
+        "market_value_wan": 611.67
+      },
+      {
+        "stock_code": "603939",
+        "stock_name": "益丰药房",
+        "market_value_wan": 546.74
+      }
+    ],
+    "2025-Q2": [
+      {
+        "stock_code": "603986",
+        "stock_name": "兆易创新",
+        "market_value_wan": 1532.28
+      },
+      {
+        "stock_code": "688052",
+        "stock_name": "纳芯微",
+        "market_value_wan": 1409.48
+      },
+      {
+        "stock_code": "002384",
+        "stock_name": "东山精密",
+        "market_value_wan": 995.62
+      },
+      {
+        "stock_code": "002609",
+        "stock_name": "捷顺科技",
+        "market_value_wan": 795.06
+      },
+      {
+        "stock_code": "002415",
+        "stock_name": "海康威视",
+        "market_value_wan": 777.83
+      },
+      {
+        "stock_code": "002241",
+        "stock_name": "歌尔股份",
+        "market_value_wan": 700.53
+      },
+      {
+        "stock_code": "603939",
+        "stock_name": "益丰药房",
+        "market_value_wan": 657.02
+      },
+      {
+        "stock_code": "688212",
+        "stock_name": "澳华内镜",
+        "market_value_wan": 652.44
+      },
+      {
+        "stock_code": "688383",
+        "stock_name": "新益昌",
+        "market_value_wan": 641.97
+      },
+      {
+        "stock_code": "688536",
+        "stock_name": "思瑞浦",
+        "market_value_wan": 629.28
+      }
+    ],
+    "2025-Q1": [
+      {
+        "stock_code": "688052",
+        "stock_name": "纳芯微",
+        "market_value_wan": 1484.37
+      },
+      {
+        "stock_code": "603986",
+        "stock_name": "兆易创新",
+        "market_value_wan": 1415.42
+      },
+      {
+        "stock_code": "002415",
+        "stock_name": "海康威视",
+        "market_value_wan": 1103.97
+      },
+      {
+        "stock_code": "603939",
+        "stock_name": "益丰药房",
+        "market_value_wan": 900.0
+      },
+      {
+        "stock_code": "002384",
+        "stock_name": "东山精密",
+        "market_value_wan": 863.03
+      },
+      {
+        "stock_code": "002241",
+        "stock_name": "歌尔股份",
+        "market_value_wan": 785.25
+      },
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 758.1
+      },
+      {
+        "stock_code": "000830",
+        "stock_name": "鲁西化工",
+        "market_value_wan": 688.75
+      },
+      {
+        "stock_code": "300433",
+        "stock_name": "蓝思科技",
+        "market_value_wan": 684.42
+      },
+      {
+        "stock_code": "601689",
+        "stock_name": "拓普集团",
+        "market_value_wan": 669.32
+      }
+    ]
+  }
+}

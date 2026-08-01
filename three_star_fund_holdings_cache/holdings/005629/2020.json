@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "005629",
+    "name": "汇安趋势动力股票C",
+    "base_name": "汇安趋势动力股票"
+  },
+  "fetched_at": "2026-06-14 23:18:25",
+  "quarters": {
+    "2020-Q4": [
+      {
+        "stock_code": "002493",
+        "stock_name": "荣盛石化",
+        "market_value_wan": 19.6
+      },
+      {
+        "stock_code": "600760",
+        "stock_name": "中航沈飞",
+        "market_value_wan": 19.55
+      },
+      {
+        "stock_code": "600438",
+        "stock_name": "通威股份",
+        "market_value_wan": 18.45
+      },
+      {
+        "stock_code": "300014",
+        "stock_name": "亿纬锂能",
+        "market_value_wan": 17.12
+      },
+      {
+        "stock_code": "600346",
+        "stock_name": "恒力石化",
+        "market_value_wan": 15.94
+      },
+      {
+        "stock_code": "600862",
+        "stock_name": "中航高科",
+        "market_value_wan": 14.75
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 14.04
+      },
+      {
+        "stock_code": "600456",
+        "stock_name": "宝钛股份",
+        "market_value_wan": 13.02
+      },
+      {
+        "stock_code": "600109",
+        "stock_name": "国金证券",
+        "market_value_wan": 12.53
+      },
+      {
+        "stock_code": "601901",
+        "stock_name": "方正证券",
+        "market_value_wan": 12.44
+      }
+    ],
+    "2020-Q3": [
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 20.92
+      },
+      {
+        "stock_code": "603283",
+        "stock_name": "赛腾股份",
+        "market_value_wan": 18.73
+      },
+      {
+        "stock_code": "300433",
+        "stock_name": "蓝思科技",
+        "market_value_wan": 17.02
+      },
+      {
+        "stock_code": "601012",
+        "stock_name": "隆基绿能",
+        "market_value_wan": 15.0
+      },
+      {
+        "stock_code": "600760",
+        "stock_name": "中航沈飞",
+        "market_value_wan": 14.32
+      },
+      {
+        "stock_code": "000547",
+        "stock_name": "航天发展",
+        "market_value_wan": 13.61
+      },
+      {
+        "stock_code": "000878",
+        "stock_name": "云南铜业",
+        "market_value_wan": 13.52
+      },
+      {
+        "stock_code": "600862",
+        "stock_name": "中航高科",
+        "market_value_wan": 12.21
+      },
+      {
+        "stock_code": "002013",
+        "stock_name": "中航机电",
+        "market_value_wan": 12.16
+      },
+      {
+        "stock_code": "600109",
+        "stock_name": "国金证券",
+        "market_value_wan": 11.77
+      }
+    ],
+    "2020-Q2": [
+      {
+        "stock_code": "300760",
+        "stock_name": "迈瑞医疗",
+        "market_value_wan": 42.8
+      },
+      {
+        "stock_code": "600276",
+        "stock_name": "恒瑞医药",
+        "market_value_wan": 41.54
+      },
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 38.86
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 29.26
+      },
+      {
+        "stock_code": "603288",
+        "stock_name": "海天味业",
+        "market_value_wan": 23.64
+      },
+      {
+        "stock_code": "688019",
+        "stock_name": "安集科技",
+        "market_value_wan": 21.04
+      },
+      {
+        "stock_code": "000656",
+        "stock_name": "*ST金科",
+        "market_value_wan": 18.85
+      },
+      {
+        "stock_code": "002714",
+        "stock_name": "牧原股份",
+        "market_value_wan": 14.76
+      },
+      {
+        "stock_code": "300009",
+        "stock_name": "安科生物",
+        "market_value_wan": 14.32
+      },
+      {
+        "stock_code": "688266",
+        "stock_name": "泽璟制药",
+        "market_value_wan": 13.76
+      }
+    ],
+    "2020-Q1": [
+      {
+        "stock_code": "300015",
+        "stock_name": "爱尔眼科",
+        "market_value_wan": 34.65
+      },
+      {
+        "stock_code": "000002",
+        "stock_name": "万科A",
+        "market_value_wan": 31.04
+      },
+      {
+        "stock_code": "000876",
+        "stock_name": "新希望",
+        "market_value_wan": 24.83
+      },
+      {
+        "stock_code": "600585",
+        "stock_name": "海螺水泥",
+        "market_value_wan": 22.59
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 22.22
+      },
+      {
+        "stock_code": "600048",
+        "stock_name": "保利发展",
+        "market_value_wan": 20.97
+      },
+      {
+        "stock_code": "000656",
+        "stock_name": "*ST金科",
+        "market_value_wan": 19.82
+      },
+      {
+        "stock_code": "600383",
+        "stock_name": "金地集团",
+        "market_value_wan": 18.04
+      },
+      {
+        "stock_code": "000895",
+        "stock_name": "双汇发展",
+        "market_value_wan": 15.72
+      },
+      {
+        "stock_code": "603866",
+        "stock_name": "桃李面包",
+        "market_value_wan": 15.34
+      }
+    ]
+  }
+}

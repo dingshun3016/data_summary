@@ -1,0 +1,59 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "004450",
+    "name": "嘉实前沿科技沪港深股票A",
+    "base_name": "嘉实前沿科技沪港深股票"
+  },
+  "fetched_at": "2026-06-14 23:13:53",
+  "quarters": {
+    "2023-Q4": [
+      {
+        "stock_code": "000526",
+        "stock_name": "学大教育",
+        "market_value_wan": 11813.47
+      }
+    ],
+    "2023-Q3": [
+      {
+        "stock_code": "000526",
+        "stock_name": "学大教育",
+        "market_value_wan": 7009.15
+      }
+    ],
+    "2023-Q2": [
+      {
+        "stock_code": "000526",
+        "stock_name": "学大教育",
+        "market_value_wan": 6278.93
+      }
+    ],
+    "2023-Q1": [
+      {
+        "stock_code": "603039",
+        "stock_name": "泛微网络",
+        "market_value_wan": 13665.52
+      },
+      {
+        "stock_code": "002415",
+        "stock_name": "海康威视",
+        "market_value_wan": 11678.17
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 7182.62
+      },
+      {
+        "stock_code": "300369",
+        "stock_name": "绿盟科技",
+        "market_value_wan": 5451.18
+      },
+      {
+        "stock_code": "300002",
+        "stock_name": "神州泰岳",
+        "market_value_wan": 4824.6
+      }
+    ]
+  }
+}

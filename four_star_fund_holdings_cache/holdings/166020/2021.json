@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "166020",
+    "name": "中欧成长优选混合A",
+    "base_name": "中欧成长优选混合"
+  },
+  "fetched_at": "2026-06-14 22:42:36",
+  "quarters": {
+    "2021-Q4": [
+      {
+        "stock_code": "600383",
+        "stock_name": "金地集团",
+        "market_value_wan": 1437.08
+      },
+      {
+        "stock_code": "002048",
+        "stock_name": "宁波华翔",
+        "market_value_wan": 1190.62
+      },
+      {
+        "stock_code": "000910",
+        "stock_name": "大亚圣象",
+        "market_value_wan": 898.34
+      },
+      {
+        "stock_code": "603108",
+        "stock_name": "润达医疗",
+        "market_value_wan": 848.05
+      },
+      {
+        "stock_code": "002398",
+        "stock_name": "垒知集团",
+        "market_value_wan": 616.19
+      },
+      {
+        "stock_code": "002327",
+        "stock_name": "富安娜",
+        "market_value_wan": 597.8
+      },
+      {
+        "stock_code": "600987",
+        "stock_name": "航民股份",
+        "market_value_wan": 508.03
+      },
+      {
+        "stock_code": "000401",
+        "stock_name": "冀东水泥",
+        "market_value_wan": 458.55
+      },
+      {
+        "stock_code": "600297",
+        "stock_name": "广汇汽车",
+        "market_value_wan": 428.22
+      },
+      {
+        "stock_code": "603444",
+        "stock_name": "吉比特",
+        "market_value_wan": 421.85
+      }
+    ],
+    "2021-Q3": [
+      {
+        "stock_code": "002048",
+        "stock_name": "宁波华翔",
+        "market_value_wan": 1261.32
+      },
+      {
+        "stock_code": "600297",
+        "stock_name": "广汇汽车",
+        "market_value_wan": 1026.96
+      },
+      {
+        "stock_code": "000910",
+        "stock_name": "大亚圣象",
+        "market_value_wan": 794.5
+      },
+      {
+        "stock_code": "600383",
+        "stock_name": "金地集团",
+        "market_value_wan": 748.16
+      },
+      {
+        "stock_code": "603108",
+        "stock_name": "润达医疗",
+        "market_value_wan": 646.95
+      },
+      {
+        "stock_code": "002327",
+        "stock_name": "富安娜",
+        "market_value_wan": 578.9
+      },
+      {
+        "stock_code": "002398",
+        "stock_name": "垒知集团",
+        "market_value_wan": 536.84
+      },
+      {
+        "stock_code": "002713",
+        "stock_name": "东易日盛",
+        "market_value_wan": 478.83
+      },
+      {
+        "stock_code": "600987",
+        "stock_name": "航民股份",
+        "market_value_wan": 469.94
+      },
+      {
+        "stock_code": "603818",
+        "stock_name": "曲美家居",
+        "market_value_wan": 440.13
+      }
+    ],
+    "2021-Q2": [
+      {
+        "stock_code": "002048",
+        "stock_name": "宁波华翔",
+        "market_value_wan": 1131.88
+      },
+      {
+        "stock_code": "600297",
+        "stock_name": "广汇汽车",
+        "market_value_wan": 715.01
+      },
+      {
+        "stock_code": "600383",
+        "stock_name": "金地集团",
+        "market_value_wan": 622.59
+      },
+      {
+        "stock_code": "002398",
+        "stock_name": "垒知集团",
+        "market_value_wan": 556.07
+      },
+      {
+        "stock_code": "603108",
+        "stock_name": "润达医疗",
+        "market_value_wan": 552.97
+      },
+      {
+        "stock_code": "000910",
+        "stock_name": "大亚圣象",
+        "market_value_wan": 544.7
+      },
+      {
+        "stock_code": "000401",
+        "stock_name": "冀东水泥",
+        "market_value_wan": 461.15
+      },
+      {
+        "stock_code": "000028",
+        "stock_name": "国药一致",
+        "market_value_wan": 454.08
+      },
+      {
+        "stock_code": "603018",
+        "stock_name": "华设集团",
+        "market_value_wan": 419.64
+      },
+      {
+        "stock_code": "002327",
+        "stock_name": "富安娜",
+        "market_value_wan": 402.48
+      }
+    ],
+    "2021-Q1": [
+      {
+        "stock_code": "002048",
+        "stock_name": "宁波华翔",
+        "market_value_wan": 1170.27
+      },
+      {
+        "stock_code": "600383",
+        "stock_name": "金地集团",
+        "market_value_wan": 730.21
+      },
+      {
+        "stock_code": "000028",
+        "stock_name": "国药一致",
+        "market_value_wan": 652.55
+      },
+      {
+        "stock_code": "601965",
+        "stock_name": "中国汽研",
+        "market_value_wan": 650.57
+      },
+      {
+        "stock_code": "600297",
+        "stock_name": "广汇汽车",
+        "market_value_wan": 609.72
+      },
+      {
+        "stock_code": "603108",
+        "stock_name": "润达医疗",
+        "market_value_wan": 530.38
+      },
+      {
+        "stock_code": "000401",
+        "stock_name": "冀东水泥",
+        "market_value_wan": 485.15
+      },
+      {
+        "stock_code": "000910",
+        "stock_name": "大亚圣象",
+        "market_value_wan": 483.73
+      },
+      {
+        "stock_code": "600048",
+        "stock_name": "保利发展",
+        "market_value_wan": 469.59
+      },
+      {
+        "stock_code": "603444",
+        "stock_name": "吉比特",
+        "market_value_wan": 465.24
+      }
+    ]
+  }
+}

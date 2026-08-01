@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "100039",
+    "name": "富国通胀通缩主题轮动混合A",
+    "base_name": "富国通胀通缩主题轮动混合"
+  },
+  "fetched_at": "2026-06-14 23:50:29",
+  "quarters": {
+    "2025-Q4": [
+      {
+        "stock_code": "300308",
+        "stock_name": "中际旭创",
+        "market_value_wan": 17952.3
+      },
+      {
+        "stock_code": "300502",
+        "stock_name": "新易盛",
+        "market_value_wan": 17174.88
+      },
+      {
+        "stock_code": "002916",
+        "stock_name": "深南电路",
+        "market_value_wan": 15643.55
+      },
+      {
+        "stock_code": "600183",
+        "stock_name": "生益科技",
+        "market_value_wan": 12894.33
+      },
+      {
+        "stock_code": "688256",
+        "stock_name": "寒武纪",
+        "market_value_wan": 10195.77
+      },
+      {
+        "stock_code": "603986",
+        "stock_name": "兆易创新",
+        "market_value_wan": 9383.61
+      },
+      {
+        "stock_code": "002384",
+        "stock_name": "东山精密",
+        "market_value_wan": 9336.9
+      },
+      {
+        "stock_code": "688498",
+        "stock_name": "源杰科技",
+        "market_value_wan": 9116.0
+      },
+      {
+        "stock_code": "002938",
+        "stock_name": "鹏鼎控股",
+        "market_value_wan": 5284.6
+      },
+      {
+        "stock_code": "301611",
+        "stock_name": "珂玛科技",
+        "market_value_wan": 4970.63
+      }
+    ],
+    "2025-Q3": [
+      {
+        "stock_code": "002916",
+        "stock_name": "深南电路",
+        "market_value_wan": 12945.3
+      },
+      {
+        "stock_code": "300308",
+        "stock_name": "中际旭创",
+        "market_value_wan": 10988.17
+      },
+      {
+        "stock_code": "300502",
+        "stock_name": "新易盛",
+        "market_value_wan": 10589.04
+      },
+      {
+        "stock_code": "601138",
+        "stock_name": "工业富联",
+        "market_value_wan": 10121.97
+      },
+      {
+        "stock_code": "688256",
+        "stock_name": "寒武纪",
+        "market_value_wan": 9420.75
+      },
+      {
+        "stock_code": "603986",
+        "stock_name": "兆易创新",
+        "market_value_wan": 8613.05
+      },
+      {
+        "stock_code": "002558",
+        "stock_name": "巨人网络",
+        "market_value_wan": 7273.53
+      },
+      {
+        "stock_code": "002463",
+        "stock_name": "沪电股份",
+        "market_value_wan": 6607.01
+      },
+      {
+        "stock_code": "600183",
+        "stock_name": "生益科技",
+        "market_value_wan": 5612.54
+      },
+      {
+        "stock_code": "002384",
+        "stock_name": "东山精密",
+        "market_value_wan": 4696.12
+      }
+    ],
+    "2025-Q2": [
+      {
+        "stock_code": "002463",
+        "stock_name": "沪电股份",
+        "market_value_wan": 9763.93
+      },
+      {
+        "stock_code": "002558",
+        "stock_name": "巨人网络",
+        "market_value_wan": 9025.3
+      },
+      {
+        "stock_code": "002916",
+        "stock_name": "深南电路",
+        "market_value_wan": 5616.25
+      },
+      {
+        "stock_code": "688498",
+        "stock_name": "源杰科技",
+        "market_value_wan": 5443.25
+      },
+      {
+        "stock_code": "688433",
+        "stock_name": "华曙高科",
+        "market_value_wan": 4213.28
+      },
+      {
+        "stock_code": "300308",
+        "stock_name": "中际旭创",
+        "market_value_wan": 3748.6
+      },
+      {
+        "stock_code": "300502",
+        "stock_name": "新易盛",
+        "market_value_wan": 3677.23
+      },
+      {
+        "stock_code": "002847",
+        "stock_name": "盐津铺子",
+        "market_value_wan": 3325.99
+      },
+      {
+        "stock_code": "600183",
+        "stock_name": "生益科技",
+        "market_value_wan": 3132.51
+      },
+      {
+        "stock_code": "301606",
+        "stock_name": "绿联科技",
+        "market_value_wan": 3097.41
+      }
+    ],
+    "2025-Q1": [
+      {
+        "stock_code": "688433",
+        "stock_name": "华曙高科",
+        "market_value_wan": 7505.12
+      },
+      {
+        "stock_code": "002415",
+        "stock_name": "海康威视",
+        "market_value_wan": 6575.33
+      },
+      {
+        "stock_code": "688052",
+        "stock_name": "纳芯微",
+        "market_value_wan": 5755.06
+      },
+      {
+        "stock_code": "688111",
+        "stock_name": "金山办公",
+        "market_value_wan": 5093.12
+      },
+      {
+        "stock_code": "002558",
+        "stock_name": "巨人网络",
+        "market_value_wan": 3200.95
+      },
+      {
+        "stock_code": "688608",
+        "stock_name": "恒玄科技",
+        "market_value_wan": 2675.73
+      },
+      {
+        "stock_code": "300378",
+        "stock_name": "鼎捷数智",
+        "market_value_wan": 2620.43
+      },
+      {
+        "stock_code": "688333",
+        "stock_name": "铂力特",
+        "market_value_wan": 2517.08
+      },
+      {
+        "stock_code": "603171",
+        "stock_name": "税友股份",
+        "market_value_wan": 2393.72
+      },
+      {
+        "stock_code": "002410",
+        "stock_name": "广联达",
+        "market_value_wan": 2348.54
+      }
+    ]
+  }
+}

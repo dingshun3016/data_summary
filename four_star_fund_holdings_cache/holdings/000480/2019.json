@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "000480",
+    "name": "东方红新动力混合A",
+    "base_name": "东方红新动力混合"
+  },
+  "fetched_at": "2026-06-14 22:26:39",
+  "quarters": {
+    "2019-Q4": [
+      {
+        "stock_code": "002415",
+        "stock_name": "海康威视",
+        "market_value_wan": 22263.2
+      },
+      {
+        "stock_code": "600426",
+        "stock_name": "华鲁恒升",
+        "market_value_wan": 21707.33
+      },
+      {
+        "stock_code": "600887",
+        "stock_name": "伊利股份",
+        "market_value_wan": 20963.33
+      },
+      {
+        "stock_code": "600993",
+        "stock_name": "马应龙",
+        "market_value_wan": 17927.25
+      },
+      {
+        "stock_code": "600060",
+        "stock_name": "海信视像",
+        "market_value_wan": 16926.0
+      },
+      {
+        "stock_code": "002027",
+        "stock_name": "分众传媒",
+        "market_value_wan": 14961.4
+      },
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 14329.5
+      },
+      {
+        "stock_code": "600976",
+        "stock_name": "健民集团",
+        "market_value_wan": 13589.94
+      },
+      {
+        "stock_code": "603001",
+        "stock_name": "奥康国际",
+        "market_value_wan": 13504.0
+      },
+      {
+        "stock_code": "600143",
+        "stock_name": "金发科技",
+        "market_value_wan": 13322.4
+      }
+    ],
+    "2019-Q3": [
+      {
+        "stock_code": "002415",
+        "stock_name": "海康威视",
+        "market_value_wan": 22470.75
+      },
+      {
+        "stock_code": "600887",
+        "stock_name": "伊利股份",
+        "market_value_wan": 19323.66
+      },
+      {
+        "stock_code": "600993",
+        "stock_name": "马应龙",
+        "market_value_wan": 17356.95
+      },
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 16358.58
+      },
+      {
+        "stock_code": "002470",
+        "stock_name": "金正大",
+        "market_value_wan": 14633.57
+      },
+      {
+        "stock_code": "603001",
+        "stock_name": "奥康国际",
+        "market_value_wan": 14494.29
+      },
+      {
+        "stock_code": "600143",
+        "stock_name": "金发科技",
+        "market_value_wan": 14304.41
+      },
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 13805.18
+      },
+      {
+        "stock_code": "600060",
+        "stock_name": "海信视像",
+        "market_value_wan": 12993.3
+      },
+      {
+        "stock_code": "600976",
+        "stock_name": "健民集团",
+        "market_value_wan": 12878.7
+      }
+    ],
+    "2019-Q2": [
+      {
+        "stock_code": "600887",
+        "stock_name": "伊利股份",
+        "market_value_wan": 23358.19
+      },
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 23004.65
+      },
+      {
+        "stock_code": "600993",
+        "stock_name": "马应龙",
+        "market_value_wan": 21709.5
+      },
+      {
+        "stock_code": "002415",
+        "stock_name": "海康威视",
+        "market_value_wan": 19019.68
+      },
+      {
+        "stock_code": "002470",
+        "stock_name": "金正大",
+        "market_value_wan": 18106.96
+      },
+      {
+        "stock_code": "603001",
+        "stock_name": "奥康国际",
+        "market_value_wan": 15214.51
+      },
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 14716.31
+      },
+      {
+        "stock_code": "600143",
+        "stock_name": "金发科技",
+        "market_value_wan": 14487.23
+      },
+      {
+        "stock_code": "600060",
+        "stock_name": "海信视像",
+        "market_value_wan": 13095.16
+      },
+      {
+        "stock_code": "002027",
+        "stock_name": "分众传媒",
+        "market_value_wan": 12917.54
+      }
+    ],
+    "2019-Q1": [
+      {
+        "stock_code": "002470",
+        "stock_name": "金正大",
+        "market_value_wan": 40574.54
+      },
+      {
+        "stock_code": "600887",
+        "stock_name": "伊利股份",
+        "market_value_wan": 26938.95
+      },
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 25013.26
+      },
+      {
+        "stock_code": "002415",
+        "stock_name": "海康威视",
+        "market_value_wan": 21186.33
+      },
+      {
+        "stock_code": "600993",
+        "stock_name": "马应龙",
+        "market_value_wan": 19876.91
+      },
+      {
+        "stock_code": "603001",
+        "stock_name": "奥康国际",
+        "market_value_wan": 17735.26
+      },
+      {
+        "stock_code": "600143",
+        "stock_name": "金发科技",
+        "market_value_wan": 16330.53
+      },
+      {
+        "stock_code": "600060",
+        "stock_name": "海信视像",
+        "market_value_wan": 15981.56
+      },
+      {
+        "stock_code": "002159",
+        "stock_name": "三特索道",
+        "market_value_wan": 14962.61
+      },
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 13828.11
+      }
+    ]
+  }
+}

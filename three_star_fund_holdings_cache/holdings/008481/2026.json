@@ -1,0 +1,70 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "008481",
+    "name": "永赢股息优选C",
+    "base_name": "永赢股息优选"
+  },
+  "fetched_at": "2026-08-01 20:57:51",
+  "quarters": {
+    "2026-Q2": [
+      {
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "market_value_wan": 2768.7
+      },
+      {
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "market_value_wan": 2759.2
+      },
+      {
+        "stock_code": "300498",
+        "stock_name": "温氏股份",
+        "market_value_wan": 2466.54
+      },
+      {
+        "stock_code": "600690",
+        "stock_name": "海尔智家",
+        "market_value_wan": 2073.66
+      },
+      {
+        "stock_code": "601857",
+        "stock_name": "中国石油",
+        "market_value_wan": 1951.44
+      }
+    ],
+    "2026-Q1": [
+      {
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "market_value_wan": 3788.25
+      },
+      {
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "market_value_wan": 3731.89
+      },
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 3461.71
+      },
+      {
+        "stock_code": "300498",
+        "stock_name": "温氏股份",
+        "market_value_wan": 3327.43
+      },
+      {
+        "stock_code": "600690",
+        "stock_name": "海尔智家",
+        "market_value_wan": 3032.54
+      },
+      {
+        "stock_code": "601985",
+        "stock_name": "中国核电",
+        "market_value_wan": 2485.85
+      }
+    ]
+  }
+}

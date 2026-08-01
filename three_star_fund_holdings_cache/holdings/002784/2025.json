@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "002784",
+    "name": "东方红价值精选混合C",
+    "base_name": "东方红价值精选混合"
+  },
+  "fetched_at": "2026-06-14 23:07:28",
+  "quarters": {
+    "2025-Q4": [
+      {
+        "stock_code": "600030",
+        "stock_name": "中信证券",
+        "market_value_wan": 151.01
+      },
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 96.46
+      },
+      {
+        "stock_code": "002415",
+        "stock_name": "海康威视",
+        "market_value_wan": 87.43
+      },
+      {
+        "stock_code": "601233",
+        "stock_name": "桐昆股份",
+        "market_value_wan": 86.14
+      },
+      {
+        "stock_code": "301498",
+        "stock_name": "乖宝宠物",
+        "market_value_wan": 77.53
+      },
+      {
+        "stock_code": "600690",
+        "stock_name": "海尔智家",
+        "market_value_wan": 77.23
+      },
+      {
+        "stock_code": "600426",
+        "stock_name": "华鲁恒升",
+        "market_value_wan": 76.37
+      },
+      {
+        "stock_code": "002179",
+        "stock_name": "中航光电",
+        "market_value_wan": 70.53
+      },
+      {
+        "stock_code": "603606",
+        "stock_name": "东方电缆",
+        "market_value_wan": 70.51
+      },
+      {
+        "stock_code": "688099",
+        "stock_name": "晶晨股份",
+        "market_value_wan": 66.23
+      }
+    ],
+    "2025-Q3": [
+      {
+        "stock_code": "600030",
+        "stock_name": "中信证券",
+        "market_value_wan": 157.27
+      },
+      {
+        "stock_code": "301498",
+        "stock_name": "乖宝宠物",
+        "market_value_wan": 127.74
+      },
+      {
+        "stock_code": "002223",
+        "stock_name": "鱼跃医疗",
+        "market_value_wan": 106.5
+      },
+      {
+        "stock_code": "600887",
+        "stock_name": "伊利股份",
+        "market_value_wan": 103.39
+      },
+      {
+        "stock_code": "688099",
+        "stock_name": "晶晨股份",
+        "market_value_wan": 98.08
+      },
+      {
+        "stock_code": "002415",
+        "stock_name": "海康威视",
+        "market_value_wan": 92.35
+      },
+      {
+        "stock_code": "002459",
+        "stock_name": "晶澳科技",
+        "market_value_wan": 87.25
+      },
+      {
+        "stock_code": "600941",
+        "stock_name": "中国移动",
+        "market_value_wan": 83.74
+      },
+      {
+        "stock_code": "603606",
+        "stock_name": "东方电缆",
+        "market_value_wan": 83.36
+      },
+      {
+        "stock_code": "002179",
+        "stock_name": "中航光电",
+        "market_value_wan": 82.13
+      }
+    ],
+    "2025-Q2": [
+      {
+        "stock_code": "600030",
+        "stock_name": "中信证券",
+        "market_value_wan": 157.16
+      },
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 123.18
+      },
+      {
+        "stock_code": "601233",
+        "stock_name": "桐昆股份",
+        "market_value_wan": 109.55
+      },
+      {
+        "stock_code": "600690",
+        "stock_name": "海尔智家",
+        "market_value_wan": 108.29
+      },
+      {
+        "stock_code": "600887",
+        "stock_name": "伊利股份",
+        "market_value_wan": 105.67
+      },
+      {
+        "stock_code": "600309",
+        "stock_name": "万华化学",
+        "market_value_wan": 103.64
+      },
+      {
+        "stock_code": "002223",
+        "stock_name": "鱼跃医疗",
+        "market_value_wan": 97.19
+      },
+      {
+        "stock_code": "688212",
+        "stock_name": "澳华内镜",
+        "market_value_wan": 93.57
+      },
+      {
+        "stock_code": "600941",
+        "stock_name": "中国移动",
+        "market_value_wan": 90.04
+      },
+      {
+        "stock_code": "002463",
+        "stock_name": "沪电股份",
+        "market_value_wan": 88.14
+      }
+    ],
+    "2025-Q1": [
+      {
+        "stock_code": "600030",
+        "stock_name": "中信证券",
+        "market_value_wan": 150.9
+      },
+      {
+        "stock_code": "600309",
+        "stock_name": "万华化学",
+        "market_value_wan": 149.21
+      },
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 144.79
+      },
+      {
+        "stock_code": "600690",
+        "stock_name": "海尔智家",
+        "market_value_wan": 138.61
+      },
+      {
+        "stock_code": "002223",
+        "stock_name": "鱼跃医疗",
+        "market_value_wan": 128.01
+      },
+      {
+        "stock_code": "601233",
+        "stock_name": "桐昆股份",
+        "market_value_wan": 121.13
+      },
+      {
+        "stock_code": "600941",
+        "stock_name": "中国移动",
+        "market_value_wan": 118.1
+      },
+      {
+        "stock_code": "600887",
+        "stock_name": "伊利股份",
+        "market_value_wan": 106.42
+      },
+      {
+        "stock_code": "688212",
+        "stock_name": "澳华内镜",
+        "market_value_wan": 97.19
+      },
+      {
+        "stock_code": "002415",
+        "stock_name": "海康威视",
+        "market_value_wan": 89.95
+      }
+    ]
+  }
+}

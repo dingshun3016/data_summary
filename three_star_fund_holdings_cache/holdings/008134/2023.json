@@ -1,0 +1,124 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "008134",
+    "name": "鹏华优选价值股票A",
+    "base_name": "鹏华优选价值股票"
+  },
+  "fetched_at": "2026-06-14 23:26:24",
+  "quarters": {
+    "2023-Q4": [
+      {
+        "stock_code": "601838",
+        "stock_name": "成都银行",
+        "market_value_wan": 8236.13
+      },
+      {
+        "stock_code": "601128",
+        "stock_name": "常熟银行",
+        "market_value_wan": 7613.3
+      },
+      {
+        "stock_code": "300146",
+        "stock_name": "汤臣倍健",
+        "market_value_wan": 7482.81
+      },
+      {
+        "stock_code": "600887",
+        "stock_name": "伊利股份",
+        "market_value_wan": 6992.72
+      },
+      {
+        "stock_code": "000786",
+        "stock_name": "北新建材",
+        "market_value_wan": 3848.09
+      },
+      {
+        "stock_code": "601825",
+        "stock_name": "沪农商行",
+        "market_value_wan": 3542.33
+      }
+    ],
+    "2023-Q3": [
+      {
+        "stock_code": "300146",
+        "stock_name": "汤臣倍健",
+        "market_value_wan": 5469.31
+      },
+      {
+        "stock_code": "601838",
+        "stock_name": "成都银行",
+        "market_value_wan": 4939.7
+      },
+      {
+        "stock_code": "601825",
+        "stock_name": "沪农商行",
+        "market_value_wan": 3727.47
+      },
+      {
+        "stock_code": "601128",
+        "stock_name": "常熟银行",
+        "market_value_wan": 3173.73
+      },
+      {
+        "stock_code": "600887",
+        "stock_name": "伊利股份",
+        "market_value_wan": 2833.67
+      }
+    ],
+    "2023-Q2": [
+      {
+        "stock_code": "300146",
+        "stock_name": "汤臣倍健",
+        "market_value_wan": 2968.48
+      },
+      {
+        "stock_code": "601128",
+        "stock_name": "常熟银行",
+        "market_value_wan": 1657.6
+      },
+      {
+        "stock_code": "600887",
+        "stock_name": "伊利股份",
+        "market_value_wan": 1615.66
+      },
+      {
+        "stock_code": "002557",
+        "stock_name": "洽洽食品",
+        "market_value_wan": 1509.51
+      }
+    ],
+    "2023-Q1": [
+      {
+        "stock_code": "601128",
+        "stock_name": "常熟银行",
+        "market_value_wan": 1169.05
+      },
+      {
+        "stock_code": "603992",
+        "stock_name": "松霖科技",
+        "market_value_wan": 964.48
+      },
+      {
+        "stock_code": "601138",
+        "stock_name": "工业富联",
+        "market_value_wan": 899.21
+      },
+      {
+        "stock_code": "603589",
+        "stock_name": "口子窖",
+        "market_value_wan": 832.03
+      },
+      {
+        "stock_code": "600887",
+        "stock_name": "伊利股份",
+        "market_value_wan": 829.05
+      },
+      {
+        "stock_code": "002262",
+        "stock_name": "恩华药业",
+        "market_value_wan": 821.07
+      }
+    ]
+  }
+}

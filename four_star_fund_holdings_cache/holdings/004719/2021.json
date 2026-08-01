@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "004719",
+    "name": "景顺长城睿成混合C",
+    "base_name": "景顺长城睿成混合"
+  },
+  "fetched_at": "2026-06-14 22:32:05",
+  "quarters": {
+    "2021-Q4": [
+      {
+        "stock_code": "601012",
+        "stock_name": "隆基绿能",
+        "market_value_wan": 1221.28
+      },
+      {
+        "stock_code": "300014",
+        "stock_name": "亿纬锂能",
+        "market_value_wan": 1183.34
+      },
+      {
+        "stock_code": "002594",
+        "stock_name": "比亚迪",
+        "market_value_wan": 1072.48
+      },
+      {
+        "stock_code": "300124",
+        "stock_name": "汇川技术",
+        "market_value_wan": 776.9
+      },
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 749.3
+      },
+      {
+        "stock_code": "600406",
+        "stock_name": "国电南瑞",
+        "market_value_wan": 656.17
+      },
+      {
+        "stock_code": "300059",
+        "stock_name": "东方财富",
+        "market_value_wan": 633.88
+      },
+      {
+        "stock_code": "600690",
+        "stock_name": "海尔智家",
+        "market_value_wan": 510.82
+      },
+      {
+        "stock_code": "300207",
+        "stock_name": "欣旺达",
+        "market_value_wan": 506.34
+      },
+      {
+        "stock_code": "601166",
+        "stock_name": "兴业银行",
+        "market_value_wan": 453.15
+      }
+    ],
+    "2021-Q3": [
+      {
+        "stock_code": "601012",
+        "stock_name": "隆基绿能",
+        "market_value_wan": 1168.58
+      },
+      {
+        "stock_code": "002594",
+        "stock_name": "比亚迪",
+        "market_value_wan": 998.04
+      },
+      {
+        "stock_code": "300014",
+        "stock_name": "亿纬锂能",
+        "market_value_wan": 991.59
+      },
+      {
+        "stock_code": "300124",
+        "stock_name": "汇川技术",
+        "market_value_wan": 713.48
+      },
+      {
+        "stock_code": "300059",
+        "stock_name": "东方财富",
+        "market_value_wan": 587.07
+      },
+      {
+        "stock_code": "600406",
+        "stock_name": "国电南瑞",
+        "market_value_wan": 480.91
+      },
+      {
+        "stock_code": "300207",
+        "stock_name": "欣旺达",
+        "market_value_wan": 449.17
+      },
+      {
+        "stock_code": "002415",
+        "stock_name": "海康威视",
+        "market_value_wan": 441.1
+      },
+      {
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "market_value_wan": 432.36
+      },
+      {
+        "stock_code": "002129",
+        "stock_name": "TCL中环",
+        "market_value_wan": 406.41
+      }
+    ],
+    "2021-Q2": [
+      {
+        "stock_code": "601012",
+        "stock_name": "隆基绿能",
+        "market_value_wan": 1258.69
+      },
+      {
+        "stock_code": "300014",
+        "stock_name": "亿纬锂能",
+        "market_value_wan": 1040.65
+      },
+      {
+        "stock_code": "002594",
+        "stock_name": "比亚迪",
+        "market_value_wan": 1004.0
+      },
+      {
+        "stock_code": "300124",
+        "stock_name": "汇川技术",
+        "market_value_wan": 840.99
+      },
+      {
+        "stock_code": "300059",
+        "stock_name": "东方财富",
+        "market_value_wan": 560.09
+      },
+      {
+        "stock_code": "002415",
+        "stock_name": "海康威视",
+        "market_value_wan": 517.29
+      },
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 516.84
+      },
+      {
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "market_value_wan": 464.41
+      },
+      {
+        "stock_code": "300207",
+        "stock_name": "欣旺达",
+        "market_value_wan": 391.05
+      },
+      {
+        "stock_code": "600570",
+        "stock_name": "恒生电子",
+        "market_value_wan": 377.57
+      }
+    ],
+    "2021-Q1": [
+      {
+        "stock_code": "601012",
+        "stock_name": "隆基绿能",
+        "market_value_wan": 890.56
+      },
+      {
+        "stock_code": "300014",
+        "stock_name": "亿纬锂能",
+        "market_value_wan": 752.48
+      },
+      {
+        "stock_code": "002594",
+        "stock_name": "比亚迪",
+        "market_value_wan": 658.04
+      },
+      {
+        "stock_code": "300124",
+        "stock_name": "汇川技术",
+        "market_value_wan": 645.6
+      },
+      {
+        "stock_code": "002415",
+        "stock_name": "海康威视",
+        "market_value_wan": 448.32
+      },
+      {
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "market_value_wan": 437.93
+      },
+      {
+        "stock_code": "600031",
+        "stock_name": "三一重工",
+        "market_value_wan": 422.44
+      },
+      {
+        "stock_code": "300059",
+        "stock_name": "东方财富",
+        "market_value_wan": 388.02
+      },
+      {
+        "stock_code": "603833",
+        "stock_name": "欧派家居",
+        "market_value_wan": 384.57
+      },
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 380.1
+      }
+    ]
+  }
+}

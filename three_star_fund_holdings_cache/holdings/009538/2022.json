@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "009538",
+    "name": "太平行业优选股票C",
+    "base_name": "太平行业优选股票"
+  },
+  "fetched_at": "2026-06-14 23:34:12",
+  "quarters": {
+    "2022-Q4": [
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 648.34
+      },
+      {
+        "stock_code": "002459",
+        "stock_name": "晶澳科技",
+        "market_value_wan": 594.89
+      },
+      {
+        "stock_code": "300014",
+        "stock_name": "亿纬锂能",
+        "market_value_wan": 581.02
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 546.85
+      },
+      {
+        "stock_code": "601012",
+        "stock_name": "隆基绿能",
+        "market_value_wan": 488.95
+      },
+      {
+        "stock_code": "688599",
+        "stock_name": "天合光能",
+        "market_value_wan": 452.7
+      },
+      {
+        "stock_code": "688680",
+        "stock_name": "海优新材",
+        "market_value_wan": 409.51
+      },
+      {
+        "stock_code": "603260",
+        "stock_name": "合盛硅业",
+        "market_value_wan": 386.5
+      },
+      {
+        "stock_code": "688223",
+        "stock_name": "晶科能源",
+        "market_value_wan": 380.9
+      },
+      {
+        "stock_code": "603659",
+        "stock_name": "璞泰来",
+        "market_value_wan": 275.02
+      }
+    ],
+    "2022-Q3": [
+      {
+        "stock_code": "601888",
+        "stock_name": "中国中免",
+        "market_value_wan": 676.03
+      },
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 600.35
+      },
+      {
+        "stock_code": "002459",
+        "stock_name": "晶澳科技",
+        "market_value_wan": 576.36
+      },
+      {
+        "stock_code": "002139",
+        "stock_name": "拓邦股份",
+        "market_value_wan": 573.28
+      },
+      {
+        "stock_code": "002241",
+        "stock_name": "歌尔股份",
+        "market_value_wan": 564.19
+      },
+      {
+        "stock_code": "300014",
+        "stock_name": "亿纬锂能",
+        "market_value_wan": 559.21
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 557.24
+      },
+      {
+        "stock_code": "601012",
+        "stock_name": "隆基绿能",
+        "market_value_wan": 554.32
+      },
+      {
+        "stock_code": "688005",
+        "stock_name": "容百科技",
+        "market_value_wan": 416.54
+      },
+      {
+        "stock_code": "002402",
+        "stock_name": "和而泰",
+        "market_value_wan": 344.54
+      }
+    ],
+    "2022-Q2": [
+      {
+        "stock_code": "600958",
+        "stock_name": "东方证券",
+        "market_value_wan": 745.33
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 731.58
+      },
+      {
+        "stock_code": "002241",
+        "stock_name": "歌尔股份",
+        "market_value_wan": 715.34
+      },
+      {
+        "stock_code": "601012",
+        "stock_name": "隆基绿能",
+        "market_value_wan": 704.28
+      },
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 689.99
+      },
+      {
+        "stock_code": "002139",
+        "stock_name": "拓邦股份",
+        "market_value_wan": 681.6
+      },
+      {
+        "stock_code": "603486",
+        "stock_name": "科沃斯",
+        "market_value_wan": 674.05
+      },
+      {
+        "stock_code": "300413",
+        "stock_name": "芒果超媒",
+        "market_value_wan": 652.86
+      },
+      {
+        "stock_code": "601668",
+        "stock_name": "中国建筑",
+        "market_value_wan": 558.07
+      },
+      {
+        "stock_code": "002402",
+        "stock_name": "和而泰",
+        "market_value_wan": 475.55
+      }
+    ],
+    "2022-Q1": [
+      {
+        "stock_code": "601012",
+        "stock_name": "隆基绿能",
+        "market_value_wan": 772.43
+      },
+      {
+        "stock_code": "002241",
+        "stock_name": "歌尔股份",
+        "market_value_wan": 653.26
+      },
+      {
+        "stock_code": "300413",
+        "stock_name": "芒果超媒",
+        "market_value_wan": 609.8
+      },
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 542.7
+      },
+      {
+        "stock_code": "002139",
+        "stock_name": "拓邦股份",
+        "market_value_wan": 484.7
+      },
+      {
+        "stock_code": "600660",
+        "stock_name": "福耀玻璃",
+        "market_value_wan": 470.72
+      },
+      {
+        "stock_code": "002206",
+        "stock_name": "海利得",
+        "market_value_wan": 438.67
+      },
+      {
+        "stock_code": "603501",
+        "stock_name": "韦尔股份",
+        "market_value_wan": 346.19
+      },
+      {
+        "stock_code": "300850",
+        "stock_name": "新强联",
+        "market_value_wan": 342.14
+      },
+      {
+        "stock_code": "601799",
+        "stock_name": "星宇股份",
+        "market_value_wan": 335.27
+      }
+    ]
+  }
+}

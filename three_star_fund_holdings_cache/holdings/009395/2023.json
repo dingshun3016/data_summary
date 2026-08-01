@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "009395",
+    "name": "鑫元安鑫回报混合A",
+    "base_name": "鑫元安鑫回报混合"
+  },
+  "fetched_at": "2026-06-14 23:33:12",
+  "quarters": {
+    "2023-Q4": [
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 707.66
+      },
+      {
+        "stock_code": "688789",
+        "stock_name": "宏华数科",
+        "market_value_wan": 550.0
+      },
+      {
+        "stock_code": "300896",
+        "stock_name": "爱美客",
+        "market_value_wan": 497.42
+      },
+      {
+        "stock_code": "688600",
+        "stock_name": "皖仪科技",
+        "market_value_wan": 484.47
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 460.39
+      },
+      {
+        "stock_code": "603596",
+        "stock_name": "伯特利",
+        "market_value_wan": 417.19
+      },
+      {
+        "stock_code": "688690",
+        "stock_name": "纳微科技",
+        "market_value_wan": 356.05
+      },
+      {
+        "stock_code": "000858",
+        "stock_name": "五粮液",
+        "market_value_wan": 329.73
+      },
+      {
+        "stock_code": "688366",
+        "stock_name": "昊海生科",
+        "market_value_wan": 287.85
+      },
+      {
+        "stock_code": "688377",
+        "stock_name": "迪威尔",
+        "market_value_wan": 266.58
+      }
+    ],
+    "2023-Q3": [
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 1079.13
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 655.79
+      },
+      {
+        "stock_code": "300896",
+        "stock_name": "爱美客",
+        "market_value_wan": 655.65
+      },
+      {
+        "stock_code": "688789",
+        "stock_name": "宏华数科",
+        "market_value_wan": 607.5
+      },
+      {
+        "stock_code": "603596",
+        "stock_name": "伯特利",
+        "market_value_wan": 507.15
+      },
+      {
+        "stock_code": "688690",
+        "stock_name": "纳微科技",
+        "market_value_wan": 480.0
+      },
+      {
+        "stock_code": "688600",
+        "stock_name": "皖仪科技",
+        "market_value_wan": 363.34
+      },
+      {
+        "stock_code": "002158",
+        "stock_name": "汉钟精机",
+        "market_value_wan": 318.95
+      },
+      {
+        "stock_code": "002230",
+        "stock_name": "科大讯飞",
+        "market_value_wan": 303.96
+      },
+      {
+        "stock_code": "000738",
+        "stock_name": "航发控制",
+        "market_value_wan": 264.3
+      }
+    ],
+    "2023-Q2": [
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 1521.9
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 967.78
+      },
+      {
+        "stock_code": "300896",
+        "stock_name": "爱美客",
+        "market_value_wan": 614.03
+      },
+      {
+        "stock_code": "603659",
+        "stock_name": "璞泰来",
+        "market_value_wan": 554.19
+      },
+      {
+        "stock_code": "603596",
+        "stock_name": "伯特利",
+        "market_value_wan": 552.44
+      },
+      {
+        "stock_code": "000738",
+        "stock_name": "航发控制",
+        "market_value_wan": 441.64
+      },
+      {
+        "stock_code": "688789",
+        "stock_name": "宏华数科",
+        "market_value_wan": 394.89
+      },
+      {
+        "stock_code": "688600",
+        "stock_name": "皖仪科技",
+        "market_value_wan": 392.81
+      },
+      {
+        "stock_code": "000858",
+        "stock_name": "五粮液",
+        "market_value_wan": 327.14
+      },
+      {
+        "stock_code": "002158",
+        "stock_name": "汉钟精机",
+        "market_value_wan": 320.49
+      }
+    ],
+    "2023-Q1": [
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 1638.0
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 1157.24
+      },
+      {
+        "stock_code": "000738",
+        "stock_name": "航发控制",
+        "market_value_wan": 775.14
+      },
+      {
+        "stock_code": "688596",
+        "stock_name": "正帆科技",
+        "market_value_wan": 650.7
+      },
+      {
+        "stock_code": "688789",
+        "stock_name": "宏华数科",
+        "market_value_wan": 521.52
+      },
+      {
+        "stock_code": "603659",
+        "stock_name": "璞泰来",
+        "market_value_wan": 499.1
+      },
+      {
+        "stock_code": "300896",
+        "stock_name": "爱美客",
+        "market_value_wan": 447.0
+      },
+      {
+        "stock_code": "688600",
+        "stock_name": "皖仪科技",
+        "market_value_wan": 410.08
+      },
+      {
+        "stock_code": "000858",
+        "stock_name": "五粮液",
+        "market_value_wan": 394.0
+      },
+      {
+        "stock_code": "603596",
+        "stock_name": "伯特利",
+        "market_value_wan": 354.68
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "004138",
+    "name": "上银鑫达灵活配置混合A",
+    "base_name": "上银鑫达灵活配置混合"
+  },
+  "fetched_at": "2026-06-14 23:12:22",
+  "quarters": {
+    "2025-Q4": [
+      {
+        "stock_code": "600941",
+        "stock_name": "中国移动",
+        "market_value_wan": 1687.54
+      },
+      {
+        "stock_code": "300408",
+        "stock_name": "三环集团",
+        "market_value_wan": 1625.96
+      },
+      {
+        "stock_code": "600938",
+        "stock_name": "中国海油",
+        "market_value_wan": 1507.19
+      },
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 1369.66
+      },
+      {
+        "stock_code": "002379",
+        "stock_name": "宏桥控股",
+        "market_value_wan": 1222.07
+      },
+      {
+        "stock_code": "002714",
+        "stock_name": "牧原股份",
+        "market_value_wan": 1099.61
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 1065.79
+      },
+      {
+        "stock_code": "603993",
+        "stock_name": "洛阳钼业",
+        "market_value_wan": 1015.4
+      },
+      {
+        "stock_code": "000792",
+        "stock_name": "盐湖股份",
+        "market_value_wan": 981.09
+      },
+      {
+        "stock_code": "603893",
+        "stock_name": "瑞芯微",
+        "market_value_wan": 948.45
+      }
+    ],
+    "2025-Q3": [
+      {
+        "stock_code": "300408",
+        "stock_name": "三环集团",
+        "market_value_wan": 1956.05
+      },
+      {
+        "stock_code": "601899",
+        "stock_name": "紫金矿业",
+        "market_value_wan": 1929.79
+      },
+      {
+        "stock_code": "600941",
+        "stock_name": "中国移动",
+        "market_value_wan": 1504.25
+      },
+      {
+        "stock_code": "601336",
+        "stock_name": "新华保险",
+        "market_value_wan": 1390.17
+      },
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 1307.6
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 1170.62
+      },
+      {
+        "stock_code": "601328",
+        "stock_name": "交通银行",
+        "market_value_wan": 1077.55
+      },
+      {
+        "stock_code": "600938",
+        "stock_name": "中国海油",
+        "market_value_wan": 1053.04
+      },
+      {
+        "stock_code": "603986",
+        "stock_name": "兆易创新",
+        "market_value_wan": 1026.36
+      },
+      {
+        "stock_code": "000858",
+        "stock_name": "五粮液",
+        "market_value_wan": 1004.96
+      }
+    ],
+    "2025-Q2": [
+      {
+        "stock_code": "300408",
+        "stock_name": "三环集团",
+        "market_value_wan": 1922.17
+      },
+      {
+        "stock_code": "600941",
+        "stock_name": "中国移动",
+        "market_value_wan": 1514.92
+      },
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 1461.05
+      },
+      {
+        "stock_code": "601899",
+        "stock_name": "紫金矿业",
+        "market_value_wan": 1166.3
+      },
+      {
+        "stock_code": "000858",
+        "stock_name": "五粮液",
+        "market_value_wan": 983.61
+      },
+      {
+        "stock_code": "601088",
+        "stock_name": "中国神华",
+        "market_value_wan": 971.74
+      },
+      {
+        "stock_code": "603986",
+        "stock_name": "兆易创新",
+        "market_value_wan": 946.67
+      },
+      {
+        "stock_code": "600938",
+        "stock_name": "中国海油",
+        "market_value_wan": 945.18
+      },
+      {
+        "stock_code": "002867",
+        "stock_name": "周大生",
+        "market_value_wan": 888.2
+      },
+      {
+        "stock_code": "601398",
+        "stock_name": "工商银行",
+        "market_value_wan": 859.42
+      }
+    ],
+    "2025-Q1": [
+      {
+        "stock_code": "300408",
+        "stock_name": "三环集团",
+        "market_value_wan": 1665.28
+      },
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 1591.67
+      },
+      {
+        "stock_code": "600941",
+        "stock_name": "中国移动",
+        "market_value_wan": 974.83
+      },
+      {
+        "stock_code": "601088",
+        "stock_name": "中国神华",
+        "market_value_wan": 919.25
+      },
+      {
+        "stock_code": "000858",
+        "stock_name": "五粮液",
+        "market_value_wan": 902.72
+      },
+      {
+        "stock_code": "600030",
+        "stock_name": "中信证券",
+        "market_value_wan": 849.7
+      },
+      {
+        "stock_code": "600309",
+        "stock_name": "万华化学",
+        "market_value_wan": 821.02
+      },
+      {
+        "stock_code": "601899",
+        "stock_name": "紫金矿业",
+        "market_value_wan": 787.5
+      },
+      {
+        "stock_code": "601398",
+        "stock_name": "工商银行",
+        "market_value_wan": 780.15
+      },
+      {
+        "stock_code": "603986",
+        "stock_name": "兆易创新",
+        "market_value_wan": 765.77
+      }
+    ]
+  }
+}

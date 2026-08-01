@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "020018",
+    "name": "国泰金鹿混合",
+    "base_name": "国泰金鹿混合"
+  },
+  "fetched_at": "2026-06-14 23:48:31",
+  "quarters": {
+    "2022-Q4": [
+      {
+        "stock_code": "600276",
+        "stock_name": "恒瑞医药",
+        "market_value_wan": 1546.59
+      },
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 1383.61
+      },
+      {
+        "stock_code": "000002",
+        "stock_name": "万科A",
+        "market_value_wan": 1136.68
+      },
+      {
+        "stock_code": "001979",
+        "stock_name": "招商蛇口",
+        "market_value_wan": 1099.53
+      },
+      {
+        "stock_code": "002415",
+        "stock_name": "海康威视",
+        "market_value_wan": 1081.47
+      },
+      {
+        "stock_code": "600048",
+        "stock_name": "保利发展",
+        "market_value_wan": 1074.35
+      },
+      {
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "market_value_wan": 1038.17
+      },
+      {
+        "stock_code": "600383",
+        "stock_name": "金地集团",
+        "market_value_wan": 1003.51
+      },
+      {
+        "stock_code": "002352",
+        "stock_name": "顺丰控股",
+        "market_value_wan": 924.52
+      },
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 915.57
+      }
+    ],
+    "2022-Q3": [
+      {
+        "stock_code": "001979",
+        "stock_name": "招商蛇口",
+        "market_value_wan": 1336.56
+      },
+      {
+        "stock_code": "000002",
+        "stock_name": "万科A",
+        "market_value_wan": 1331.81
+      },
+      {
+        "stock_code": "600048",
+        "stock_name": "保利发展",
+        "market_value_wan": 1327.86
+      },
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 1257.68
+      },
+      {
+        "stock_code": "002415",
+        "stock_name": "海康威视",
+        "market_value_wan": 1198.98
+      },
+      {
+        "stock_code": "600383",
+        "stock_name": "金地集团",
+        "market_value_wan": 900.18
+      },
+      {
+        "stock_code": "002244",
+        "stock_name": "滨江集团",
+        "market_value_wan": 873.72
+      },
+      {
+        "stock_code": "600325",
+        "stock_name": "华发股份",
+        "market_value_wan": 789.97
+      },
+      {
+        "stock_code": "601668",
+        "stock_name": "中国建筑",
+        "market_value_wan": 762.77
+      },
+      {
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "market_value_wan": 612.86
+      }
+    ],
+    "2022-Q2": [
+      {
+        "stock_code": "000002",
+        "stock_name": "万科A",
+        "market_value_wan": 1309.75
+      },
+      {
+        "stock_code": "001979",
+        "stock_name": "招商蛇口",
+        "market_value_wan": 1166.32
+      },
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 1161.0
+      },
+      {
+        "stock_code": "688036",
+        "stock_name": "传音控股",
+        "market_value_wan": 1094.86
+      },
+      {
+        "stock_code": "002415",
+        "stock_name": "海康威视",
+        "market_value_wan": 1081.08
+      },
+      {
+        "stock_code": "002352",
+        "stock_name": "顺丰控股",
+        "market_value_wan": 1017.76
+      },
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 1017.36
+      },
+      {
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "market_value_wan": 1000.68
+      },
+      {
+        "stock_code": "600383",
+        "stock_name": "金地集团",
+        "market_value_wan": 985.59
+      },
+      {
+        "stock_code": "600048",
+        "stock_name": "保利发展",
+        "market_value_wan": 943.89
+      }
+    ],
+    "2022-Q1": [
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 1610.35
+      },
+      {
+        "stock_code": "000002",
+        "stock_name": "万科A",
+        "market_value_wan": 1574.32
+      },
+      {
+        "stock_code": "002415",
+        "stock_name": "海康威视",
+        "market_value_wan": 1401.6
+      },
+      {
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "market_value_wan": 1375.35
+      },
+      {
+        "stock_code": "688036",
+        "stock_name": "传音控股",
+        "market_value_wan": 1270.71
+      },
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 1193.51
+      },
+      {
+        "stock_code": "000656",
+        "stock_name": "*ST金科",
+        "market_value_wan": 1175.82
+      },
+      {
+        "stock_code": "001979",
+        "stock_name": "招商蛇口",
+        "market_value_wan": 1172.63
+      },
+      {
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "market_value_wan": 1163.77
+      },
+      {
+        "stock_code": "002352",
+        "stock_name": "顺丰控股",
+        "market_value_wan": 1162.58
+      }
+    ]
+  }
+}

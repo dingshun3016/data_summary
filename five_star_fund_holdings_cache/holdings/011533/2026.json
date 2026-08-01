@@ -1,0 +1,115 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "011533",
+    "name": "工银聚丰混合C",
+    "base_name": "工银聚丰混合"
+  },
+  "fetched_at": "2026-08-01 20:33:18",
+  "quarters": {
+    "2026-Q2": [
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 1561.61
+      },
+      {
+        "stock_code": "600115",
+        "stock_name": "中国东航",
+        "market_value_wan": 1245.49
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 1092.57
+      },
+      {
+        "stock_code": "603259",
+        "stock_name": "药明康德",
+        "market_value_wan": 1088.22
+      },
+      {
+        "stock_code": "600900",
+        "stock_name": "长江电力",
+        "market_value_wan": 1058.8
+      },
+      {
+        "stock_code": "601021",
+        "stock_name": "春秋航空",
+        "market_value_wan": 867.39
+      },
+      {
+        "stock_code": "002821",
+        "stock_name": "凯莱英",
+        "market_value_wan": 729.0
+      },
+      {
+        "stock_code": "600886",
+        "stock_name": "国投电力",
+        "market_value_wan": 709.42
+      },
+      {
+        "stock_code": "300014",
+        "stock_name": "亿纬锂能",
+        "market_value_wan": 695.17
+      },
+      {
+        "stock_code": "688347",
+        "stock_name": "华虹宏力",
+        "market_value_wan": 672.6
+      }
+    ],
+    "2026-Q1": [
+      {
+        "stock_code": "600115",
+        "stock_name": "中国东航",
+        "market_value_wan": 2125.0
+      },
+      {
+        "stock_code": "601816",
+        "stock_name": "京沪高铁",
+        "market_value_wan": 1518.0
+      },
+      {
+        "stock_code": "601857",
+        "stock_name": "中国石油",
+        "market_value_wan": 1462.8
+      },
+      {
+        "stock_code": "600029",
+        "stock_name": "南方航空",
+        "market_value_wan": 1130.0
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 1004.25
+      },
+      {
+        "stock_code": "601088",
+        "stock_name": "中国神华",
+        "market_value_wan": 979.88
+      },
+      {
+        "stock_code": "002928",
+        "stock_name": "华夏航空",
+        "market_value_wan": 940.8
+      },
+      {
+        "stock_code": "601825",
+        "stock_name": "沪农商行",
+        "market_value_wan": 911.0
+      },
+      {
+        "stock_code": "601728",
+        "stock_name": "中国电信",
+        "market_value_wan": 907.2
+      },
+      {
+        "stock_code": "600938",
+        "stock_name": "中国海油",
+        "market_value_wan": 600.0
+      }
+    ]
+  }
+}

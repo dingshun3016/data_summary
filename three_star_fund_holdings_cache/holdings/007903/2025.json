@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "007903",
+    "name": "长城量化小盘股票A",
+    "base_name": "长城量化小盘股票"
+  },
+  "fetched_at": "2026-06-14 23:25:37",
+  "quarters": {
+    "2025-Q4": [
+      {
+        "stock_code": "002497",
+        "stock_name": "雅化集团",
+        "market_value_wan": 97.02
+      },
+      {
+        "stock_code": "688331",
+        "stock_name": "荣昌生物",
+        "market_value_wan": 90.24
+      },
+      {
+        "stock_code": "002222",
+        "stock_name": "福晶科技",
+        "market_value_wan": 89.02
+      },
+      {
+        "stock_code": "688166",
+        "stock_name": "博瑞医药",
+        "market_value_wan": 87.33
+      },
+      {
+        "stock_code": "300972",
+        "stock_name": "万辰集团",
+        "market_value_wan": 84.45
+      },
+      {
+        "stock_code": "300438",
+        "stock_name": "鹏辉能源",
+        "market_value_wan": 84.09
+      },
+      {
+        "stock_code": "600320",
+        "stock_name": "振华重工",
+        "market_value_wan": 82.5
+      },
+      {
+        "stock_code": "000555",
+        "stock_name": "神州信息",
+        "market_value_wan": 81.76
+      },
+      {
+        "stock_code": "688062",
+        "stock_name": "迈威生物",
+        "market_value_wan": 80.79
+      },
+      {
+        "stock_code": "002182",
+        "stock_name": "宝武镁业",
+        "market_value_wan": 80.48
+      }
+    ],
+    "2025-Q3": [
+      {
+        "stock_code": "601677",
+        "stock_name": "明泰铝业",
+        "market_value_wan": 92.22
+      },
+      {
+        "stock_code": "600323",
+        "stock_name": "瀚蓝环境",
+        "market_value_wan": 83.25
+      },
+      {
+        "stock_code": "688432",
+        "stock_name": "有研硅",
+        "market_value_wan": 81.47
+      },
+      {
+        "stock_code": "600273",
+        "stock_name": "嘉化能源",
+        "market_value_wan": 81.42
+      },
+      {
+        "stock_code": "601528",
+        "stock_name": "瑞丰银行",
+        "market_value_wan": 80.77
+      },
+      {
+        "stock_code": "600315",
+        "stock_name": "上海家化",
+        "market_value_wan": 80.28
+      },
+      {
+        "stock_code": "600908",
+        "stock_name": "无锡银行",
+        "market_value_wan": 79.97
+      },
+      {
+        "stock_code": "600055",
+        "stock_name": "万东医疗",
+        "market_value_wan": 79.74
+      },
+      {
+        "stock_code": "002948",
+        "stock_name": "青岛银行",
+        "market_value_wan": 79.58
+      },
+      {
+        "stock_code": "600750",
+        "stock_name": "江中药业",
+        "market_value_wan": 79.17
+      }
+    ],
+    "2025-Q2": [
+      {
+        "stock_code": "603323",
+        "stock_name": "苏农银行",
+        "market_value_wan": 104.66
+      },
+      {
+        "stock_code": "600908",
+        "stock_name": "无锡银行",
+        "market_value_wan": 101.97
+      },
+      {
+        "stock_code": "601187",
+        "stock_name": "厦门银行",
+        "market_value_wan": 99.41
+      },
+      {
+        "stock_code": "601860",
+        "stock_name": "紫金银行",
+        "market_value_wan": 97.62
+      },
+      {
+        "stock_code": "601528",
+        "stock_name": "瑞丰银行",
+        "market_value_wan": 97.16
+      },
+      {
+        "stock_code": "301132",
+        "stock_name": "满坤科技",
+        "market_value_wan": 93.84
+      },
+      {
+        "stock_code": "601963",
+        "stock_name": "重庆银行",
+        "market_value_wan": 93.07
+      },
+      {
+        "stock_code": "002948",
+        "stock_name": "青岛银行",
+        "market_value_wan": 92.22
+      },
+      {
+        "stock_code": "002546",
+        "stock_name": "新联电子",
+        "market_value_wan": 86.96
+      },
+      {
+        "stock_code": "600055",
+        "stock_name": "万东医疗",
+        "market_value_wan": 86.57
+      }
+    ],
+    "2025-Q1": [
+      {
+        "stock_code": "601963",
+        "stock_name": "重庆银行",
+        "market_value_wan": 99.14
+      },
+      {
+        "stock_code": "601860",
+        "stock_name": "紫金银行",
+        "market_value_wan": 97.06
+      },
+      {
+        "stock_code": "600908",
+        "stock_name": "无锡银行",
+        "market_value_wan": 93.87
+      },
+      {
+        "stock_code": "601528",
+        "stock_name": "瑞丰银行",
+        "market_value_wan": 93.67
+      },
+      {
+        "stock_code": "600623",
+        "stock_name": "华谊集团",
+        "market_value_wan": 93.59
+      },
+      {
+        "stock_code": "601187",
+        "stock_name": "厦门银行",
+        "market_value_wan": 93.47
+      },
+      {
+        "stock_code": "002948",
+        "stock_name": "青岛银行",
+        "market_value_wan": 93.3
+      },
+      {
+        "stock_code": "600211",
+        "stock_name": "西藏药业",
+        "market_value_wan": 93.27
+      },
+      {
+        "stock_code": "600502",
+        "stock_name": "安徽建工",
+        "market_value_wan": 92.97
+      },
+      {
+        "stock_code": "603323",
+        "stock_name": "苏农银行",
+        "market_value_wan": 92.26
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "002793",
+    "name": "景顺长城顺益回报混合C",
+    "base_name": "景顺长城顺益回报混合"
+  },
+  "fetched_at": "2026-06-14 23:07:29",
+  "quarters": {
+    "2020-Q4": [
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 737.32
+      },
+      {
+        "stock_code": "002142",
+        "stock_name": "宁波银行",
+        "market_value_wan": 626.97
+      },
+      {
+        "stock_code": "600276",
+        "stock_name": "恒瑞医药",
+        "market_value_wan": 507.59
+      },
+      {
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "market_value_wan": 442.73
+      },
+      {
+        "stock_code": "002352",
+        "stock_name": "顺丰控股",
+        "market_value_wan": 398.8
+      },
+      {
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "market_value_wan": 381.05
+      },
+      {
+        "stock_code": "600585",
+        "stock_name": "海螺水泥",
+        "market_value_wan": 352.56
+      },
+      {
+        "stock_code": "002311",
+        "stock_name": "海大集团",
+        "market_value_wan": 341.91
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 339.66
+      },
+      {
+        "stock_code": "002233",
+        "stock_name": "塔牌集团",
+        "market_value_wan": 284.34
+      }
+    ],
+    "2020-Q3": [
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 543.77
+      },
+      {
+        "stock_code": "603338",
+        "stock_name": "浙江鼎力",
+        "market_value_wan": 455.3
+      },
+      {
+        "stock_code": "002142",
+        "stock_name": "宁波银行",
+        "market_value_wan": 443.87
+      },
+      {
+        "stock_code": "600276",
+        "stock_name": "恒瑞医药",
+        "market_value_wan": 409.04
+      },
+      {
+        "stock_code": "000725",
+        "stock_name": "京东方A",
+        "market_value_wan": 389.8
+      },
+      {
+        "stock_code": "600585",
+        "stock_name": "海螺水泥",
+        "market_value_wan": 377.43
+      },
+      {
+        "stock_code": "002352",
+        "stock_name": "顺丰控股",
+        "market_value_wan": 367.02
+      },
+      {
+        "stock_code": "600031",
+        "stock_name": "三一重工",
+        "market_value_wan": 359.41
+      },
+      {
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "market_value_wan": 346.22
+      },
+      {
+        "stock_code": "600900",
+        "stock_name": "长江电力",
+        "market_value_wan": 325.21
+      }
+    ],
+    "2020-Q2": [
+      {
+        "stock_code": "600031",
+        "stock_name": "三一重工",
+        "market_value_wan": 581.18
+      },
+      {
+        "stock_code": "600028",
+        "stock_name": "中国石化",
+        "market_value_wan": 529.84
+      },
+      {
+        "stock_code": "601186",
+        "stock_name": "中国铁建",
+        "market_value_wan": 464.67
+      },
+      {
+        "stock_code": "600276",
+        "stock_name": "恒瑞医药",
+        "market_value_wan": 420.33
+      },
+      {
+        "stock_code": "601098",
+        "stock_name": "中南传媒",
+        "market_value_wan": 406.48
+      },
+      {
+        "stock_code": "600585",
+        "stock_name": "海螺水泥",
+        "market_value_wan": 361.38
+      },
+      {
+        "stock_code": "600900",
+        "stock_name": "长江电力",
+        "market_value_wan": 357.4
+      },
+      {
+        "stock_code": "603338",
+        "stock_name": "浙江鼎力",
+        "market_value_wan": 347.94
+      },
+      {
+        "stock_code": "600461",
+        "stock_name": "洪城环境",
+        "market_value_wan": 337.67
+      },
+      {
+        "stock_code": "601088",
+        "stock_name": "中国神华",
+        "market_value_wan": 283.47
+      }
+    ],
+    "2020-Q1": [
+      {
+        "stock_code": "600028",
+        "stock_name": "中国石化",
+        "market_value_wan": 827.75
+      },
+      {
+        "stock_code": "600383",
+        "stock_name": "金地集团",
+        "market_value_wan": 807.5
+      },
+      {
+        "stock_code": "600031",
+        "stock_name": "三一重工",
+        "market_value_wan": 767.95
+      },
+      {
+        "stock_code": "600511",
+        "stock_name": "国药股份",
+        "market_value_wan": 618.77
+      },
+      {
+        "stock_code": "601098",
+        "stock_name": "中南传媒",
+        "market_value_wan": 408.4
+      },
+      {
+        "stock_code": "600673",
+        "stock_name": "东阳光",
+        "market_value_wan": 396.89
+      },
+      {
+        "stock_code": "600048",
+        "stock_name": "保利发展",
+        "market_value_wan": 380.37
+      },
+      {
+        "stock_code": "601186",
+        "stock_name": "中国铁建",
+        "market_value_wan": 364.1
+      },
+      {
+        "stock_code": "600900",
+        "stock_name": "长江电力",
+        "market_value_wan": 326.26
+      },
+      {
+        "stock_code": "300383",
+        "stock_name": "光环新网",
+        "market_value_wan": 304.39
+      }
+    ]
+  }
+}

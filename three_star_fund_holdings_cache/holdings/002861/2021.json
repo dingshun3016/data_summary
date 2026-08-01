@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "002861",
+    "name": "工银智能制造股票A",
+    "base_name": "工银智能制造股票"
+  },
+  "fetched_at": "2026-06-14 23:07:56",
+  "quarters": {
+    "2021-Q4": [
+      {
+        "stock_code": "002415",
+        "stock_name": "海康威视",
+        "market_value_wan": 1399.56
+      },
+      {
+        "stock_code": "601888",
+        "stock_name": "中国中免",
+        "market_value_wan": 1158.48
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 1158.36
+      },
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 1139.87
+      },
+      {
+        "stock_code": "002384",
+        "stock_name": "东山精密",
+        "market_value_wan": 976.68
+      },
+      {
+        "stock_code": "600765",
+        "stock_name": "中航重机",
+        "market_value_wan": 954.26
+      },
+      {
+        "stock_code": "600399",
+        "stock_name": "抚顺特钢",
+        "market_value_wan": 942.5
+      },
+      {
+        "stock_code": "688025",
+        "stock_name": "杰普特",
+        "market_value_wan": 915.02
+      },
+      {
+        "stock_code": "300454",
+        "stock_name": "深信服",
+        "market_value_wan": 859.5
+      },
+      {
+        "stock_code": "688017",
+        "stock_name": "绿的谐波",
+        "market_value_wan": 821.97
+      }
+    ],
+    "2021-Q3": [
+      {
+        "stock_code": "002415",
+        "stock_name": "海康威视",
+        "market_value_wan": 1419.55
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 1035.69
+      },
+      {
+        "stock_code": "601888",
+        "stock_name": "中国中免",
+        "market_value_wan": 1003.6
+      },
+      {
+        "stock_code": "000568",
+        "stock_name": "泸州老窖",
+        "market_value_wan": 846.44
+      },
+      {
+        "stock_code": "300454",
+        "stock_name": "深信服",
+        "market_value_wan": 722.57
+      },
+      {
+        "stock_code": "600399",
+        "stock_name": "抚顺特钢",
+        "market_value_wan": 695.46
+      },
+      {
+        "stock_code": "688025",
+        "stock_name": "杰普特",
+        "market_value_wan": 678.89
+      },
+      {
+        "stock_code": "300661",
+        "stock_name": "圣邦股份",
+        "market_value_wan": 662.13
+      },
+      {
+        "stock_code": "688017",
+        "stock_name": "绿的谐波",
+        "market_value_wan": 648.69
+      },
+      {
+        "stock_code": "002384",
+        "stock_name": "东山精密",
+        "market_value_wan": 620.14
+      }
+    ],
+    "2021-Q2": [
+      {
+        "stock_code": "002415",
+        "stock_name": "海康威视",
+        "market_value_wan": 1562.19
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 1053.56
+      },
+      {
+        "stock_code": "601888",
+        "stock_name": "中国中免",
+        "market_value_wan": 867.29
+      },
+      {
+        "stock_code": "688017",
+        "stock_name": "绿的谐波",
+        "market_value_wan": 747.3
+      },
+      {
+        "stock_code": "600660",
+        "stock_name": "福耀玻璃",
+        "market_value_wan": 716.56
+      },
+      {
+        "stock_code": "300454",
+        "stock_name": "深信服",
+        "market_value_wan": 705.79
+      },
+      {
+        "stock_code": "300760",
+        "stock_name": "迈瑞医疗",
+        "market_value_wan": 676.87
+      },
+      {
+        "stock_code": "002179",
+        "stock_name": "中航光电",
+        "market_value_wan": 666.14
+      },
+      {
+        "stock_code": "002833",
+        "stock_name": "弘亚数控",
+        "market_value_wan": 644.72
+      },
+      {
+        "stock_code": "688111",
+        "stock_name": "金山办公",
+        "market_value_wan": 644.71
+      }
+    ],
+    "2021-Q1": [
+      {
+        "stock_code": "002415",
+        "stock_name": "海康威视",
+        "market_value_wan": 1280.67
+      },
+      {
+        "stock_code": "002833",
+        "stock_name": "弘亚数控",
+        "market_value_wan": 1031.4
+      },
+      {
+        "stock_code": "000661",
+        "stock_name": "长春高新",
+        "market_value_wan": 710.79
+      },
+      {
+        "stock_code": "601888",
+        "stock_name": "中国中免",
+        "market_value_wan": 707.04
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 660.45
+      },
+      {
+        "stock_code": "002938",
+        "stock_name": "鹏鼎控股",
+        "market_value_wan": 647.6
+      },
+      {
+        "stock_code": "600660",
+        "stock_name": "福耀玻璃",
+        "market_value_wan": 591.21
+      },
+      {
+        "stock_code": "603186",
+        "stock_name": "华正新材",
+        "market_value_wan": 576.15
+      },
+      {
+        "stock_code": "688017",
+        "stock_name": "绿的谐波",
+        "market_value_wan": 572.29
+      },
+      {
+        "stock_code": "002179",
+        "stock_name": "中航光电",
+        "market_value_wan": 569.87
+      }
+    ]
+  }
+}

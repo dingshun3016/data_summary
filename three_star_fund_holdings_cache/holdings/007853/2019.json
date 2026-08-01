@@ -1,0 +1,63 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "007853",
+    "name": "华商计算机行业量化股票发起式A",
+    "base_name": "华商计算机行业量化股票发起式"
+  },
+  "fetched_at": "2026-06-14 23:25:32",
+  "quarters": {
+    "2019-Q4": [
+      {
+        "stock_code": "600570",
+        "stock_name": "恒生电子",
+        "market_value_wan": 1877.96
+      },
+      {
+        "stock_code": "000977",
+        "stock_name": "浪潮信息",
+        "market_value_wan": 1693.63
+      },
+      {
+        "stock_code": "002230",
+        "stock_name": "科大讯飞",
+        "market_value_wan": 1398.16
+      },
+      {
+        "stock_code": "002410",
+        "stock_name": "广联达",
+        "market_value_wan": 1151.92
+      },
+      {
+        "stock_code": "300253",
+        "stock_name": "卫宁健康",
+        "market_value_wan": 1099.23
+      },
+      {
+        "stock_code": "300033",
+        "stock_name": "同花顺",
+        "market_value_wan": 1095.46
+      },
+      {
+        "stock_code": "600588",
+        "stock_name": "用友网络",
+        "market_value_wan": 1092.83
+      },
+      {
+        "stock_code": "002439",
+        "stock_name": "启明星辰",
+        "market_value_wan": 998.45
+      },
+      {
+        "stock_code": "000066",
+        "stock_name": "中国长城",
+        "market_value_wan": 961.45
+      },
+      {
+        "stock_code": "600536",
+        "stock_name": "中国软件",
+        "market_value_wan": 824.44
+      }
+    ]
+  }
+}

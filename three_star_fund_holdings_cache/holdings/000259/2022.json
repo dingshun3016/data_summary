@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "000259",
+    "name": "农银区间收益混合",
+    "base_name": "农银区间收益混合"
+  },
+  "fetched_at": "2026-06-14 22:49:09",
+  "quarters": {
+    "2022-Q4": [
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 1865.28
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 1709.73
+      },
+      {
+        "stock_code": "300274",
+        "stock_name": "阳光电源",
+        "market_value_wan": 923.8
+      },
+      {
+        "stock_code": "600809",
+        "stock_name": "山西汾酒",
+        "market_value_wan": 772.61
+      },
+      {
+        "stock_code": "688212",
+        "stock_name": "澳华内镜",
+        "market_value_wan": 746.59
+      },
+      {
+        "stock_code": "688409",
+        "stock_name": "富创精密",
+        "market_value_wan": 521.09
+      },
+      {
+        "stock_code": "300014",
+        "stock_name": "亿纬锂能",
+        "market_value_wan": 518.51
+      },
+      {
+        "stock_code": "300919",
+        "stock_name": "中伟股份",
+        "market_value_wan": 516.48
+      },
+      {
+        "stock_code": "688392",
+        "stock_name": "骄成超声",
+        "market_value_wan": 515.89
+      },
+      {
+        "stock_code": "603633",
+        "stock_name": "徕木股份",
+        "market_value_wan": 475.27
+      }
+    ],
+    "2022-Q3": [
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 1940.79
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 1498.0
+      },
+      {
+        "stock_code": "601609",
+        "stock_name": "金田股份",
+        "market_value_wan": 1097.85
+      },
+      {
+        "stock_code": "600809",
+        "stock_name": "山西汾酒",
+        "market_value_wan": 1087.68
+      },
+      {
+        "stock_code": "300274",
+        "stock_name": "阳光电源",
+        "market_value_wan": 914.05
+      },
+      {
+        "stock_code": "300919",
+        "stock_name": "中伟股份",
+        "market_value_wan": 820.46
+      },
+      {
+        "stock_code": "688392",
+        "stock_name": "骄成超声",
+        "market_value_wan": 504.68
+      },
+      {
+        "stock_code": "300014",
+        "stock_name": "亿纬锂能",
+        "market_value_wan": 499.05
+      },
+      {
+        "stock_code": "688599",
+        "stock_name": "天合光能",
+        "market_value_wan": 496.24
+      },
+      {
+        "stock_code": "002129",
+        "stock_name": "TCL中环",
+        "market_value_wan": 473.74
+      }
+    ],
+    "2022-Q2": [
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 2243.44
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 1860.95
+      },
+      {
+        "stock_code": "600809",
+        "stock_name": "山西汾酒",
+        "market_value_wan": 1295.95
+      },
+      {
+        "stock_code": "000002",
+        "stock_name": "万科A",
+        "market_value_wan": 1136.11
+      },
+      {
+        "stock_code": "002709",
+        "stock_name": "天赐材料",
+        "market_value_wan": 884.36
+      },
+      {
+        "stock_code": "300919",
+        "stock_name": "中伟股份",
+        "market_value_wan": 811.55
+      },
+      {
+        "stock_code": "601609",
+        "stock_name": "金田股份",
+        "market_value_wan": 760.39
+      },
+      {
+        "stock_code": "688599",
+        "stock_name": "天合光能",
+        "market_value_wan": 701.09
+      },
+      {
+        "stock_code": "002850",
+        "stock_name": "科达利",
+        "market_value_wan": 669.39
+      },
+      {
+        "stock_code": "600038",
+        "stock_name": "中直股份",
+        "market_value_wan": 576.3
+      }
+    ],
+    "2022-Q1": [
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 2111.29
+      },
+      {
+        "stock_code": "000002",
+        "stock_name": "万科A",
+        "market_value_wan": 1210.66
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 911.07
+      },
+      {
+        "stock_code": "600809",
+        "stock_name": "山西汾酒",
+        "market_value_wan": 739.21
+      },
+      {
+        "stock_code": "601717",
+        "stock_name": "郑煤机",
+        "market_value_wan": 720.9
+      },
+      {
+        "stock_code": "300919",
+        "stock_name": "中伟股份",
+        "market_value_wan": 711.21
+      },
+      {
+        "stock_code": "002709",
+        "stock_name": "天赐材料",
+        "market_value_wan": 702.65
+      },
+      {
+        "stock_code": "300073",
+        "stock_name": "当升科技",
+        "market_value_wan": 661.76
+      },
+      {
+        "stock_code": "600760",
+        "stock_name": "中航沈飞",
+        "market_value_wan": 640.36
+      },
+      {
+        "stock_code": "600745",
+        "stock_name": "闻泰科技",
+        "market_value_wan": 628.45
+      }
+    ]
+  }
+}

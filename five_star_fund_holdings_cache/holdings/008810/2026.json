@@ -1,0 +1,70 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "008810",
+    "name": "安信民稳增长混合C",
+    "base_name": "安信民稳增长混合"
+  },
+  "fetched_at": "2026-08-01 20:33:14",
+  "quarters": {
+    "2026-Q2": [
+      {
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "market_value_wan": 4141.79
+      },
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 3674.68
+      },
+      {
+        "stock_code": "002078",
+        "stock_name": "太阳纸业",
+        "market_value_wan": 3257.17
+      },
+      {
+        "stock_code": "002142",
+        "stock_name": "宁波银行",
+        "market_value_wan": 3112.2
+      },
+      {
+        "stock_code": "601166",
+        "stock_name": "兴业银行",
+        "market_value_wan": 3016.9
+      },
+      {
+        "stock_code": "600690",
+        "stock_name": "海尔智家",
+        "market_value_wan": 2844.34
+      }
+    ],
+    "2026-Q1": [
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 5799.22
+      },
+      {
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "market_value_wan": 4370.02
+      },
+      {
+        "stock_code": "601001",
+        "stock_name": "晋控煤业",
+        "market_value_wan": 4238.61
+      },
+      {
+        "stock_code": "002142",
+        "stock_name": "宁波银行",
+        "market_value_wan": 3811.52
+      },
+      {
+        "stock_code": "600690",
+        "stock_name": "海尔智家",
+        "market_value_wan": 3469.33
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "001743",
+    "name": "诺安优选回报混合A",
+    "base_name": "诺安优选回报混合"
+  },
+  "fetched_at": "2026-06-14 22:29:12",
+  "quarters": {
+    "2018-Q1": [
+      {
+        "stock_code": "600929",
+        "stock_name": "雪天盐业",
+        "market_value_wan": 4.45
+      },
+      {
+        "stock_code": "603214",
+        "stock_name": "爱婴室",
+        "market_value_wan": 2.64
+      },
+      {
+        "stock_code": "600259",
+        "stock_name": "广晟有色",
+        "market_value_wan": 0.16
+      },
+      {
+        "stock_code": "603558",
+        "stock_name": "健盛集团",
+        "market_value_wan": 0.02
+      }
+    ]
+  }
+}

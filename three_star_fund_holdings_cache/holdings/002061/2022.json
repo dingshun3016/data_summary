@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "002061",
+    "name": "国泰安康定期支付混合C",
+    "base_name": "国泰安康定期支付混合"
+  },
+  "fetched_at": "2026-06-14 23:03:23",
+  "quarters": {
+    "2022-Q4": [
+      {
+        "stock_code": "601628",
+        "stock_name": "中国人寿",
+        "market_value_wan": 60.13
+      },
+      {
+        "stock_code": "000001",
+        "stock_name": "平安银行",
+        "market_value_wan": 59.61
+      },
+      {
+        "stock_code": "601899",
+        "stock_name": "紫金矿业",
+        "market_value_wan": 41.9
+      },
+      {
+        "stock_code": "002422",
+        "stock_name": "科伦药业",
+        "market_value_wan": 39.12
+      },
+      {
+        "stock_code": "688111",
+        "stock_name": "金山办公",
+        "market_value_wan": 38.75
+      },
+      {
+        "stock_code": "300633",
+        "stock_name": "开立医疗",
+        "market_value_wan": 36.19
+      },
+      {
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "market_value_wan": 34.31
+      },
+      {
+        "stock_code": "002675",
+        "stock_name": "东诚药业",
+        "market_value_wan": 33.62
+      },
+      {
+        "stock_code": "603517",
+        "stock_name": "绝味食品",
+        "market_value_wan": 32.99
+      },
+      {
+        "stock_code": "600079",
+        "stock_name": "人福医药",
+        "market_value_wan": 30.58
+      }
+    ],
+    "2022-Q3": [
+      {
+        "stock_code": "000002",
+        "stock_name": "万科A",
+        "market_value_wan": 63.65
+      },
+      {
+        "stock_code": "300260",
+        "stock_name": "新莱应材",
+        "market_value_wan": 63.03
+      },
+      {
+        "stock_code": "301035",
+        "stock_name": "润丰股份",
+        "market_value_wan": 56.15
+      },
+      {
+        "stock_code": "000568",
+        "stock_name": "泸州老窖",
+        "market_value_wan": 55.75
+      },
+      {
+        "stock_code": "600325",
+        "stock_name": "华发股份",
+        "market_value_wan": 42.75
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 37.45
+      },
+      {
+        "stock_code": "600276",
+        "stock_name": "恒瑞医药",
+        "market_value_wan": 36.15
+      },
+      {
+        "stock_code": "600048",
+        "stock_name": "保利发展",
+        "market_value_wan": 30.78
+      },
+      {
+        "stock_code": "002422",
+        "stock_name": "科伦药业",
+        "market_value_wan": 29.75
+      },
+      {
+        "stock_code": "600600",
+        "stock_name": "青岛啤酒",
+        "market_value_wan": 29.74
+      }
+    ],
+    "2022-Q2": [
+      {
+        "stock_code": "002372",
+        "stock_name": "伟星新材",
+        "market_value_wan": 212.99
+      },
+      {
+        "stock_code": "601012",
+        "stock_name": "隆基绿能",
+        "market_value_wan": 172.17
+      },
+      {
+        "stock_code": "601111",
+        "stock_name": "中国国航",
+        "market_value_wan": 167.76
+      },
+      {
+        "stock_code": "000568",
+        "stock_name": "泸州老窖",
+        "market_value_wan": 142.99
+      },
+      {
+        "stock_code": "300498",
+        "stock_name": "温氏股份",
+        "market_value_wan": 135.83
+      },
+      {
+        "stock_code": "688223",
+        "stock_name": "晶科能源",
+        "market_value_wan": 135.3
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 128.16
+      },
+      {
+        "stock_code": "600600",
+        "stock_name": "青岛啤酒",
+        "market_value_wan": 123.66
+      },
+      {
+        "stock_code": "603369",
+        "stock_name": "今世缘",
+        "market_value_wan": 120.87
+      },
+      {
+        "stock_code": "601888",
+        "stock_name": "中国中免",
+        "market_value_wan": 116.47
+      }
+    ],
+    "2022-Q1": [
+      {
+        "stock_code": "603229",
+        "stock_name": "奥翔药业",
+        "market_value_wan": 613.1
+      },
+      {
+        "stock_code": "601012",
+        "stock_name": "隆基绿能",
+        "market_value_wan": 456.96
+      },
+      {
+        "stock_code": "301035",
+        "stock_name": "润丰股份",
+        "market_value_wan": 454.73
+      },
+      {
+        "stock_code": "300260",
+        "stock_name": "新莱应材",
+        "market_value_wan": 446.5
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 409.84
+      },
+      {
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "market_value_wan": 403.42
+      },
+      {
+        "stock_code": "600030",
+        "stock_name": "中信证券",
+        "market_value_wan": 390.81
+      },
+      {
+        "stock_code": "002241",
+        "stock_name": "歌尔股份",
+        "market_value_wan": 381.84
+      },
+      {
+        "stock_code": "002436",
+        "stock_name": "兴森科技",
+        "market_value_wan": 333.97
+      },
+      {
+        "stock_code": "600406",
+        "stock_name": "国电南瑞",
+        "market_value_wan": 328.13
+      }
+    ]
+  }
+}

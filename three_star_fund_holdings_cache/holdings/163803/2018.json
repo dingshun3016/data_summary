@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "163803",
+    "name": "中银持续增长混合A",
+    "base_name": "中银持续增长混合"
+  },
+  "fetched_at": "2026-06-14 23:53:44",
+  "quarters": {
+    "2018-Q4": [
+      {
+        "stock_code": "603899",
+        "stock_name": "晨光股份",
+        "market_value_wan": 13078.96
+      },
+      {
+        "stock_code": "601288",
+        "stock_name": "农业银行",
+        "market_value_wan": 11370.27
+      },
+      {
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "market_value_wan": 7867.99
+      },
+      {
+        "stock_code": "601186",
+        "stock_name": "中国铁建",
+        "market_value_wan": 6694.64
+      },
+      {
+        "stock_code": "601939",
+        "stock_name": "建设银行",
+        "market_value_wan": 6683.08
+      },
+      {
+        "stock_code": "002035",
+        "stock_name": "华帝股份",
+        "market_value_wan": 5702.24
+      },
+      {
+        "stock_code": "601328",
+        "stock_name": "交通银行",
+        "market_value_wan": 4791.8
+      },
+      {
+        "stock_code": "601390",
+        "stock_name": "中国中铁",
+        "market_value_wan": 4540.77
+      },
+      {
+        "stock_code": "600048",
+        "stock_name": "保利发展",
+        "market_value_wan": 3903.69
+      },
+      {
+        "stock_code": "600030",
+        "stock_name": "中信证券",
+        "market_value_wan": 3826.23
+      }
+    ],
+    "2018-Q3": [
+      {
+        "stock_code": "603899",
+        "stock_name": "晨光股份",
+        "market_value_wan": 13424.85
+      },
+      {
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "market_value_wan": 12962.61
+      },
+      {
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "market_value_wan": 9791.39
+      },
+      {
+        "stock_code": "601288",
+        "stock_name": "农业银行",
+        "market_value_wan": 8088.9
+      },
+      {
+        "stock_code": "601939",
+        "stock_name": "建设银行",
+        "market_value_wan": 7595.84
+      },
+      {
+        "stock_code": "002035",
+        "stock_name": "华帝股份",
+        "market_value_wan": 5794.32
+      },
+      {
+        "stock_code": "600282",
+        "stock_name": "南钢股份",
+        "market_value_wan": 5318.41
+      },
+      {
+        "stock_code": "002568",
+        "stock_name": "百润股份",
+        "market_value_wan": 5018.71
+      },
+      {
+        "stock_code": "600782",
+        "stock_name": "新钢股份",
+        "market_value_wan": 4186.37
+      },
+      {
+        "stock_code": "600048",
+        "stock_name": "保利发展",
+        "market_value_wan": 4029.5
+      }
+    ],
+    "2018-Q2": [
+      {
+        "stock_code": "603899",
+        "stock_name": "晨光股份",
+        "market_value_wan": 13701.56
+      },
+      {
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "market_value_wan": 11509.05
+      },
+      {
+        "stock_code": "002035",
+        "stock_name": "华帝股份",
+        "market_value_wan": 9257.98
+      },
+      {
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "market_value_wan": 8373.43
+      },
+      {
+        "stock_code": "601288",
+        "stock_name": "农业银行",
+        "market_value_wan": 7910.69
+      },
+      {
+        "stock_code": "600782",
+        "stock_name": "新钢股份",
+        "market_value_wan": 7681.88
+      },
+      {
+        "stock_code": "600521",
+        "stock_name": "华海药业",
+        "market_value_wan": 6295.74
+      },
+      {
+        "stock_code": "600282",
+        "stock_name": "南钢股份",
+        "market_value_wan": 5652.69
+      },
+      {
+        "stock_code": "603019",
+        "stock_name": "中科曙光",
+        "market_value_wan": 5416.79
+      },
+      {
+        "stock_code": "601009",
+        "stock_name": "南京银行",
+        "market_value_wan": 5395.92
+      }
+    ],
+    "2018-Q1": [
+      {
+        "stock_code": "603899",
+        "stock_name": "晨光股份",
+        "market_value_wan": 13277.85
+      },
+      {
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "market_value_wan": 12662.57
+      },
+      {
+        "stock_code": "002035",
+        "stock_name": "华帝股份",
+        "market_value_wan": 9913.58
+      },
+      {
+        "stock_code": "600019",
+        "stock_name": "宝钢股份",
+        "market_value_wan": 9760.94
+      },
+      {
+        "stock_code": "601288",
+        "stock_name": "农业银行",
+        "market_value_wan": 8991.51
+      },
+      {
+        "stock_code": "601818",
+        "stock_name": "光大银行",
+        "market_value_wan": 8854.82
+      },
+      {
+        "stock_code": "601939",
+        "stock_name": "建设银行",
+        "market_value_wan": 8603.8
+      },
+      {
+        "stock_code": "601009",
+        "stock_name": "南京银行",
+        "market_value_wan": 8469.38
+      },
+      {
+        "stock_code": "600782",
+        "stock_name": "新钢股份",
+        "market_value_wan": 7582.44
+      },
+      {
+        "stock_code": "600048",
+        "stock_name": "保利发展",
+        "market_value_wan": 6312.27
+      }
+    ]
+  }
+}

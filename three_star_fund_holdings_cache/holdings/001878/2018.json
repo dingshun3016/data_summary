@@ -1,0 +1,84 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "001878",
+    "name": "嘉实沪港深精选股票",
+    "base_name": "嘉实沪港深精选股票"
+  },
+  "fetched_at": "2026-06-14 23:01:44",
+  "quarters": {
+    "2018-Q4": [
+      {
+        "stock_code": "000963",
+        "stock_name": "华东医药",
+        "market_value_wan": 23835.57
+      },
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 23585.48
+      },
+      {
+        "stock_code": "000651",
+        "stock_name": "格力电器",
+        "market_value_wan": 20610.16
+      },
+      {
+        "stock_code": "600276",
+        "stock_name": "恒瑞医药",
+        "market_value_wan": 15823.85
+      },
+      {
+        "stock_code": "000028",
+        "stock_name": "国药一致",
+        "market_value_wan": 14730.68
+      }
+    ],
+    "2018-Q3": [
+      {
+        "stock_code": "000651",
+        "stock_name": "格力电器",
+        "market_value_wan": 35274.59
+      },
+      {
+        "stock_code": "000963",
+        "stock_name": "华东医药",
+        "market_value_wan": 19765.25
+      },
+      {
+        "stock_code": "002043",
+        "stock_name": "兔宝宝",
+        "market_value_wan": 7767.87
+      }
+    ],
+    "2018-Q2": [
+      {
+        "stock_code": "000651",
+        "stock_name": "格力电器",
+        "market_value_wan": 31943.24
+      },
+      {
+        "stock_code": "000963",
+        "stock_name": "华东医药",
+        "market_value_wan": 22717.33
+      },
+      {
+        "stock_code": "002236",
+        "stock_name": "大华股份",
+        "market_value_wan": 20812.24
+      }
+    ],
+    "2018-Q1": [
+      {
+        "stock_code": "000651",
+        "stock_name": "格力电器",
+        "market_value_wan": 24739.28
+      },
+      {
+        "stock_code": "002236",
+        "stock_name": "大华股份",
+        "market_value_wan": 23645.66
+      }
+    ]
+  }
+}

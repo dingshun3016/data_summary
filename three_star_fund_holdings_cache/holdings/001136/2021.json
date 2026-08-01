@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "001136",
+    "name": "易方达裕如灵活配置混合A",
+    "base_name": "易方达裕如灵活配置混合"
+  },
+  "fetched_at": "2026-06-14 22:54:06",
+  "quarters": {
+    "2021-Q4": [
+      {
+        "stock_code": "002142",
+        "stock_name": "宁波银行",
+        "market_value_wan": 1105.76
+      },
+      {
+        "stock_code": "601117",
+        "stock_name": "中国化学",
+        "market_value_wan": 1075.76
+      },
+      {
+        "stock_code": "000001",
+        "stock_name": "平安银行",
+        "market_value_wan": 1030.0
+      },
+      {
+        "stock_code": "600438",
+        "stock_name": "通威股份",
+        "market_value_wan": 944.61
+      },
+      {
+        "stock_code": "601012",
+        "stock_name": "隆基绿能",
+        "market_value_wan": 782.87
+      },
+      {
+        "stock_code": "600690",
+        "stock_name": "海尔智家",
+        "market_value_wan": 766.08
+      },
+      {
+        "stock_code": "603806",
+        "stock_name": "福斯特",
+        "market_value_wan": 742.95
+      },
+      {
+        "stock_code": "600941",
+        "stock_name": "中国移动",
+        "market_value_wan": 718.62
+      },
+      {
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "market_value_wan": 715.06
+      },
+      {
+        "stock_code": "600585",
+        "stock_name": "海螺水泥",
+        "market_value_wan": 711.3
+      }
+    ],
+    "2021-Q3": [
+      {
+        "stock_code": "000001",
+        "stock_name": "平安银行",
+        "market_value_wan": 1120.63
+      },
+      {
+        "stock_code": "601117",
+        "stock_name": "中国化学",
+        "market_value_wan": 928.94
+      },
+      {
+        "stock_code": "002142",
+        "stock_name": "宁波银行",
+        "market_value_wan": 923.04
+      },
+      {
+        "stock_code": "603806",
+        "stock_name": "福斯特",
+        "market_value_wan": 909.27
+      },
+      {
+        "stock_code": "600585",
+        "stock_name": "海螺水泥",
+        "market_value_wan": 720.12
+      },
+      {
+        "stock_code": "600690",
+        "stock_name": "海尔智家",
+        "market_value_wan": 670.22
+      },
+      {
+        "stock_code": "601012",
+        "stock_name": "隆基绿能",
+        "market_value_wan": 656.71
+      },
+      {
+        "stock_code": "000825",
+        "stock_name": "太钢不锈",
+        "market_value_wan": 653.29
+      },
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 649.37
+      },
+      {
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "market_value_wan": 637.87
+      }
+    ],
+    "2021-Q2": [
+      {
+        "stock_code": "600905",
+        "stock_name": "三峡能源",
+        "market_value_wan": 762.13
+      },
+      {
+        "stock_code": "601117",
+        "stock_name": "中国化学",
+        "market_value_wan": 721.95
+      },
+      {
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "market_value_wan": 721.86
+      },
+      {
+        "stock_code": "603806",
+        "stock_name": "福斯特",
+        "market_value_wan": 591.98
+      },
+      {
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "market_value_wan": 587.96
+      },
+      {
+        "stock_code": "600690",
+        "stock_name": "海尔智家",
+        "market_value_wan": 518.2
+      },
+      {
+        "stock_code": "000786",
+        "stock_name": "北新建材",
+        "market_value_wan": 471.79
+      },
+      {
+        "stock_code": "002142",
+        "stock_name": "宁波银行",
+        "market_value_wan": 435.68
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 395.75
+      },
+      {
+        "stock_code": "600007",
+        "stock_name": "中国国贸",
+        "market_value_wan": 383.98
+      }
+    ],
+    "2021-Q1": [
+      {
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "market_value_wan": 883.8
+      },
+      {
+        "stock_code": "601117",
+        "stock_name": "中国化学",
+        "market_value_wan": 789.83
+      },
+      {
+        "stock_code": "600690",
+        "stock_name": "海尔智家",
+        "market_value_wan": 623.6
+      },
+      {
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "market_value_wan": 554.44
+      },
+      {
+        "stock_code": "000786",
+        "stock_name": "北新建材",
+        "market_value_wan": 518.78
+      },
+      {
+        "stock_code": "002142",
+        "stock_name": "宁波银行",
+        "market_value_wan": 434.68
+      },
+      {
+        "stock_code": "603806",
+        "stock_name": "福斯特",
+        "market_value_wan": 403.12
+      },
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 369.21
+      },
+      {
+        "stock_code": "600066",
+        "stock_name": "宇通客车",
+        "market_value_wan": 355.63
+      },
+      {
+        "stock_code": "600585",
+        "stock_name": "海螺水泥",
+        "market_value_wan": 321.66
+      }
+    ]
+  }
+}

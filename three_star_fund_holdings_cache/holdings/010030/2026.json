@@ -1,0 +1,70 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "010030",
+    "name": "富国稳进回报12个月持有期混合C",
+    "base_name": "富国稳进回报12个月持有期混合"
+  },
+  "fetched_at": "2026-08-01 20:58:57",
+  "quarters": {
+    "2026-Q2": [
+      {
+        "stock_code": "000725",
+        "stock_name": "京东方A",
+        "market_value_wan": 191.31
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 165.06
+      },
+      {
+        "stock_code": "600660",
+        "stock_name": "福耀玻璃",
+        "market_value_wan": 144.76
+      },
+      {
+        "stock_code": "002027",
+        "stock_name": "分众传媒",
+        "market_value_wan": 131.5
+      },
+      {
+        "stock_code": "601600",
+        "stock_name": "中国铝业",
+        "market_value_wan": 121.41
+      },
+      {
+        "stock_code": "601818",
+        "stock_name": "光大银行",
+        "market_value_wan": 121.06
+      }
+    ],
+    "2026-Q1": [
+      {
+        "stock_code": "000725",
+        "stock_name": "京东方A",
+        "market_value_wan": 237.45
+      },
+      {
+        "stock_code": "002262",
+        "stock_name": "恩华药业",
+        "market_value_wan": 162.85
+      },
+      {
+        "stock_code": "600941",
+        "stock_name": "中国移动",
+        "market_value_wan": 120.05
+      },
+      {
+        "stock_code": "601966",
+        "stock_name": "玲珑轮胎",
+        "market_value_wan": 118.41
+      },
+      {
+        "stock_code": "601818",
+        "stock_name": "光大银行",
+        "market_value_wan": 117.68
+      }
+    ]
+  }
+}

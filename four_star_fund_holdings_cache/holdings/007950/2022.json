@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "007950",
+    "name": "招商量化精选股票C",
+    "base_name": "招商量化精选股票"
+  },
+  "fetched_at": "2026-06-14 22:35:42",
+  "quarters": {
+    "2022-Q4": [
+      {
+        "stock_code": "600741",
+        "stock_name": "华域汽车",
+        "market_value_wan": 1924.15
+      },
+      {
+        "stock_code": "002048",
+        "stock_name": "宁波华翔",
+        "market_value_wan": 1726.27
+      },
+      {
+        "stock_code": "603600",
+        "stock_name": "永艺股份",
+        "market_value_wan": 1647.73
+      },
+      {
+        "stock_code": "600835",
+        "stock_name": "上海机电",
+        "market_value_wan": 1625.13
+      },
+      {
+        "stock_code": "600170",
+        "stock_name": "上海建工",
+        "market_value_wan": 1614.89
+      },
+      {
+        "stock_code": "603586",
+        "stock_name": "金麒麟",
+        "market_value_wan": 1611.65
+      },
+      {
+        "stock_code": "603890",
+        "stock_name": "春秋电子",
+        "market_value_wan": 1607.73
+      },
+      {
+        "stock_code": "601231",
+        "stock_name": "环旭电子",
+        "market_value_wan": 1603.69
+      },
+      {
+        "stock_code": "600742",
+        "stock_name": "一汽富维",
+        "market_value_wan": 1550.45
+      },
+      {
+        "stock_code": "002705",
+        "stock_name": "新宝股份",
+        "market_value_wan": 1401.1
+      }
+    ],
+    "2022-Q3": [
+      {
+        "stock_code": "002705",
+        "stock_name": "新宝股份",
+        "market_value_wan": 1125.75
+      },
+      {
+        "stock_code": "603339",
+        "stock_name": "四方科技",
+        "market_value_wan": 1083.39
+      },
+      {
+        "stock_code": "300244",
+        "stock_name": "迪安诊断",
+        "market_value_wan": 1047.33
+      },
+      {
+        "stock_code": "605365",
+        "stock_name": "立达信",
+        "market_value_wan": 1039.57
+      },
+      {
+        "stock_code": "300703",
+        "stock_name": "创源股份",
+        "market_value_wan": 1029.49
+      },
+      {
+        "stock_code": "300440",
+        "stock_name": "运达科技",
+        "market_value_wan": 1020.05
+      },
+      {
+        "stock_code": "600985",
+        "stock_name": "淮北矿业",
+        "market_value_wan": 932.14
+      },
+      {
+        "stock_code": "600470",
+        "stock_name": "六国化工",
+        "market_value_wan": 926.12
+      },
+      {
+        "stock_code": "600731",
+        "stock_name": "湖南海利",
+        "market_value_wan": 903.0
+      },
+      {
+        "stock_code": "600971",
+        "stock_name": "恒源煤电",
+        "market_value_wan": 896.22
+      }
+    ],
+    "2022-Q2": [
+      {
+        "stock_code": "300801",
+        "stock_name": "泰和科技",
+        "market_value_wan": 570.62
+      },
+      {
+        "stock_code": "603387",
+        "stock_name": "基蛋生物",
+        "market_value_wan": 565.87
+      },
+      {
+        "stock_code": "300482",
+        "stock_name": "万孚生物",
+        "market_value_wan": 554.47
+      },
+      {
+        "stock_code": "002878",
+        "stock_name": "元隆雅图",
+        "market_value_wan": 533.9
+      },
+      {
+        "stock_code": "603968",
+        "stock_name": "醋化股份",
+        "market_value_wan": 533.75
+      },
+      {
+        "stock_code": "600063",
+        "stock_name": "皖维高新",
+        "market_value_wan": 525.75
+      },
+      {
+        "stock_code": "600273",
+        "stock_name": "嘉化能源",
+        "market_value_wan": 524.65
+      },
+      {
+        "stock_code": "300244",
+        "stock_name": "迪安诊断",
+        "market_value_wan": 518.75
+      },
+      {
+        "stock_code": "300639",
+        "stock_name": "凯普生物",
+        "market_value_wan": 505.64
+      },
+      {
+        "stock_code": "600667",
+        "stock_name": "太极实业",
+        "market_value_wan": 496.23
+      }
+    ],
+    "2022-Q1": [
+      {
+        "stock_code": "603948",
+        "stock_name": "建业股份",
+        "market_value_wan": 355.72
+      },
+      {
+        "stock_code": "603115",
+        "stock_name": "海星股份",
+        "market_value_wan": 354.03
+      },
+      {
+        "stock_code": "300389",
+        "stock_name": "艾比森",
+        "market_value_wan": 341.38
+      },
+      {
+        "stock_code": "600273",
+        "stock_name": "嘉化能源",
+        "market_value_wan": 338.79
+      },
+      {
+        "stock_code": "600971",
+        "stock_name": "恒源煤电",
+        "market_value_wan": 333.07
+      },
+      {
+        "stock_code": "300801",
+        "stock_name": "泰和科技",
+        "market_value_wan": 308.35
+      },
+      {
+        "stock_code": "600618",
+        "stock_name": "氯碱化工",
+        "market_value_wan": 287.27
+      },
+      {
+        "stock_code": "600985",
+        "stock_name": "淮北矿业",
+        "market_value_wan": 283.76
+      },
+      {
+        "stock_code": "300514",
+        "stock_name": "友讯达",
+        "market_value_wan": 278.49
+      },
+      {
+        "stock_code": "000830",
+        "stock_name": "鲁西化工",
+        "market_value_wan": 265.75
+      }
+    ]
+  }
+}

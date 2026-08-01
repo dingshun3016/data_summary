@@ -1,0 +1,105 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "000979",
+    "name": "景顺长城沪港深精选股票A",
+    "base_name": "景顺长城沪港深精选股票"
+  },
+  "fetched_at": "2026-08-01 20:47:18",
+  "quarters": {
+    "2026-Q2": [
+      {
+        "stock_code": "300502",
+        "stock_name": "新易盛",
+        "market_value_wan": 101066.71
+      },
+      {
+        "stock_code": "300308",
+        "stock_name": "中际旭创",
+        "market_value_wan": 100368.1
+      },
+      {
+        "stock_code": "601138",
+        "stock_name": "工业富联",
+        "market_value_wan": 61202.25
+      },
+      {
+        "stock_code": "688498",
+        "stock_name": "源杰科技",
+        "market_value_wan": 59733.01
+      },
+      {
+        "stock_code": "002008",
+        "stock_name": "大族激光",
+        "market_value_wan": 54841.77
+      },
+      {
+        "stock_code": "688008",
+        "stock_name": "澜起科技",
+        "market_value_wan": 53319.69
+      },
+      {
+        "stock_code": "002463",
+        "stock_name": "沪电股份",
+        "market_value_wan": 51695.3
+      },
+      {
+        "stock_code": "688041",
+        "stock_name": "海光信息",
+        "market_value_wan": 50518.33
+      },
+      {
+        "stock_code": "300476",
+        "stock_name": "胜宏科技",
+        "market_value_wan": 48160.7
+      },
+      {
+        "stock_code": "300394",
+        "stock_name": "天孚通信",
+        "market_value_wan": 37099.49
+      }
+    ],
+    "2026-Q1": [
+      {
+        "stock_code": "300502",
+        "stock_name": "新易盛",
+        "market_value_wan": 61900.42
+      },
+      {
+        "stock_code": "300308",
+        "stock_name": "中际旭创",
+        "market_value_wan": 60284.58
+      },
+      {
+        "stock_code": "601138",
+        "stock_name": "工业富联",
+        "market_value_wan": 36775.47
+      },
+      {
+        "stock_code": "300394",
+        "stock_name": "天孚通信",
+        "market_value_wan": 35960.37
+      },
+      {
+        "stock_code": "300476",
+        "stock_name": "胜宏科技",
+        "market_value_wan": 34194.11
+      },
+      {
+        "stock_code": "002463",
+        "stock_name": "沪电股份",
+        "market_value_wan": 32000.08
+      },
+      {
+        "stock_code": "688195",
+        "stock_name": "腾景科技",
+        "market_value_wan": 30036.87
+      },
+      {
+        "stock_code": "688498",
+        "stock_name": "源杰科技",
+        "market_value_wan": 27911.82
+      }
+    ]
+  }
+}

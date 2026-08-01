@@ -1,0 +1,103 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "004321",
+    "name": "前海开源沪港深强国产业混合",
+    "base_name": "前海开源沪港深强国产业混合"
+  },
+  "fetched_at": "2026-06-14 22:31:39",
+  "quarters": {
+    "2020-Q4": [],
+    "2020-Q3": [
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 190.37
+      },
+      {
+        "stock_code": "600031",
+        "stock_name": "三一重工",
+        "market_value_wan": 188.12
+      },
+      {
+        "stock_code": "002508",
+        "stock_name": "老板电器",
+        "market_value_wan": 8.17
+      }
+    ],
+    "2020-Q2": [
+      {
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "market_value_wan": 157.81
+      },
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 12.08
+      },
+      {
+        "stock_code": "600588",
+        "stock_name": "用友网络",
+        "market_value_wan": 6.31
+      },
+      {
+        "stock_code": "600031",
+        "stock_name": "三一重工",
+        "market_value_wan": 0.15
+      }
+    ],
+    "2020-Q1": [
+      {
+        "stock_code": "601916",
+        "stock_name": "浙商银行",
+        "market_value_wan": 116.8
+      },
+      {
+        "stock_code": "688101",
+        "stock_name": "三达膜",
+        "market_value_wan": 17.83
+      },
+      {
+        "stock_code": "688021",
+        "stock_name": "奥福环保",
+        "market_value_wan": 8.92
+      },
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 2.33
+      },
+      {
+        "stock_code": "603353",
+        "stock_name": "和顺石油",
+        "market_value_wan": 1.91
+      },
+      {
+        "stock_code": "600570",
+        "stock_name": "恒生电子",
+        "market_value_wan": 0.35
+      },
+      {
+        "stock_code": "600900",
+        "stock_name": "长江电力",
+        "market_value_wan": 0.26
+      },
+      {
+        "stock_code": "600897",
+        "stock_name": "厦门空港",
+        "market_value_wan": 0.17
+      },
+      {
+        "stock_code": "600031",
+        "stock_name": "三一重工",
+        "market_value_wan": 0.14
+      },
+      {
+        "stock_code": "600325",
+        "stock_name": "华发股份",
+        "market_value_wan": 0.06
+      }
+    ]
+  }
+}

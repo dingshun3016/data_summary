@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "740001",
+    "name": "长安宏观策略混合A",
+    "base_name": "长安宏观策略混合"
+  },
+  "fetched_at": "2026-06-14 22:45:52",
+  "quarters": {
+    "2019-Q4": [
+      {
+        "stock_code": "601398",
+        "stock_name": "工商银行",
+        "market_value_wan": 117.6
+      },
+      {
+        "stock_code": "601288",
+        "stock_name": "农业银行",
+        "market_value_wan": 110.7
+      },
+      {
+        "stock_code": "600837",
+        "stock_name": "海通证券",
+        "market_value_wan": 86.58
+      },
+      {
+        "stock_code": "600030",
+        "stock_name": "中信证券",
+        "market_value_wan": 80.96
+      },
+      {
+        "stock_code": "600048",
+        "stock_name": "保利发展",
+        "market_value_wan": 58.25
+      },
+      {
+        "stock_code": "601009",
+        "stock_name": "南京银行",
+        "market_value_wan": 52.62
+      },
+      {
+        "stock_code": "600547",
+        "stock_name": "山东黄金",
+        "market_value_wan": 52.19
+      },
+      {
+        "stock_code": "601818",
+        "stock_name": "光大银行",
+        "market_value_wan": 44.1
+      },
+      {
+        "stock_code": "600383",
+        "stock_name": "金地集团",
+        "market_value_wan": 43.5
+      },
+      {
+        "stock_code": "002110",
+        "stock_name": "三钢闽光",
+        "market_value_wan": 43.06
+      }
+    ],
+    "2019-Q3": [
+      {
+        "stock_code": "600837",
+        "stock_name": "海通证券",
+        "market_value_wan": 114.4
+      },
+      {
+        "stock_code": "601398",
+        "stock_name": "工商银行",
+        "market_value_wan": 110.6
+      },
+      {
+        "stock_code": "601328",
+        "stock_name": "交通银行",
+        "market_value_wan": 109.0
+      },
+      {
+        "stock_code": "601288",
+        "stock_name": "农业银行",
+        "market_value_wan": 103.8
+      },
+      {
+        "stock_code": "601988",
+        "stock_name": "中国银行",
+        "market_value_wan": 100.24
+      },
+      {
+        "stock_code": "600030",
+        "stock_name": "中信证券",
+        "market_value_wan": 89.92
+      },
+      {
+        "stock_code": "600048",
+        "stock_name": "保利发展",
+        "market_value_wan": 51.48
+      },
+      {
+        "stock_code": "300559",
+        "stock_name": "佳发教育",
+        "market_value_wan": 51.4
+      },
+      {
+        "stock_code": "600763",
+        "stock_name": "通策医疗",
+        "market_value_wan": 51.25
+      },
+      {
+        "stock_code": "300347",
+        "stock_name": "泰格医药",
+        "market_value_wan": 49.64
+      }
+    ],
+    "2019-Q2": [
+      {
+        "stock_code": "600030",
+        "stock_name": "中信证券",
+        "market_value_wan": 642.87
+      },
+      {
+        "stock_code": "601288",
+        "stock_name": "农业银行",
+        "market_value_wan": 576.0
+      },
+      {
+        "stock_code": "600837",
+        "stock_name": "海通证券",
+        "market_value_wan": 567.6
+      },
+      {
+        "stock_code": "600887",
+        "stock_name": "伊利股份",
+        "market_value_wan": 400.92
+      },
+      {
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "market_value_wan": 354.44
+      },
+      {
+        "stock_code": "002371",
+        "stock_name": "北方华创",
+        "market_value_wan": 346.25
+      },
+      {
+        "stock_code": "000066",
+        "stock_name": "中国长城",
+        "market_value_wan": 328.96
+      },
+      {
+        "stock_code": "600999",
+        "stock_name": "招商证券",
+        "market_value_wan": 307.62
+      },
+      {
+        "stock_code": "600547",
+        "stock_name": "山东黄金",
+        "market_value_wan": 271.72
+      },
+      {
+        "stock_code": "600831",
+        "stock_name": "ST广网",
+        "market_value_wan": 259.2
+      }
+    ],
+    "2019-Q1": [
+      {
+        "stock_code": "601939",
+        "stock_name": "建设银行",
+        "market_value_wan": 556.0
+      },
+      {
+        "stock_code": "601688",
+        "stock_name": "华泰证券",
+        "market_value_wan": 358.56
+      },
+      {
+        "stock_code": "600990",
+        "stock_name": "四创电子",
+        "market_value_wan": 314.94
+      },
+      {
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "market_value_wan": 308.4
+      },
+      {
+        "stock_code": "600887",
+        "stock_name": "伊利股份",
+        "market_value_wan": 291.1
+      },
+      {
+        "stock_code": "002371",
+        "stock_name": "北方华创",
+        "market_value_wan": 253.76
+      },
+      {
+        "stock_code": "603019",
+        "stock_name": "中科曙光",
+        "market_value_wan": 217.01
+      },
+      {
+        "stock_code": "300122",
+        "stock_name": "智飞生物",
+        "market_value_wan": 204.4
+      },
+      {
+        "stock_code": "000002",
+        "stock_name": "万科A",
+        "market_value_wan": 184.32
+      },
+      {
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "market_value_wan": 169.6
+      }
+    ]
+  }
+}

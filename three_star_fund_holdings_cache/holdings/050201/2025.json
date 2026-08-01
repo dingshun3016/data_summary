@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "050201",
+    "name": "博时价值增长贰号混合",
+    "base_name": "博时价值增长贰号混合"
+  },
+  "fetched_at": "2026-06-14 23:49:14",
+  "quarters": {
+    "2025-Q4": [
+      {
+        "stock_code": "002595",
+        "stock_name": "豪迈科技",
+        "market_value_wan": 4661.57
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 3644.58
+      },
+      {
+        "stock_code": "601899",
+        "stock_name": "紫金矿业",
+        "market_value_wan": 2981.46
+      },
+      {
+        "stock_code": "300790",
+        "stock_name": "宇瞳光学",
+        "market_value_wan": 2937.76
+      },
+      {
+        "stock_code": "002756",
+        "stock_name": "永兴材料",
+        "market_value_wan": 2785.74
+      },
+      {
+        "stock_code": "002956",
+        "stock_name": "西麦食品",
+        "market_value_wan": 2547.9
+      },
+      {
+        "stock_code": "600276",
+        "stock_name": "恒瑞医药",
+        "market_value_wan": 2369.69
+      },
+      {
+        "stock_code": "603659",
+        "stock_name": "璞泰来",
+        "market_value_wan": 2256.64
+      },
+      {
+        "stock_code": "002539",
+        "stock_name": "云图控股",
+        "market_value_wan": 1921.22
+      },
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 1806.21
+      }
+    ],
+    "2025-Q3": [
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 4005.41
+      },
+      {
+        "stock_code": "002595",
+        "stock_name": "豪迈科技",
+        "market_value_wan": 3762.38
+      },
+      {
+        "stock_code": "300790",
+        "stock_name": "宇瞳光学",
+        "market_value_wan": 3555.08
+      },
+      {
+        "stock_code": "601899",
+        "stock_name": "紫金矿业",
+        "market_value_wan": 3139.9
+      },
+      {
+        "stock_code": "600276",
+        "stock_name": "恒瑞医药",
+        "market_value_wan": 2849.84
+      },
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 2390.3
+      },
+      {
+        "stock_code": "689009",
+        "stock_name": "九号公司",
+        "market_value_wan": 2004.18
+      },
+      {
+        "stock_code": "603659",
+        "stock_name": "璞泰来",
+        "market_value_wan": 1793.98
+      },
+      {
+        "stock_code": "600141",
+        "stock_name": "兴发集团",
+        "market_value_wan": 1670.76
+      },
+      {
+        "stock_code": "002299",
+        "stock_name": "圣农发展",
+        "market_value_wan": 1669.58
+      }
+    ],
+    "2025-Q2": [
+      {
+        "stock_code": "002595",
+        "stock_name": "豪迈科技",
+        "market_value_wan": 3760.47
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 3557.24
+      },
+      {
+        "stock_code": "688002",
+        "stock_name": "睿创微纳",
+        "market_value_wan": 3056.96
+      },
+      {
+        "stock_code": "600276",
+        "stock_name": "恒瑞医药",
+        "market_value_wan": 2858.65
+      },
+      {
+        "stock_code": "689009",
+        "stock_name": "九号公司",
+        "market_value_wan": 2139.81
+      },
+      {
+        "stock_code": "601899",
+        "stock_name": "紫金矿业",
+        "market_value_wan": 2139.04
+      },
+      {
+        "stock_code": "603659",
+        "stock_name": "璞泰来",
+        "market_value_wan": 1853.59
+      },
+      {
+        "stock_code": "002299",
+        "stock_name": "圣农发展",
+        "market_value_wan": 1647.92
+      },
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 1624.19
+      },
+      {
+        "stock_code": "300476",
+        "stock_name": "胜宏科技",
+        "market_value_wan": 1583.0
+      }
+    ],
+    "2025-Q1": [
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 3961.98
+      },
+      {
+        "stock_code": "002595",
+        "stock_name": "豪迈科技",
+        "market_value_wan": 3888.72
+      },
+      {
+        "stock_code": "600276",
+        "stock_name": "恒瑞医药",
+        "market_value_wan": 2996.77
+      },
+      {
+        "stock_code": "689009",
+        "stock_name": "九号公司",
+        "market_value_wan": 2598.49
+      },
+      {
+        "stock_code": "688002",
+        "stock_name": "睿创微纳",
+        "market_value_wan": 2537.98
+      },
+      {
+        "stock_code": "601899",
+        "stock_name": "紫金矿业",
+        "market_value_wan": 2324.8
+      },
+      {
+        "stock_code": "603529",
+        "stock_name": "爱玛科技",
+        "market_value_wan": 2144.0
+      },
+      {
+        "stock_code": "002384",
+        "stock_name": "东山精密",
+        "market_value_wan": 2014.49
+      },
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 1956.18
+      },
+      {
+        "stock_code": "300679",
+        "stock_name": "电连技术",
+        "market_value_wan": 1438.68
+      }
+    ]
+  }
+}

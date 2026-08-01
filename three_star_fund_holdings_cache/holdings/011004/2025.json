@@ -1,0 +1,80 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "011004",
+    "name": "永赢鑫盛混合A",
+    "base_name": "永赢鑫盛混合"
+  },
+  "fetched_at": "2026-06-14 23:44:28",
+  "quarters": {
+    "2025-Q4": [
+      {
+        "stock_code": "002532",
+        "stock_name": "天山铝业",
+        "market_value_wan": 145.62
+      },
+      {
+        "stock_code": "002409",
+        "stock_name": "雅克科技",
+        "market_value_wan": 111.15
+      },
+      {
+        "stock_code": "601688",
+        "stock_name": "华泰证券",
+        "market_value_wan": 106.16
+      },
+      {
+        "stock_code": "002851",
+        "stock_name": "麦格米特",
+        "market_value_wan": 72.06
+      },
+      {
+        "stock_code": "600030",
+        "stock_name": "中信证券",
+        "market_value_wan": 71.78
+      },
+      {
+        "stock_code": "300037",
+        "stock_name": "新宙邦",
+        "market_value_wan": 68.12
+      },
+      {
+        "stock_code": "002497",
+        "stock_name": "雅化集团",
+        "market_value_wan": 61.88
+      },
+      {
+        "stock_code": "688696",
+        "stock_name": "极米科技",
+        "market_value_wan": 55.74
+      }
+    ],
+    "2025-Q3": [
+      {
+        "stock_code": "002409",
+        "stock_name": "雅克科技",
+        "market_value_wan": 81.13
+      },
+      {
+        "stock_code": "600030",
+        "stock_name": "中信证券",
+        "market_value_wan": 74.75
+      },
+      {
+        "stock_code": "002531",
+        "stock_name": "天顺风能",
+        "market_value_wan": 41.05
+      },
+      {
+        "stock_code": "000157",
+        "stock_name": "中联重科",
+        "market_value_wan": 40.05
+      },
+      {
+        "stock_code": "603368",
+        "stock_name": "柳药集团",
+        "market_value_wan": 37.4
+      }
+    ]
+  }
+}

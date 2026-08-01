@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "519949",
+    "name": "长信利信混合A",
+    "base_name": "长信利信混合"
+  },
+  "fetched_at": "2026-06-15 00:04:55",
+  "quarters": {
+    "2020-Q4": [
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 2359.44
+      },
+      {
+        "stock_code": "000568",
+        "stock_name": "泸州老窖",
+        "market_value_wan": 1924.62
+      },
+      {
+        "stock_code": "600176",
+        "stock_name": "中国巨石",
+        "market_value_wan": 1878.24
+      },
+      {
+        "stock_code": "000858",
+        "stock_name": "五粮液",
+        "market_value_wan": 1809.47
+      },
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 1430.33
+      },
+      {
+        "stock_code": "600521",
+        "stock_name": "华海药业",
+        "market_value_wan": 1253.0
+      },
+      {
+        "stock_code": "002304",
+        "stock_name": "洋河股份",
+        "market_value_wan": 1066.67
+      },
+      {
+        "stock_code": "600600",
+        "stock_name": "青岛啤酒",
+        "market_value_wan": 1027.8
+      },
+      {
+        "stock_code": "002415",
+        "stock_name": "海康威视",
+        "market_value_wan": 823.7
+      },
+      {
+        "stock_code": "601888",
+        "stock_name": "中国中免",
+        "market_value_wan": 773.91
+      }
+    ],
+    "2020-Q3": [
+      {
+        "stock_code": "000858",
+        "stock_name": "五粮液",
+        "market_value_wan": 1370.2
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 1369.67
+      },
+      {
+        "stock_code": "000568",
+        "stock_name": "泸州老窖",
+        "market_value_wan": 1221.61
+      },
+      {
+        "stock_code": "600521",
+        "stock_name": "华海药业",
+        "market_value_wan": 1188.51
+      },
+      {
+        "stock_code": "600176",
+        "stock_name": "中国巨石",
+        "market_value_wan": 1083.0
+      },
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 1054.88
+      },
+      {
+        "stock_code": "600887",
+        "stock_name": "伊利股份",
+        "market_value_wan": 853.93
+      },
+      {
+        "stock_code": "603369",
+        "stock_name": "今世缘",
+        "market_value_wan": 829.32
+      },
+      {
+        "stock_code": "002352",
+        "stock_name": "顺丰控股",
+        "market_value_wan": 739.73
+      },
+      {
+        "stock_code": "002332",
+        "stock_name": "仙琚制药",
+        "market_value_wan": 723.88
+      }
+    ],
+    "2020-Q2": [
+      {
+        "stock_code": "600521",
+        "stock_name": "华海药业",
+        "market_value_wan": 1380.95
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 1303.28
+      },
+      {
+        "stock_code": "000858",
+        "stock_name": "五粮液",
+        "market_value_wan": 1163.62
+      },
+      {
+        "stock_code": "603369",
+        "stock_name": "今世缘",
+        "market_value_wan": 795.8
+      },
+      {
+        "stock_code": "603233",
+        "stock_name": "大参林",
+        "market_value_wan": 730.98
+      },
+      {
+        "stock_code": "600276",
+        "stock_name": "恒瑞医药",
+        "market_value_wan": 680.25
+      },
+      {
+        "stock_code": "600900",
+        "stock_name": "长江电力",
+        "market_value_wan": 643.8
+      },
+      {
+        "stock_code": "601816",
+        "stock_name": "京沪高铁",
+        "market_value_wan": 559.34
+      },
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 513.5
+      },
+      {
+        "stock_code": "600377",
+        "stock_name": "宁沪高速",
+        "market_value_wan": 512.28
+      }
+    ],
+    "2020-Q1": [
+      {
+        "stock_code": "600521",
+        "stock_name": "华海药业",
+        "market_value_wan": 514.0
+      },
+      {
+        "stock_code": "601816",
+        "stock_name": "京沪高铁",
+        "market_value_wan": 509.48
+      },
+      {
+        "stock_code": "600276",
+        "stock_name": "恒瑞医药",
+        "market_value_wan": 460.15
+      },
+      {
+        "stock_code": "603233",
+        "stock_name": "大参林",
+        "market_value_wan": 126.0
+      },
+      {
+        "stock_code": "600377",
+        "stock_name": "宁沪高速",
+        "market_value_wan": 120.0
+      },
+      {
+        "stock_code": "688007",
+        "stock_name": "光峰科技",
+        "market_value_wan": 63.22
+      },
+      {
+        "stock_code": "688139",
+        "stock_name": "海尔生物",
+        "market_value_wan": 39.59
+      },
+      {
+        "stock_code": "688026",
+        "stock_name": "洁特生物",
+        "market_value_wan": 26.87
+      },
+      {
+        "stock_code": "688051",
+        "stock_name": "佳华科技",
+        "market_value_wan": 26.0
+      },
+      {
+        "stock_code": "688186",
+        "stock_name": "广大特材",
+        "market_value_wan": 24.2
+      }
+    ]
+  }
+}

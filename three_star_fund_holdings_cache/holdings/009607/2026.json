@@ -1,0 +1,63 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "009607",
+    "name": "长信稳健精选混合C",
+    "base_name": "长信稳健精选混合"
+  },
+  "fetched_at": "2026-08-01 20:58:35",
+  "quarters": {
+    "2026-Q2": [
+      {
+        "stock_code": "300223",
+        "stock_name": "北京君正",
+        "market_value_wan": 119.47
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 98.25
+      },
+      {
+        "stock_code": "603259",
+        "stock_name": "药明康德",
+        "market_value_wan": 92.14
+      },
+      {
+        "stock_code": "688535",
+        "stock_name": "华海诚科",
+        "market_value_wan": 65.45
+      },
+      {
+        "stock_code": "688525",
+        "stock_name": "佰维存储",
+        "market_value_wan": 51.95
+      },
+      {
+        "stock_code": "688041",
+        "stock_name": "海光信息",
+        "market_value_wan": 51.47
+      },
+      {
+        "stock_code": "688627",
+        "stock_name": "精智达",
+        "market_value_wan": 42.9
+      },
+      {
+        "stock_code": "301308",
+        "stock_name": "江波龙",
+        "market_value_wan": 42.23
+      },
+      {
+        "stock_code": "603283",
+        "stock_name": "赛腾股份",
+        "market_value_wan": 38.87
+      },
+      {
+        "stock_code": "600150",
+        "stock_name": "中国船舶",
+        "market_value_wan": 33.69
+      }
+    ]
+  }
+}

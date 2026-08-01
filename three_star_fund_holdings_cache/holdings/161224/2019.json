@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "161224",
+    "name": "国投瑞银新丝路混合(LOF)",
+    "base_name": "国投瑞银新丝路混合(LOF)"
+  },
+  "fetched_at": "2026-06-14 23:52:17",
+  "quarters": {
+    "2019-Q4": [
+      {
+        "stock_code": "600777",
+        "stock_name": "ST新潮",
+        "market_value_wan": 1321.19
+      },
+      {
+        "stock_code": "000651",
+        "stock_name": "格力电器",
+        "market_value_wan": 1103.71
+      },
+      {
+        "stock_code": "600887",
+        "stock_name": "伊利股份",
+        "market_value_wan": 1055.36
+      },
+      {
+        "stock_code": "300003",
+        "stock_name": "乐普医疗",
+        "market_value_wan": 825.35
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 796.94
+      },
+      {
+        "stock_code": "600658",
+        "stock_name": "电子城",
+        "market_value_wan": 716.93
+      },
+      {
+        "stock_code": "600258",
+        "stock_name": "首旅酒店",
+        "market_value_wan": 701.56
+      },
+      {
+        "stock_code": "002521",
+        "stock_name": "齐峰新材",
+        "market_value_wan": 641.34
+      },
+      {
+        "stock_code": "300633",
+        "stock_name": "开立医疗",
+        "market_value_wan": 618.29
+      },
+      {
+        "stock_code": "000681",
+        "stock_name": "视觉中国",
+        "market_value_wan": 607.54
+      }
+    ],
+    "2019-Q3": [
+      {
+        "stock_code": "600777",
+        "stock_name": "ST新潮",
+        "market_value_wan": 1264.57
+      },
+      {
+        "stock_code": "600887",
+        "stock_name": "伊利股份",
+        "market_value_wan": 972.82
+      },
+      {
+        "stock_code": "000651",
+        "stock_name": "格力电器",
+        "market_value_wan": 964.36
+      },
+      {
+        "stock_code": "300003",
+        "stock_name": "乐普医疗",
+        "market_value_wan": 625.25
+      },
+      {
+        "stock_code": "300642",
+        "stock_name": "透景生命",
+        "market_value_wan": 595.5
+      },
+      {
+        "stock_code": "002521",
+        "stock_name": "齐峰新材",
+        "market_value_wan": 589.69
+      },
+      {
+        "stock_code": "300741",
+        "stock_name": "华宝股份",
+        "market_value_wan": 584.79
+      },
+      {
+        "stock_code": "600258",
+        "stock_name": "首旅酒店",
+        "market_value_wan": 571.53
+      },
+      {
+        "stock_code": "600658",
+        "stock_name": "电子城",
+        "market_value_wan": 533.72
+      },
+      {
+        "stock_code": "603288",
+        "stock_name": "海天味业",
+        "market_value_wan": 526.47
+      }
+    ],
+    "2019-Q2": [
+      {
+        "stock_code": "600777",
+        "stock_name": "ST新潮",
+        "market_value_wan": 1082.91
+      },
+      {
+        "stock_code": "600887",
+        "stock_name": "伊利股份",
+        "market_value_wan": 891.38
+      },
+      {
+        "stock_code": "603456",
+        "stock_name": "九洲药业",
+        "market_value_wan": 690.63
+      },
+      {
+        "stock_code": "600521",
+        "stock_name": "华海药业",
+        "market_value_wan": 679.76
+      },
+      {
+        "stock_code": "600196",
+        "stock_name": "复星医药",
+        "market_value_wan": 606.95
+      },
+      {
+        "stock_code": "300741",
+        "stock_name": "华宝股份",
+        "market_value_wan": 572.9
+      },
+      {
+        "stock_code": "600600",
+        "stock_name": "青岛啤酒",
+        "market_value_wan": 524.27
+      },
+      {
+        "stock_code": "300193",
+        "stock_name": "佳士科技",
+        "market_value_wan": 475.17
+      },
+      {
+        "stock_code": "002521",
+        "stock_name": "齐峰新材",
+        "market_value_wan": 458.16
+      },
+      {
+        "stock_code": "600266",
+        "stock_name": "城建发展",
+        "market_value_wan": 388.23
+      }
+    ],
+    "2019-Q1": [
+      {
+        "stock_code": "600777",
+        "stock_name": "ST新潮",
+        "market_value_wan": 1332.81
+      },
+      {
+        "stock_code": "603456",
+        "stock_name": "九洲药业",
+        "market_value_wan": 778.3
+      },
+      {
+        "stock_code": "600887",
+        "stock_name": "伊利股份",
+        "market_value_wan": 776.65
+      },
+      {
+        "stock_code": "600521",
+        "stock_name": "华海药业",
+        "market_value_wan": 747.26
+      },
+      {
+        "stock_code": "600196",
+        "stock_name": "复星医药",
+        "market_value_wan": 714.42
+      },
+      {
+        "stock_code": "300741",
+        "stock_name": "华宝股份",
+        "market_value_wan": 608.27
+      },
+      {
+        "stock_code": "300369",
+        "stock_name": "绿盟科技",
+        "market_value_wan": 530.47
+      },
+      {
+        "stock_code": "002546",
+        "stock_name": "新联电子",
+        "market_value_wan": 488.94
+      },
+      {
+        "stock_code": "300193",
+        "stock_name": "佳士科技",
+        "market_value_wan": 482.73
+      },
+      {
+        "stock_code": "600708",
+        "stock_name": "光明地产",
+        "market_value_wan": 456.6
+      }
+    ]
+  }
+}

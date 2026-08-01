@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "400013",
+    "name": "东方成长收益灵活配置混合A",
+    "base_name": "东方成长收益灵活配置混合"
+  },
+  "fetched_at": "2026-06-14 23:59:54",
+  "quarters": {
+    "2022-Q4": [
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 1571.57
+      },
+      {
+        "stock_code": "000568",
+        "stock_name": "泸州老窖",
+        "market_value_wan": 991.32
+      },
+      {
+        "stock_code": "000858",
+        "stock_name": "五粮液",
+        "market_value_wan": 719.15
+      },
+      {
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "market_value_wan": 684.47
+      },
+      {
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "market_value_wan": 536.74
+      },
+      {
+        "stock_code": "002142",
+        "stock_name": "宁波银行",
+        "market_value_wan": 436.97
+      },
+      {
+        "stock_code": "601398",
+        "stock_name": "工商银行",
+        "market_value_wan": 426.84
+      },
+      {
+        "stock_code": "000538",
+        "stock_name": "云南白药",
+        "market_value_wan": 371.93
+      },
+      {
+        "stock_code": "601939",
+        "stock_name": "建设银行",
+        "market_value_wan": 369.22
+      },
+      {
+        "stock_code": "601668",
+        "stock_name": "中国建筑",
+        "market_value_wan": 368.81
+      }
+    ],
+    "2022-Q3": [
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 1647.8
+      },
+      {
+        "stock_code": "000568",
+        "stock_name": "泸州老窖",
+        "market_value_wan": 1054.12
+      },
+      {
+        "stock_code": "000858",
+        "stock_name": "五粮液",
+        "market_value_wan": 695.54
+      },
+      {
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "market_value_wan": 590.89
+      },
+      {
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "market_value_wan": 454.05
+      },
+      {
+        "stock_code": "002142",
+        "stock_name": "宁波银行",
+        "market_value_wan": 439.68
+      },
+      {
+        "stock_code": "601398",
+        "stock_name": "工商银行",
+        "market_value_wan": 409.73
+      },
+      {
+        "stock_code": "000538",
+        "stock_name": "云南白药",
+        "market_value_wan": 370.85
+      },
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 356.02
+      },
+      {
+        "stock_code": "601939",
+        "stock_name": "建设银行",
+        "market_value_wan": 346.49
+      }
+    ],
+    "2022-Q2": [
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 1799.6
+      },
+      {
+        "stock_code": "000568",
+        "stock_name": "泸州老窖",
+        "market_value_wan": 1126.69
+      },
+      {
+        "stock_code": "000858",
+        "stock_name": "五粮液",
+        "market_value_wan": 829.93
+      },
+      {
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "market_value_wan": 741.03
+      },
+      {
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "market_value_wan": 509.85
+      },
+      {
+        "stock_code": "002142",
+        "stock_name": "宁波银行",
+        "market_value_wan": 499.05
+      },
+      {
+        "stock_code": "601398",
+        "stock_name": "工商银行",
+        "market_value_wan": 449.29
+      },
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 436.02
+      },
+      {
+        "stock_code": "000538",
+        "stock_name": "云南白药",
+        "market_value_wan": 427.8
+      },
+      {
+        "stock_code": "002594",
+        "stock_name": "比亚迪",
+        "market_value_wan": 383.51
+      }
+    ],
+    "2022-Q1": [
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 1512.72
+      },
+      {
+        "stock_code": "000568",
+        "stock_name": "泸州老窖",
+        "market_value_wan": 849.47
+      },
+      {
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "market_value_wan": 821.81
+      },
+      {
+        "stock_code": "000858",
+        "stock_name": "五粮液",
+        "market_value_wan": 637.3
+      },
+      {
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "market_value_wan": 529.07
+      },
+      {
+        "stock_code": "002142",
+        "stock_name": "宁波银行",
+        "market_value_wan": 521.07
+      },
+      {
+        "stock_code": "601398",
+        "stock_name": "工商银行",
+        "market_value_wan": 449.29
+      },
+      {
+        "stock_code": "000538",
+        "stock_name": "云南白药",
+        "market_value_wan": 414.01
+      },
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 411.54
+      },
+      {
+        "stock_code": "601939",
+        "stock_name": "建设银行",
+        "market_value_wan": 394.82
+      }
+    ]
+  }
+}

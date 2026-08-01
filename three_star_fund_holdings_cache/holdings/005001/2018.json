@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "005001",
+    "name": "交银持续成长主题混合A",
+    "base_name": "交银持续成长主题混合"
+  },
+  "fetched_at": "2026-06-14 23:15:51",
+  "quarters": {
+    "2018-Q4": [
+      {
+        "stock_code": "300188",
+        "stock_name": "国投智能",
+        "market_value_wan": 13560.72
+      },
+      {
+        "stock_code": "002044",
+        "stock_name": "美年健康",
+        "market_value_wan": 13023.64
+      },
+      {
+        "stock_code": "300365",
+        "stock_name": "恒华科技",
+        "market_value_wan": 11185.45
+      },
+      {
+        "stock_code": "300529",
+        "stock_name": "健帆生物",
+        "market_value_wan": 9431.68
+      },
+      {
+        "stock_code": "600763",
+        "stock_name": "通策医疗",
+        "market_value_wan": 8801.57
+      },
+      {
+        "stock_code": "300012",
+        "stock_name": "华测检测",
+        "market_value_wan": 8136.0
+      },
+      {
+        "stock_code": "002410",
+        "stock_name": "广联达",
+        "market_value_wan": 7632.18
+      },
+      {
+        "stock_code": "000681",
+        "stock_name": "视觉中国",
+        "market_value_wan": 6773.24
+      },
+      {
+        "stock_code": "000661",
+        "stock_name": "长春高新",
+        "market_value_wan": 6670.09
+      },
+      {
+        "stock_code": "002690",
+        "stock_name": "美亚光电",
+        "market_value_wan": 5933.06
+      }
+    ],
+    "2018-Q3": [
+      {
+        "stock_code": "300365",
+        "stock_name": "恒华科技",
+        "market_value_wan": 13048.88
+      },
+      {
+        "stock_code": "002044",
+        "stock_name": "美年健康",
+        "market_value_wan": 11077.32
+      },
+      {
+        "stock_code": "000661",
+        "stock_name": "长春高新",
+        "market_value_wan": 9816.23
+      },
+      {
+        "stock_code": "300188",
+        "stock_name": "国投智能",
+        "market_value_wan": 9231.93
+      },
+      {
+        "stock_code": "002690",
+        "stock_name": "美亚光电",
+        "market_value_wan": 7558.53
+      },
+      {
+        "stock_code": "300012",
+        "stock_name": "华测检测",
+        "market_value_wan": 7254.08
+      },
+      {
+        "stock_code": "300529",
+        "stock_name": "健帆生物",
+        "market_value_wan": 7071.64
+      },
+      {
+        "stock_code": "600763",
+        "stock_name": "通策医疗",
+        "market_value_wan": 6965.11
+      },
+      {
+        "stock_code": "000681",
+        "stock_name": "视觉中国",
+        "market_value_wan": 6254.1
+      },
+      {
+        "stock_code": "601100",
+        "stock_name": "恒立液压",
+        "market_value_wan": 4490.21
+      }
+    ],
+    "2018-Q2": [
+      {
+        "stock_code": "300365",
+        "stock_name": "恒华科技",
+        "market_value_wan": 11807.27
+      },
+      {
+        "stock_code": "300188",
+        "stock_name": "国投智能",
+        "market_value_wan": 9482.46
+      },
+      {
+        "stock_code": "002690",
+        "stock_name": "美亚光电",
+        "market_value_wan": 7686.13
+      },
+      {
+        "stock_code": "300012",
+        "stock_name": "华测检测",
+        "market_value_wan": 7679.1
+      },
+      {
+        "stock_code": "603096",
+        "stock_name": "新经典",
+        "market_value_wan": 7208.25
+      },
+      {
+        "stock_code": "002044",
+        "stock_name": "美年健康",
+        "market_value_wan": 6054.99
+      },
+      {
+        "stock_code": "000661",
+        "stock_name": "长春高新",
+        "market_value_wan": 5729.96
+      },
+      {
+        "stock_code": "300529",
+        "stock_name": "健帆生物",
+        "market_value_wan": 5714.06
+      },
+      {
+        "stock_code": "300170",
+        "stock_name": "汉得信息",
+        "market_value_wan": 5390.86
+      },
+      {
+        "stock_code": "000963",
+        "stock_name": "华东医药",
+        "market_value_wan": 3883.1
+      }
+    ],
+    "2018-Q1": [
+      {
+        "stock_code": "300365",
+        "stock_name": "恒华科技",
+        "market_value_wan": 12232.28
+      },
+      {
+        "stock_code": "300188",
+        "stock_name": "国投智能",
+        "market_value_wan": 10179.64
+      },
+      {
+        "stock_code": "300012",
+        "stock_name": "华测检测",
+        "market_value_wan": 9761.02
+      },
+      {
+        "stock_code": "002027",
+        "stock_name": "分众传媒",
+        "market_value_wan": 8248.89
+      },
+      {
+        "stock_code": "601155",
+        "stock_name": "新城控股",
+        "market_value_wan": 5903.49
+      },
+      {
+        "stock_code": "603096",
+        "stock_name": "新经典",
+        "market_value_wan": 5794.78
+      },
+      {
+        "stock_code": "601100",
+        "stock_name": "恒立液压",
+        "market_value_wan": 5576.99
+      },
+      {
+        "stock_code": "002690",
+        "stock_name": "美亚光电",
+        "market_value_wan": 5289.96
+      },
+      {
+        "stock_code": "300271",
+        "stock_name": "华宇软件",
+        "market_value_wan": 5102.44
+      },
+      {
+        "stock_code": "300602",
+        "stock_name": "飞荣达",
+        "market_value_wan": 4375.43
+      }
+    ]
+  }
+}

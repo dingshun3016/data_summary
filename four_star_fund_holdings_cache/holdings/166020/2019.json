@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "166020",
+    "name": "中欧成长优选混合A",
+    "base_name": "中欧成长优选混合"
+  },
+  "fetched_at": "2026-06-14 22:42:34",
+  "quarters": {
+    "2019-Q4": [
+      {
+        "stock_code": "601965",
+        "stock_name": "中国汽研",
+        "market_value_wan": 384.89
+      },
+      {
+        "stock_code": "600754",
+        "stock_name": "锦江酒店",
+        "market_value_wan": 328.44
+      },
+      {
+        "stock_code": "002048",
+        "stock_name": "宁波华翔",
+        "market_value_wan": 320.72
+      },
+      {
+        "stock_code": "002833",
+        "stock_name": "弘亚数控",
+        "market_value_wan": 240.27
+      },
+      {
+        "stock_code": "002035",
+        "stock_name": "华帝股份",
+        "market_value_wan": 225.46
+      },
+      {
+        "stock_code": "000537",
+        "stock_name": "中绿电",
+        "market_value_wan": 224.71
+      },
+      {
+        "stock_code": "600297",
+        "stock_name": "广汇汽车",
+        "market_value_wan": 216.36
+      },
+      {
+        "stock_code": "601336",
+        "stock_name": "新华保险",
+        "market_value_wan": 211.84
+      },
+      {
+        "stock_code": "300196",
+        "stock_name": "长海股份",
+        "market_value_wan": 210.14
+      },
+      {
+        "stock_code": "002572",
+        "stock_name": "索菲亚",
+        "market_value_wan": 189.6
+      }
+    ],
+    "2019-Q3": [
+      {
+        "stock_code": "601965",
+        "stock_name": "中国汽研",
+        "market_value_wan": 347.59
+      },
+      {
+        "stock_code": "002048",
+        "stock_name": "宁波华翔",
+        "market_value_wan": 309.72
+      },
+      {
+        "stock_code": "600297",
+        "stock_name": "广汇汽车",
+        "market_value_wan": 255.51
+      },
+      {
+        "stock_code": "600754",
+        "stock_name": "锦江酒店",
+        "market_value_wan": 244.93
+      },
+      {
+        "stock_code": "300196",
+        "stock_name": "长海股份",
+        "market_value_wan": 231.13
+      },
+      {
+        "stock_code": "601336",
+        "stock_name": "新华保险",
+        "market_value_wan": 209.77
+      },
+      {
+        "stock_code": "002833",
+        "stock_name": "弘亚数控",
+        "market_value_wan": 207.83
+      },
+      {
+        "stock_code": "002572",
+        "stock_name": "索菲亚",
+        "market_value_wan": 189.18
+      },
+      {
+        "stock_code": "000537",
+        "stock_name": "中绿电",
+        "market_value_wan": 184.22
+      },
+      {
+        "stock_code": "600466",
+        "stock_name": "*ST蓝光",
+        "market_value_wan": 180.3
+      }
+    ],
+    "2019-Q2": [
+      {
+        "stock_code": "601965",
+        "stock_name": "中国汽研",
+        "market_value_wan": 352.81
+      },
+      {
+        "stock_code": "002048",
+        "stock_name": "宁波华翔",
+        "market_value_wan": 332.66
+      },
+      {
+        "stock_code": "600297",
+        "stock_name": "广汇汽车",
+        "market_value_wan": 260.32
+      },
+      {
+        "stock_code": "601601",
+        "stock_name": "中国太保",
+        "market_value_wan": 255.57
+      },
+      {
+        "stock_code": "600754",
+        "stock_name": "锦江酒店",
+        "market_value_wan": 246.4
+      },
+      {
+        "stock_code": "300196",
+        "stock_name": "长海股份",
+        "market_value_wan": 238.46
+      },
+      {
+        "stock_code": "002833",
+        "stock_name": "弘亚数控",
+        "market_value_wan": 219.97
+      },
+      {
+        "stock_code": "000651",
+        "stock_name": "格力电器",
+        "market_value_wan": 217.8
+      },
+      {
+        "stock_code": "002572",
+        "stock_name": "索菲亚",
+        "market_value_wan": 205.09
+      },
+      {
+        "stock_code": "601336",
+        "stock_name": "新华保险",
+        "market_value_wan": 182.15
+      }
+    ],
+    "2019-Q1": [
+      {
+        "stock_code": "002048",
+        "stock_name": "宁波华翔",
+        "market_value_wan": 653.12
+      },
+      {
+        "stock_code": "300459",
+        "stock_name": "汤姆猫",
+        "market_value_wan": 578.2
+      },
+      {
+        "stock_code": "300196",
+        "stock_name": "长海股份",
+        "market_value_wan": 513.96
+      },
+      {
+        "stock_code": "601965",
+        "stock_name": "中国汽研",
+        "market_value_wan": 396.02
+      },
+      {
+        "stock_code": "600729",
+        "stock_name": "重庆百货",
+        "market_value_wan": 371.8
+      },
+      {
+        "stock_code": "600297",
+        "stock_name": "广汇汽车",
+        "market_value_wan": 309.35
+      },
+      {
+        "stock_code": "600754",
+        "stock_name": "锦江酒店",
+        "market_value_wan": 277.7
+      },
+      {
+        "stock_code": "000910",
+        "stock_name": "大亚圣象",
+        "market_value_wan": 276.74
+      },
+      {
+        "stock_code": "002050",
+        "stock_name": "三花智控",
+        "market_value_wan": 255.73
+      },
+      {
+        "stock_code": "601336",
+        "stock_name": "新华保险",
+        "market_value_wan": 253.95
+      }
+    ]
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "009121",
+    "name": "广发招享混合A",
+    "base_name": "广发招享混合"
+  },
+  "fetched_at": "2026-08-01 20:58:09",
+  "quarters": {
+    "2026-Q2": [
+      {
+        "stock_code": "002371",
+        "stock_name": "北方华创",
+        "market_value_wan": 14076.45
+      },
+      {
+        "stock_code": "300124",
+        "stock_name": "汇川技术",
+        "market_value_wan": 10324.36
+      },
+      {
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "market_value_wan": 5991.37
+      },
+      {
+        "stock_code": "688012",
+        "stock_name": "中微公司",
+        "market_value_wan": 3480.96
+      },
+      {
+        "stock_code": "002001",
+        "stock_name": "新和成",
+        "market_value_wan": 3217.43
+      },
+      {
+        "stock_code": "688041",
+        "stock_name": "海光信息",
+        "market_value_wan": 2673.42
+      },
+      {
+        "stock_code": "603019",
+        "stock_name": "中科曙光",
+        "market_value_wan": 2359.06
+      },
+      {
+        "stock_code": "688692",
+        "stock_name": "达梦数据",
+        "market_value_wan": 2141.2
+      }
+    ],
+    "2026-Q1": [
+      {
+        "stock_code": "300124",
+        "stock_name": "汇川技术",
+        "market_value_wan": 11624.59
+      },
+      {
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "market_value_wan": 4059.77
+      },
+      {
+        "stock_code": "002001",
+        "stock_name": "新和成",
+        "market_value_wan": 3911.41
+      },
+      {
+        "stock_code": "601166",
+        "stock_name": "兴业银行",
+        "market_value_wan": 3575.8
+      },
+      {
+        "stock_code": "601211",
+        "stock_name": "国泰海通",
+        "market_value_wan": 3235.05
+      },
+      {
+        "stock_code": "603259",
+        "stock_name": "药明康德",
+        "market_value_wan": 2923.38
+      },
+      {
+        "stock_code": "600562",
+        "stock_name": "国睿科技",
+        "market_value_wan": 2596.92
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "530001",
+    "name": "建信恒久价值混合",
+    "base_name": "建信恒久价值混合"
+  },
+  "fetched_at": "2026-06-15 00:05:22",
+  "quarters": {
+    "2019-Q4": [
+      {
+        "stock_code": "000002",
+        "stock_name": "万科A",
+        "market_value_wan": 4970.2
+      },
+      {
+        "stock_code": "002812",
+        "stock_name": "恩捷股份",
+        "market_value_wan": 4881.43
+      },
+      {
+        "stock_code": "002123",
+        "stock_name": "梦网科技",
+        "market_value_wan": 4845.49
+      },
+      {
+        "stock_code": "000625",
+        "stock_name": "长安汽车",
+        "market_value_wan": 4757.32
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 4698.62
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 3805.59
+      },
+      {
+        "stock_code": "002624",
+        "stock_name": "完美世界",
+        "market_value_wan": 3345.81
+      },
+      {
+        "stock_code": "002174",
+        "stock_name": "游族网络",
+        "market_value_wan": 2903.97
+      },
+      {
+        "stock_code": "000961",
+        "stock_name": "ST中南",
+        "market_value_wan": 2605.67
+      },
+      {
+        "stock_code": "603707",
+        "stock_name": "健友股份",
+        "market_value_wan": 2421.95
+      }
+    ],
+    "2019-Q3": [
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 7486.5
+      },
+      {
+        "stock_code": "002123",
+        "stock_name": "梦网科技",
+        "market_value_wan": 5233.12
+      },
+      {
+        "stock_code": "601888",
+        "stock_name": "中国中免",
+        "market_value_wan": 4419.24
+      },
+      {
+        "stock_code": "000858",
+        "stock_name": "五粮液",
+        "market_value_wan": 4349.87
+      },
+      {
+        "stock_code": "002241",
+        "stock_name": "歌尔股份",
+        "market_value_wan": 3769.15
+      },
+      {
+        "stock_code": "603501",
+        "stock_name": "韦尔股份",
+        "market_value_wan": 3126.77
+      },
+      {
+        "stock_code": "002185",
+        "stock_name": "华天科技",
+        "market_value_wan": 2712.27
+      },
+      {
+        "stock_code": "603707",
+        "stock_name": "健友股份",
+        "market_value_wan": 2360.28
+      },
+      {
+        "stock_code": "002714",
+        "stock_name": "牧原股份",
+        "market_value_wan": 2313.81
+      },
+      {
+        "stock_code": "000651",
+        "stock_name": "格力电器",
+        "market_value_wan": 2255.23
+      }
+    ],
+    "2019-Q2": [
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 5687.52
+      },
+      {
+        "stock_code": "000858",
+        "stock_name": "五粮液",
+        "market_value_wan": 5411.79
+      },
+      {
+        "stock_code": "300498",
+        "stock_name": "温氏股份",
+        "market_value_wan": 4025.64
+      },
+      {
+        "stock_code": "000968",
+        "stock_name": "蓝焰控股",
+        "market_value_wan": 3962.04
+      },
+      {
+        "stock_code": "002463",
+        "stock_name": "沪电股份",
+        "market_value_wan": 3233.12
+      },
+      {
+        "stock_code": "002123",
+        "stock_name": "梦网科技",
+        "market_value_wan": 3170.05
+      },
+      {
+        "stock_code": "603027",
+        "stock_name": "千禾味业",
+        "market_value_wan": 3138.24
+      },
+      {
+        "stock_code": "601888",
+        "stock_name": "中国中免",
+        "market_value_wan": 3054.68
+      },
+      {
+        "stock_code": "002714",
+        "stock_name": "牧原股份",
+        "market_value_wan": 2657.31
+      },
+      {
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "market_value_wan": 2424.37
+      }
+    ],
+    "2019-Q1": [
+      {
+        "stock_code": "000968",
+        "stock_name": "蓝焰控股",
+        "market_value_wan": 4354.49
+      },
+      {
+        "stock_code": "000661",
+        "stock_name": "长春高新",
+        "market_value_wan": 4244.5
+      },
+      {
+        "stock_code": "603707",
+        "stock_name": "健友股份",
+        "market_value_wan": 4117.24
+      },
+      {
+        "stock_code": "600031",
+        "stock_name": "三一重工",
+        "market_value_wan": 3080.24
+      },
+      {
+        "stock_code": "002463",
+        "stock_name": "沪电股份",
+        "market_value_wan": 3062.36
+      },
+      {
+        "stock_code": "600352",
+        "stock_name": "浙江龙盛",
+        "market_value_wan": 2927.27
+      },
+      {
+        "stock_code": "002624",
+        "stock_name": "完美世界",
+        "market_value_wan": 2816.5
+      },
+      {
+        "stock_code": "600809",
+        "stock_name": "山西汾酒",
+        "market_value_wan": 2640.72
+      },
+      {
+        "stock_code": "002157",
+        "stock_name": "正邦科技",
+        "market_value_wan": 2586.85
+      },
+      {
+        "stock_code": "000858",
+        "stock_name": "五粮液",
+        "market_value_wan": 2533.85
+      }
+    ]
+  }
+}

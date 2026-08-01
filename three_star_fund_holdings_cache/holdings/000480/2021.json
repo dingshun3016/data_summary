@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "000480",
+    "name": "东方红新动力混合A",
+    "base_name": "东方红新动力混合"
+  },
+  "fetched_at": "2026-06-14 22:49:44",
+  "quarters": {
+    "2021-Q4": [
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 12742.8
+      },
+      {
+        "stock_code": "600060",
+        "stock_name": "海信视像",
+        "market_value_wan": 11696.52
+      },
+      {
+        "stock_code": "689009",
+        "stock_name": "九号公司",
+        "market_value_wan": 8667.01
+      },
+      {
+        "stock_code": "000002",
+        "stock_name": "万科A",
+        "market_value_wan": 7706.4
+      },
+      {
+        "stock_code": "002223",
+        "stock_name": "鱼跃医疗",
+        "market_value_wan": 7371.0
+      },
+      {
+        "stock_code": "002159",
+        "stock_name": "三特索道",
+        "market_value_wan": 6208.24
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 5842.5
+      },
+      {
+        "stock_code": "002027",
+        "stock_name": "分众传媒",
+        "market_value_wan": 5366.91
+      },
+      {
+        "stock_code": "601117",
+        "stock_name": "中国化学",
+        "market_value_wan": 5160.0
+      },
+      {
+        "stock_code": "600048",
+        "stock_name": "保利发展",
+        "market_value_wan": 5001.6
+      }
+    ],
+    "2021-Q3": [
+      {
+        "stock_code": "600060",
+        "stock_name": "海信视像",
+        "market_value_wan": 10174.67
+      },
+      {
+        "stock_code": "000002",
+        "stock_name": "万科A",
+        "market_value_wan": 8310.9
+      },
+      {
+        "stock_code": "600048",
+        "stock_name": "保利发展",
+        "market_value_wan": 7856.8
+      },
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 7179.43
+      },
+      {
+        "stock_code": "002223",
+        "stock_name": "鱼跃医疗",
+        "market_value_wan": 7130.2
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 6844.2
+      },
+      {
+        "stock_code": "002159",
+        "stock_name": "三特索道",
+        "market_value_wan": 6202.56
+      },
+      {
+        "stock_code": "689009",
+        "stock_name": "九号公司",
+        "market_value_wan": 6168.63
+      },
+      {
+        "stock_code": "002027",
+        "stock_name": "分众传媒",
+        "market_value_wan": 4796.8
+      },
+      {
+        "stock_code": "601117",
+        "stock_name": "中国化学",
+        "market_value_wan": 4460.4
+      }
+    ],
+    "2021-Q2": [
+      {
+        "stock_code": "600060",
+        "stock_name": "海信视像",
+        "market_value_wan": 14696.75
+      },
+      {
+        "stock_code": "002415",
+        "stock_name": "海康威视",
+        "market_value_wan": 13133.49
+      },
+      {
+        "stock_code": "600976",
+        "stock_name": "健民集团",
+        "market_value_wan": 10150.0
+      },
+      {
+        "stock_code": "000002",
+        "stock_name": "万科A",
+        "market_value_wan": 9660.87
+      },
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 9248.22
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 7692.06
+      },
+      {
+        "stock_code": "689009",
+        "stock_name": "九号公司",
+        "market_value_wan": 6894.72
+      },
+      {
+        "stock_code": "600048",
+        "stock_name": "保利发展",
+        "market_value_wan": 6862.8
+      },
+      {
+        "stock_code": "002159",
+        "stock_name": "三特索道",
+        "market_value_wan": 6302.52
+      },
+      {
+        "stock_code": "002027",
+        "stock_name": "分众传媒",
+        "market_value_wan": 6166.37
+      }
+    ],
+    "2021-Q1": [
+      {
+        "stock_code": "600976",
+        "stock_name": "健民集团",
+        "market_value_wan": 12200.05
+      },
+      {
+        "stock_code": "000002",
+        "stock_name": "万科A",
+        "market_value_wan": 12172.45
+      },
+      {
+        "stock_code": "002415",
+        "stock_name": "海康威视",
+        "market_value_wan": 11794.9
+      },
+      {
+        "stock_code": "600060",
+        "stock_name": "海信视像",
+        "market_value_wan": 10765.92
+      },
+      {
+        "stock_code": "600048",
+        "stock_name": "保利发展",
+        "market_value_wan": 8111.1
+      },
+      {
+        "stock_code": "002159",
+        "stock_name": "三特索道",
+        "market_value_wan": 7145.44
+      },
+      {
+        "stock_code": "689009",
+        "stock_name": "九号公司",
+        "market_value_wan": 6257.24
+      },
+      {
+        "stock_code": "002027",
+        "stock_name": "分众传媒",
+        "market_value_wan": 6113.85
+      },
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 5425.55
+      },
+      {
+        "stock_code": "603001",
+        "stock_name": "奥康国际",
+        "market_value_wan": 5372.05
+      }
+    ]
+  }
+}

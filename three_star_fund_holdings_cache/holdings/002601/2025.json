@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "002601",
+    "name": "中银证券价值精选混合",
+    "base_name": "中银证券价值精选混合"
+  },
+  "fetched_at": "2026-06-14 23:06:58",
+  "quarters": {
+    "2025-Q4": [
+      {
+        "stock_code": "601899",
+        "stock_name": "紫金矿业",
+        "market_value_wan": 861.75
+      },
+      {
+        "stock_code": "600988",
+        "stock_name": "赤峰黄金",
+        "market_value_wan": 749.76
+      },
+      {
+        "stock_code": "002895",
+        "stock_name": "川恒股份",
+        "market_value_wan": 659.88
+      },
+      {
+        "stock_code": "600489",
+        "stock_name": "中金黄金",
+        "market_value_wan": 642.4
+      },
+      {
+        "stock_code": "000792",
+        "stock_name": "盐湖股份",
+        "market_value_wan": 506.88
+      },
+      {
+        "stock_code": "600499",
+        "stock_name": "科达制造",
+        "market_value_wan": 485.45
+      },
+      {
+        "stock_code": "600938",
+        "stock_name": "中国海油",
+        "market_value_wan": 482.88
+      },
+      {
+        "stock_code": "600096",
+        "stock_name": "云天化",
+        "market_value_wan": 467.74
+      },
+      {
+        "stock_code": "600115",
+        "stock_name": "中国东航",
+        "market_value_wan": 450.0
+      },
+      {
+        "stock_code": "600258",
+        "stock_name": "首旅酒店",
+        "market_value_wan": 435.5
+      }
+    ],
+    "2025-Q3": [
+      {
+        "stock_code": "601899",
+        "stock_name": "紫金矿业",
+        "market_value_wan": 756.9
+      },
+      {
+        "stock_code": "600489",
+        "stock_name": "中金黄金",
+        "market_value_wan": 712.73
+      },
+      {
+        "stock_code": "002895",
+        "stock_name": "川恒股份",
+        "market_value_wan": 555.94
+      },
+      {
+        "stock_code": "600988",
+        "stock_name": "赤峰黄金",
+        "market_value_wan": 502.86
+      },
+      {
+        "stock_code": "000807",
+        "stock_name": "云铝股份",
+        "market_value_wan": 494.4
+      },
+      {
+        "stock_code": "600026",
+        "stock_name": "中远海能",
+        "market_value_wan": 484.8
+      },
+      {
+        "stock_code": "000630",
+        "stock_name": "铜陵有色",
+        "market_value_wan": 482.4
+      },
+      {
+        "stock_code": "601168",
+        "stock_name": "西部矿业",
+        "market_value_wan": 466.62
+      },
+      {
+        "stock_code": "002460",
+        "stock_name": "赣锋锂业",
+        "market_value_wan": 456.6
+      },
+      {
+        "stock_code": "600188",
+        "stock_name": "兖矿能源",
+        "market_value_wan": 399.3
+      }
+    ],
+    "2025-Q2": [
+      {
+        "stock_code": "600938",
+        "stock_name": "中国海油",
+        "market_value_wan": 461.62
+      },
+      {
+        "stock_code": "002244",
+        "stock_name": "滨江集团",
+        "market_value_wan": 458.93
+      },
+      {
+        "stock_code": "002043",
+        "stock_name": "兔宝宝",
+        "market_value_wan": 423.36
+      },
+      {
+        "stock_code": "601899",
+        "stock_name": "紫金矿业",
+        "market_value_wan": 423.35
+      },
+      {
+        "stock_code": "603993",
+        "stock_name": "洛阳钼业",
+        "market_value_wan": 421.0
+      },
+      {
+        "stock_code": "600111",
+        "stock_name": "北方稀土",
+        "market_value_wan": 400.89
+      },
+      {
+        "stock_code": "000831",
+        "stock_name": "中国稀土",
+        "market_value_wan": 393.71
+      },
+      {
+        "stock_code": "000933",
+        "stock_name": "神火股份",
+        "market_value_wan": 391.21
+      },
+      {
+        "stock_code": "601021",
+        "stock_name": "春秋航空",
+        "market_value_wan": 389.55
+      },
+      {
+        "stock_code": "600795",
+        "stock_name": "国电电力",
+        "market_value_wan": 380.38
+      }
+    ],
+    "2025-Q1": [
+      {
+        "stock_code": "600030",
+        "stock_name": "中信证券",
+        "market_value_wan": 546.84
+      },
+      {
+        "stock_code": "002244",
+        "stock_name": "滨江集团",
+        "market_value_wan": 439.21
+      },
+      {
+        "stock_code": "002043",
+        "stock_name": "兔宝宝",
+        "market_value_wan": 439.19
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 379.41
+      },
+      {
+        "stock_code": "601881",
+        "stock_name": "中国银河",
+        "market_value_wan": 332.4
+      },
+      {
+        "stock_code": "601688",
+        "stock_name": "华泰证券",
+        "market_value_wan": 330.8
+      },
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 327.12
+      },
+      {
+        "stock_code": "600153",
+        "stock_name": "建发股份",
+        "market_value_wan": 311.1
+      },
+      {
+        "stock_code": "601229",
+        "stock_name": "上海银行",
+        "market_value_wan": 295.5
+      },
+      {
+        "stock_code": "002568",
+        "stock_name": "百润股份",
+        "market_value_wan": 261.5
+      }
+    ]
+  }
+}

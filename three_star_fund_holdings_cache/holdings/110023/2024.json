@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "110023",
+    "name": "易方达医疗保健行业混合A",
+    "base_name": "易方达医疗保健行业混合"
+  },
+  "fetched_at": "2026-06-14 23:51:00",
+  "quarters": {
+    "2024-Q4": [
+      {
+        "stock_code": "600276",
+        "stock_name": "恒瑞医药",
+        "market_value_wan": 48801.41
+      },
+      {
+        "stock_code": "300347",
+        "stock_name": "泰格医药",
+        "market_value_wan": 45064.61
+      },
+      {
+        "stock_code": "300832",
+        "stock_name": "新产业",
+        "market_value_wan": 38522.94
+      },
+      {
+        "stock_code": "688617",
+        "stock_name": "惠泰医疗",
+        "market_value_wan": 34497.9
+      },
+      {
+        "stock_code": "688050",
+        "stock_name": "爱博医疗",
+        "market_value_wan": 27341.85
+      },
+      {
+        "stock_code": "688289",
+        "stock_name": "圣湘生物",
+        "market_value_wan": 23813.01
+      },
+      {
+        "stock_code": "301333",
+        "stock_name": "诺思格",
+        "market_value_wan": 21420.14
+      },
+      {
+        "stock_code": "002294",
+        "stock_name": "信立泰",
+        "market_value_wan": 20994.97
+      },
+      {
+        "stock_code": "603127",
+        "stock_name": "昭衍新药",
+        "market_value_wan": 20678.47
+      },
+      {
+        "stock_code": "688068",
+        "stock_name": "热景生物",
+        "market_value_wan": 15379.11
+      }
+    ],
+    "2024-Q3": [
+      {
+        "stock_code": "300832",
+        "stock_name": "新产业",
+        "market_value_wan": 59438.28
+      },
+      {
+        "stock_code": "600276",
+        "stock_name": "恒瑞医药",
+        "market_value_wan": 59096.25
+      },
+      {
+        "stock_code": "300347",
+        "stock_name": "泰格医药",
+        "market_value_wan": 56363.93
+      },
+      {
+        "stock_code": "688617",
+        "stock_name": "惠泰医疗",
+        "market_value_wan": 47404.66
+      },
+      {
+        "stock_code": "688050",
+        "stock_name": "爱博医疗",
+        "market_value_wan": 37859.25
+      },
+      {
+        "stock_code": "688575",
+        "stock_name": "亚辉龙",
+        "market_value_wan": 35556.76
+      },
+      {
+        "stock_code": "688289",
+        "stock_name": "圣湘生物",
+        "market_value_wan": 34660.85
+      },
+      {
+        "stock_code": "688506",
+        "stock_name": "百利天恒",
+        "market_value_wan": 26087.36
+      },
+      {
+        "stock_code": "603998",
+        "stock_name": "方盛制药",
+        "market_value_wan": 17954.04
+      },
+      {
+        "stock_code": "002653",
+        "stock_name": "海思科",
+        "market_value_wan": 17128.37
+      }
+    ],
+    "2024-Q2": [
+      {
+        "stock_code": "688617",
+        "stock_name": "惠泰医疗",
+        "market_value_wan": 53494.05
+      },
+      {
+        "stock_code": "300832",
+        "stock_name": "新产业",
+        "market_value_wan": 50455.29
+      },
+      {
+        "stock_code": "600276",
+        "stock_name": "恒瑞医药",
+        "market_value_wan": 50437.89
+      },
+      {
+        "stock_code": "300347",
+        "stock_name": "泰格医药",
+        "market_value_wan": 44231.68
+      },
+      {
+        "stock_code": "688076",
+        "stock_name": "诺泰生物",
+        "market_value_wan": 39722.54
+      },
+      {
+        "stock_code": "688575",
+        "stock_name": "亚辉龙",
+        "market_value_wan": 29450.8
+      },
+      {
+        "stock_code": "002422",
+        "stock_name": "科伦药业",
+        "market_value_wan": 28879.01
+      },
+      {
+        "stock_code": "688289",
+        "stock_name": "圣湘生物",
+        "market_value_wan": 28037.83
+      },
+      {
+        "stock_code": "688331",
+        "stock_name": "荣昌生物",
+        "market_value_wan": 23881.02
+      },
+      {
+        "stock_code": "603998",
+        "stock_name": "方盛制药",
+        "market_value_wan": 18761.14
+      }
+    ],
+    "2024-Q1": [
+      {
+        "stock_code": "600276",
+        "stock_name": "恒瑞医药",
+        "market_value_wan": 57358.95
+      },
+      {
+        "stock_code": "688617",
+        "stock_name": "惠泰医疗",
+        "market_value_wan": 48744.77
+      },
+      {
+        "stock_code": "300832",
+        "stock_name": "新产业",
+        "market_value_wan": 45260.73
+      },
+      {
+        "stock_code": "688575",
+        "stock_name": "亚辉龙",
+        "market_value_wan": 32166.67
+      },
+      {
+        "stock_code": "603658",
+        "stock_name": "安图生物",
+        "market_value_wan": 28353.52
+      },
+      {
+        "stock_code": "688076",
+        "stock_name": "诺泰生物",
+        "market_value_wan": 28219.54
+      },
+      {
+        "stock_code": "688289",
+        "stock_name": "圣湘生物",
+        "market_value_wan": 28126.32
+      },
+      {
+        "stock_code": "688331",
+        "stock_name": "荣昌生物",
+        "market_value_wan": 28013.85
+      },
+      {
+        "stock_code": "300347",
+        "stock_name": "泰格医药",
+        "market_value_wan": 25991.26
+      },
+      {
+        "stock_code": "300723",
+        "stock_name": "一品红",
+        "market_value_wan": 21818.9
+      }
+    ]
+  }
+}

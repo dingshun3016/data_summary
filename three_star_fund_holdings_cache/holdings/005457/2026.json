@@ -1,0 +1,115 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "005457",
+    "name": "景顺长城量化小盘股票A",
+    "base_name": "景顺长城量化小盘股票"
+  },
+  "fetched_at": "2026-08-01 20:56:30",
+  "quarters": {
+    "2026-Q2": [
+      {
+        "stock_code": "603083",
+        "stock_name": "剑桥科技",
+        "market_value_wan": 568.36
+      },
+      {
+        "stock_code": "688110",
+        "stock_name": "东芯股份",
+        "market_value_wan": 425.73
+      },
+      {
+        "stock_code": "300438",
+        "stock_name": "鹏辉能源",
+        "market_value_wan": 334.71
+      },
+      {
+        "stock_code": "688766",
+        "stock_name": "普冉股份",
+        "market_value_wan": 329.64
+      },
+      {
+        "stock_code": "605111",
+        "stock_name": "新洁能",
+        "market_value_wan": 320.22
+      },
+      {
+        "stock_code": "002484",
+        "stock_name": "江海股份",
+        "market_value_wan": 248.85
+      },
+      {
+        "stock_code": "605376",
+        "stock_name": "博迁新材",
+        "market_value_wan": 241.46
+      },
+      {
+        "stock_code": "688627",
+        "stock_name": "精智达",
+        "market_value_wan": 235.95
+      },
+      {
+        "stock_code": "002222",
+        "stock_name": "福晶科技",
+        "market_value_wan": 233.47
+      },
+      {
+        "stock_code": "688559",
+        "stock_name": "海目星",
+        "market_value_wan": 233.3
+      }
+    ],
+    "2026-Q1": [
+      {
+        "stock_code": "300438",
+        "stock_name": "鹏辉能源",
+        "market_value_wan": 295.75
+      },
+      {
+        "stock_code": "300693",
+        "stock_name": "盛弘股份",
+        "market_value_wan": 290.17
+      },
+      {
+        "stock_code": "300548",
+        "stock_name": "长芯博创",
+        "market_value_wan": 281.8
+      },
+      {
+        "stock_code": "002315",
+        "stock_name": "焦点科技",
+        "market_value_wan": 271.72
+      },
+      {
+        "stock_code": "001309",
+        "stock_name": "德明利",
+        "market_value_wan": 269.87
+      },
+      {
+        "stock_code": "300409",
+        "stock_name": "道氏技术",
+        "market_value_wan": 230.81
+      },
+      {
+        "stock_code": "300842",
+        "stock_name": "帝科股份",
+        "market_value_wan": 227.08
+      },
+      {
+        "stock_code": "688498",
+        "stock_name": "源杰科技",
+        "market_value_wan": 221.2
+      },
+      {
+        "stock_code": "002396",
+        "stock_name": "星网锐捷",
+        "market_value_wan": 214.18
+      },
+      {
+        "stock_code": "603588",
+        "stock_name": "高能环境",
+        "market_value_wan": 206.91
+      }
+    ]
+  }
+}

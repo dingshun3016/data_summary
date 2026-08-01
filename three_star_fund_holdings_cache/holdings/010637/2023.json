@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "010637",
+    "name": "财通安盈混合C",
+    "base_name": "财通安盈混合"
+  },
+  "fetched_at": "2026-06-14 23:41:36",
+  "quarters": {
+    "2023-Q4": [
+      {
+        "stock_code": "600919",
+        "stock_name": "江苏银行",
+        "market_value_wan": 1217.71
+      },
+      {
+        "stock_code": "603225",
+        "stock_name": "新凤鸣",
+        "market_value_wan": 766.76
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 759.44
+      },
+      {
+        "stock_code": "600872",
+        "stock_name": "中炬高新",
+        "market_value_wan": 680.58
+      },
+      {
+        "stock_code": "603707",
+        "stock_name": "健友股份",
+        "market_value_wan": 598.05
+      },
+      {
+        "stock_code": "600809",
+        "stock_name": "山西汾酒",
+        "market_value_wan": 542.22
+      },
+      {
+        "stock_code": "601233",
+        "stock_name": "桐昆股份",
+        "market_value_wan": 488.55
+      },
+      {
+        "stock_code": "688046",
+        "stock_name": "药康生物",
+        "market_value_wan": 361.91
+      },
+      {
+        "stock_code": "603983",
+        "stock_name": "丸美股份",
+        "market_value_wan": 290.35
+      },
+      {
+        "stock_code": "688728",
+        "stock_name": "格科微",
+        "market_value_wan": 215.31
+      }
+    ],
+    "2023-Q3": [
+      {
+        "stock_code": "600919",
+        "stock_name": "江苏银行",
+        "market_value_wan": 1306.9
+      },
+      {
+        "stock_code": "603225",
+        "stock_name": "新凤鸣",
+        "market_value_wan": 710.06
+      },
+      {
+        "stock_code": "600872",
+        "stock_name": "中炬高新",
+        "market_value_wan": 704.27
+      },
+      {
+        "stock_code": "603477",
+        "stock_name": "巨星农牧",
+        "market_value_wan": 527.42
+      },
+      {
+        "stock_code": "603707",
+        "stock_name": "健友股份",
+        "market_value_wan": 505.95
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 485.61
+      },
+      {
+        "stock_code": "601233",
+        "stock_name": "桐昆股份",
+        "market_value_wan": 476.28
+      },
+      {
+        "stock_code": "605499",
+        "stock_name": "东鹏饮料",
+        "market_value_wan": 411.46
+      },
+      {
+        "stock_code": "603605",
+        "stock_name": "珀莱雅",
+        "market_value_wan": 345.44
+      },
+      {
+        "stock_code": "002567",
+        "stock_name": "唐人神",
+        "market_value_wan": 287.67
+      }
+    ],
+    "2023-Q2": [
+      {
+        "stock_code": "600919",
+        "stock_name": "江苏银行",
+        "market_value_wan": 1232.89
+      },
+      {
+        "stock_code": "600872",
+        "stock_name": "中炬高新",
+        "market_value_wan": 750.15
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 744.04
+      },
+      {
+        "stock_code": "603225",
+        "stock_name": "新凤鸣",
+        "market_value_wan": 596.67
+      },
+      {
+        "stock_code": "002271",
+        "stock_name": "东方雨虹",
+        "market_value_wan": 524.76
+      },
+      {
+        "stock_code": "603477",
+        "stock_name": "巨星农牧",
+        "market_value_wan": 511.26
+      },
+      {
+        "stock_code": "600388",
+        "stock_name": "龙净环保",
+        "market_value_wan": 439.91
+      },
+      {
+        "stock_code": "601233",
+        "stock_name": "桐昆股份",
+        "market_value_wan": 427.84
+      },
+      {
+        "stock_code": "603605",
+        "stock_name": "珀莱雅",
+        "market_value_wan": 382.16
+      },
+      {
+        "stock_code": "600079",
+        "stock_name": "人福医药",
+        "market_value_wan": 377.7
+      }
+    ],
+    "2023-Q1": [
+      {
+        "stock_code": "600919",
+        "stock_name": "江苏银行",
+        "market_value_wan": 1308.32
+      },
+      {
+        "stock_code": "600872",
+        "stock_name": "中炬高新",
+        "market_value_wan": 736.06
+      },
+      {
+        "stock_code": "603259",
+        "stock_name": "药明康德",
+        "market_value_wan": 678.14
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 673.4
+      },
+      {
+        "stock_code": "603369",
+        "stock_name": "今世缘",
+        "market_value_wan": 551.87
+      },
+      {
+        "stock_code": "002271",
+        "stock_name": "东方雨虹",
+        "market_value_wan": 551.75
+      },
+      {
+        "stock_code": "603225",
+        "stock_name": "新凤鸣",
+        "market_value_wan": 536.64
+      },
+      {
+        "stock_code": "601966",
+        "stock_name": "玲珑轮胎",
+        "market_value_wan": 505.11
+      },
+      {
+        "stock_code": "603477",
+        "stock_name": "巨星农牧",
+        "market_value_wan": 420.37
+      },
+      {
+        "stock_code": "600079",
+        "stock_name": "人福医药",
+        "market_value_wan": 416.96
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "009602",
+    "name": "招商科技动力3个月滚动持有股票C",
+    "base_name": "招商科技动力3个月滚动持有股票"
+  },
+  "fetched_at": "2026-06-14 23:34:33",
+  "quarters": {
+    "2023-Q4": [
+      {
+        "stock_code": "600900",
+        "stock_name": "长江电力",
+        "market_value_wan": 3890.54
+      },
+      {
+        "stock_code": "601288",
+        "stock_name": "农业银行",
+        "market_value_wan": 3837.72
+      },
+      {
+        "stock_code": "601939",
+        "stock_name": "建设银行",
+        "market_value_wan": 3655.43
+      },
+      {
+        "stock_code": "601398",
+        "stock_name": "工商银行",
+        "market_value_wan": 3620.8
+      },
+      {
+        "stock_code": "601088",
+        "stock_name": "中国神华",
+        "market_value_wan": 3425.3
+      },
+      {
+        "stock_code": "601988",
+        "stock_name": "中国银行",
+        "market_value_wan": 3396.13
+      },
+      {
+        "stock_code": "600941",
+        "stock_name": "中国移动",
+        "market_value_wan": 2374.59
+      },
+      {
+        "stock_code": "601728",
+        "stock_name": "中国电信",
+        "market_value_wan": 2060.56
+      },
+      {
+        "stock_code": "601985",
+        "stock_name": "中国核电",
+        "market_value_wan": 1796.18
+      },
+      {
+        "stock_code": "601225",
+        "stock_name": "陕西煤业",
+        "market_value_wan": 1560.9
+      }
+    ],
+    "2023-Q3": [
+      {
+        "stock_code": "601288",
+        "stock_name": "农业银行",
+        "market_value_wan": 3795.55
+      },
+      {
+        "stock_code": "600900",
+        "stock_name": "长江电力",
+        "market_value_wan": 3707.19
+      },
+      {
+        "stock_code": "601398",
+        "stock_name": "工商银行",
+        "market_value_wan": 3545.05
+      },
+      {
+        "stock_code": "601939",
+        "stock_name": "建设银行",
+        "market_value_wan": 3537.51
+      },
+      {
+        "stock_code": "601088",
+        "stock_name": "中国神华",
+        "market_value_wan": 3478.49
+      },
+      {
+        "stock_code": "601988",
+        "stock_name": "中国银行",
+        "market_value_wan": 3208.87
+      },
+      {
+        "stock_code": "600941",
+        "stock_name": "中国移动",
+        "market_value_wan": 2265.59
+      },
+      {
+        "stock_code": "601728",
+        "stock_name": "中国电信",
+        "market_value_wan": 2205.3
+      },
+      {
+        "stock_code": "601816",
+        "stock_name": "京沪高铁",
+        "market_value_wan": 2022.66
+      },
+      {
+        "stock_code": "600028",
+        "stock_name": "中国石化",
+        "market_value_wan": 1769.04
+      }
+    ],
+    "2023-Q2": [
+      {
+        "stock_code": "601288",
+        "stock_name": "农业银行",
+        "market_value_wan": 3721.75
+      },
+      {
+        "stock_code": "600900",
+        "stock_name": "长江电力",
+        "market_value_wan": 3677.18
+      },
+      {
+        "stock_code": "601398",
+        "stock_name": "工商银行",
+        "market_value_wan": 3651.1
+      },
+      {
+        "stock_code": "601939",
+        "stock_name": "建设银行",
+        "market_value_wan": 3515.05
+      },
+      {
+        "stock_code": "601988",
+        "stock_name": "中国银行",
+        "market_value_wan": 3328.04
+      },
+      {
+        "stock_code": "600021",
+        "stock_name": "上海电力",
+        "market_value_wan": 2223.45
+      },
+      {
+        "stock_code": "600941",
+        "stock_name": "中国移动",
+        "market_value_wan": 2183.22
+      },
+      {
+        "stock_code": "601728",
+        "stock_name": "中国电信",
+        "market_value_wan": 2144.35
+      },
+      {
+        "stock_code": "600028",
+        "stock_name": "中国石化",
+        "market_value_wan": 1853.56
+      },
+      {
+        "stock_code": "601816",
+        "stock_name": "京沪高铁",
+        "market_value_wan": 1579.1
+      }
+    ],
+    "2023-Q1": [
+      {
+        "stock_code": "600754",
+        "stock_name": "锦江酒店",
+        "market_value_wan": 3978.62
+      },
+      {
+        "stock_code": "300308",
+        "stock_name": "中际旭创",
+        "market_value_wan": 3565.22
+      },
+      {
+        "stock_code": "601111",
+        "stock_name": "中国国航",
+        "market_value_wan": 2601.81
+      },
+      {
+        "stock_code": "603885",
+        "stock_name": "吉祥航空",
+        "market_value_wan": 2576.5
+      },
+      {
+        "stock_code": "000977",
+        "stock_name": "浪潮信息",
+        "market_value_wan": 2548.51
+      },
+      {
+        "stock_code": "600258",
+        "stock_name": "首旅酒店",
+        "market_value_wan": 2459.1
+      },
+      {
+        "stock_code": "002463",
+        "stock_name": "沪电股份",
+        "market_value_wan": 2417.2
+      },
+      {
+        "stock_code": "600029",
+        "stock_name": "南方航空",
+        "market_value_wan": 2387.21
+      },
+      {
+        "stock_code": "601021",
+        "stock_name": "春秋航空",
+        "market_value_wan": 2379.78
+      },
+      {
+        "stock_code": "600115",
+        "stock_name": "中国东航",
+        "market_value_wan": 2248.84
+      }
+    ]
+  }
+}

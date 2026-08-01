@@ -1,0 +1,50 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "011726",
+    "name": "安信新常态股票C",
+    "base_name": "安信新常态股票"
+  },
+  "fetched_at": "2026-08-01 20:59:51",
+  "quarters": {
+    "2026-Q2": [
+      {
+        "stock_code": "688169",
+        "stock_name": "石头科技",
+        "market_value_wan": 2392.83
+      },
+      {
+        "stock_code": "002142",
+        "stock_name": "宁波银行",
+        "market_value_wan": 1375.87
+      },
+      {
+        "stock_code": "601668",
+        "stock_name": "中国建筑",
+        "market_value_wan": 1081.75
+      },
+      {
+        "stock_code": "603486",
+        "stock_name": "科沃斯",
+        "market_value_wan": 1023.25
+      }
+    ],
+    "2026-Q1": [
+      {
+        "stock_code": "688169",
+        "stock_name": "石头科技",
+        "market_value_wan": 4465.22
+      },
+      {
+        "stock_code": "002142",
+        "stock_name": "宁波银行",
+        "market_value_wan": 2463.14
+      },
+      {
+        "stock_code": "601668",
+        "stock_name": "中国建筑",
+        "market_value_wan": 1907.06
+      }
+    ]
+  }
+}

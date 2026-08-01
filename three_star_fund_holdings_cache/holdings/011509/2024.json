@@ -1,0 +1,214 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "011509",
+    "name": "易方达悦弘一年持有期混合C",
+    "base_name": "易方达悦弘一年持有期混合"
+  },
+  "fetched_at": "2026-06-14 23:47:21",
+  "quarters": {
+    "2024-Q4": [
+      {
+        "stock_code": "601702",
+        "stock_name": "华峰铝业",
+        "market_value_wan": 1139.87
+      },
+      {
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "market_value_wan": 672.42
+      },
+      {
+        "stock_code": "600031",
+        "stock_name": "三一重工",
+        "market_value_wan": 496.05
+      },
+      {
+        "stock_code": "000708",
+        "stock_name": "中信特钢",
+        "market_value_wan": 431.87
+      },
+      {
+        "stock_code": "600027",
+        "stock_name": "华电国际",
+        "market_value_wan": 378.56
+      },
+      {
+        "stock_code": "601988",
+        "stock_name": "中国银行",
+        "market_value_wan": 347.68
+      },
+      {
+        "stock_code": "601799",
+        "stock_name": "星宇股份",
+        "market_value_wan": 317.68
+      },
+      {
+        "stock_code": "601899",
+        "stock_name": "紫金矿业",
+        "market_value_wan": 296.5
+      },
+      {
+        "stock_code": "600309",
+        "stock_name": "万华化学",
+        "market_value_wan": 281.49
+      }
+    ],
+    "2024-Q3": [
+      {
+        "stock_code": "601799",
+        "stock_name": "星宇股份",
+        "market_value_wan": 1580.07
+      },
+      {
+        "stock_code": "601702",
+        "stock_name": "华峰铝业",
+        "market_value_wan": 1391.64
+      },
+      {
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "market_value_wan": 643.51
+      },
+      {
+        "stock_code": "600031",
+        "stock_name": "三一重工",
+        "market_value_wan": 568.29
+      },
+      {
+        "stock_code": "000708",
+        "stock_name": "中信特钢",
+        "market_value_wan": 516.27
+      },
+      {
+        "stock_code": "603129",
+        "stock_name": "春风动力",
+        "market_value_wan": 463.78
+      },
+      {
+        "stock_code": "600027",
+        "stock_name": "华电国际",
+        "market_value_wan": 404.21
+      },
+      {
+        "stock_code": "600309",
+        "stock_name": "万华化学",
+        "market_value_wan": 360.28
+      },
+      {
+        "stock_code": "601899",
+        "stock_name": "紫金矿业",
+        "market_value_wan": 355.73
+      },
+      {
+        "stock_code": "601100",
+        "stock_name": "恒立液压",
+        "market_value_wan": 304.92
+      }
+    ],
+    "2024-Q2": [
+      {
+        "stock_code": "601702",
+        "stock_name": "华峰铝业",
+        "market_value_wan": 1429.76
+      },
+      {
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "market_value_wan": 1391.53
+      },
+      {
+        "stock_code": "601799",
+        "stock_name": "星宇股份",
+        "market_value_wan": 1366.89
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 761.53
+      },
+      {
+        "stock_code": "000708",
+        "stock_name": "中信特钢",
+        "market_value_wan": 614.59
+      },
+      {
+        "stock_code": "600031",
+        "stock_name": "三一重工",
+        "market_value_wan": 496.65
+      },
+      {
+        "stock_code": "600027",
+        "stock_name": "华电国际",
+        "market_value_wan": 488.09
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 469.56
+      },
+      {
+        "stock_code": "601988",
+        "stock_name": "中国银行",
+        "market_value_wan": 427.77
+      },
+      {
+        "stock_code": "601006",
+        "stock_name": "大秦铁路",
+        "market_value_wan": 407.48
+      }
+    ],
+    "2024-Q1": [
+      {
+        "stock_code": "601799",
+        "stock_name": "星宇股份",
+        "market_value_wan": 3267.6
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 2281.89
+      },
+      {
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "market_value_wan": 1624.81
+      },
+      {
+        "stock_code": "601702",
+        "stock_name": "华峰铝业",
+        "market_value_wan": 1434.01
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 1217.02
+      },
+      {
+        "stock_code": "605020",
+        "stock_name": "永和股份",
+        "market_value_wan": 734.49
+      },
+      {
+        "stock_code": "601100",
+        "stock_name": "恒立液压",
+        "market_value_wan": 674.25
+      },
+      {
+        "stock_code": "600933",
+        "stock_name": "爱柯迪",
+        "market_value_wan": 608.7
+      },
+      {
+        "stock_code": "000708",
+        "stock_name": "中信特钢",
+        "market_value_wan": 600.23
+      },
+      {
+        "stock_code": "600027",
+        "stock_name": "华电国际",
+        "market_value_wan": 483.17
+      }
+    ]
+  }
+}

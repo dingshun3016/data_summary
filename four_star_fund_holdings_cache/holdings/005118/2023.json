@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "005118",
+    "name": "金信价值精选混合C",
+    "base_name": "金信价值精选混合"
+  },
+  "fetched_at": "2026-06-14 22:32:42",
+  "quarters": {
+    "2023-Q4": [
+      {
+        "stock_code": "688271",
+        "stock_name": "联影医疗",
+        "market_value_wan": 1013.87
+      },
+      {
+        "stock_code": "301363",
+        "stock_name": "美好医疗",
+        "market_value_wan": 989.55
+      },
+      {
+        "stock_code": "688580",
+        "stock_name": "伟思医疗",
+        "market_value_wan": 967.56
+      },
+      {
+        "stock_code": "688550",
+        "stock_name": "瑞联新材",
+        "market_value_wan": 753.92
+      },
+      {
+        "stock_code": "688389",
+        "stock_name": "普门科技",
+        "market_value_wan": 742.83
+      },
+      {
+        "stock_code": "688108",
+        "stock_name": "赛诺医疗",
+        "market_value_wan": 652.6
+      },
+      {
+        "stock_code": "300396",
+        "stock_name": "迪瑞医疗",
+        "market_value_wan": 589.0
+      },
+      {
+        "stock_code": "300760",
+        "stock_name": "迈瑞医疗",
+        "market_value_wan": 485.53
+      },
+      {
+        "stock_code": "603658",
+        "stock_name": "安图生物",
+        "market_value_wan": 461.78
+      },
+      {
+        "stock_code": "688062",
+        "stock_name": "迈威生物",
+        "market_value_wan": 458.43
+      }
+    ],
+    "2023-Q3": [
+      {
+        "stock_code": "688389",
+        "stock_name": "普门科技",
+        "market_value_wan": 666.33
+      },
+      {
+        "stock_code": "688351",
+        "stock_name": "微电生理",
+        "market_value_wan": 658.5
+      },
+      {
+        "stock_code": "688580",
+        "stock_name": "伟思医疗",
+        "market_value_wan": 542.81
+      },
+      {
+        "stock_code": "688062",
+        "stock_name": "迈威生物",
+        "market_value_wan": 493.4
+      },
+      {
+        "stock_code": "688108",
+        "stock_name": "赛诺医疗",
+        "market_value_wan": 489.54
+      },
+      {
+        "stock_code": "002422",
+        "stock_name": "科伦药业",
+        "market_value_wan": 376.04
+      },
+      {
+        "stock_code": "688271",
+        "stock_name": "联影医疗",
+        "market_value_wan": 335.95
+      },
+      {
+        "stock_code": "300760",
+        "stock_name": "迈瑞医疗",
+        "market_value_wan": 334.56
+      },
+      {
+        "stock_code": "688131",
+        "stock_name": "皓元医药",
+        "market_value_wan": 332.41
+      },
+      {
+        "stock_code": "300633",
+        "stock_name": "开立医疗",
+        "market_value_wan": 331.64
+      }
+    ],
+    "2023-Q2": [
+      {
+        "stock_code": "688271",
+        "stock_name": "联影医疗",
+        "market_value_wan": 692.47
+      },
+      {
+        "stock_code": "688062",
+        "stock_name": "迈威生物",
+        "market_value_wan": 665.28
+      },
+      {
+        "stock_code": "688131",
+        "stock_name": "皓元医药",
+        "market_value_wan": 660.08
+      },
+      {
+        "stock_code": "688276",
+        "stock_name": "百克生物",
+        "market_value_wan": 433.51
+      },
+      {
+        "stock_code": "300003",
+        "stock_name": "乐普医疗",
+        "market_value_wan": 427.1
+      },
+      {
+        "stock_code": "300760",
+        "stock_name": "迈瑞医疗",
+        "market_value_wan": 425.72
+      },
+      {
+        "stock_code": "688236",
+        "stock_name": "春立医疗",
+        "market_value_wan": 406.7
+      },
+      {
+        "stock_code": "002422",
+        "stock_name": "科伦药业",
+        "market_value_wan": 403.65
+      },
+      {
+        "stock_code": "600079",
+        "stock_name": "人福医药",
+        "market_value_wan": 401.94
+      },
+      {
+        "stock_code": "688161",
+        "stock_name": "威高骨科",
+        "market_value_wan": 398.45
+      }
+    ],
+    "2023-Q1": [
+      {
+        "stock_code": "600329",
+        "stock_name": "达仁堂",
+        "market_value_wan": 474.49
+      },
+      {
+        "stock_code": "688271",
+        "stock_name": "联影医疗",
+        "market_value_wan": 439.2
+      },
+      {
+        "stock_code": "000768",
+        "stock_name": "中航西飞",
+        "market_value_wan": 406.79
+      },
+      {
+        "stock_code": "688131",
+        "stock_name": "皓元医药",
+        "market_value_wan": 273.31
+      },
+      {
+        "stock_code": "688056",
+        "stock_name": "莱伯泰科",
+        "market_value_wan": 265.34
+      },
+      {
+        "stock_code": "688179",
+        "stock_name": "阿拉丁",
+        "market_value_wan": 255.3
+      },
+      {
+        "stock_code": "688276",
+        "stock_name": "百克生物",
+        "market_value_wan": 253.14
+      },
+      {
+        "stock_code": "300171",
+        "stock_name": "东富龙",
+        "market_value_wan": 250.73
+      },
+      {
+        "stock_code": "600079",
+        "stock_name": "人福医药",
+        "market_value_wan": 248.52
+      },
+      {
+        "stock_code": "300003",
+        "stock_name": "乐普医疗",
+        "market_value_wan": 243.62
+      }
+    ]
+  }
+}

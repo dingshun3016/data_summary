@@ -1,0 +1,115 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "010167",
+    "name": "中银多策略混合C",
+    "base_name": "中银多策略混合"
+  },
+  "fetched_at": "2026-06-14 23:38:28",
+  "quarters": {
+    "2020-Q4": [
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 7472.52
+      },
+      {
+        "stock_code": "600900",
+        "stock_name": "长江电力",
+        "market_value_wan": 2739.14
+      },
+      {
+        "stock_code": "000001",
+        "stock_name": "平安银行",
+        "market_value_wan": 2327.18
+      },
+      {
+        "stock_code": "600690",
+        "stock_name": "海尔智家",
+        "market_value_wan": 2154.69
+      },
+      {
+        "stock_code": "002304",
+        "stock_name": "洋河股份",
+        "market_value_wan": 2003.56
+      },
+      {
+        "stock_code": "000858",
+        "stock_name": "五粮液",
+        "market_value_wan": 1926.5
+      },
+      {
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "market_value_wan": 1923.13
+      },
+      {
+        "stock_code": "600887",
+        "stock_name": "伊利股份",
+        "market_value_wan": 1799.96
+      },
+      {
+        "stock_code": "000651",
+        "stock_name": "格力电器",
+        "market_value_wan": 1721.93
+      },
+      {
+        "stock_code": "002271",
+        "stock_name": "东方雨虹",
+        "market_value_wan": 1628.03
+      }
+    ],
+    "2020-Q3": [
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 5506.05
+      },
+      {
+        "stock_code": "000895",
+        "stock_name": "双汇发展",
+        "market_value_wan": 3202.55
+      },
+      {
+        "stock_code": "600900",
+        "stock_name": "长江电力",
+        "market_value_wan": 2734.85
+      },
+      {
+        "stock_code": "000001",
+        "stock_name": "平安银行",
+        "market_value_wan": 1825.41
+      },
+      {
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "market_value_wan": 1686.11
+      },
+      {
+        "stock_code": "000002",
+        "stock_name": "万科A",
+        "market_value_wan": 1679.8
+      },
+      {
+        "stock_code": "600887",
+        "stock_name": "伊利股份",
+        "market_value_wan": 1561.83
+      },
+      {
+        "stock_code": "002271",
+        "stock_name": "东方雨虹",
+        "market_value_wan": 1507.74
+      },
+      {
+        "stock_code": "000651",
+        "stock_name": "格力电器",
+        "market_value_wan": 1481.74
+      },
+      {
+        "stock_code": "000538",
+        "stock_name": "云南白药",
+        "market_value_wan": 1381.65
+      }
+    ]
+  }
+}

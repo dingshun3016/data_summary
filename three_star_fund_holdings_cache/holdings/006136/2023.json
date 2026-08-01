@@ -1,0 +1,124 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "006136",
+    "name": "广发估值优势混合A",
+    "base_name": "广发估值优势混合"
+  },
+  "fetched_at": "2026-06-14 23:20:41",
+  "quarters": {
+    "2023-Q4": [
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 1156.42
+      },
+      {
+        "stock_code": "600188",
+        "stock_name": "兖矿能源",
+        "market_value_wan": 774.57
+      },
+      {
+        "stock_code": "000921",
+        "stock_name": "海信家电",
+        "market_value_wan": 774.38
+      },
+      {
+        "stock_code": "603882",
+        "stock_name": "金域医学",
+        "market_value_wan": 725.81
+      },
+      {
+        "stock_code": "603298",
+        "stock_name": "杭叉集团",
+        "market_value_wan": 668.77
+      }
+    ],
+    "2023-Q3": [
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 1205.03
+      },
+      {
+        "stock_code": "000921",
+        "stock_name": "海信家电",
+        "market_value_wan": 893.2
+      },
+      {
+        "stock_code": "603833",
+        "stock_name": "欧派家居",
+        "market_value_wan": 871.64
+      },
+      {
+        "stock_code": "600188",
+        "stock_name": "兖矿能源",
+        "market_value_wan": 791.78
+      },
+      {
+        "stock_code": "600702",
+        "stock_name": "舍得酒业",
+        "market_value_wan": 772.5
+      }
+    ],
+    "2023-Q2": [
+      {
+        "stock_code": "000921",
+        "stock_name": "海信家电",
+        "market_value_wan": 1399.78
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 1132.97
+      },
+      {
+        "stock_code": "600276",
+        "stock_name": "恒瑞医药",
+        "market_value_wan": 1059.07
+      },
+      {
+        "stock_code": "000651",
+        "stock_name": "格力电器",
+        "market_value_wan": 918.59
+      },
+      {
+        "stock_code": "600702",
+        "stock_name": "舍得酒业",
+        "market_value_wan": 766.01
+      }
+    ],
+    "2023-Q1": [
+      {
+        "stock_code": "600702",
+        "stock_name": "舍得酒业",
+        "market_value_wan": 1217.46
+      },
+      {
+        "stock_code": "000921",
+        "stock_name": "海信家电",
+        "market_value_wan": 1165.87
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 1146.6
+      },
+      {
+        "stock_code": "600570",
+        "stock_name": "恒生电子",
+        "market_value_wan": 1022.36
+      },
+      {
+        "stock_code": "000983",
+        "stock_name": "山西焦煤",
+        "market_value_wan": 995.36
+      },
+      {
+        "stock_code": "300059",
+        "stock_name": "东方财富",
+        "market_value_wan": 960.77
+      }
+    ]
+  }
+}

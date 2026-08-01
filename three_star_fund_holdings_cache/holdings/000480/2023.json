@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "000480",
+    "name": "东方红新动力混合A",
+    "base_name": "东方红新动力混合"
+  },
+  "fetched_at": "2026-06-14 22:49:45",
+  "quarters": {
+    "2023-Q4": [
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 9801.71
+      },
+      {
+        "stock_code": "000035",
+        "stock_name": "中国天楹",
+        "market_value_wan": 8101.6
+      },
+      {
+        "stock_code": "600060",
+        "stock_name": "海信视像",
+        "market_value_wan": 7565.8
+      },
+      {
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "market_value_wan": 6892.91
+      },
+      {
+        "stock_code": "600585",
+        "stock_name": "海螺水泥",
+        "market_value_wan": 6497.7
+      },
+      {
+        "stock_code": "689009",
+        "stock_name": "九号公司",
+        "market_value_wan": 5813.53
+      },
+      {
+        "stock_code": "002841",
+        "stock_name": "视源股份",
+        "market_value_wan": 5811.52
+      },
+      {
+        "stock_code": "601766",
+        "stock_name": "中国中车",
+        "market_value_wan": 5596.72
+      },
+      {
+        "stock_code": "605376",
+        "stock_name": "博迁新材",
+        "market_value_wan": 5065.28
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 4487.6
+      }
+    ],
+    "2023-Q3": [
+      {
+        "stock_code": "000035",
+        "stock_name": "中国天楹",
+        "market_value_wan": 9200.4
+      },
+      {
+        "stock_code": "600060",
+        "stock_name": "海信视像",
+        "market_value_wan": 8984.0
+      },
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 7455.0
+      },
+      {
+        "stock_code": "000002",
+        "stock_name": "万科A",
+        "market_value_wan": 5755.2
+      },
+      {
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "market_value_wan": 5581.55
+      },
+      {
+        "stock_code": "600585",
+        "stock_name": "海螺水泥",
+        "market_value_wan": 5390.26
+      },
+      {
+        "stock_code": "689009",
+        "stock_name": "九号公司",
+        "market_value_wan": 4911.05
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 4800.44
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 4676.23
+      },
+      {
+        "stock_code": "601233",
+        "stock_name": "桐昆股份",
+        "market_value_wan": 4572.5
+      }
+    ],
+    "2023-Q2": [
+      {
+        "stock_code": "600060",
+        "stock_name": "海信视像",
+        "market_value_wan": 9900.0
+      },
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 8245.55
+      },
+      {
+        "stock_code": "000035",
+        "stock_name": "中国天楹",
+        "market_value_wan": 7511.2
+      },
+      {
+        "stock_code": "000002",
+        "stock_name": "万科A",
+        "market_value_wan": 6589.4
+      },
+      {
+        "stock_code": "601233",
+        "stock_name": "桐昆股份",
+        "market_value_wan": 5698.16
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 5073.0
+      },
+      {
+        "stock_code": "689009",
+        "stock_name": "九号公司",
+        "market_value_wan": 5033.73
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 4851.26
+      },
+      {
+        "stock_code": "600585",
+        "stock_name": "海螺水泥",
+        "market_value_wan": 4727.08
+      },
+      {
+        "stock_code": "300853",
+        "stock_name": "申昊科技",
+        "market_value_wan": 4335.69
+      }
+    ],
+    "2023-Q1": [
+      {
+        "stock_code": "600060",
+        "stock_name": "海信视像",
+        "market_value_wan": 12029.38
+      },
+      {
+        "stock_code": "000035",
+        "stock_name": "中国天楹",
+        "market_value_wan": 7800.81
+      },
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 7729.05
+      },
+      {
+        "stock_code": "000002",
+        "stock_name": "万科A",
+        "market_value_wan": 7162.8
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 5460.0
+      },
+      {
+        "stock_code": "689009",
+        "stock_name": "九号公司",
+        "market_value_wan": 4949.86
+      },
+      {
+        "stock_code": "300853",
+        "stock_name": "申昊科技",
+        "market_value_wan": 4698.87
+      },
+      {
+        "stock_code": "601233",
+        "stock_name": "桐昆股份",
+        "market_value_wan": 4079.96
+      },
+      {
+        "stock_code": "600031",
+        "stock_name": "三一重工",
+        "market_value_wan": 4008.63
+      },
+      {
+        "stock_code": "300033",
+        "stock_name": "同花顺",
+        "market_value_wan": 3511.92
+      }
+    ]
+  }
+}

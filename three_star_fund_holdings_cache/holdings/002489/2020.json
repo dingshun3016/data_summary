@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "002489",
+    "name": "国泰民福策略价值混合A",
+    "base_name": "国泰民福策略价值混合"
+  },
+  "fetched_at": "2026-06-14 23:06:30",
+  "quarters": {
+    "2020-Q4": [
+      {
+        "stock_code": "600690",
+        "stock_name": "海尔智家",
+        "market_value_wan": 1090.7
+      },
+      {
+        "stock_code": "601012",
+        "stock_name": "隆基绿能",
+        "market_value_wan": 1034.48
+      },
+      {
+        "stock_code": "600031",
+        "stock_name": "三一重工",
+        "market_value_wan": 1016.87
+      },
+      {
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "market_value_wan": 975.05
+      },
+      {
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "market_value_wan": 895.26
+      },
+      {
+        "stock_code": "002594",
+        "stock_name": "比亚迪",
+        "market_value_wan": 837.43
+      },
+      {
+        "stock_code": "600885",
+        "stock_name": "宏发股份",
+        "market_value_wan": 779.14
+      },
+      {
+        "stock_code": "002928",
+        "stock_name": "华夏航空",
+        "market_value_wan": 767.86
+      },
+      {
+        "stock_code": "300037",
+        "stock_name": "新宙邦",
+        "market_value_wan": 720.95
+      },
+      {
+        "stock_code": "601899",
+        "stock_name": "紫金矿业",
+        "market_value_wan": 708.64
+      }
+    ],
+    "2020-Q3": [
+      {
+        "stock_code": "600885",
+        "stock_name": "宏发股份",
+        "market_value_wan": 731.95
+      },
+      {
+        "stock_code": "002459",
+        "stock_name": "晶澳科技",
+        "market_value_wan": 708.75
+      },
+      {
+        "stock_code": "600031",
+        "stock_name": "三一重工",
+        "market_value_wan": 697.67
+      },
+      {
+        "stock_code": "600690",
+        "stock_name": "海尔智家",
+        "market_value_wan": 675.33
+      },
+      {
+        "stock_code": "603883",
+        "stock_name": "老百姓",
+        "market_value_wan": 669.81
+      },
+      {
+        "stock_code": "601012",
+        "stock_name": "隆基绿能",
+        "market_value_wan": 664.59
+      },
+      {
+        "stock_code": "002928",
+        "stock_name": "华夏航空",
+        "market_value_wan": 621.6
+      },
+      {
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "market_value_wan": 617.76
+      },
+      {
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "market_value_wan": 617.71
+      },
+      {
+        "stock_code": "000895",
+        "stock_name": "双汇发展",
+        "market_value_wan": 617.69
+      }
+    ],
+    "2020-Q2": [
+      {
+        "stock_code": "601398",
+        "stock_name": "工商银行",
+        "market_value_wan": 682.16
+      },
+      {
+        "stock_code": "600690",
+        "stock_name": "海尔智家",
+        "market_value_wan": 547.82
+      },
+      {
+        "stock_code": "600031",
+        "stock_name": "三一重工",
+        "market_value_wan": 494.33
+      },
+      {
+        "stock_code": "603989",
+        "stock_name": "艾华集团",
+        "market_value_wan": 436.75
+      },
+      {
+        "stock_code": "601012",
+        "stock_name": "隆基绿能",
+        "market_value_wan": 428.89
+      },
+      {
+        "stock_code": "600720",
+        "stock_name": "中交设计",
+        "market_value_wan": 411.61
+      },
+      {
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "market_value_wan": 408.35
+      },
+      {
+        "stock_code": "603883",
+        "stock_name": "老百姓",
+        "market_value_wan": 393.16
+      },
+      {
+        "stock_code": "600885",
+        "stock_name": "宏发股份",
+        "market_value_wan": 337.81
+      },
+      {
+        "stock_code": "300035",
+        "stock_name": "中科电气",
+        "market_value_wan": 320.75
+      }
+    ],
+    "2020-Q1": [
+      {
+        "stock_code": "603444",
+        "stock_name": "吉比特",
+        "market_value_wan": 414.49
+      },
+      {
+        "stock_code": "600585",
+        "stock_name": "海螺水泥",
+        "market_value_wan": 396.93
+      },
+      {
+        "stock_code": "601238",
+        "stock_name": "广汽集团",
+        "market_value_wan": 390.98
+      },
+      {
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "market_value_wan": 390.91
+      },
+      {
+        "stock_code": "600031",
+        "stock_name": "三一重工",
+        "market_value_wan": 367.11
+      },
+      {
+        "stock_code": "600383",
+        "stock_name": "金地集团",
+        "market_value_wan": 351.83
+      },
+      {
+        "stock_code": "600845",
+        "stock_name": "宝信软件",
+        "market_value_wan": 343.28
+      },
+      {
+        "stock_code": "688111",
+        "stock_name": "金山办公",
+        "market_value_wan": 309.54
+      },
+      {
+        "stock_code": "603883",
+        "stock_name": "老百姓",
+        "market_value_wan": 306.93
+      },
+      {
+        "stock_code": "600690",
+        "stock_name": "海尔智家",
+        "market_value_wan": 305.14
+      }
+    ]
+  }
+}

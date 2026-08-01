@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "000072",
+    "name": "华安稳健回报混合A",
+    "base_name": "华安稳健回报混合"
+  },
+  "fetched_at": "2026-06-14 22:48:43",
+  "quarters": {
+    "2023-Q4": [
+      {
+        "stock_code": "601006",
+        "stock_name": "大秦铁路",
+        "market_value_wan": 98.42
+      },
+      {
+        "stock_code": "600886",
+        "stock_name": "国投电力",
+        "market_value_wan": 82.77
+      },
+      {
+        "stock_code": "600028",
+        "stock_name": "中国石化",
+        "market_value_wan": 81.52
+      },
+      {
+        "stock_code": "601985",
+        "stock_name": "中国核电",
+        "market_value_wan": 65.33
+      },
+      {
+        "stock_code": "600900",
+        "stock_name": "长江电力",
+        "market_value_wan": 59.75
+      },
+      {
+        "stock_code": "600377",
+        "stock_name": "宁沪高速",
+        "market_value_wan": 48.48
+      },
+      {
+        "stock_code": "600941",
+        "stock_name": "中国移动",
+        "market_value_wan": 47.75
+      },
+      {
+        "stock_code": "601398",
+        "stock_name": "工商银行",
+        "market_value_wan": 46.46
+      },
+      {
+        "stock_code": "601288",
+        "stock_name": "农业银行",
+        "market_value_wan": 45.75
+      },
+      {
+        "stock_code": "600150",
+        "stock_name": "中国船舶",
+        "market_value_wan": 44.45
+      }
+    ],
+    "2023-Q3": [
+      {
+        "stock_code": "600028",
+        "stock_name": "中国石化",
+        "market_value_wan": 127.47
+      },
+      {
+        "stock_code": "600886",
+        "stock_name": "国投电力",
+        "market_value_wan": 106.05
+      },
+      {
+        "stock_code": "601006",
+        "stock_name": "大秦铁路",
+        "market_value_wan": 99.51
+      },
+      {
+        "stock_code": "601985",
+        "stock_name": "中国核电",
+        "market_value_wan": 91.1
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 89.93
+      },
+      {
+        "stock_code": "600900",
+        "stock_name": "长江电力",
+        "market_value_wan": 81.18
+      },
+      {
+        "stock_code": "600377",
+        "stock_name": "宁沪高速",
+        "market_value_wan": 70.44
+      },
+      {
+        "stock_code": "601319",
+        "stock_name": "中国人保",
+        "market_value_wan": 67.02
+      },
+      {
+        "stock_code": "601398",
+        "stock_name": "工商银行",
+        "market_value_wan": 65.38
+      },
+      {
+        "stock_code": "601288",
+        "stock_name": "农业银行",
+        "market_value_wan": 65.09
+      }
+    ],
+    "2023-Q2": [
+      {
+        "stock_code": "600028",
+        "stock_name": "中国石化",
+        "market_value_wan": 260.51
+      },
+      {
+        "stock_code": "601985",
+        "stock_name": "中国核电",
+        "market_value_wan": 203.39
+      },
+      {
+        "stock_code": "601006",
+        "stock_name": "大秦铁路",
+        "market_value_wan": 184.56
+      },
+      {
+        "stock_code": "600886",
+        "stock_name": "国投电力",
+        "market_value_wan": 169.51
+      },
+      {
+        "stock_code": "601398",
+        "stock_name": "工商银行",
+        "market_value_wan": 168.36
+      },
+      {
+        "stock_code": "600426",
+        "stock_name": "华鲁恒升",
+        "market_value_wan": 167.22
+      },
+      {
+        "stock_code": "601288",
+        "stock_name": "农业银行",
+        "market_value_wan": 163.47
+      },
+      {
+        "stock_code": "600900",
+        "stock_name": "长江电力",
+        "market_value_wan": 134.57
+      },
+      {
+        "stock_code": "600009",
+        "stock_name": "上海机场",
+        "market_value_wan": 134.44
+      },
+      {
+        "stock_code": "601319",
+        "stock_name": "中国人保",
+        "market_value_wan": 123.05
+      }
+    ],
+    "2023-Q1": [
+      {
+        "stock_code": "600028",
+        "stock_name": "中国石化",
+        "market_value_wan": 230.2
+      },
+      {
+        "stock_code": "601398",
+        "stock_name": "工商银行",
+        "market_value_wan": 222.55
+      },
+      {
+        "stock_code": "600426",
+        "stock_name": "华鲁恒升",
+        "market_value_wan": 192.44
+      },
+      {
+        "stock_code": "601985",
+        "stock_name": "中国核电",
+        "market_value_wan": 184.35
+      },
+      {
+        "stock_code": "601006",
+        "stock_name": "大秦铁路",
+        "market_value_wan": 178.6
+      },
+      {
+        "stock_code": "600009",
+        "stock_name": "上海机场",
+        "market_value_wan": 164.96
+      },
+      {
+        "stock_code": "600886",
+        "stock_name": "国投电力",
+        "market_value_wan": 144.85
+      },
+      {
+        "stock_code": "601288",
+        "stock_name": "农业银行",
+        "market_value_wan": 144.02
+      },
+      {
+        "stock_code": "601988",
+        "stock_name": "中国银行",
+        "market_value_wan": 131.14
+      },
+      {
+        "stock_code": "600900",
+        "stock_name": "长江电力",
+        "market_value_wan": 129.63
+      }
+    ]
+  }
+}

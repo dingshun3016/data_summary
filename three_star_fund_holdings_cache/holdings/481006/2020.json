@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "481006",
+    "name": "工银红利混合",
+    "base_name": "工银红利混合"
+  },
+  "fetched_at": "2026-06-15 00:01:04",
+  "quarters": {
+    "2020-Q4": [
+      {
+        "stock_code": "000858",
+        "stock_name": "五粮液",
+        "market_value_wan": 4544.1
+      },
+      {
+        "stock_code": "300059",
+        "stock_name": "东方财富",
+        "market_value_wan": 4296.17
+      },
+      {
+        "stock_code": "002460",
+        "stock_name": "赣锋锂业",
+        "market_value_wan": 2984.52
+      },
+      {
+        "stock_code": "601799",
+        "stock_name": "星宇股份",
+        "market_value_wan": 2606.5
+      },
+      {
+        "stock_code": "600399",
+        "stock_name": "抚顺特钢",
+        "market_value_wan": 2520.68
+      },
+      {
+        "stock_code": "002410",
+        "stock_name": "广联达",
+        "market_value_wan": 2369.22
+      },
+      {
+        "stock_code": "601899",
+        "stock_name": "紫金矿业",
+        "market_value_wan": 2309.77
+      },
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 2213.97
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 2152.3
+      },
+      {
+        "stock_code": "600570",
+        "stock_name": "恒生电子",
+        "market_value_wan": 2079.22
+      }
+    ],
+    "2020-Q3": [
+      {
+        "stock_code": "000858",
+        "stock_name": "五粮液",
+        "market_value_wan": 3440.97
+      },
+      {
+        "stock_code": "300059",
+        "stock_name": "东方财富",
+        "market_value_wan": 2659.44
+      },
+      {
+        "stock_code": "601799",
+        "stock_name": "星宇股份",
+        "market_value_wan": 2135.15
+      },
+      {
+        "stock_code": "601336",
+        "stock_name": "新华保险",
+        "market_value_wan": 2085.89
+      },
+      {
+        "stock_code": "002142",
+        "stock_name": "宁波银行",
+        "market_value_wan": 1836.86
+      },
+      {
+        "stock_code": "600570",
+        "stock_name": "恒生电子",
+        "market_value_wan": 1836.83
+      },
+      {
+        "stock_code": "300132",
+        "stock_name": "青松股份",
+        "market_value_wan": 1832.73
+      },
+      {
+        "stock_code": "002410",
+        "stock_name": "广联达",
+        "market_value_wan": 1748.55
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 1667.32
+      },
+      {
+        "stock_code": "300601",
+        "stock_name": "康泰生物",
+        "market_value_wan": 1649.01
+      }
+    ],
+    "2020-Q2": [
+      {
+        "stock_code": "002410",
+        "stock_name": "广联达",
+        "market_value_wan": 3072.61
+      },
+      {
+        "stock_code": "300059",
+        "stock_name": "东方财富",
+        "market_value_wan": 2991.14
+      },
+      {
+        "stock_code": "000858",
+        "stock_name": "五粮液",
+        "market_value_wan": 2664.34
+      },
+      {
+        "stock_code": "600570",
+        "stock_name": "恒生电子",
+        "market_value_wan": 2487.98
+      },
+      {
+        "stock_code": "000661",
+        "stock_name": "长春高新",
+        "market_value_wan": 2463.8
+      },
+      {
+        "stock_code": "300630",
+        "stock_name": "普利制药",
+        "market_value_wan": 2181.9
+      },
+      {
+        "stock_code": "300132",
+        "stock_name": "青松股份",
+        "market_value_wan": 2143.68
+      },
+      {
+        "stock_code": "601799",
+        "stock_name": "星宇股份",
+        "market_value_wan": 2066.29
+      },
+      {
+        "stock_code": "000977",
+        "stock_name": "浪潮信息",
+        "market_value_wan": 2047.55
+      },
+      {
+        "stock_code": "300601",
+        "stock_name": "康泰生物",
+        "market_value_wan": 1702.68
+      }
+    ],
+    "2020-Q1": [
+      {
+        "stock_code": "600276",
+        "stock_name": "恒瑞医药",
+        "market_value_wan": 2294.68
+      },
+      {
+        "stock_code": "002410",
+        "stock_name": "广联达",
+        "market_value_wan": 2068.78
+      },
+      {
+        "stock_code": "300630",
+        "stock_name": "普利制药",
+        "market_value_wan": 1986.4
+      },
+      {
+        "stock_code": "000002",
+        "stock_name": "万科A",
+        "market_value_wan": 1687.51
+      },
+      {
+        "stock_code": "000858",
+        "stock_name": "五粮液",
+        "market_value_wan": 1657.73
+      },
+      {
+        "stock_code": "002508",
+        "stock_name": "老板电器",
+        "market_value_wan": 1641.96
+      },
+      {
+        "stock_code": "600570",
+        "stock_name": "恒生电子",
+        "market_value_wan": 1561.98
+      },
+      {
+        "stock_code": "000661",
+        "stock_name": "长春高新",
+        "market_value_wan": 1550.84
+      },
+      {
+        "stock_code": "600741",
+        "stock_name": "华域汽车",
+        "market_value_wan": 1416.67
+      },
+      {
+        "stock_code": "601799",
+        "stock_name": "星宇股份",
+        "market_value_wan": 1401.3
+      }
+    ]
+  }
+}

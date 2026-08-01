@@ -1,0 +1,53 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "010386",
+    "name": "华安汇嘉精选混合C",
+    "base_name": "华安汇嘉精选混合"
+  },
+  "fetched_at": "2026-06-14 23:40:03",
+  "quarters": {
+    "2020-Q4": [
+      {
+        "stock_code": "300059",
+        "stock_name": "东方财富",
+        "market_value_wan": 44986.61
+      },
+      {
+        "stock_code": "601012",
+        "stock_name": "隆基绿能",
+        "market_value_wan": 18236.24
+      },
+      {
+        "stock_code": "600309",
+        "stock_name": "万华化学",
+        "market_value_wan": 16121.11
+      },
+      {
+        "stock_code": "002080",
+        "stock_name": "中材科技",
+        "market_value_wan": 15525.38
+      },
+      {
+        "stock_code": "002027",
+        "stock_name": "分众传媒",
+        "market_value_wan": 13966.35
+      },
+      {
+        "stock_code": "600690",
+        "stock_name": "海尔智家",
+        "market_value_wan": 11785.84
+      },
+      {
+        "stock_code": "600176",
+        "stock_name": "中国巨石",
+        "market_value_wan": 11698.16
+      },
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 9723.55
+      }
+    ]
+  }
+}

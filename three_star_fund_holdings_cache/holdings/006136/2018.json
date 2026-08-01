@@ -1,0 +1,48 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "006136",
+    "name": "广发估值优势混合A",
+    "base_name": "广发估值优势混合"
+  },
+  "fetched_at": "2026-06-14 23:20:39",
+  "quarters": {
+    "2018-Q4": [
+      {
+        "stock_code": "600004",
+        "stock_name": "白云机场",
+        "market_value_wan": 431.35
+      },
+      {
+        "stock_code": "600690",
+        "stock_name": "海尔智家",
+        "market_value_wan": 301.65
+      },
+      {
+        "stock_code": "601166",
+        "stock_name": "兴业银行",
+        "market_value_wan": 297.46
+      },
+      {
+        "stock_code": "000002",
+        "stock_name": "万科A",
+        "market_value_wan": 264.16
+      },
+      {
+        "stock_code": "600196",
+        "stock_name": "复星医药",
+        "market_value_wan": 243.87
+      },
+      {
+        "stock_code": "002157",
+        "stock_name": "正邦科技",
+        "market_value_wan": 154.89
+      },
+      {
+        "stock_code": "002624",
+        "stock_name": "完美世界",
+        "market_value_wan": 102.21
+      }
+    ]
+  }
+}

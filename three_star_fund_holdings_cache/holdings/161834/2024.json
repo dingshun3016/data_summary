@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "161834",
+    "name": "银华鑫锐灵活配置混合(LOF)A",
+    "base_name": "银华鑫锐灵活配置混合(LOF)"
+  },
+  "fetched_at": "2026-06-14 23:52:53",
+  "quarters": {
+    "2024-Q4": [
+      {
+        "stock_code": "600585",
+        "stock_name": "海螺水泥",
+        "market_value_wan": 4426.16
+      },
+      {
+        "stock_code": "600941",
+        "stock_name": "中国移动",
+        "market_value_wan": 3575.52
+      },
+      {
+        "stock_code": "601728",
+        "stock_name": "中国电信",
+        "market_value_wan": 2969.23
+      },
+      {
+        "stock_code": "601857",
+        "stock_name": "中国石油",
+        "market_value_wan": 2792.32
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 2034.9
+      },
+      {
+        "stock_code": "600298",
+        "stock_name": "安琪酵母",
+        "market_value_wan": 1783.57
+      },
+      {
+        "stock_code": "600323",
+        "stock_name": "瀚蓝环境",
+        "market_value_wan": 1560.81
+      },
+      {
+        "stock_code": "603383",
+        "stock_name": "顶点软件",
+        "market_value_wan": 1539.45
+      },
+      {
+        "stock_code": "601998",
+        "stock_name": "中信银行",
+        "market_value_wan": 1522.39
+      },
+      {
+        "stock_code": "601607",
+        "stock_name": "上海医药",
+        "market_value_wan": 1435.14
+      }
+    ],
+    "2024-Q3": [
+      {
+        "stock_code": "600585",
+        "stock_name": "海螺水泥",
+        "market_value_wan": 12641.55
+      },
+      {
+        "stock_code": "600699",
+        "stock_name": "均胜电子",
+        "market_value_wan": 4747.52
+      },
+      {
+        "stock_code": "002139",
+        "stock_name": "拓邦股份",
+        "market_value_wan": 3809.23
+      },
+      {
+        "stock_code": "002152",
+        "stock_name": "广电运通",
+        "market_value_wan": 3408.91
+      },
+      {
+        "stock_code": "002465",
+        "stock_name": "海格通信",
+        "market_value_wan": 3040.51
+      },
+      {
+        "stock_code": "300498",
+        "stock_name": "温氏股份",
+        "market_value_wan": 2941.25
+      },
+      {
+        "stock_code": "600426",
+        "stock_name": "华鲁恒升",
+        "market_value_wan": 2847.64
+      },
+      {
+        "stock_code": "688041",
+        "stock_name": "海光信息",
+        "market_value_wan": 2454.78
+      },
+      {
+        "stock_code": "002472",
+        "stock_name": "双环传动",
+        "market_value_wan": 2330.75
+      },
+      {
+        "stock_code": "000034",
+        "stock_name": "神州数码",
+        "market_value_wan": 2179.53
+      }
+    ],
+    "2024-Q2": [
+      {
+        "stock_code": "600585",
+        "stock_name": "海螺水泥",
+        "market_value_wan": 11681.05
+      },
+      {
+        "stock_code": "601233",
+        "stock_name": "桐昆股份",
+        "market_value_wan": 8304.25
+      },
+      {
+        "stock_code": "002402",
+        "stock_name": "和而泰",
+        "market_value_wan": 4022.28
+      },
+      {
+        "stock_code": "600699",
+        "stock_name": "均胜电子",
+        "market_value_wan": 3810.05
+      },
+      {
+        "stock_code": "300433",
+        "stock_name": "蓝思科技",
+        "market_value_wan": 3697.09
+      },
+      {
+        "stock_code": "002139",
+        "stock_name": "拓邦股份",
+        "market_value_wan": 3580.0
+      },
+      {
+        "stock_code": "601398",
+        "stock_name": "工商银行",
+        "market_value_wan": 3229.29
+      },
+      {
+        "stock_code": "002152",
+        "stock_name": "广电运通",
+        "market_value_wan": 3047.63
+      },
+      {
+        "stock_code": "002465",
+        "stock_name": "海格通信",
+        "market_value_wan": 2966.07
+      },
+      {
+        "stock_code": "600426",
+        "stock_name": "华鲁恒升",
+        "market_value_wan": 2896.57
+      }
+    ],
+    "2024-Q1": [
+      {
+        "stock_code": "600585",
+        "stock_name": "海螺水泥",
+        "market_value_wan": 13361.08
+      },
+      {
+        "stock_code": "601233",
+        "stock_name": "桐昆股份",
+        "market_value_wan": 8882.72
+      },
+      {
+        "stock_code": "002493",
+        "stock_name": "荣盛石化",
+        "market_value_wan": 7271.1
+      },
+      {
+        "stock_code": "002402",
+        "stock_name": "和而泰",
+        "market_value_wan": 5122.88
+      },
+      {
+        "stock_code": "600378",
+        "stock_name": "昊华科技",
+        "market_value_wan": 4735.4
+      },
+      {
+        "stock_code": "601398",
+        "stock_name": "工商银行",
+        "market_value_wan": 4174.06
+      },
+      {
+        "stock_code": "002152",
+        "stock_name": "广电运通",
+        "market_value_wan": 3955.33
+      },
+      {
+        "stock_code": "600699",
+        "stock_name": "均胜电子",
+        "market_value_wan": 3717.08
+      },
+      {
+        "stock_code": "000400",
+        "stock_name": "许继电气",
+        "market_value_wan": 3560.72
+      },
+      {
+        "stock_code": "002139",
+        "stock_name": "拓邦股份",
+        "market_value_wan": 3406.66
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "001904",
+    "name": "光大欣鑫混合C",
+    "base_name": "光大欣鑫混合"
+  },
+  "fetched_at": "2026-06-14 23:01:52",
+  "quarters": {
+    "2018-Q1": [
+      {
+        "stock_code": "002458",
+        "stock_name": "益生股份",
+        "market_value_wan": 183.42
+      },
+      {
+        "stock_code": "002236",
+        "stock_name": "大华股份",
+        "market_value_wan": 155.77
+      },
+      {
+        "stock_code": "601128",
+        "stock_name": "常熟银行",
+        "market_value_wan": 82.81
+      },
+      {
+        "stock_code": "000063",
+        "stock_name": "中兴通讯",
+        "market_value_wan": 69.95
+      },
+      {
+        "stock_code": "000888",
+        "stock_name": "峨眉山A",
+        "market_value_wan": 1.76
+      }
+    ]
+  }
+}

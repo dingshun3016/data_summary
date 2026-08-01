@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "008872",
+    "name": "大成睿裕六月持有股票C",
+    "base_name": "大成睿裕六月持有股票"
+  },
+  "fetched_at": "2026-06-14 23:29:46",
+  "quarters": {
+    "2022-Q4": [
+      {
+        "stock_code": "000063",
+        "stock_name": "中兴通讯",
+        "market_value_wan": 494.18
+      },
+      {
+        "stock_code": "600941",
+        "stock_name": "中国移动",
+        "market_value_wan": 456.77
+      },
+      {
+        "stock_code": "603337",
+        "stock_name": "杰克股份",
+        "market_value_wan": 410.8
+      },
+      {
+        "stock_code": "603279",
+        "stock_name": "景津装备",
+        "market_value_wan": 406.82
+      },
+      {
+        "stock_code": "002884",
+        "stock_name": "凌霄泵业",
+        "market_value_wan": 353.92
+      },
+      {
+        "stock_code": "600031",
+        "stock_name": "三一重工",
+        "market_value_wan": 327.69
+      },
+      {
+        "stock_code": "603989",
+        "stock_name": "艾华集团",
+        "market_value_wan": 277.13
+      },
+      {
+        "stock_code": "603187",
+        "stock_name": "海容冷链",
+        "market_value_wan": 258.17
+      },
+      {
+        "stock_code": "600690",
+        "stock_name": "海尔智家",
+        "market_value_wan": 222.97
+      },
+      {
+        "stock_code": "601225",
+        "stock_name": "陕西煤业",
+        "market_value_wan": 221.1
+      }
+    ],
+    "2022-Q3": [
+      {
+        "stock_code": "600941",
+        "stock_name": "中国移动",
+        "market_value_wan": 461.23
+      },
+      {
+        "stock_code": "002884",
+        "stock_name": "凌霄泵业",
+        "market_value_wan": 427.86
+      },
+      {
+        "stock_code": "601225",
+        "stock_name": "陕西煤业",
+        "market_value_wan": 398.02
+      },
+      {
+        "stock_code": "603337",
+        "stock_name": "杰克股份",
+        "market_value_wan": 393.75
+      },
+      {
+        "stock_code": "603989",
+        "stock_name": "艾华集团",
+        "market_value_wan": 376.81
+      },
+      {
+        "stock_code": "000063",
+        "stock_name": "中兴通讯",
+        "market_value_wan": 361.45
+      },
+      {
+        "stock_code": "600031",
+        "stock_name": "三一重工",
+        "market_value_wan": 359.77
+      },
+      {
+        "stock_code": "603279",
+        "stock_name": "景津装备",
+        "market_value_wan": 323.97
+      },
+      {
+        "stock_code": "002372",
+        "stock_name": "伟星新材",
+        "market_value_wan": 264.9
+      },
+      {
+        "stock_code": "603187",
+        "stock_name": "海容冷链",
+        "market_value_wan": 230.25
+      }
+    ],
+    "2022-Q2": [
+      {
+        "stock_code": "603279",
+        "stock_name": "景津装备",
+        "market_value_wan": 557.44
+      },
+      {
+        "stock_code": "002884",
+        "stock_name": "凌霄泵业",
+        "market_value_wan": 436.59
+      },
+      {
+        "stock_code": "000063",
+        "stock_name": "中兴通讯",
+        "market_value_wan": 431.2
+      },
+      {
+        "stock_code": "600690",
+        "stock_name": "海尔智家",
+        "market_value_wan": 416.17
+      },
+      {
+        "stock_code": "000657",
+        "stock_name": "中钨高新",
+        "market_value_wan": 415.2
+      },
+      {
+        "stock_code": "603187",
+        "stock_name": "海容冷链",
+        "market_value_wan": 415.17
+      },
+      {
+        "stock_code": "002372",
+        "stock_name": "伟星新材",
+        "market_value_wan": 403.37
+      },
+      {
+        "stock_code": "603989",
+        "stock_name": "艾华集团",
+        "market_value_wan": 380.18
+      },
+      {
+        "stock_code": "601225",
+        "stock_name": "陕西煤业",
+        "market_value_wan": 370.23
+      },
+      {
+        "stock_code": "002415",
+        "stock_name": "海康威视",
+        "market_value_wan": 309.51
+      }
+    ],
+    "2022-Q1": [
+      {
+        "stock_code": "002372",
+        "stock_name": "伟星新材",
+        "market_value_wan": 550.56
+      },
+      {
+        "stock_code": "603279",
+        "stock_name": "景津装备",
+        "market_value_wan": 548.91
+      },
+      {
+        "stock_code": "002749",
+        "stock_name": "国光股份",
+        "market_value_wan": 512.66
+      },
+      {
+        "stock_code": "002884",
+        "stock_name": "凌霄泵业",
+        "market_value_wan": 467.06
+      },
+      {
+        "stock_code": "601225",
+        "stock_name": "陕西煤业",
+        "market_value_wan": 445.96
+      },
+      {
+        "stock_code": "000063",
+        "stock_name": "中兴通讯",
+        "market_value_wan": 431.4
+      },
+      {
+        "stock_code": "002415",
+        "stock_name": "海康威视",
+        "market_value_wan": 404.67
+      },
+      {
+        "stock_code": "600690",
+        "stock_name": "海尔智家",
+        "market_value_wan": 399.06
+      },
+      {
+        "stock_code": "601877",
+        "stock_name": "正泰电器",
+        "market_value_wan": 373.36
+      },
+      {
+        "stock_code": "603989",
+        "stock_name": "艾华集团",
+        "market_value_wan": 366.16
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "671010",
+    "name": "西部利得策略优选混合A",
+    "base_name": "西部利得策略优选混合"
+  },
+  "fetched_at": "2026-06-15 00:06:46",
+  "quarters": {
+    "2018-Q4": [
+      {
+        "stock_code": "002027",
+        "stock_name": "分众传媒",
+        "market_value_wan": 812.93
+      },
+      {
+        "stock_code": "600398",
+        "stock_name": "海澜之家",
+        "market_value_wan": 641.17
+      },
+      {
+        "stock_code": "000401",
+        "stock_name": "冀东水泥",
+        "market_value_wan": 620.24
+      },
+      {
+        "stock_code": "000166",
+        "stock_name": "申万宏源",
+        "market_value_wan": 618.64
+      },
+      {
+        "stock_code": "601390",
+        "stock_name": "中国中铁",
+        "market_value_wan": 615.12
+      },
+      {
+        "stock_code": "601618",
+        "stock_name": "中国中冶",
+        "market_value_wan": 612.58
+      },
+      {
+        "stock_code": "002563",
+        "stock_name": "森马服饰",
+        "market_value_wan": 571.33
+      },
+      {
+        "stock_code": "000709",
+        "stock_name": "河钢股份",
+        "market_value_wan": 568.0
+      },
+      {
+        "stock_code": "600718",
+        "stock_name": "东软集团",
+        "market_value_wan": 565.95
+      },
+      {
+        "stock_code": "000778",
+        "stock_name": "新兴铸管",
+        "market_value_wan": 517.2
+      }
+    ],
+    "2018-Q3": [
+      {
+        "stock_code": "000166",
+        "stock_name": "申万宏源",
+        "market_value_wan": 684.0
+      },
+      {
+        "stock_code": "601186",
+        "stock_name": "中国铁建",
+        "market_value_wan": 669.0
+      },
+      {
+        "stock_code": "000709",
+        "stock_name": "河钢股份",
+        "market_value_wan": 652.0
+      },
+      {
+        "stock_code": "000401",
+        "stock_name": "冀东水泥",
+        "market_value_wan": 648.0
+      },
+      {
+        "stock_code": "000778",
+        "stock_name": "新兴铸管",
+        "market_value_wan": 582.0
+      },
+      {
+        "stock_code": "600718",
+        "stock_name": "东软集团",
+        "market_value_wan": 568.4
+      },
+      {
+        "stock_code": "002555",
+        "stock_name": "三七互娱",
+        "market_value_wan": 540.24
+      },
+      {
+        "stock_code": "601688",
+        "stock_name": "华泰证券",
+        "market_value_wan": 519.75
+      },
+      {
+        "stock_code": "600038",
+        "stock_name": "中直股份",
+        "market_value_wan": 518.18
+      },
+      {
+        "stock_code": "002128",
+        "stock_name": "电投能源",
+        "market_value_wan": 517.2
+      }
+    ],
+    "2018-Q2": [
+      {
+        "stock_code": "000166",
+        "stock_name": "申万宏源",
+        "market_value_wan": 664.24
+      },
+      {
+        "stock_code": "600718",
+        "stock_name": "东软集团",
+        "market_value_wan": 639.94
+      },
+      {
+        "stock_code": "000709",
+        "stock_name": "河钢股份",
+        "market_value_wan": 590.0
+      },
+      {
+        "stock_code": "002128",
+        "stock_name": "电投能源",
+        "market_value_wan": 543.6
+      },
+      {
+        "stock_code": "000401",
+        "stock_name": "冀东水泥",
+        "market_value_wan": 532.2
+      },
+      {
+        "stock_code": "000768",
+        "stock_name": "中航西飞",
+        "market_value_wan": 531.76
+      },
+      {
+        "stock_code": "002146",
+        "stock_name": "荣盛发展",
+        "market_value_wan": 523.8
+      },
+      {
+        "stock_code": "600038",
+        "stock_name": "中直股份",
+        "market_value_wan": 519.87
+      },
+      {
+        "stock_code": "000997",
+        "stock_name": "新大陆",
+        "market_value_wan": 519.75
+      },
+      {
+        "stock_code": "601186",
+        "stock_name": "中国铁建",
+        "market_value_wan": 517.2
+      }
+    ],
+    "2018-Q1": [
+      {
+        "stock_code": "600398",
+        "stock_name": "海澜之家",
+        "market_value_wan": 1011.12
+      },
+      {
+        "stock_code": "000401",
+        "stock_name": "冀东水泥",
+        "market_value_wan": 862.8
+      },
+      {
+        "stock_code": "002352",
+        "stock_name": "顺丰控股",
+        "market_value_wan": 794.4
+      },
+      {
+        "stock_code": "000166",
+        "stock_name": "申万宏源",
+        "market_value_wan": 755.44
+      },
+      {
+        "stock_code": "002555",
+        "stock_name": "三七互娱",
+        "market_value_wan": 745.6
+      },
+      {
+        "stock_code": "600718",
+        "stock_name": "东软集团",
+        "market_value_wan": 710.01
+      },
+      {
+        "stock_code": "000709",
+        "stock_name": "河钢股份",
+        "market_value_wan": 702.0
+      },
+      {
+        "stock_code": "000997",
+        "stock_name": "新大陆",
+        "market_value_wan": 685.08
+      },
+      {
+        "stock_code": "002517",
+        "stock_name": "恺英网络",
+        "market_value_wan": 674.31
+      },
+      {
+        "stock_code": "300182",
+        "stock_name": "捷成股份",
+        "market_value_wan": 645.85
+      }
+    ]
+  }
+}

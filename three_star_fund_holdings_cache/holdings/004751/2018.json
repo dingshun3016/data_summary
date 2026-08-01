@@ -1,0 +1,35 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "004751",
+    "name": "广发鑫和C",
+    "base_name": "广发鑫和"
+  },
+  "fetched_at": "2026-06-14 23:14:52",
+  "quarters": {
+    "2018-Q2": [
+      {
+        "stock_code": "300357",
+        "stock_name": "我武生物",
+        "market_value_wan": 1395.45
+      },
+      {
+        "stock_code": "600529",
+        "stock_name": "山东药玻",
+        "market_value_wan": 1094.85
+      },
+      {
+        "stock_code": "002262",
+        "stock_name": "恩华药业",
+        "market_value_wan": 720.36
+      }
+    ],
+    "2018-Q1": [
+      {
+        "stock_code": "300357",
+        "stock_name": "我武生物",
+        "market_value_wan": 2163.0
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "501032",
+    "name": "财通福盛混合发起(LOF)A",
+    "base_name": "财通福盛混合发起(LOF)"
+  },
+  "fetched_at": "2026-06-15 00:01:34",
+  "quarters": {
+    "2024-Q4": [
+      {
+        "stock_code": "300502",
+        "stock_name": "新易盛",
+        "market_value_wan": 583.68
+      },
+      {
+        "stock_code": "300298",
+        "stock_name": "三诺生物",
+        "market_value_wan": 508.46
+      },
+      {
+        "stock_code": "603129",
+        "stock_name": "春风动力",
+        "market_value_wan": 494.77
+      },
+      {
+        "stock_code": "300308",
+        "stock_name": "中际旭创",
+        "market_value_wan": 336.19
+      },
+      {
+        "stock_code": "002127",
+        "stock_name": "南极电商",
+        "market_value_wan": 314.07
+      },
+      {
+        "stock_code": "603518",
+        "stock_name": "锦泓集团",
+        "market_value_wan": 306.54
+      },
+      {
+        "stock_code": "688800",
+        "stock_name": "瑞可达",
+        "market_value_wan": 289.35
+      },
+      {
+        "stock_code": "688488",
+        "stock_name": "艾迪药业",
+        "market_value_wan": 242.31
+      },
+      {
+        "stock_code": "688062",
+        "stock_name": "迈威生物",
+        "market_value_wan": 216.15
+      },
+      {
+        "stock_code": "688183",
+        "stock_name": "生益电子",
+        "market_value_wan": 213.99
+      }
+    ],
+    "2024-Q3": [
+      {
+        "stock_code": "300502",
+        "stock_name": "新易盛",
+        "market_value_wan": 1004.67
+      },
+      {
+        "stock_code": "300298",
+        "stock_name": "三诺生物",
+        "market_value_wan": 919.61
+      },
+      {
+        "stock_code": "300308",
+        "stock_name": "中际旭创",
+        "market_value_wan": 913.98
+      },
+      {
+        "stock_code": "688488",
+        "stock_name": "艾迪药业",
+        "market_value_wan": 636.64
+      },
+      {
+        "stock_code": "002409",
+        "stock_name": "雅克科技",
+        "market_value_wan": 633.44
+      },
+      {
+        "stock_code": "688062",
+        "stock_name": "迈威生物",
+        "market_value_wan": 575.54
+      },
+      {
+        "stock_code": "300476",
+        "stock_name": "胜宏科技",
+        "market_value_wan": 545.08
+      },
+      {
+        "stock_code": "300033",
+        "stock_name": "同花顺",
+        "market_value_wan": 531.6
+      },
+      {
+        "stock_code": "000933",
+        "stock_name": "神火股份",
+        "market_value_wan": 438.95
+      },
+      {
+        "stock_code": "601336",
+        "stock_name": "新华保险",
+        "market_value_wan": 338.87
+      }
+    ],
+    "2024-Q2": [
+      {
+        "stock_code": "300502",
+        "stock_name": "新易盛",
+        "market_value_wan": 883.45
+      },
+      {
+        "stock_code": "300298",
+        "stock_name": "三诺生物",
+        "market_value_wan": 716.11
+      },
+      {
+        "stock_code": "300308",
+        "stock_name": "中际旭创",
+        "market_value_wan": 681.4
+      },
+      {
+        "stock_code": "300049",
+        "stock_name": "福瑞股份",
+        "market_value_wan": 614.11
+      },
+      {
+        "stock_code": "688676",
+        "stock_name": "金盘科技",
+        "market_value_wan": 608.72
+      },
+      {
+        "stock_code": "002409",
+        "stock_name": "雅克科技",
+        "market_value_wan": 549.83
+      },
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 543.26
+      },
+      {
+        "stock_code": "002463",
+        "stock_name": "沪电股份",
+        "market_value_wan": 487.64
+      },
+      {
+        "stock_code": "300394",
+        "stock_name": "天孚通信",
+        "market_value_wan": 433.26
+      },
+      {
+        "stock_code": "688062",
+        "stock_name": "迈威生物",
+        "market_value_wan": 419.4
+      }
+    ],
+    "2024-Q1": [
+      {
+        "stock_code": "002156",
+        "stock_name": "通富微电",
+        "market_value_wan": 945.48
+      },
+      {
+        "stock_code": "300049",
+        "stock_name": "福瑞股份",
+        "market_value_wan": 866.93
+      },
+      {
+        "stock_code": "002463",
+        "stock_name": "沪电股份",
+        "market_value_wan": 637.1
+      },
+      {
+        "stock_code": "300502",
+        "stock_name": "新易盛",
+        "market_value_wan": 631.14
+      },
+      {
+        "stock_code": "002409",
+        "stock_name": "雅克科技",
+        "market_value_wan": 624.07
+      },
+      {
+        "stock_code": "603236",
+        "stock_name": "移远通信",
+        "market_value_wan": 601.26
+      },
+      {
+        "stock_code": "688062",
+        "stock_name": "迈威生物",
+        "market_value_wan": 597.86
+      },
+      {
+        "stock_code": "002517",
+        "stock_name": "恺英网络",
+        "market_value_wan": 554.75
+      },
+      {
+        "stock_code": "002555",
+        "stock_name": "三七互娱",
+        "market_value_wan": 550.16
+      },
+      {
+        "stock_code": "000599",
+        "stock_name": "青岛双星",
+        "market_value_wan": 537.62
+      }
+    ]
+  }
+}

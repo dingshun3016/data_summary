@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "003877",
+    "name": "富国久利稳健配置混合A",
+    "base_name": "富国久利稳健配置混合"
+  },
+  "fetched_at": "2026-06-14 23:11:51",
+  "quarters": {
+    "2020-Q4": [
+      {
+        "stock_code": "600166",
+        "stock_name": "福田汽车",
+        "market_value_wan": 882.0
+      },
+      {
+        "stock_code": "600031",
+        "stock_name": "三一重工",
+        "market_value_wan": 874.5
+      },
+      {
+        "stock_code": "601865",
+        "stock_name": "福莱特",
+        "market_value_wan": 798.0
+      },
+      {
+        "stock_code": "601012",
+        "stock_name": "隆基绿能",
+        "market_value_wan": 737.6
+      },
+      {
+        "stock_code": "002352",
+        "stock_name": "顺丰控股",
+        "market_value_wan": 705.84
+      },
+      {
+        "stock_code": "600690",
+        "stock_name": "海尔智家",
+        "market_value_wan": 662.77
+      },
+      {
+        "stock_code": "002555",
+        "stock_name": "三七互娱",
+        "market_value_wan": 624.6
+      },
+      {
+        "stock_code": "600585",
+        "stock_name": "海螺水泥",
+        "market_value_wan": 619.44
+      },
+      {
+        "stock_code": "600926",
+        "stock_name": "杭州银行",
+        "market_value_wan": 596.8
+      },
+      {
+        "stock_code": "603369",
+        "stock_name": "今世缘",
+        "market_value_wan": 573.8
+      }
+    ],
+    "2020-Q3": [
+      {
+        "stock_code": "600031",
+        "stock_name": "三一重工",
+        "market_value_wan": 622.25
+      },
+      {
+        "stock_code": "601012",
+        "stock_name": "隆基绿能",
+        "market_value_wan": 600.08
+      },
+      {
+        "stock_code": "600741",
+        "stock_name": "华域汽车",
+        "market_value_wan": 582.16
+      },
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 580.8
+      },
+      {
+        "stock_code": "600845",
+        "stock_name": "宝信软件",
+        "market_value_wan": 578.72
+      },
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 571.3
+      },
+      {
+        "stock_code": "002507",
+        "stock_name": "涪陵榨菜",
+        "market_value_wan": 564.72
+      },
+      {
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "market_value_wan": 540.0
+      },
+      {
+        "stock_code": "300251",
+        "stock_name": "光线传媒",
+        "market_value_wan": 499.8
+      },
+      {
+        "stock_code": "002624",
+        "stock_name": "完美世界",
+        "market_value_wan": 499.5
+      }
+    ],
+    "2020-Q2": [
+      {
+        "stock_code": "600570",
+        "stock_name": "恒生电子",
+        "market_value_wan": 700.05
+      },
+      {
+        "stock_code": "600323",
+        "stock_name": "瀚蓝环境",
+        "market_value_wan": 348.77
+      },
+      {
+        "stock_code": "600690",
+        "stock_name": "海尔智家",
+        "market_value_wan": 265.5
+      },
+      {
+        "stock_code": "600585",
+        "stock_name": "海螺水泥",
+        "market_value_wan": 264.55
+      },
+      {
+        "stock_code": "600588",
+        "stock_name": "用友网络",
+        "market_value_wan": 220.5
+      },
+      {
+        "stock_code": "600584",
+        "stock_name": "长电科技",
+        "market_value_wan": 187.62
+      },
+      {
+        "stock_code": "002456",
+        "stock_name": "欧菲光",
+        "market_value_wan": 183.9
+      },
+      {
+        "stock_code": "002938",
+        "stock_name": "鹏鼎控股",
+        "market_value_wan": 175.15
+      },
+      {
+        "stock_code": "002607",
+        "stock_name": "中公教育",
+        "market_value_wan": 166.5
+      },
+      {
+        "stock_code": "603444",
+        "stock_name": "吉比特",
+        "market_value_wan": 164.7
+      }
+    ],
+    "2020-Q1": [
+      {
+        "stock_code": "600570",
+        "stock_name": "恒生电子",
+        "market_value_wan": 439.5
+      },
+      {
+        "stock_code": "601658",
+        "stock_name": "邮储银行",
+        "market_value_wan": 412.63
+      },
+      {
+        "stock_code": "600801",
+        "stock_name": "华新水泥",
+        "market_value_wan": 372.32
+      },
+      {
+        "stock_code": "600323",
+        "stock_name": "瀚蓝环境",
+        "market_value_wan": 318.16
+      },
+      {
+        "stock_code": "603686",
+        "stock_name": "福龙马",
+        "market_value_wan": 275.8
+      },
+      {
+        "stock_code": "600585",
+        "stock_name": "海螺水泥",
+        "market_value_wan": 275.5
+      },
+      {
+        "stock_code": "300315",
+        "stock_name": "掌趣科技",
+        "market_value_wan": 248.64
+      },
+      {
+        "stock_code": "002555",
+        "stock_name": "三七互娱",
+        "market_value_wan": 241.68
+      },
+      {
+        "stock_code": "600741",
+        "stock_name": "华域汽车",
+        "market_value_wan": 215.4
+      },
+      {
+        "stock_code": "600588",
+        "stock_name": "用友网络",
+        "market_value_wan": 202.3
+      }
+    ]
+  }
+}

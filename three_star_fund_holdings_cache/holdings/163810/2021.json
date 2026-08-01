@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "163810",
+    "name": "中银价值混合A",
+    "base_name": "中银价值混合"
+  },
+  "fetched_at": "2026-06-14 23:53:57",
+  "quarters": {
+    "2021-Q4": [
+      {
+        "stock_code": "002493",
+        "stock_name": "荣盛石化",
+        "market_value_wan": 1242.14
+      },
+      {
+        "stock_code": "000776",
+        "stock_name": "广发证券",
+        "market_value_wan": 1162.12
+      },
+      {
+        "stock_code": "601233",
+        "stock_name": "桐昆股份",
+        "market_value_wan": 1113.43
+      },
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 879.08
+      },
+      {
+        "stock_code": "601688",
+        "stock_name": "华泰证券",
+        "market_value_wan": 797.25
+      },
+      {
+        "stock_code": "600887",
+        "stock_name": "伊利股份",
+        "market_value_wan": 785.25
+      },
+      {
+        "stock_code": "603517",
+        "stock_name": "绝味食品",
+        "market_value_wan": 646.71
+      },
+      {
+        "stock_code": "600570",
+        "stock_name": "恒生电子",
+        "market_value_wan": 642.63
+      },
+      {
+        "stock_code": "002271",
+        "stock_name": "东方雨虹",
+        "market_value_wan": 640.69
+      },
+      {
+        "stock_code": "603993",
+        "stock_name": "洛阳钼业",
+        "market_value_wan": 529.71
+      }
+    ],
+    "2021-Q3": [
+      {
+        "stock_code": "002493",
+        "stock_name": "荣盛石化",
+        "market_value_wan": 1285.92
+      },
+      {
+        "stock_code": "601233",
+        "stock_name": "桐昆股份",
+        "market_value_wan": 1153.39
+      },
+      {
+        "stock_code": "000776",
+        "stock_name": "广发证券",
+        "market_value_wan": 990.57
+      },
+      {
+        "stock_code": "600900",
+        "stock_name": "长江电力",
+        "market_value_wan": 908.6
+      },
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 828.94
+      },
+      {
+        "stock_code": "601688",
+        "stock_name": "华泰证券",
+        "market_value_wan": 762.68
+      },
+      {
+        "stock_code": "603517",
+        "stock_name": "绝味食品",
+        "market_value_wan": 605.25
+      },
+      {
+        "stock_code": "300033",
+        "stock_name": "同花顺",
+        "market_value_wan": 586.26
+      },
+      {
+        "stock_code": "603993",
+        "stock_name": "洛阳钼业",
+        "market_value_wan": 573.38
+      },
+      {
+        "stock_code": "600570",
+        "stock_name": "恒生电子",
+        "market_value_wan": 524.11
+      }
+    ],
+    "2021-Q2": [
+      {
+        "stock_code": "002352",
+        "stock_name": "顺丰控股",
+        "market_value_wan": 1142.67
+      },
+      {
+        "stock_code": "601233",
+        "stock_name": "桐昆股份",
+        "market_value_wan": 1020.45
+      },
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 850.02
+      },
+      {
+        "stock_code": "603517",
+        "stock_name": "绝味食品",
+        "market_value_wan": 797.76
+      },
+      {
+        "stock_code": "002415",
+        "stock_name": "海康威视",
+        "market_value_wan": 746.81
+      },
+      {
+        "stock_code": "002493",
+        "stock_name": "荣盛石化",
+        "market_value_wan": 663.69
+      },
+      {
+        "stock_code": "601899",
+        "stock_name": "紫金矿业",
+        "market_value_wan": 630.21
+      },
+      {
+        "stock_code": "600486",
+        "stock_name": "扬农化工",
+        "market_value_wan": 543.2
+      },
+      {
+        "stock_code": "002271",
+        "stock_name": "东方雨虹",
+        "market_value_wan": 528.41
+      },
+      {
+        "stock_code": "002920",
+        "stock_name": "德赛西威",
+        "market_value_wan": 528.38
+      }
+    ],
+    "2021-Q1": [
+      {
+        "stock_code": "002271",
+        "stock_name": "东方雨虹",
+        "market_value_wan": 1704.24
+      },
+      {
+        "stock_code": "603517",
+        "stock_name": "绝味食品",
+        "market_value_wan": 1428.96
+      },
+      {
+        "stock_code": "002352",
+        "stock_name": "顺丰控股",
+        "market_value_wan": 1367.5
+      },
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 979.36
+      },
+      {
+        "stock_code": "601899",
+        "stock_name": "紫金矿业",
+        "market_value_wan": 779.6
+      },
+      {
+        "stock_code": "002415",
+        "stock_name": "海康威视",
+        "market_value_wan": 761.27
+      },
+      {
+        "stock_code": "601233",
+        "stock_name": "桐昆股份",
+        "market_value_wan": 687.23
+      },
+      {
+        "stock_code": "002493",
+        "stock_name": "荣盛石化",
+        "market_value_wan": 619.93
+      },
+      {
+        "stock_code": "600486",
+        "stock_name": "扬农化工",
+        "market_value_wan": 582.81
+      },
+      {
+        "stock_code": "600031",
+        "stock_name": "三一重工",
+        "market_value_wan": 570.9
+      }
+    ]
+  }
+}

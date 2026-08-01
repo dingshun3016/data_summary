@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "163822",
+    "name": "中银主题策略混合A",
+    "base_name": "中银主题策略混合"
+  },
+  "fetched_at": "2026-06-14 23:53:59",
+  "quarters": {
+    "2019-Q4": [
+      {
+        "stock_code": "002557",
+        "stock_name": "洽洽食品",
+        "market_value_wan": 1656.04
+      },
+      {
+        "stock_code": "002027",
+        "stock_name": "分众传媒",
+        "market_value_wan": 1607.89
+      },
+      {
+        "stock_code": "601166",
+        "stock_name": "兴业银行",
+        "market_value_wan": 1556.08
+      },
+      {
+        "stock_code": "300747",
+        "stock_name": "锐科激光",
+        "market_value_wan": 1489.38
+      },
+      {
+        "stock_code": "300251",
+        "stock_name": "光线传媒",
+        "market_value_wan": 1461.99
+      },
+      {
+        "stock_code": "002216",
+        "stock_name": "三全食品",
+        "market_value_wan": 1362.5
+      },
+      {
+        "stock_code": "002624",
+        "stock_name": "完美世界",
+        "market_value_wan": 1186.48
+      },
+      {
+        "stock_code": "000002",
+        "stock_name": "万科A",
+        "market_value_wan": 1089.94
+      },
+      {
+        "stock_code": "600048",
+        "stock_name": "保利发展",
+        "market_value_wan": 1084.96
+      },
+      {
+        "stock_code": "002127",
+        "stock_name": "南极电商",
+        "market_value_wan": 1053.84
+      }
+    ],
+    "2019-Q3": [
+      {
+        "stock_code": "601166",
+        "stock_name": "兴业银行",
+        "market_value_wan": 1200.28
+      },
+      {
+        "stock_code": "600195",
+        "stock_name": "中牧股份",
+        "market_value_wan": 1183.49
+      },
+      {
+        "stock_code": "002557",
+        "stock_name": "洽洽食品",
+        "market_value_wan": 952.31
+      },
+      {
+        "stock_code": "002127",
+        "stock_name": "南极电商",
+        "market_value_wan": 828.14
+      },
+      {
+        "stock_code": "603517",
+        "stock_name": "绝味食品",
+        "market_value_wan": 823.45
+      },
+      {
+        "stock_code": "600031",
+        "stock_name": "三一重工",
+        "market_value_wan": 800.29
+      },
+      {
+        "stock_code": "002384",
+        "stock_name": "东山精密",
+        "market_value_wan": 779.73
+      },
+      {
+        "stock_code": "600048",
+        "stock_name": "保利发展",
+        "market_value_wan": 773.14
+      },
+      {
+        "stock_code": "000002",
+        "stock_name": "万科A",
+        "market_value_wan": 759.65
+      },
+      {
+        "stock_code": "600600",
+        "stock_name": "青岛啤酒",
+        "market_value_wan": 722.01
+      }
+    ],
+    "2019-Q2": [
+      {
+        "stock_code": "600305",
+        "stock_name": "恒顺醋业",
+        "market_value_wan": 947.02
+      },
+      {
+        "stock_code": "600031",
+        "stock_name": "三一重工",
+        "market_value_wan": 855.99
+      },
+      {
+        "stock_code": "000425",
+        "stock_name": "徐工机械",
+        "market_value_wan": 833.05
+      },
+      {
+        "stock_code": "601166",
+        "stock_name": "兴业银行",
+        "market_value_wan": 790.31
+      },
+      {
+        "stock_code": "002127",
+        "stock_name": "南极电商",
+        "market_value_wan": 722.78
+      },
+      {
+        "stock_code": "603517",
+        "stock_name": "绝味食品",
+        "market_value_wan": 686.84
+      },
+      {
+        "stock_code": "600195",
+        "stock_name": "中牧股份",
+        "market_value_wan": 670.98
+      },
+      {
+        "stock_code": "600600",
+        "stock_name": "青岛啤酒",
+        "market_value_wan": 660.92
+      },
+      {
+        "stock_code": "000002",
+        "stock_name": "万科A",
+        "market_value_wan": 593.47
+      },
+      {
+        "stock_code": "603043",
+        "stock_name": "广州酒家",
+        "market_value_wan": 552.2
+      }
+    ],
+    "2019-Q1": [
+      {
+        "stock_code": "600600",
+        "stock_name": "青岛啤酒",
+        "market_value_wan": 876.78
+      },
+      {
+        "stock_code": "300253",
+        "stock_name": "卫宁健康",
+        "market_value_wan": 854.79
+      },
+      {
+        "stock_code": "601211",
+        "stock_name": "国泰君安",
+        "market_value_wan": 766.1
+      },
+      {
+        "stock_code": "603019",
+        "stock_name": "中科曙光",
+        "market_value_wan": 754.32
+      },
+      {
+        "stock_code": "002371",
+        "stock_name": "北方华创",
+        "market_value_wan": 740.74
+      },
+      {
+        "stock_code": "600305",
+        "stock_name": "恒顺醋业",
+        "market_value_wan": 675.77
+      },
+      {
+        "stock_code": "300450",
+        "stock_name": "先导智能",
+        "market_value_wan": 638.35
+      },
+      {
+        "stock_code": "601899",
+        "stock_name": "紫金矿业",
+        "market_value_wan": 536.61
+      },
+      {
+        "stock_code": "603517",
+        "stock_name": "绝味食品",
+        "market_value_wan": 531.08
+      },
+      {
+        "stock_code": "600705",
+        "stock_name": "中航产融",
+        "market_value_wan": 499.99
+      }
+    ]
+  }
+}

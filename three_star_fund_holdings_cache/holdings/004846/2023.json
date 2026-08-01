@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "004846",
+    "name": "南华瑞盈混合发起C",
+    "base_name": "南华瑞盈混合发起"
+  },
+  "fetched_at": "2026-06-14 23:15:19",
+  "quarters": {
+    "2023-Q4": [
+      {
+        "stock_code": "002187",
+        "stock_name": "广百股份",
+        "market_value_wan": 301.62
+      },
+      {
+        "stock_code": "600735",
+        "stock_name": "新华锦",
+        "market_value_wan": 300.25
+      },
+      {
+        "stock_code": "600113",
+        "stock_name": "浙江东日",
+        "market_value_wan": 299.78
+      },
+      {
+        "stock_code": "600439",
+        "stock_name": "瑞贝卡",
+        "market_value_wan": 294.8
+      },
+      {
+        "stock_code": "000419",
+        "stock_name": "通程控股",
+        "market_value_wan": 291.28
+      },
+      {
+        "stock_code": "002103",
+        "stock_name": "广博股份",
+        "market_value_wan": 287.48
+      },
+      {
+        "stock_code": "002671",
+        "stock_name": "龙泉股份",
+        "market_value_wan": 265.6
+      },
+      {
+        "stock_code": "002521",
+        "stock_name": "齐峰新材",
+        "market_value_wan": 247.36
+      },
+      {
+        "stock_code": "301149",
+        "stock_name": "隆华新材",
+        "market_value_wan": 240.84
+      },
+      {
+        "stock_code": "300289",
+        "stock_name": "利德曼",
+        "market_value_wan": 240.1
+      }
+    ],
+    "2023-Q3": [
+      {
+        "stock_code": "002521",
+        "stock_name": "齐峰新材",
+        "market_value_wan": 226.42
+      },
+      {
+        "stock_code": "002860",
+        "stock_name": "星帅尔",
+        "market_value_wan": 225.65
+      },
+      {
+        "stock_code": "300818",
+        "stock_name": "耐普矿机",
+        "market_value_wan": 223.96
+      },
+      {
+        "stock_code": "002869",
+        "stock_name": "金溢科技",
+        "market_value_wan": 221.1
+      },
+      {
+        "stock_code": "300440",
+        "stock_name": "运达科技",
+        "market_value_wan": 220.2
+      },
+      {
+        "stock_code": "300137",
+        "stock_name": "先河环保",
+        "market_value_wan": 218.46
+      },
+      {
+        "stock_code": "002365",
+        "stock_name": "永安药业",
+        "market_value_wan": 217.91
+      },
+      {
+        "stock_code": "300164",
+        "stock_name": "通源石油",
+        "market_value_wan": 217.88
+      },
+      {
+        "stock_code": "001209",
+        "stock_name": "洪兴股份",
+        "market_value_wan": 217.85
+      },
+      {
+        "stock_code": "300873",
+        "stock_name": "海晨股份",
+        "market_value_wan": 216.63
+      }
+    ],
+    "2023-Q2": [
+      {
+        "stock_code": "301028",
+        "stock_name": "东亚机械",
+        "market_value_wan": 1440.69
+      },
+      {
+        "stock_code": "600720",
+        "stock_name": "中交设计",
+        "market_value_wan": 1288.68
+      },
+      {
+        "stock_code": "600684",
+        "stock_name": "珠江股份",
+        "market_value_wan": 1177.54
+      },
+      {
+        "stock_code": "600522",
+        "stock_name": "中天科技",
+        "market_value_wan": 1002.33
+      },
+      {
+        "stock_code": "002353",
+        "stock_name": "杰瑞股份",
+        "market_value_wan": 992.64
+      },
+      {
+        "stock_code": "001323",
+        "stock_name": "慕思股份",
+        "market_value_wan": 983.14
+      },
+      {
+        "stock_code": "600038",
+        "stock_name": "中直股份",
+        "market_value_wan": 954.49
+      },
+      {
+        "stock_code": "600926",
+        "stock_name": "杭州银行",
+        "market_value_wan": 947.52
+      },
+      {
+        "stock_code": "600927",
+        "stock_name": "永安期货",
+        "market_value_wan": 901.94
+      },
+      {
+        "stock_code": "600500",
+        "stock_name": "中化国际",
+        "market_value_wan": 858.3
+      }
+    ],
+    "2023-Q1": [
+      {
+        "stock_code": "002353",
+        "stock_name": "杰瑞股份",
+        "market_value_wan": 1118.64
+      },
+      {
+        "stock_code": "600522",
+        "stock_name": "中天科技",
+        "market_value_wan": 1076.67
+      },
+      {
+        "stock_code": "600500",
+        "stock_name": "中化国际",
+        "market_value_wan": 1040.45
+      },
+      {
+        "stock_code": "603707",
+        "stock_name": "健友股份",
+        "market_value_wan": 821.85
+      },
+      {
+        "stock_code": "300938",
+        "stock_name": "信测标准",
+        "market_value_wan": 808.4
+      },
+      {
+        "stock_code": "000650",
+        "stock_name": "仁和药业",
+        "market_value_wan": 800.11
+      },
+      {
+        "stock_code": "301207",
+        "stock_name": "华兰疫苗",
+        "market_value_wan": 798.1
+      },
+      {
+        "stock_code": "002920",
+        "stock_name": "德赛西威",
+        "market_value_wan": 579.16
+      },
+      {
+        "stock_code": "301270",
+        "stock_name": "汉仪股份",
+        "market_value_wan": 569.22
+      },
+      {
+        "stock_code": "603169",
+        "stock_name": "兰石重装",
+        "market_value_wan": 567.38
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "240004",
+    "name": "华宝动力组合混合A",
+    "base_name": "华宝动力组合混合"
+  },
+  "fetched_at": "2026-06-14 23:56:41",
+  "quarters": {
+    "2018-Q4": [
+      {
+        "stock_code": "600030",
+        "stock_name": "中信证券",
+        "market_value_wan": 3041.9
+      },
+      {
+        "stock_code": "300059",
+        "stock_name": "东方财富",
+        "market_value_wan": 3025.0
+      },
+      {
+        "stock_code": "600511",
+        "stock_name": "国药股份",
+        "market_value_wan": 2790.0
+      },
+      {
+        "stock_code": "000002",
+        "stock_name": "万科A",
+        "market_value_wan": 2739.09
+      },
+      {
+        "stock_code": "601111",
+        "stock_name": "中国国航",
+        "market_value_wan": 2712.2
+      },
+      {
+        "stock_code": "601688",
+        "stock_name": "华泰证券",
+        "market_value_wan": 2592.0
+      },
+      {
+        "stock_code": "601668",
+        "stock_name": "中国建筑",
+        "market_value_wan": 2508.0
+      },
+      {
+        "stock_code": "600048",
+        "stock_name": "保利发展",
+        "market_value_wan": 2475.9
+      },
+      {
+        "stock_code": "601211",
+        "stock_name": "国泰君安",
+        "market_value_wan": 2451.2
+      },
+      {
+        "stock_code": "600109",
+        "stock_name": "国金证券",
+        "market_value_wan": 2434.4
+      }
+    ],
+    "2018-Q3": [
+      {
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "market_value_wan": 5137.5
+      },
+      {
+        "stock_code": "601398",
+        "stock_name": "工商银行",
+        "market_value_wan": 4558.3
+      },
+      {
+        "stock_code": "601939",
+        "stock_name": "建设银行",
+        "market_value_wan": 4344.0
+      },
+      {
+        "stock_code": "601166",
+        "stock_name": "兴业银行",
+        "market_value_wan": 3828.0
+      },
+      {
+        "stock_code": "601818",
+        "stock_name": "光大银行",
+        "market_value_wan": 3675.4
+      },
+      {
+        "stock_code": "601169",
+        "stock_name": "北京银行",
+        "market_value_wan": 3635.4
+      },
+      {
+        "stock_code": "601328",
+        "stock_name": "交通银行",
+        "market_value_wan": 3562.4
+      },
+      {
+        "stock_code": "600016",
+        "stock_name": "民生银行",
+        "market_value_wan": 3423.6
+      },
+      {
+        "stock_code": "601997",
+        "stock_name": "贵阳银行",
+        "market_value_wan": 3363.25
+      },
+      {
+        "stock_code": "601009",
+        "stock_name": "南京银行",
+        "market_value_wan": 3327.75
+      }
+    ],
+    "2018-Q2": [
+      {
+        "stock_code": "601288",
+        "stock_name": "农业银行",
+        "market_value_wan": 4437.6
+      },
+      {
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "market_value_wan": 4393.5
+      },
+      {
+        "stock_code": "601398",
+        "stock_name": "工商银行",
+        "market_value_wan": 4202.8
+      },
+      {
+        "stock_code": "601939",
+        "stock_name": "建设银行",
+        "market_value_wan": 3930.0
+      },
+      {
+        "stock_code": "601998",
+        "stock_name": "中信银行",
+        "market_value_wan": 3850.2
+      },
+      {
+        "stock_code": "601169",
+        "stock_name": "北京银行",
+        "market_value_wan": 3587.8
+      },
+      {
+        "stock_code": "601328",
+        "stock_name": "交通银行",
+        "market_value_wan": 3501.4
+      },
+      {
+        "stock_code": "601166",
+        "stock_name": "兴业银行",
+        "market_value_wan": 3456.0
+      },
+      {
+        "stock_code": "600511",
+        "stock_name": "国药股份",
+        "market_value_wan": 3449.32
+      },
+      {
+        "stock_code": "601818",
+        "stock_name": "光大银行",
+        "market_value_wan": 3440.4
+      }
+    ],
+    "2018-Q1": [
+      {
+        "stock_code": "601398",
+        "stock_name": "工商银行",
+        "market_value_wan": 4811.1
+      },
+      {
+        "stock_code": "601939",
+        "stock_name": "建设银行",
+        "market_value_wan": 4262.5
+      },
+      {
+        "stock_code": "601169",
+        "stock_name": "北京银行",
+        "market_value_wan": 4093.55
+      },
+      {
+        "stock_code": "601166",
+        "stock_name": "兴业银行",
+        "market_value_wan": 4005.6
+      },
+      {
+        "stock_code": "601998",
+        "stock_name": "中信银行",
+        "market_value_wan": 3999.0
+      },
+      {
+        "stock_code": "601818",
+        "stock_name": "光大银行",
+        "market_value_wan": 3835.2
+      },
+      {
+        "stock_code": "600015",
+        "stock_name": "华夏银行",
+        "market_value_wan": 3786.75
+      },
+      {
+        "stock_code": "600511",
+        "stock_name": "国药股份",
+        "market_value_wan": 3671.68
+      },
+      {
+        "stock_code": "600016",
+        "stock_name": "民生银行",
+        "market_value_wan": 3595.5
+      },
+      {
+        "stock_code": "600285",
+        "stock_name": "羚锐制药",
+        "market_value_wan": 3282.86
+      }
+    ]
+  }
+}

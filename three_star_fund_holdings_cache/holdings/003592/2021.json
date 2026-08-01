@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "003592",
+    "name": "华泰柏瑞享利混合C",
+    "base_name": "华泰柏瑞享利混合"
+  },
+  "fetched_at": "2026-06-14 23:11:10",
+  "quarters": {
+    "2021-Q4": [
+      {
+        "stock_code": "000975",
+        "stock_name": "山金国际",
+        "market_value_wan": 2012.24
+      },
+      {
+        "stock_code": "600547",
+        "stock_name": "山东黄金",
+        "market_value_wan": 1375.26
+      },
+      {
+        "stock_code": "600048",
+        "stock_name": "保利发展",
+        "market_value_wan": 848.4
+      },
+      {
+        "stock_code": "603916",
+        "stock_name": "苏博特",
+        "market_value_wan": 707.76
+      },
+      {
+        "stock_code": "600150",
+        "stock_name": "中国船舶",
+        "market_value_wan": 675.78
+      },
+      {
+        "stock_code": "600030",
+        "stock_name": "中信证券",
+        "market_value_wan": 661.31
+      },
+      {
+        "stock_code": "601872",
+        "stock_name": "招商轮船",
+        "market_value_wan": 645.22
+      },
+      {
+        "stock_code": "601899",
+        "stock_name": "紫金矿业",
+        "market_value_wan": 624.78
+      },
+      {
+        "stock_code": "002353",
+        "stock_name": "杰瑞股份",
+        "market_value_wan": 596.4
+      },
+      {
+        "stock_code": "600489",
+        "stock_name": "中金黄金",
+        "market_value_wan": 493.61
+      }
+    ],
+    "2021-Q3": [
+      {
+        "stock_code": "000975",
+        "stock_name": "山金国际",
+        "market_value_wan": 1889.91
+      },
+      {
+        "stock_code": "600489",
+        "stock_name": "中金黄金",
+        "market_value_wan": 1435.1
+      },
+      {
+        "stock_code": "600547",
+        "stock_name": "山东黄金",
+        "market_value_wan": 1204.14
+      },
+      {
+        "stock_code": "002353",
+        "stock_name": "杰瑞股份",
+        "market_value_wan": 1179.51
+      },
+      {
+        "stock_code": "600406",
+        "stock_name": "国电南瑞",
+        "market_value_wan": 657.51
+      },
+      {
+        "stock_code": "600048",
+        "stock_name": "保利发展",
+        "market_value_wan": 636.54
+      },
+      {
+        "stock_code": "002003",
+        "stock_name": "伟星股份",
+        "market_value_wan": 571.86
+      },
+      {
+        "stock_code": "002013",
+        "stock_name": "中航机电",
+        "market_value_wan": 510.67
+      },
+      {
+        "stock_code": "603916",
+        "stock_name": "苏博特",
+        "market_value_wan": 503.15
+      },
+      {
+        "stock_code": "600150",
+        "stock_name": "中国船舶",
+        "market_value_wan": 428.21
+      }
+    ],
+    "2021-Q2": [
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 1430.85
+      },
+      {
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "market_value_wan": 675.21
+      },
+      {
+        "stock_code": "601166",
+        "stock_name": "兴业银行",
+        "market_value_wan": 432.58
+      },
+      {
+        "stock_code": "600887",
+        "stock_name": "伊利股份",
+        "market_value_wan": 423.55
+      },
+      {
+        "stock_code": "600585",
+        "stock_name": "海螺水泥",
+        "market_value_wan": 368.63
+      },
+      {
+        "stock_code": "600276",
+        "stock_name": "恒瑞医药",
+        "market_value_wan": 335.23
+      },
+      {
+        "stock_code": "600309",
+        "stock_name": "万华化学",
+        "market_value_wan": 302.52
+      },
+      {
+        "stock_code": "601398",
+        "stock_name": "工商银行",
+        "market_value_wan": 258.4
+      },
+      {
+        "stock_code": "600048",
+        "stock_name": "保利发展",
+        "market_value_wan": 256.57
+      },
+      {
+        "stock_code": "601668",
+        "stock_name": "中国建筑",
+        "market_value_wan": 173.91
+      }
+    ],
+    "2021-Q1": [
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 1397.66
+      },
+      {
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "market_value_wan": 636.71
+      },
+      {
+        "stock_code": "601166",
+        "stock_name": "兴业银行",
+        "market_value_wan": 507.09
+      },
+      {
+        "stock_code": "600887",
+        "stock_name": "伊利股份",
+        "market_value_wan": 460.35
+      },
+      {
+        "stock_code": "600585",
+        "stock_name": "海螺水泥",
+        "market_value_wan": 459.96
+      },
+      {
+        "stock_code": "600276",
+        "stock_name": "恒瑞医药",
+        "market_value_wan": 378.49
+      },
+      {
+        "stock_code": "600048",
+        "stock_name": "保利发展",
+        "market_value_wan": 303.24
+      },
+      {
+        "stock_code": "600309",
+        "stock_name": "万华化学",
+        "market_value_wan": 293.57
+      },
+      {
+        "stock_code": "601398",
+        "stock_name": "工商银行",
+        "market_value_wan": 276.89
+      },
+      {
+        "stock_code": "601668",
+        "stock_name": "中国建筑",
+        "market_value_wan": 194.11
+      }
+    ]
+  }
+}

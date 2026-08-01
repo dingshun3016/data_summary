@@ -1,0 +1,115 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "481017",
+    "name": "工银量化策略混合A",
+    "base_name": "工银量化策略混合"
+  },
+  "fetched_at": "2026-08-01 21:01:04",
+  "quarters": {
+    "2026-Q2": [
+      {
+        "stock_code": "601899",
+        "stock_name": "紫金矿业",
+        "market_value_wan": 1609.02
+      },
+      {
+        "stock_code": "600900",
+        "stock_name": "长江电力",
+        "market_value_wan": 1222.65
+      },
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 1027.21
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 724.71
+      },
+      {
+        "stock_code": "688041",
+        "stock_name": "海光信息",
+        "market_value_wan": 514.24
+      },
+      {
+        "stock_code": "603993",
+        "stock_name": "洛阳钼业",
+        "market_value_wan": 498.24
+      },
+      {
+        "stock_code": "000001",
+        "stock_name": "平安银行",
+        "market_value_wan": 435.87
+      },
+      {
+        "stock_code": "002371",
+        "stock_name": "北方华创",
+        "market_value_wan": 433.43
+      },
+      {
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "market_value_wan": 422.81
+      },
+      {
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "market_value_wan": 389.56
+      }
+    ],
+    "2026-Q1": [
+      {
+        "stock_code": "601899",
+        "stock_name": "紫金矿业",
+        "market_value_wan": 1880.49
+      },
+      {
+        "stock_code": "600900",
+        "stock_name": "长江电力",
+        "market_value_wan": 1663.5
+      },
+      {
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "market_value_wan": 1018.39
+      },
+      {
+        "stock_code": "601088",
+        "stock_name": "中国神华",
+        "market_value_wan": 976.61
+      },
+      {
+        "stock_code": "601668",
+        "stock_name": "中国建筑",
+        "market_value_wan": 854.91
+      },
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 845.19
+      },
+      {
+        "stock_code": "601600",
+        "stock_name": "中国铝业",
+        "market_value_wan": 725.61
+      },
+      {
+        "stock_code": "601838",
+        "stock_name": "成都银行",
+        "market_value_wan": 646.79
+      },
+      {
+        "stock_code": "000933",
+        "stock_name": "神火股份",
+        "market_value_wan": 610.46
+      },
+      {
+        "stock_code": "601658",
+        "stock_name": "邮储银行",
+        "market_value_wan": 532.13
+      }
+    ]
+  }
+}

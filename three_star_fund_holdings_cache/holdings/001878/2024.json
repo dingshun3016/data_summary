@@ -1,0 +1,69 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "001878",
+    "name": "嘉实沪港深精选股票",
+    "base_name": "嘉实沪港深精选股票"
+  },
+  "fetched_at": "2026-06-14 23:01:46",
+  "quarters": {
+    "2024-Q4": [
+      {
+        "stock_code": "000528",
+        "stock_name": "柳工",
+        "market_value_wan": 11300.46
+      },
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 10004.36
+      }
+    ],
+    "2024-Q3": [
+      {
+        "stock_code": "000528",
+        "stock_name": "柳工",
+        "market_value_wan": 11712.75
+      },
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 10667.06
+      }
+    ],
+    "2024-Q2": [
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 9648.46
+      },
+      {
+        "stock_code": "000528",
+        "stock_name": "柳工",
+        "market_value_wan": 9240.14
+      }
+    ],
+    "2024-Q1": [
+      {
+        "stock_code": "688036",
+        "stock_name": "传音控股",
+        "market_value_wan": 7779.31
+      },
+      {
+        "stock_code": "603369",
+        "stock_name": "今世缘",
+        "market_value_wan": 7290.33
+      },
+      {
+        "stock_code": "000528",
+        "stock_name": "柳工",
+        "market_value_wan": 6903.27
+      },
+      {
+        "stock_code": "600583",
+        "stock_name": "海油工程",
+        "market_value_wan": 6537.44
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "003175",
+    "name": "华泰柏瑞多策略混合A",
+    "base_name": "华泰柏瑞多策略混合"
+  },
+  "fetched_at": "2026-06-14 22:31:13",
+  "quarters": {
+    "2022-Q4": [
+      {
+        "stock_code": "600489",
+        "stock_name": "中金黄金",
+        "market_value_wan": 28995.24
+      },
+      {
+        "stock_code": "002155",
+        "stock_name": "湖南黄金",
+        "market_value_wan": 24044.38
+      },
+      {
+        "stock_code": "600547",
+        "stock_name": "山东黄金",
+        "market_value_wan": 20043.08
+      },
+      {
+        "stock_code": "000975",
+        "stock_name": "山金国际",
+        "market_value_wan": 19741.55
+      },
+      {
+        "stock_code": "600048",
+        "stock_name": "保利发展",
+        "market_value_wan": 12798.61
+      },
+      {
+        "stock_code": "001979",
+        "stock_name": "招商蛇口",
+        "market_value_wan": 12250.56
+      },
+      {
+        "stock_code": "000932",
+        "stock_name": "华菱钢铁",
+        "market_value_wan": 10001.2
+      },
+      {
+        "stock_code": "600383",
+        "stock_name": "金地集团",
+        "market_value_wan": 9345.92
+      },
+      {
+        "stock_code": "002353",
+        "stock_name": "杰瑞股份",
+        "market_value_wan": 7581.15
+      },
+      {
+        "stock_code": "601985",
+        "stock_name": "中国核电",
+        "market_value_wan": 7148.42
+      }
+    ],
+    "2022-Q3": [
+      {
+        "stock_code": "000975",
+        "stock_name": "山金国际",
+        "market_value_wan": 3255.95
+      },
+      {
+        "stock_code": "600489",
+        "stock_name": "中金黄金",
+        "market_value_wan": 2984.57
+      },
+      {
+        "stock_code": "600547",
+        "stock_name": "山东黄金",
+        "market_value_wan": 2937.93
+      },
+      {
+        "stock_code": "002155",
+        "stock_name": "湖南黄金",
+        "market_value_wan": 2889.08
+      },
+      {
+        "stock_code": "600048",
+        "stock_name": "保利发展",
+        "market_value_wan": 1509.48
+      },
+      {
+        "stock_code": "001979",
+        "stock_name": "招商蛇口",
+        "market_value_wan": 1447.23
+      },
+      {
+        "stock_code": "002353",
+        "stock_name": "杰瑞股份",
+        "market_value_wan": 1168.15
+      },
+      {
+        "stock_code": "600150",
+        "stock_name": "中国船舶",
+        "market_value_wan": 1038.81
+      },
+      {
+        "stock_code": "601808",
+        "stock_name": "中海油服",
+        "market_value_wan": 787.96
+      },
+      {
+        "stock_code": "601669",
+        "stock_name": "中国电建",
+        "market_value_wan": 755.62
+      }
+    ],
+    "2022-Q2": [
+      {
+        "stock_code": "000975",
+        "stock_name": "山金国际",
+        "market_value_wan": 559.37
+      },
+      {
+        "stock_code": "600547",
+        "stock_name": "山东黄金",
+        "market_value_wan": 474.58
+      },
+      {
+        "stock_code": "601975",
+        "stock_name": "招商南油",
+        "market_value_wan": 397.12
+      },
+      {
+        "stock_code": "600150",
+        "stock_name": "中国船舶",
+        "market_value_wan": 343.73
+      },
+      {
+        "stock_code": "301073",
+        "stock_name": "君亭酒店",
+        "market_value_wan": 270.43
+      },
+      {
+        "stock_code": "600489",
+        "stock_name": "中金黄金",
+        "market_value_wan": 266.48
+      },
+      {
+        "stock_code": "601872",
+        "stock_name": "招商轮船",
+        "market_value_wan": 234.8
+      },
+      {
+        "stock_code": "002353",
+        "stock_name": "杰瑞股份",
+        "market_value_wan": 225.68
+      },
+      {
+        "stock_code": "601717",
+        "stock_name": "郑煤机",
+        "market_value_wan": 203.05
+      },
+      {
+        "stock_code": "600048",
+        "stock_name": "保利发展",
+        "market_value_wan": 190.14
+      }
+    ],
+    "2022-Q1": [
+      {
+        "stock_code": "600547",
+        "stock_name": "山东黄金",
+        "market_value_wan": 399.9
+      },
+      {
+        "stock_code": "000975",
+        "stock_name": "山金国际",
+        "market_value_wan": 390.28
+      },
+      {
+        "stock_code": "002155",
+        "stock_name": "湖南黄金",
+        "market_value_wan": 265.18
+      },
+      {
+        "stock_code": "002353",
+        "stock_name": "杰瑞股份",
+        "market_value_wan": 167.34
+      },
+      {
+        "stock_code": "601872",
+        "stock_name": "招商轮船",
+        "market_value_wan": 150.87
+      },
+      {
+        "stock_code": "600048",
+        "stock_name": "保利发展",
+        "market_value_wan": 149.57
+      },
+      {
+        "stock_code": "600150",
+        "stock_name": "中国船舶",
+        "market_value_wan": 132.19
+      },
+      {
+        "stock_code": "600489",
+        "stock_name": "中金黄金",
+        "market_value_wan": 122.61
+      },
+      {
+        "stock_code": "601717",
+        "stock_name": "郑煤机",
+        "market_value_wan": 122.17
+      },
+      {
+        "stock_code": "301073",
+        "stock_name": "君亭酒店",
+        "market_value_wan": 117.22
+      }
+    ]
+  }
+}

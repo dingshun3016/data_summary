@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "519020",
+    "name": "国泰金泰灵活配置混合A",
+    "base_name": "国泰金泰灵活配置混合"
+  },
+  "fetched_at": "2026-06-15 00:02:12",
+  "quarters": {
+    "2024-Q4": [
+      {
+        "stock_code": "688036",
+        "stock_name": "传音控股",
+        "market_value_wan": 6552.92
+      },
+      {
+        "stock_code": "688235",
+        "stock_name": "百济神州",
+        "market_value_wan": 5752.97
+      },
+      {
+        "stock_code": "600276",
+        "stock_name": "恒瑞医药",
+        "market_value_wan": 5619.86
+      },
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 5615.82
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 5528.01
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 5379.72
+      },
+      {
+        "stock_code": "002352",
+        "stock_name": "顺丰控股",
+        "market_value_wan": 5033.51
+      },
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 4945.17
+      },
+      {
+        "stock_code": "300760",
+        "stock_name": "迈瑞医疗",
+        "market_value_wan": 4921.5
+      },
+      {
+        "stock_code": "301498",
+        "stock_name": "乖宝宠物",
+        "market_value_wan": 4871.44
+      }
+    ],
+    "2024-Q3": [
+      {
+        "stock_code": "688036",
+        "stock_name": "传音控股",
+        "market_value_wan": 9905.43
+      },
+      {
+        "stock_code": "300760",
+        "stock_name": "迈瑞医疗",
+        "market_value_wan": 8318.27
+      },
+      {
+        "stock_code": "688235",
+        "stock_name": "百济神州",
+        "market_value_wan": 8014.39
+      },
+      {
+        "stock_code": "600276",
+        "stock_name": "恒瑞医药",
+        "market_value_wan": 7790.77
+      },
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 7728.23
+      },
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 7327.51
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 6922.08
+      },
+      {
+        "stock_code": "301498",
+        "stock_name": "乖宝宠物",
+        "market_value_wan": 6196.73
+      },
+      {
+        "stock_code": "603605",
+        "stock_name": "珀莱雅",
+        "market_value_wan": 6158.52
+      },
+      {
+        "stock_code": "002415",
+        "stock_name": "海康威视",
+        "market_value_wan": 5188.67
+      }
+    ],
+    "2024-Q2": [
+      {
+        "stock_code": "688036",
+        "stock_name": "传音控股",
+        "market_value_wan": 10733.28
+      },
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 9280.65
+      },
+      {
+        "stock_code": "600276",
+        "stock_name": "恒瑞医药",
+        "market_value_wan": 8278.5
+      },
+      {
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "market_value_wan": 7445.62
+      },
+      {
+        "stock_code": "603605",
+        "stock_name": "珀莱雅",
+        "market_value_wan": 7438.64
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 7366.3
+      },
+      {
+        "stock_code": "002415",
+        "stock_name": "海康威视",
+        "market_value_wan": 7297.84
+      },
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 7264.65
+      },
+      {
+        "stock_code": "688235",
+        "stock_name": "百济神州",
+        "market_value_wan": 6778.01
+      },
+      {
+        "stock_code": "300760",
+        "stock_name": "迈瑞医疗",
+        "market_value_wan": 6347.66
+      }
+    ],
+    "2024-Q1": [
+      {
+        "stock_code": "688036",
+        "stock_name": "传音控股",
+        "market_value_wan": 13327.93
+      },
+      {
+        "stock_code": "002352",
+        "stock_name": "顺丰控股",
+        "market_value_wan": 10216.79
+      },
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 9757.97
+      },
+      {
+        "stock_code": "600276",
+        "stock_name": "恒瑞医药",
+        "market_value_wan": 9488.92
+      },
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 9285.15
+      },
+      {
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "market_value_wan": 9112.99
+      },
+      {
+        "stock_code": "300957",
+        "stock_name": "贝泰妮",
+        "market_value_wan": 8644.47
+      },
+      {
+        "stock_code": "002415",
+        "stock_name": "海康威视",
+        "market_value_wan": 8456.14
+      },
+      {
+        "stock_code": "300896",
+        "stock_name": "爱美客",
+        "market_value_wan": 7109.99
+      },
+      {
+        "stock_code": "688235",
+        "stock_name": "百济神州",
+        "market_value_wan": 6436.86
+      }
+    ]
+  }
+}

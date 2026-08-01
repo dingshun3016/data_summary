@@ -1,0 +1,209 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "002601",
+    "name": "中银证券价值精选混合",
+    "base_name": "中银证券价值精选混合"
+  },
+  "fetched_at": "2026-06-14 23:06:56",
+  "quarters": {
+    "2018-Q4": [
+      {
+        "stock_code": "600085",
+        "stock_name": "同仁堂",
+        "market_value_wan": 1225.9
+      },
+      {
+        "stock_code": "002422",
+        "stock_name": "科伦药业",
+        "market_value_wan": 877.02
+      },
+      {
+        "stock_code": "600466",
+        "stock_name": "*ST蓝光",
+        "market_value_wan": 671.47
+      },
+      {
+        "stock_code": "000063",
+        "stock_name": "中兴通讯",
+        "market_value_wan": 662.18
+      },
+      {
+        "stock_code": "300068",
+        "stock_name": "南都电源",
+        "market_value_wan": 513.72
+      },
+      {
+        "stock_code": "002262",
+        "stock_name": "恩华药业",
+        "market_value_wan": 460.11
+      },
+      {
+        "stock_code": "601607",
+        "stock_name": "上海医药",
+        "market_value_wan": 423.1
+      },
+      {
+        "stock_code": "002589",
+        "stock_name": "瑞康医药",
+        "market_value_wan": 396.04
+      },
+      {
+        "stock_code": "600195",
+        "stock_name": "中牧股份",
+        "market_value_wan": 261.52
+      },
+      {
+        "stock_code": "002343",
+        "stock_name": "慈文传媒",
+        "market_value_wan": 229.02
+      }
+    ],
+    "2018-Q3": [
+      {
+        "stock_code": "601607",
+        "stock_name": "上海医药",
+        "market_value_wan": 1796.21
+      },
+      {
+        "stock_code": "000639",
+        "stock_name": "西王食品",
+        "market_value_wan": 1279.3
+      },
+      {
+        "stock_code": "002422",
+        "stock_name": "科伦药业",
+        "market_value_wan": 953.45
+      },
+      {
+        "stock_code": "600525",
+        "stock_name": "长园集团",
+        "market_value_wan": 741.84
+      },
+      {
+        "stock_code": "002396",
+        "stock_name": "星网锐捷",
+        "market_value_wan": 682.99
+      },
+      {
+        "stock_code": "601088",
+        "stock_name": "中国神华",
+        "market_value_wan": 555.63
+      },
+      {
+        "stock_code": "600535",
+        "stock_name": "天士力",
+        "market_value_wan": 539.01
+      },
+      {
+        "stock_code": "002430",
+        "stock_name": "杭氧股份",
+        "market_value_wan": 506.66
+      },
+      {
+        "stock_code": "600466",
+        "stock_name": "*ST蓝光",
+        "market_value_wan": 467.47
+      },
+      {
+        "stock_code": "300166",
+        "stock_name": "东方国信",
+        "market_value_wan": 364.94
+      }
+    ],
+    "2018-Q2": [
+      {
+        "stock_code": "300129",
+        "stock_name": "泰胜风能",
+        "market_value_wan": 4729.63
+      },
+      {
+        "stock_code": "600525",
+        "stock_name": "长园集团",
+        "market_value_wan": 3457.02
+      },
+      {
+        "stock_code": "002203",
+        "stock_name": "海亮股份",
+        "market_value_wan": 3416.21
+      },
+      {
+        "stock_code": "000639",
+        "stock_name": "西王食品",
+        "market_value_wan": 961.93
+      },
+      {
+        "stock_code": "300747",
+        "stock_name": "锐科激光",
+        "market_value_wan": 12.4
+      },
+      {
+        "stock_code": "603693",
+        "stock_name": "江苏新能",
+        "market_value_wan": 4.85
+      },
+      {
+        "stock_code": "603706",
+        "stock_name": "东方环宇",
+        "market_value_wan": 2.31
+      },
+      {
+        "stock_code": "002217",
+        "stock_name": "*ST合泰",
+        "market_value_wan": 0.02
+      }
+    ],
+    "2018-Q1": [
+      {
+        "stock_code": "300129",
+        "stock_name": "泰胜风能",
+        "market_value_wan": 9280.99
+      },
+      {
+        "stock_code": "600525",
+        "stock_name": "长园集团",
+        "market_value_wan": 8412.73
+      },
+      {
+        "stock_code": "000423",
+        "stock_name": "东阿阿胶",
+        "market_value_wan": 5146.15
+      },
+      {
+        "stock_code": "000639",
+        "stock_name": "西王食品",
+        "market_value_wan": 1972.68
+      },
+      {
+        "stock_code": "000895",
+        "stock_name": "双汇发展",
+        "market_value_wan": 911.36
+      },
+      {
+        "stock_code": "002422",
+        "stock_name": "科伦药业",
+        "market_value_wan": 638.8
+      },
+      {
+        "stock_code": "002262",
+        "stock_name": "恩华药业",
+        "market_value_wan": 506.91
+      },
+      {
+        "stock_code": "002430",
+        "stock_name": "杭氧股份",
+        "market_value_wan": 133.6
+      },
+      {
+        "stock_code": "300504",
+        "stock_name": "天邑股份",
+        "market_value_wan": 5.76
+      },
+      {
+        "stock_code": "600929",
+        "stock_name": "雪天盐业",
+        "market_value_wan": 4.45
+      }
+    ]
+  }
+}

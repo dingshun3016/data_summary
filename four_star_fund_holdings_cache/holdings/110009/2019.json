@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "110009",
+    "name": "易方达价值精选混合",
+    "base_name": "易方达价值精选混合"
+  },
+  "fetched_at": "2026-06-14 22:41:32",
+  "quarters": {
+    "2019-Q4": [
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 25975.37
+      },
+      {
+        "stock_code": "000568",
+        "stock_name": "泸州老窖",
+        "market_value_wan": 25638.21
+      },
+      {
+        "stock_code": "000858",
+        "stock_name": "五粮液",
+        "market_value_wan": 24947.33
+      },
+      {
+        "stock_code": "000651",
+        "stock_name": "格力电器",
+        "market_value_wan": 21906.93
+      },
+      {
+        "stock_code": "600486",
+        "stock_name": "扬农化工",
+        "market_value_wan": 20035.57
+      },
+      {
+        "stock_code": "000002",
+        "stock_name": "万科A",
+        "market_value_wan": 19414.3
+      },
+      {
+        "stock_code": "300498",
+        "stock_name": "温氏股份",
+        "market_value_wan": 18058.52
+      },
+      {
+        "stock_code": "600048",
+        "stock_name": "保利发展",
+        "market_value_wan": 16246.86
+      },
+      {
+        "stock_code": "601012",
+        "stock_name": "隆基绿能",
+        "market_value_wan": 15132.41
+      },
+      {
+        "stock_code": "002127",
+        "stock_name": "南极电商",
+        "market_value_wan": 14771.38
+      }
+    ],
+    "2019-Q3": [
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 25952.28
+      },
+      {
+        "stock_code": "000568",
+        "stock_name": "泸州老窖",
+        "market_value_wan": 24533.99
+      },
+      {
+        "stock_code": "300498",
+        "stock_name": "温氏股份",
+        "market_value_wan": 19982.62
+      },
+      {
+        "stock_code": "002179",
+        "stock_name": "中航光电",
+        "market_value_wan": 17853.0
+      },
+      {
+        "stock_code": "600048",
+        "stock_name": "保利发展",
+        "market_value_wan": 15090.0
+      },
+      {
+        "stock_code": "002127",
+        "stock_name": "南极电商",
+        "market_value_wan": 14708.66
+      },
+      {
+        "stock_code": "000002",
+        "stock_name": "万科A",
+        "market_value_wan": 14088.39
+      },
+      {
+        "stock_code": "600276",
+        "stock_name": "恒瑞医药",
+        "market_value_wan": 13822.53
+      },
+      {
+        "stock_code": "000651",
+        "stock_name": "格力电器",
+        "market_value_wan": 13639.12
+      },
+      {
+        "stock_code": "601933",
+        "stock_name": "永辉超市",
+        "market_value_wan": 13169.69
+      }
+    ],
+    "2019-Q2": [
+      {
+        "stock_code": "000568",
+        "stock_name": "泸州老窖",
+        "market_value_wan": 26767.4
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 26614.44
+      },
+      {
+        "stock_code": "002304",
+        "stock_name": "洋河股份",
+        "market_value_wan": 19968.81
+      },
+      {
+        "stock_code": "300498",
+        "stock_name": "温氏股份",
+        "market_value_wan": 19273.18
+      },
+      {
+        "stock_code": "002127",
+        "stock_name": "南极电商",
+        "market_value_wan": 14689.45
+      },
+      {
+        "stock_code": "002179",
+        "stock_name": "中航光电",
+        "market_value_wan": 14506.11
+      },
+      {
+        "stock_code": "601933",
+        "stock_name": "永辉超市",
+        "market_value_wan": 13936.4
+      },
+      {
+        "stock_code": "000002",
+        "stock_name": "万科A",
+        "market_value_wan": 13507.13
+      },
+      {
+        "stock_code": "600048",
+        "stock_name": "保利发展",
+        "market_value_wan": 13464.93
+      },
+      {
+        "stock_code": "600276",
+        "stock_name": "恒瑞医药",
+        "market_value_wan": 11307.48
+      }
+    ],
+    "2019-Q1": [
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 27530.25
+      },
+      {
+        "stock_code": "000568",
+        "stock_name": "泸州老窖",
+        "market_value_wan": 25091.38
+      },
+      {
+        "stock_code": "002304",
+        "stock_name": "洋河股份",
+        "market_value_wan": 20791.71
+      },
+      {
+        "stock_code": "300498",
+        "stock_name": "温氏股份",
+        "market_value_wan": 17885.85
+      },
+      {
+        "stock_code": "000002",
+        "stock_name": "万科A",
+        "market_value_wan": 13862.81
+      },
+      {
+        "stock_code": "002179",
+        "stock_name": "中航光电",
+        "market_value_wan": 13444.89
+      },
+      {
+        "stock_code": "601933",
+        "stock_name": "永辉超市",
+        "market_value_wan": 11523.44
+      },
+      {
+        "stock_code": "600486",
+        "stock_name": "扬农化工",
+        "market_value_wan": 10894.26
+      },
+      {
+        "stock_code": "600048",
+        "stock_name": "保利发展",
+        "market_value_wan": 9739.23
+      },
+      {
+        "stock_code": "600276",
+        "stock_name": "恒瑞医药",
+        "market_value_wan": 9714.31
+      }
+    ]
+  }
+}

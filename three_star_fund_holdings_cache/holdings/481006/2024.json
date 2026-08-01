@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "481006",
+    "name": "工银红利混合",
+    "base_name": "工银红利混合"
+  },
+  "fetched_at": "2026-06-15 00:01:05",
+  "quarters": {
+    "2024-Q4": [
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 2665.04
+      },
+      {
+        "stock_code": "002847",
+        "stock_name": "盐津铺子",
+        "market_value_wan": 1757.18
+      },
+      {
+        "stock_code": "600066",
+        "stock_name": "宇通客车",
+        "market_value_wan": 1719.18
+      },
+      {
+        "stock_code": "600900",
+        "stock_name": "长江电力",
+        "market_value_wan": 1585.95
+      },
+      {
+        "stock_code": "600183",
+        "stock_name": "生益科技",
+        "market_value_wan": 1563.49
+      },
+      {
+        "stock_code": "000776",
+        "stock_name": "广发证券",
+        "market_value_wan": 1463.76
+      },
+      {
+        "stock_code": "601881",
+        "stock_name": "中国银河",
+        "market_value_wan": 1459.95
+      },
+      {
+        "stock_code": "002138",
+        "stock_name": "顺络电子",
+        "market_value_wan": 1452.8
+      },
+      {
+        "stock_code": "601965",
+        "stock_name": "中国汽研",
+        "market_value_wan": 1420.17
+      },
+      {
+        "stock_code": "000975",
+        "stock_name": "山金国际",
+        "market_value_wan": 1276.32
+      }
+    ],
+    "2024-Q3": [
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 3148.12
+      },
+      {
+        "stock_code": "601088",
+        "stock_name": "中国神华",
+        "market_value_wan": 2514.41
+      },
+      {
+        "stock_code": "600066",
+        "stock_name": "宇通客车",
+        "market_value_wan": 1802.87
+      },
+      {
+        "stock_code": "601816",
+        "stock_name": "京沪高铁",
+        "market_value_wan": 1750.63
+      },
+      {
+        "stock_code": "002847",
+        "stock_name": "盐津铺子",
+        "market_value_wan": 1668.97
+      },
+      {
+        "stock_code": "600183",
+        "stock_name": "生益科技",
+        "market_value_wan": 1657.41
+      },
+      {
+        "stock_code": "601965",
+        "stock_name": "中国汽研",
+        "market_value_wan": 1649.0
+      },
+      {
+        "stock_code": "300979",
+        "stock_name": "华利集团",
+        "market_value_wan": 1586.11
+      },
+      {
+        "stock_code": "000975",
+        "stock_name": "山金国际",
+        "market_value_wan": 1545.37
+      },
+      {
+        "stock_code": "600900",
+        "stock_name": "长江电力",
+        "market_value_wan": 1499.5
+      }
+    ],
+    "2024-Q2": [
+      {
+        "stock_code": "601088",
+        "stock_name": "中国神华",
+        "market_value_wan": 2610.73
+      },
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 2316.84
+      },
+      {
+        "stock_code": "600886",
+        "stock_name": "国投电力",
+        "market_value_wan": 1875.8
+      },
+      {
+        "stock_code": "601857",
+        "stock_name": "中国石油",
+        "market_value_wan": 1756.46
+      },
+      {
+        "stock_code": "600183",
+        "stock_name": "生益科技",
+        "market_value_wan": 1641.42
+      },
+      {
+        "stock_code": "600066",
+        "stock_name": "宇通客车",
+        "market_value_wan": 1601.66
+      },
+      {
+        "stock_code": "601225",
+        "stock_name": "陕西煤业",
+        "market_value_wan": 1505.48
+      },
+      {
+        "stock_code": "600900",
+        "stock_name": "长江电力",
+        "market_value_wan": 1443.11
+      },
+      {
+        "stock_code": "600188",
+        "stock_name": "兖矿能源",
+        "market_value_wan": 1093.54
+      },
+      {
+        "stock_code": "000858",
+        "stock_name": "五粮液",
+        "market_value_wan": 1055.05
+      }
+    ],
+    "2024-Q1": [
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 2038.99
+      },
+      {
+        "stock_code": "600941",
+        "stock_name": "中国移动",
+        "market_value_wan": 1708.02
+      },
+      {
+        "stock_code": "601857",
+        "stock_name": "中国石油",
+        "market_value_wan": 1681.58
+      },
+      {
+        "stock_code": "600886",
+        "stock_name": "国投电力",
+        "market_value_wan": 1625.55
+      },
+      {
+        "stock_code": "002737",
+        "stock_name": "葵花药业",
+        "market_value_wan": 1360.85
+      },
+      {
+        "stock_code": "600027",
+        "stock_name": "华电国际",
+        "market_value_wan": 1338.0
+      },
+      {
+        "stock_code": "600757",
+        "stock_name": "长江传媒",
+        "market_value_wan": 1332.98
+      },
+      {
+        "stock_code": "600900",
+        "stock_name": "长江电力",
+        "market_value_wan": 1244.01
+      },
+      {
+        "stock_code": "601088",
+        "stock_name": "中国神华",
+        "market_value_wan": 1189.9
+      },
+      {
+        "stock_code": "605599",
+        "stock_name": "菜百股份",
+        "market_value_wan": 1122.95
+      }
+    ]
+  }
+}

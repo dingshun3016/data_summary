@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "483003",
+    "name": "工银精选平衡混合",
+    "base_name": "工银精选平衡混合"
+  },
+  "fetched_at": "2026-06-15 00:01:20",
+  "quarters": {
+    "2022-Q4": [
+      {
+        "stock_code": "601601",
+        "stock_name": "中国太保",
+        "market_value_wan": 7797.36
+      },
+      {
+        "stock_code": "601390",
+        "stock_name": "中国中铁",
+        "market_value_wan": 6555.24
+      },
+      {
+        "stock_code": "600406",
+        "stock_name": "国电南瑞",
+        "market_value_wan": 5782.85
+      },
+      {
+        "stock_code": "600031",
+        "stock_name": "三一重工",
+        "market_value_wan": 5688.0
+      },
+      {
+        "stock_code": "601658",
+        "stock_name": "邮储银行",
+        "market_value_wan": 4989.6
+      },
+      {
+        "stock_code": "600941",
+        "stock_name": "中国移动",
+        "market_value_wan": 4770.76
+      },
+      {
+        "stock_code": "300251",
+        "stock_name": "光线传媒",
+        "market_value_wan": 4598.46
+      },
+      {
+        "stock_code": "601328",
+        "stock_name": "交通银行",
+        "market_value_wan": 4479.3
+      },
+      {
+        "stock_code": "600820",
+        "stock_name": "隧道股份",
+        "market_value_wan": 4221.32
+      },
+      {
+        "stock_code": "601607",
+        "stock_name": "上海医药",
+        "market_value_wan": 4011.75
+      }
+    ],
+    "2022-Q3": [
+      {
+        "stock_code": "601390",
+        "stock_name": "中国中铁",
+        "market_value_wan": 7688.1
+      },
+      {
+        "stock_code": "601601",
+        "stock_name": "中国太保",
+        "market_value_wan": 7013.85
+      },
+      {
+        "stock_code": "600406",
+        "stock_name": "国电南瑞",
+        "market_value_wan": 6267.29
+      },
+      {
+        "stock_code": "601328",
+        "stock_name": "交通银行",
+        "market_value_wan": 5682.6
+      },
+      {
+        "stock_code": "600941",
+        "stock_name": "中国移动",
+        "market_value_wan": 4817.29
+      },
+      {
+        "stock_code": "601658",
+        "stock_name": "邮储银行",
+        "market_value_wan": 4816.8
+      },
+      {
+        "stock_code": "600820",
+        "stock_name": "隧道股份",
+        "market_value_wan": 3948.97
+      },
+      {
+        "stock_code": "300251",
+        "stock_name": "光线传媒",
+        "market_value_wan": 3919.2
+      },
+      {
+        "stock_code": "001965",
+        "stock_name": "招商公路",
+        "market_value_wan": 3797.56
+      },
+      {
+        "stock_code": "600031",
+        "stock_name": "三一重工",
+        "market_value_wan": 3747.6
+      }
+    ],
+    "2022-Q2": [
+      {
+        "stock_code": "600048",
+        "stock_name": "保利发展",
+        "market_value_wan": 16585.09
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 16509.9
+      },
+      {
+        "stock_code": "002142",
+        "stock_name": "宁波银行",
+        "market_value_wan": 11113.46
+      },
+      {
+        "stock_code": "600926",
+        "stock_name": "杭州银行",
+        "market_value_wan": 8189.57
+      },
+      {
+        "stock_code": "600887",
+        "stock_name": "伊利股份",
+        "market_value_wan": 7117.72
+      },
+      {
+        "stock_code": "000776",
+        "stock_name": "广发证券",
+        "market_value_wan": 5683.08
+      },
+      {
+        "stock_code": "300059",
+        "stock_name": "东方财富",
+        "market_value_wan": 5174.37
+      },
+      {
+        "stock_code": "603486",
+        "stock_name": "科沃斯",
+        "market_value_wan": 4385.6
+      },
+      {
+        "stock_code": "000799",
+        "stock_name": "酒鬼酒",
+        "market_value_wan": 4368.41
+      },
+      {
+        "stock_code": "601668",
+        "stock_name": "中国建筑",
+        "market_value_wan": 4134.27
+      }
+    ],
+    "2022-Q1": [
+      {
+        "stock_code": "600048",
+        "stock_name": "保利发展",
+        "market_value_wan": 14419.13
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 9445.05
+      },
+      {
+        "stock_code": "002142",
+        "stock_name": "宁波银行",
+        "market_value_wan": 9319.27
+      },
+      {
+        "stock_code": "600926",
+        "stock_name": "杭州银行",
+        "market_value_wan": 7545.2
+      },
+      {
+        "stock_code": "000776",
+        "stock_name": "广发证券",
+        "market_value_wan": 6430.02
+      },
+      {
+        "stock_code": "300059",
+        "stock_name": "东方财富",
+        "market_value_wan": 5588.68
+      },
+      {
+        "stock_code": "601668",
+        "stock_name": "中国建筑",
+        "market_value_wan": 5301.21
+      },
+      {
+        "stock_code": "600887",
+        "stock_name": "伊利股份",
+        "market_value_wan": 4937.73
+      },
+      {
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "market_value_wan": 4705.04
+      },
+      {
+        "stock_code": "000799",
+        "stock_name": "酒鬼酒",
+        "market_value_wan": 3823.23
+      }
+    ]
+  }
+}

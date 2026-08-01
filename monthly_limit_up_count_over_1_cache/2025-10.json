@@ -1,0 +1,584 @@
+{
+  "cache_version": 5,
+  "month": "2025-10",
+  "query": "2025年10月涨停次数大于1，市值，行业板块，非北交，非新股，非ST，市值大于100亿，上市时间在2024年之前",
+  "fetched_at": "2026-06-15 20:08:16",
+  "records": [
+    {
+      "code": "600183",
+      "name": "生益科技",
+      "mktcap": "4,042.30亿",
+      "market_cap_yi": 4042.3,
+      "industry": "电子-元件-印制电路板",
+      "limit_up_count": 2
+    },
+    {
+      "code": "002916",
+      "name": "深南电路",
+      "mktcap": "2,723.30亿",
+      "market_cap_yi": 2723.3,
+      "industry": "电子-元件-印制电路板",
+      "limit_up_count": 2
+    },
+    {
+      "code": "603256",
+      "name": "宏和科技",
+      "mktcap": "2,068.61亿",
+      "market_cap_yi": 2068.61,
+      "industry": "电子-电子化学品-电子化学品Ⅲ",
+      "limit_up_count": 2
+    },
+    {
+      "code": "000657",
+      "name": "中钨高新",
+      "mktcap": "1,980.11亿",
+      "market_cap_yi": 1980.11,
+      "industry": "有色金属-小金属-钨",
+      "limit_up_count": 2
+    },
+    {
+      "code": "600111",
+      "name": "北方稀土",
+      "mktcap": "1,824.52亿",
+      "market_cap_yi": 1824.52,
+      "industry": "有色金属-小金属-稀土",
+      "limit_up_count": 2
+    },
+    {
+      "code": "603268",
+      "name": "松发股份",
+      "mktcap": "1,537.71亿",
+      "market_cap_yi": 1537.71,
+      "industry": "国防军工-军工装备-航海装备",
+      "limit_up_count": 2
+    },
+    {
+      "code": "001309",
+      "name": "德明利",
+      "mktcap": "1,456.03亿",
+      "market_cap_yi": 1456.03,
+      "industry": "电子-半导体-数字芯片设计",
+      "limit_up_count": 3
+    },
+    {
+      "code": "002602",
+      "name": "世纪华通",
+      "mktcap": "1,028.21亿",
+      "market_cap_yi": 1028.21,
+      "industry": "传媒-游戏-游戏Ⅲ",
+      "limit_up_count": 2
+    },
+    {
+      "code": "601231",
+      "name": "环旭电子",
+      "mktcap": "866.05亿",
+      "market_cap_yi": 866.05,
+      "industry": "电子-消费电子-消费电子零部件及组装",
+      "limit_up_count": 3
+    },
+    {
+      "code": "603228",
+      "name": "景旺电子",
+      "mktcap": "782.76亿",
+      "market_cap_yi": 782.76,
+      "industry": "电子-元件-印制电路板",
+      "limit_up_count": 2
+    },
+    {
+      "code": "600105",
+      "name": "永鼎股份",
+      "mktcap": "782.61亿",
+      "market_cap_yi": 782.61,
+      "industry": "通信-通信设备-通信线缆及配套",
+      "limit_up_count": 2
+    },
+    {
+      "code": "002636",
+      "name": "金安国纪",
+      "mktcap": "708.64亿",
+      "market_cap_yi": 708.64,
+      "industry": "电子-元件-印制电路板",
+      "limit_up_count": 2
+    },
+    {
+      "code": "001203",
+      "name": "大中矿业",
+      "mktcap": "629.02亿",
+      "market_cap_yi": 629.02,
+      "industry": "钢铁-钢铁-冶钢原料",
+      "limit_up_count": 3
+    },
+    {
+      "code": "601126",
+      "name": "四方股份",
+      "mktcap": "586.51亿",
+      "market_cap_yi": 586.51,
+      "industry": "电力设备-电网设备-电气自控设备",
+      "limit_up_count": 4
+    },
+    {
+      "code": "600601",
+      "name": "方正科技",
+      "mktcap": "574.82亿",
+      "market_cap_yi": 574.82,
+      "industry": "电子-元件-印制电路板",
+      "limit_up_count": 2
+    },
+    {
+      "code": "600021",
+      "name": "上海电力",
+      "mktcap": "494.84亿",
+      "market_cap_yi": 494.84,
+      "industry": "公用事业-电力-火电",
+      "limit_up_count": 5
+    },
+    {
+      "code": "002407",
+      "name": "多氟多",
+      "mktcap": "477.84亿",
+      "market_cap_yi": 477.84,
+      "industry": "基础化工-化学制品-氟化工",
+      "limit_up_count": 2
+    },
+    {
+      "code": "601212",
+      "name": "白银有色",
+      "mktcap": "446.51亿",
+      "market_cap_yi": 446.51,
+      "industry": "有色金属-工业金属-铜",
+      "limit_up_count": 5
+    },
+    {
+      "code": "001267",
+      "name": "汇绿生态",
+      "mktcap": "413.62亿",
+      "market_cap_yi": 413.62,
+      "industry": "通信-通信设备-通信网络设备及器件",
+      "limit_up_count": 4
+    },
+    {
+      "code": "600667",
+      "name": "太极实业",
+      "mktcap": "362.46亿",
+      "market_cap_yi": 362.46,
+      "industry": "建筑装饰-建筑装饰-工程咨询服务",
+      "limit_up_count": 2
+    },
+    {
+      "code": "601611",
+      "name": "中国核建",
+      "mktcap": "336.65亿",
+      "market_cap_yi": 336.65,
+      "industry": "建筑装饰-建筑装饰-基础建设",
+      "limit_up_count": 4
+    },
+    {
+      "code": "600871",
+      "name": "石化油服",
+      "mktcap": "336.31亿",
+      "market_cap_yi": 336.31,
+      "industry": "石油石化-油气开采及服务-油服工程",
+      "limit_up_count": 2
+    },
+    {
+      "code": "000981",
+      "name": "山子高科",
+      "mktcap": "332.92亿",
+      "market_cap_yi": 332.92,
+      "industry": "汽车-汽车零部件-底盘与发动机系统",
+      "limit_up_count": 3
+    },
+    {
+      "code": "000962",
+      "name": "东方钽业",
+      "mktcap": "322.28亿",
+      "market_cap_yi": 322.28,
+      "industry": "有色金属-小金属-其他小金属",
+      "limit_up_count": 3
+    },
+    {
+      "code": "300260",
+      "name": "新莱应材",
+      "mktcap": "307.53亿",
+      "market_cap_yi": 307.53,
+      "industry": "轻工制造-包装印刷-包装",
+      "limit_up_count": 2
+    },
+    {
+      "code": "600595",
+      "name": "中孚实业",
+      "mktcap": "269.33亿",
+      "market_cap_yi": 269.33,
+      "industry": "有色金属-工业金属-铝",
+      "limit_up_count": 2
+    },
+    {
+      "code": "600353",
+      "name": "旭光电子",
+      "mktcap": "261.57亿",
+      "market_cap_yi": 261.57,
+      "industry": "电子-其他电子-其他电子Ⅲ",
+      "limit_up_count": 2
+    },
+    {
+      "code": "603067",
+      "name": "振华股份",
+      "mktcap": "259.45亿",
+      "market_cap_yi": 259.45,
+      "industry": "基础化工-化学原料-无机盐",
+      "limit_up_count": 3
+    },
+    {
+      "code": "002430",
+      "name": "杭氧股份",
+      "mktcap": "257.80亿",
+      "market_cap_yi": 257.8,
+      "industry": "基础化工-化学制品-其他化学制品",
+      "limit_up_count": 2
+    },
+    {
+      "code": "000969",
+      "name": "安泰科技",
+      "mktcap": "256.12亿",
+      "market_cap_yi": 256.12,
+      "industry": "有色金属-金属新材料-其他金属新材料",
+      "limit_up_count": 6
+    },
+    {
+      "code": "603516",
+      "name": "淳中科技",
+      "mktcap": "248.80亿",
+      "market_cap_yi": 248.8,
+      "industry": "计算机-计算机设备-其他计算机设备",
+      "limit_up_count": 2
+    },
+    {
+      "code": "601069",
+      "name": "西部黄金",
+      "mktcap": "248.70亿",
+      "market_cap_yi": 248.7,
+      "industry": "有色金属-贵金属-贵金属Ⅲ",
+      "limit_up_count": 2
+    },
+    {
+      "code": "600516",
+      "name": "方大炭素",
+      "mktcap": "241.56亿",
+      "market_cap_yi": 241.56,
+      "industry": "钢铁-钢铁-冶钢原料",
+      "limit_up_count": 2
+    },
+    {
+      "code": "601608",
+      "name": "中信重工",
+      "mktcap": "241.34亿",
+      "market_cap_yi": 241.34,
+      "industry": "机械设备-专用设备-能源及重型设备",
+      "limit_up_count": 4
+    },
+    {
+      "code": "601606",
+      "name": "长城军工",
+      "mktcap": "233.56亿",
+      "market_cap_yi": 233.56,
+      "industry": "国防军工-军工装备-地面兵装",
+      "limit_up_count": 3
+    },
+    {
+      "code": "603301",
+      "name": "振德医疗",
+      "mktcap": "226.67亿",
+      "market_cap_yi": 226.67,
+      "industry": "医药生物-医疗器械-医疗耗材",
+      "limit_up_count": 2
+    },
+    {
+      "code": "002171",
+      "name": "楚江新材",
+      "mktcap": "223.48亿",
+      "market_cap_yi": 223.48,
+      "industry": "有色金属-工业金属-铜",
+      "limit_up_count": 2
+    },
+    {
+      "code": "603938",
+      "name": "三孚股份",
+      "mktcap": "209.53亿",
+      "market_cap_yi": 209.53,
+      "industry": "基础化工-化学原料-其他化学原料",
+      "limit_up_count": 4
+    },
+    {
+      "code": "001287",
+      "name": "中电港",
+      "mktcap": "200.69亿",
+      "market_cap_yi": 200.69,
+      "industry": "电子-其他电子-其他电子Ⅲ",
+      "limit_up_count": 2
+    },
+    {
+      "code": "603026",
+      "name": "石大胜华",
+      "mktcap": "199.19亿",
+      "market_cap_yi": 199.19,
+      "industry": "电力设备-电池-电池化学品",
+      "limit_up_count": 2
+    },
+    {
+      "code": "600179",
+      "name": "安通控股",
+      "mktcap": "195.50亿",
+      "market_cap_yi": 195.5,
+      "industry": "交通运输-港口航运-航运",
+      "limit_up_count": 2
+    },
+    {
+      "code": "003036",
+      "name": "泰坦股份",
+      "mktcap": "195.48亿",
+      "market_cap_yi": 195.48,
+      "industry": "机械设备-专用设备-纺织服装设备",
+      "limit_up_count": 2
+    },
+    {
+      "code": "601326",
+      "name": "秦港股份",
+      "mktcap": "182.87亿",
+      "market_cap_yi": 182.87,
+      "industry": "交通运输-港口航运-港口",
+      "limit_up_count": 2
+    },
+    {
+      "code": "600172",
+      "name": "黄河旋风",
+      "mktcap": "179.12亿",
+      "market_cap_yi": 179.12,
+      "industry": "机械设备-通用设备-磨具磨料",
+      "limit_up_count": 4
+    },
+    {
+      "code": "000620",
+      "name": "盈新发展",
+      "mktcap": "174.39亿",
+      "market_cap_yi": 174.39,
+      "industry": "房地产-房地产-住宅开发",
+      "limit_up_count": 7
+    },
+    {
+      "code": "603011",
+      "name": "合锻智能",
+      "mktcap": "169.19亿",
+      "market_cap_yi": 169.19,
+      "industry": "机械设备-专用设备-其他专用设备",
+      "limit_up_count": 3
+    },
+    {
+      "code": "605318",
+      "name": "法狮龙",
+      "mktcap": "168.73亿",
+      "market_cap_yi": 168.73,
+      "industry": "建筑材料-建筑材料-其他建材",
+      "limit_up_count": 4
+    },
+    {
+      "code": "301292",
+      "name": "海科新源",
+      "mktcap": "163.98亿",
+      "market_cap_yi": 163.98,
+      "industry": "电力设备-电池-电池化学品",
+      "limit_up_count": 2
+    },
+    {
+      "code": "002320",
+      "name": "海峡股份",
+      "mktcap": "158.29亿",
+      "market_cap_yi": 158.29,
+      "industry": "交通运输-港口航运-航运",
+      "limit_up_count": 2
+    },
+    {
+      "code": "600629",
+      "name": "华建集团",
+      "mktcap": "157.81亿",
+      "market_cap_yi": 157.81,
+      "industry": "建筑装饰-建筑装饰-工程咨询服务",
+      "limit_up_count": 3
+    },
+    {
+      "code": "600403",
+      "name": "大有能源",
+      "mktcap": "156.12亿",
+      "market_cap_yi": 156.12,
+      "industry": "煤炭-煤炭开采加工-煤炭开采",
+      "limit_up_count": 9
+    },
+    {
+      "code": "000592",
+      "name": "平潭发展",
+      "mktcap": "147.01亿",
+      "market_cap_yi": 147.01,
+      "industry": "农林牧渔-种植业与林业-林业",
+      "limit_up_count": 8
+    },
+    {
+      "code": "002181",
+      "name": "粤传媒",
+      "mktcap": "142.81亿",
+      "market_cap_yi": 142.81,
+      "industry": "传媒-文化传媒-出版",
+      "limit_up_count": 2
+    },
+    {
+      "code": "603162",
+      "name": "海通发展",
+      "mktcap": "141.44亿",
+      "market_cap_yi": 141.44,
+      "industry": "交通运输-港口航运-航运",
+      "limit_up_count": 3
+    },
+    {
+      "code": "000905",
+      "name": "厦门港务",
+      "mktcap": "136.65亿",
+      "market_cap_yi": 136.65,
+      "industry": "交通运输-港口航运-港口",
+      "limit_up_count": 2
+    },
+    {
+      "code": "002759",
+      "name": "天际股份",
+      "mktcap": "134.27亿",
+      "market_cap_yi": 134.27,
+      "industry": "电力设备-电池-电池化学品",
+      "limit_up_count": 4
+    },
+    {
+      "code": "002208",
+      "name": "合肥城建",
+      "mktcap": "132.14亿",
+      "market_cap_yi": 132.14,
+      "industry": "房地产-房地产-住宅开发",
+      "limit_up_count": 6
+    },
+    {
+      "code": "600635",
+      "name": "大众公用",
+      "mktcap": "129.91亿",
+      "market_cap_yi": 129.91,
+      "industry": "公用事业-燃气-燃气Ⅲ",
+      "limit_up_count": 4
+    },
+    {
+      "code": "600268",
+      "name": "国电南自",
+      "mktcap": "129.02亿",
+      "market_cap_yi": 129.02,
+      "industry": "电力设备-电网设备-电气自控设备",
+      "limit_up_count": 3
+    },
+    {
+      "code": "603185",
+      "name": "弘元绿能",
+      "mktcap": "126.03亿",
+      "market_cap_yi": 126.03,
+      "industry": "电力设备-光伏设备-硅料硅片",
+      "limit_up_count": 2
+    },
+    {
+      "code": "002549",
+      "name": "凯美特气",
+      "mktcap": "119.67亿",
+      "market_cap_yi": 119.67,
+      "industry": "环保-环境治理-大气治理",
+      "limit_up_count": 2
+    },
+    {
+      "code": "600162",
+      "name": "香江控股",
+      "mktcap": "118.97亿",
+      "market_cap_yi": 118.97,
+      "industry": "商贸零售-零售-商业物业经营",
+      "limit_up_count": 2
+    },
+    {
+      "code": "603778",
+      "name": "国晟科技",
+      "mktcap": "117.62亿",
+      "market_cap_yi": 117.62,
+      "industry": "电力设备-光伏设备-光伏电池组件",
+      "limit_up_count": 2
+    },
+    {
+      "code": "603556",
+      "name": "海兴电力",
+      "mktcap": "116.85亿",
+      "market_cap_yi": 116.85,
+      "industry": "电力设备-电网设备-电气自控设备",
+      "limit_up_count": 2
+    },
+    {
+      "code": "301323",
+      "name": "新莱福",
+      "mktcap": "114.88亿",
+      "market_cap_yi": 114.88,
+      "industry": "有色金属-金属新材料-磁性材料",
+      "limit_up_count": 2
+    },
+    {
+      "code": "000908",
+      "name": "景峰医药",
+      "mktcap": "113.49亿",
+      "market_cap_yi": 113.49,
+      "industry": "医药生物-化学制药-化学制剂",
+      "limit_up_count": 5
+    },
+    {
+      "code": "000555",
+      "name": "神州信息",
+      "mktcap": "110.95亿",
+      "market_cap_yi": 110.95,
+      "industry": "计算机-IT服务-IT服务Ⅲ",
+      "limit_up_count": 3
+    },
+    {
+      "code": "000599",
+      "name": "青岛双星",
+      "mktcap": "110.28亿",
+      "market_cap_yi": 110.28,
+      "industry": "汽车-汽车零部件-轮胎轮毂",
+      "limit_up_count": 3
+    },
+    {
+      "code": "002885",
+      "name": "京泉华",
+      "mktcap": "106.61亿",
+      "market_cap_yi": 106.61,
+      "industry": "电子-其他电子-其他电子Ⅲ",
+      "limit_up_count": 3
+    },
+    {
+      "code": "000006",
+      "name": "深振业A",
+      "mktcap": "106.38亿",
+      "market_cap_yi": 106.38,
+      "industry": "房地产-房地产-住宅开发",
+      "limit_up_count": 3
+    },
+    {
+      "code": "603690",
+      "name": "至纯科技",
+      "mktcap": "105.35亿",
+      "market_cap_yi": 105.35,
+      "industry": "电子-半导体-半导体设备",
+      "limit_up_count": 2
+    },
+    {
+      "code": "002796",
+      "name": "世嘉科技",
+      "mktcap": "105.06亿",
+      "market_cap_yi": 105.06,
+      "industry": "通信-通信设备-通信网络设备及器件",
+      "limit_up_count": 2
+    }
+  ]
+}

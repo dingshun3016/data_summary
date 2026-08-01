@@ -1,0 +1,80 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "009501",
+    "name": "国寿安保高股息混合C",
+    "base_name": "国寿安保高股息混合"
+  },
+  "fetched_at": "2026-08-01 20:58:29",
+  "quarters": {
+    "2026-Q2": [
+      {
+        "stock_code": "000807",
+        "stock_name": "云铝股份",
+        "market_value_wan": 813.65
+      },
+      {
+        "stock_code": "601168",
+        "stock_name": "西部矿业",
+        "market_value_wan": 590.3
+      },
+      {
+        "stock_code": "000408",
+        "stock_name": "藏格矿业",
+        "market_value_wan": 544.16
+      },
+      {
+        "stock_code": "000933",
+        "stock_name": "神火股份",
+        "market_value_wan": 514.1
+      },
+      {
+        "stock_code": "600595",
+        "stock_name": "中孚实业",
+        "market_value_wan": 469.27
+      },
+      {
+        "stock_code": "600489",
+        "stock_name": "中金黄金",
+        "market_value_wan": 451.25
+      }
+    ],
+    "2026-Q1": [
+      {
+        "stock_code": "000807",
+        "stock_name": "云铝股份",
+        "market_value_wan": 858.7
+      },
+      {
+        "stock_code": "002532",
+        "stock_name": "天山铝业",
+        "market_value_wan": 800.55
+      },
+      {
+        "stock_code": "000933",
+        "stock_name": "神火股份",
+        "market_value_wan": 746.9
+      },
+      {
+        "stock_code": "601009",
+        "stock_name": "南京银行",
+        "market_value_wan": 615.06
+      },
+      {
+        "stock_code": "000425",
+        "stock_name": "徐工机械",
+        "market_value_wan": 604.8
+      },
+      {
+        "stock_code": "002128",
+        "stock_name": "电投能源",
+        "market_value_wan": 601.4
+      },
+      {
+        "stock_code": "600919",
+        "stock_name": "江苏银行",
+        "market_value_wan": 600.6
+      }
+    ]
+  }
+}

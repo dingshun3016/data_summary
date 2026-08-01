@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "006780",
+    "name": "广发稳健策略混合A",
+    "base_name": "广发稳健策略混合"
+  },
+  "fetched_at": "2026-06-14 23:22:50",
+  "quarters": {
+    "2020-Q4": [
+      {
+        "stock_code": "600031",
+        "stock_name": "三一重工",
+        "market_value_wan": 1655.74
+      },
+      {
+        "stock_code": "002027",
+        "stock_name": "分众传媒",
+        "market_value_wan": 1517.91
+      },
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 1390.96
+      },
+      {
+        "stock_code": "002415",
+        "stock_name": "海康威视",
+        "market_value_wan": 1367.01
+      },
+      {
+        "stock_code": "601888",
+        "stock_name": "中国中免",
+        "market_value_wan": 1047.89
+      },
+      {
+        "stock_code": "000858",
+        "stock_name": "五粮液",
+        "market_value_wan": 989.37
+      },
+      {
+        "stock_code": "002557",
+        "stock_name": "洽洽食品",
+        "market_value_wan": 866.35
+      },
+      {
+        "stock_code": "600438",
+        "stock_name": "通威股份",
+        "market_value_wan": 851.45
+      },
+      {
+        "stock_code": "002555",
+        "stock_name": "三七互娱",
+        "market_value_wan": 829.16
+      },
+      {
+        "stock_code": "000895",
+        "stock_name": "双汇发展",
+        "market_value_wan": 766.15
+      }
+    ],
+    "2020-Q3": [
+      {
+        "stock_code": "002027",
+        "stock_name": "分众传媒",
+        "market_value_wan": 1325.09
+      },
+      {
+        "stock_code": "000895",
+        "stock_name": "双汇发展",
+        "market_value_wan": 1307.47
+      },
+      {
+        "stock_code": "002415",
+        "stock_name": "海康威视",
+        "market_value_wan": 1236.67
+      },
+      {
+        "stock_code": "600031",
+        "stock_name": "三一重工",
+        "market_value_wan": 1178.14
+      },
+      {
+        "stock_code": "002555",
+        "stock_name": "三七互娱",
+        "market_value_wan": 1053.77
+      },
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 1025.84
+      },
+      {
+        "stock_code": "002557",
+        "stock_name": "洽洽食品",
+        "market_value_wan": 933.12
+      },
+      {
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "market_value_wan": 776.33
+      },
+      {
+        "stock_code": "002597",
+        "stock_name": "金禾实业",
+        "market_value_wan": 760.48
+      },
+      {
+        "stock_code": "000858",
+        "stock_name": "五粮液",
+        "market_value_wan": 749.19
+      }
+    ],
+    "2020-Q2": [
+      {
+        "stock_code": "000895",
+        "stock_name": "双汇发展",
+        "market_value_wan": 1317.34
+      },
+      {
+        "stock_code": "002555",
+        "stock_name": "三七互娱",
+        "market_value_wan": 1302.91
+      },
+      {
+        "stock_code": "002697",
+        "stock_name": "红旗连锁",
+        "market_value_wan": 1139.26
+      },
+      {
+        "stock_code": "002557",
+        "stock_name": "洽洽食品",
+        "market_value_wan": 1095.08
+      },
+      {
+        "stock_code": "002415",
+        "stock_name": "海康威视",
+        "market_value_wan": 1032.81
+      },
+      {
+        "stock_code": "600031",
+        "stock_name": "三一重工",
+        "market_value_wan": 887.98
+      },
+      {
+        "stock_code": "002597",
+        "stock_name": "金禾实业",
+        "market_value_wan": 822.33
+      },
+      {
+        "stock_code": "000951",
+        "stock_name": "中国重汽",
+        "market_value_wan": 780.35
+      },
+      {
+        "stock_code": "002027",
+        "stock_name": "分众传媒",
+        "market_value_wan": 650.97
+      },
+      {
+        "stock_code": "000651",
+        "stock_name": "格力电器",
+        "market_value_wan": 618.88
+      }
+    ],
+    "2020-Q1": [
+      {
+        "stock_code": "002555",
+        "stock_name": "三七互娱",
+        "market_value_wan": 1455.0
+      },
+      {
+        "stock_code": "600031",
+        "stock_name": "三一重工",
+        "market_value_wan": 1329.4
+      },
+      {
+        "stock_code": "000895",
+        "stock_name": "双汇发展",
+        "market_value_wan": 1238.81
+      },
+      {
+        "stock_code": "002415",
+        "stock_name": "海康威视",
+        "market_value_wan": 1201.1
+      },
+      {
+        "stock_code": "002697",
+        "stock_name": "红旗连锁",
+        "market_value_wan": 1120.0
+      },
+      {
+        "stock_code": "002597",
+        "stock_name": "金禾实业",
+        "market_value_wan": 1108.75
+      },
+      {
+        "stock_code": "002557",
+        "stock_name": "洽洽食品",
+        "market_value_wan": 968.88
+      },
+      {
+        "stock_code": "000951",
+        "stock_name": "中国重汽",
+        "market_value_wan": 699.62
+      },
+      {
+        "stock_code": "002202",
+        "stock_name": "金风科技",
+        "market_value_wan": 635.17
+      },
+      {
+        "stock_code": "002027",
+        "stock_name": "分众传媒",
+        "market_value_wan": 555.37
+      }
+    ]
+  }
+}

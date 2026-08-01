@@ -1,0 +1,75 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "163417",
+    "name": "兴全合宜混合(LOF)A",
+    "base_name": "兴全合宜混合(LOF)"
+  },
+  "fetched_at": "2026-08-01 21:00:29",
+  "quarters": {
+    "2026-Q2": [
+      {
+        "stock_code": "300308",
+        "stock_name": "中际旭创",
+        "market_value_wan": 96630.62
+      },
+      {
+        "stock_code": "600160",
+        "stock_name": "巨化股份",
+        "market_value_wan": 91301.99
+      },
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 66614.68
+      },
+      {
+        "stock_code": "688099",
+        "stock_name": "晶晨股份",
+        "market_value_wan": 55947.1
+      },
+      {
+        "stock_code": "688120",
+        "stock_name": "华海清科",
+        "market_value_wan": 43738.71
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 39510.37
+      }
+    ],
+    "2026-Q1": [
+      {
+        "stock_code": "600160",
+        "stock_name": "巨化股份",
+        "market_value_wan": 91449.59
+      },
+      {
+        "stock_code": "688099",
+        "stock_name": "晶晨股份",
+        "market_value_wan": 62648.7
+      },
+      {
+        "stock_code": "300308",
+        "stock_name": "中际旭创",
+        "market_value_wan": 55798.25
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 50746.44
+      },
+      {
+        "stock_code": "688120",
+        "stock_name": "华海清科",
+        "market_value_wan": 49625.48
+      },
+      {
+        "stock_code": "605117",
+        "stock_name": "德业股份",
+        "market_value_wan": 42032.88
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "010696",
+    "name": "工银金融地产混合C",
+    "base_name": "工银金融地产混合"
+  },
+  "fetched_at": "2026-06-14 23:42:07",
+  "quarters": {
+    "2025-Q4": [
+      {
+        "stock_code": "601601",
+        "stock_name": "中国太保",
+        "market_value_wan": 12573.0
+      },
+      {
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "market_value_wan": 12312.0
+      },
+      {
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "market_value_wan": 12209.0
+      },
+      {
+        "stock_code": "002142",
+        "stock_name": "宁波银行",
+        "market_value_wan": 10674.2
+      },
+      {
+        "stock_code": "600919",
+        "stock_name": "江苏银行",
+        "market_value_wan": 10400.0
+      },
+      {
+        "stock_code": "600030",
+        "stock_name": "中信证券",
+        "market_value_wan": 8613.0
+      },
+      {
+        "stock_code": "600926",
+        "stock_name": "杭州银行",
+        "market_value_wan": 7701.12
+      },
+      {
+        "stock_code": "601825",
+        "stock_name": "沪农商行",
+        "market_value_wan": 4645.0
+      },
+      {
+        "stock_code": "601336",
+        "stock_name": "新华保险",
+        "market_value_wan": 3833.5
+      },
+      {
+        "stock_code": "601688",
+        "stock_name": "华泰证券",
+        "market_value_wan": 3774.4
+      }
+    ],
+    "2025-Q3": [
+      {
+        "stock_code": "600919",
+        "stock_name": "江苏银行",
+        "market_value_wan": 11033.0
+      },
+      {
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "market_value_wan": 10910.7
+      },
+      {
+        "stock_code": "601838",
+        "stock_name": "成都银行",
+        "market_value_wan": 10695.0
+      },
+      {
+        "stock_code": "600926",
+        "stock_name": "杭州银行",
+        "market_value_wan": 10689.0
+      },
+      {
+        "stock_code": "601601",
+        "stock_name": "中国太保",
+        "market_value_wan": 10536.0
+      },
+      {
+        "stock_code": "600030",
+        "stock_name": "中信证券",
+        "market_value_wan": 8970.0
+      },
+      {
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "market_value_wan": 6613.2
+      },
+      {
+        "stock_code": "002142",
+        "stock_name": "宁波银行",
+        "market_value_wan": 6078.9
+      },
+      {
+        "stock_code": "601825",
+        "stock_name": "沪农商行",
+        "market_value_wan": 4090.0
+      },
+      {
+        "stock_code": "001979",
+        "stock_name": "招商蛇口",
+        "market_value_wan": 3559.5
+      }
+    ],
+    "2025-Q2": [
+      {
+        "stock_code": "601838",
+        "stock_name": "成都银行",
+        "market_value_wan": 17286.0
+      },
+      {
+        "stock_code": "600926",
+        "stock_name": "杭州银行",
+        "market_value_wan": 17137.56
+      },
+      {
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "market_value_wan": 17001.5
+      },
+      {
+        "stock_code": "601601",
+        "stock_name": "中国太保",
+        "market_value_wan": 16879.5
+      },
+      {
+        "stock_code": "600919",
+        "stock_name": "江苏银行",
+        "market_value_wan": 16596.6
+      },
+      {
+        "stock_code": "600030",
+        "stock_name": "中信证券",
+        "market_value_wan": 11876.6
+      },
+      {
+        "stock_code": "601825",
+        "stock_name": "沪农商行",
+        "market_value_wan": 11155.0
+      },
+      {
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "market_value_wan": 6657.6
+      },
+      {
+        "stock_code": "002142",
+        "stock_name": "宁波银行",
+        "market_value_wan": 6292.8
+      },
+      {
+        "stock_code": "001979",
+        "stock_name": "招商蛇口",
+        "market_value_wan": 4385.0
+      }
+    ],
+    "2025-Q1": [
+      {
+        "stock_code": "601838",
+        "stock_name": "成都银行",
+        "market_value_wan": 17705.7
+      },
+      {
+        "stock_code": "600919",
+        "stock_name": "江苏银行",
+        "market_value_wan": 17670.0
+      },
+      {
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "market_value_wan": 17316.0
+      },
+      {
+        "stock_code": "600926",
+        "stock_name": "杭州银行",
+        "market_value_wan": 16156.63
+      },
+      {
+        "stock_code": "601825",
+        "stock_name": "沪农商行",
+        "market_value_wan": 12510.0
+      },
+      {
+        "stock_code": "601601",
+        "stock_name": "中国太保",
+        "market_value_wan": 12220.8
+      },
+      {
+        "stock_code": "600030",
+        "stock_name": "中信证券",
+        "market_value_wan": 11934.0
+      },
+      {
+        "stock_code": "001979",
+        "stock_name": "招商蛇口",
+        "market_value_wan": 9170.0
+      },
+      {
+        "stock_code": "600048",
+        "stock_name": "保利发展",
+        "market_value_wan": 9086.0
+      },
+      {
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "market_value_wan": 6195.6
+      }
+    ]
+  }
+}

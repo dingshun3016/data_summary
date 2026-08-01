@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "160921",
+    "name": "大成多策略混合(LOF)A",
+    "base_name": "大成多策略混合(LOF)"
+  },
+  "fetched_at": "2026-06-14 23:52:12",
+  "quarters": {
+    "2022-Q4": [
+      {
+        "stock_code": "605507",
+        "stock_name": "国邦医药",
+        "market_value_wan": 12029.03
+      },
+      {
+        "stock_code": "600276",
+        "stock_name": "恒瑞医药",
+        "market_value_wan": 11296.15
+      },
+      {
+        "stock_code": "688278",
+        "stock_name": "特宝生物",
+        "market_value_wan": 10957.56
+      },
+      {
+        "stock_code": "300760",
+        "stock_name": "迈瑞医疗",
+        "market_value_wan": 9163.13
+      },
+      {
+        "stock_code": "300633",
+        "stock_name": "开立医疗",
+        "market_value_wan": 7201.92
+      },
+      {
+        "stock_code": "300452",
+        "stock_name": "山河药辅",
+        "market_value_wan": 6948.43
+      },
+      {
+        "stock_code": "002950",
+        "stock_name": "奥美医疗",
+        "market_value_wan": 6556.32
+      },
+      {
+        "stock_code": "605088",
+        "stock_name": "冠盛股份",
+        "market_value_wan": 5266.87
+      },
+      {
+        "stock_code": "301122",
+        "stock_name": "采纳股份",
+        "market_value_wan": 5180.2
+      },
+      {
+        "stock_code": "688329",
+        "stock_name": "艾隆科技",
+        "market_value_wan": 4771.3
+      }
+    ],
+    "2022-Q3": [
+      {
+        "stock_code": "605507",
+        "stock_name": "国邦医药",
+        "market_value_wan": 3256.04
+      },
+      {
+        "stock_code": "688278",
+        "stock_name": "特宝生物",
+        "market_value_wan": 3206.77
+      },
+      {
+        "stock_code": "301122",
+        "stock_name": "采纳股份",
+        "market_value_wan": 2613.5
+      },
+      {
+        "stock_code": "600276",
+        "stock_name": "恒瑞医药",
+        "market_value_wan": 2349.24
+      },
+      {
+        "stock_code": "688329",
+        "stock_name": "艾隆科技",
+        "market_value_wan": 2287.0
+      },
+      {
+        "stock_code": "002950",
+        "stock_name": "奥美医疗",
+        "market_value_wan": 2227.73
+      },
+      {
+        "stock_code": "300633",
+        "stock_name": "开立医疗",
+        "market_value_wan": 2073.34
+      },
+      {
+        "stock_code": "300452",
+        "stock_name": "山河药辅",
+        "market_value_wan": 1505.77
+      },
+      {
+        "stock_code": "603529",
+        "stock_name": "爱玛科技",
+        "market_value_wan": 1477.62
+      },
+      {
+        "stock_code": "300760",
+        "stock_name": "迈瑞医疗",
+        "market_value_wan": 1408.29
+      }
+    ],
+    "2022-Q2": [
+      {
+        "stock_code": "603529",
+        "stock_name": "爱玛科技",
+        "market_value_wan": 901.15
+      },
+      {
+        "stock_code": "301122",
+        "stock_name": "采纳股份",
+        "market_value_wan": 831.7
+      },
+      {
+        "stock_code": "688278",
+        "stock_name": "特宝生物",
+        "market_value_wan": 785.89
+      },
+      {
+        "stock_code": "002950",
+        "stock_name": "奥美医疗",
+        "market_value_wan": 730.7
+      },
+      {
+        "stock_code": "688329",
+        "stock_name": "艾隆科技",
+        "market_value_wan": 729.7
+      },
+      {
+        "stock_code": "300401",
+        "stock_name": "花园生物",
+        "market_value_wan": 706.78
+      },
+      {
+        "stock_code": "300760",
+        "stock_name": "迈瑞医疗",
+        "market_value_wan": 667.12
+      },
+      {
+        "stock_code": "002801",
+        "stock_name": "微光股份",
+        "market_value_wan": 593.69
+      },
+      {
+        "stock_code": "300181",
+        "stock_name": "佐力药业",
+        "market_value_wan": 472.35
+      },
+      {
+        "stock_code": "600276",
+        "stock_name": "恒瑞医药",
+        "market_value_wan": 460.29
+      }
+    ],
+    "2022-Q1": [
+      {
+        "stock_code": "300760",
+        "stock_name": "迈瑞医疗",
+        "market_value_wan": 814.21
+      },
+      {
+        "stock_code": "603529",
+        "stock_name": "爱玛科技",
+        "market_value_wan": 768.45
+      },
+      {
+        "stock_code": "603112",
+        "stock_name": "华翔股份",
+        "market_value_wan": 696.62
+      },
+      {
+        "stock_code": "301122",
+        "stock_name": "采纳股份",
+        "market_value_wan": 693.31
+      },
+      {
+        "stock_code": "603987",
+        "stock_name": "康德莱",
+        "market_value_wan": 532.57
+      },
+      {
+        "stock_code": "688278",
+        "stock_name": "特宝生物",
+        "market_value_wan": 454.59
+      },
+      {
+        "stock_code": "603259",
+        "stock_name": "药明康德",
+        "market_value_wan": 448.4
+      },
+      {
+        "stock_code": "301080",
+        "stock_name": "百普赛斯",
+        "market_value_wan": 440.16
+      },
+      {
+        "stock_code": "300181",
+        "stock_name": "佐力药业",
+        "market_value_wan": 438.1
+      },
+      {
+        "stock_code": "600587",
+        "stock_name": "新华医疗",
+        "market_value_wan": 426.24
+      }
+    ]
+  }
+}

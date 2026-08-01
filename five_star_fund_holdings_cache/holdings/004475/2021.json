@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "004475",
+    "name": "华泰柏瑞富利混合A",
+    "base_name": "华泰柏瑞富利混合"
+  },
+  "fetched_at": "2026-06-14 22:11:13",
+  "quarters": {
+    "2021-Q4": [
+      {
+        "stock_code": "000975",
+        "stock_name": "山金国际",
+        "market_value_wan": 4275.19
+      },
+      {
+        "stock_code": "600547",
+        "stock_name": "山东黄金",
+        "market_value_wan": 3646.11
+      },
+      {
+        "stock_code": "600048",
+        "stock_name": "保利发展",
+        "market_value_wan": 1756.66
+      },
+      {
+        "stock_code": "600030",
+        "stock_name": "中信证券",
+        "market_value_wan": 1712.95
+      },
+      {
+        "stock_code": "601872",
+        "stock_name": "招商轮船",
+        "market_value_wan": 1628.81
+      },
+      {
+        "stock_code": "600150",
+        "stock_name": "中国船舶",
+        "market_value_wan": 1566.23
+      },
+      {
+        "stock_code": "603916",
+        "stock_name": "苏博特",
+        "market_value_wan": 1528.59
+      },
+      {
+        "stock_code": "600029",
+        "stock_name": "南方航空",
+        "market_value_wan": 1315.79
+      },
+      {
+        "stock_code": "601111",
+        "stock_name": "中国国航",
+        "market_value_wan": 1285.78
+      },
+      {
+        "stock_code": "002353",
+        "stock_name": "杰瑞股份",
+        "market_value_wan": 1265.6
+      }
+    ],
+    "2021-Q3": [
+      {
+        "stock_code": "600547",
+        "stock_name": "山东黄金",
+        "market_value_wan": 1462.51
+      },
+      {
+        "stock_code": "600489",
+        "stock_name": "中金黄金",
+        "market_value_wan": 1442.99
+      },
+      {
+        "stock_code": "000975",
+        "stock_name": "山金国际",
+        "market_value_wan": 1437.97
+      },
+      {
+        "stock_code": "002353",
+        "stock_name": "杰瑞股份",
+        "market_value_wan": 997.45
+      },
+      {
+        "stock_code": "600048",
+        "stock_name": "保利发展",
+        "market_value_wan": 691.4
+      },
+      {
+        "stock_code": "600406",
+        "stock_name": "国电南瑞",
+        "market_value_wan": 558.76
+      },
+      {
+        "stock_code": "002003",
+        "stock_name": "伟星股份",
+        "market_value_wan": 547.3
+      },
+      {
+        "stock_code": "603916",
+        "stock_name": "苏博特",
+        "market_value_wan": 468.21
+      },
+      {
+        "stock_code": "600150",
+        "stock_name": "中国船舶",
+        "market_value_wan": 461.84
+      },
+      {
+        "stock_code": "002179",
+        "stock_name": "中航光电",
+        "market_value_wan": 435.63
+      }
+    ],
+    "2021-Q2": [
+      {
+        "stock_code": "600489",
+        "stock_name": "中金黄金",
+        "market_value_wan": 612.97
+      },
+      {
+        "stock_code": "000975",
+        "stock_name": "山金国际",
+        "market_value_wan": 611.26
+      },
+      {
+        "stock_code": "002155",
+        "stock_name": "湖南黄金",
+        "market_value_wan": 553.66
+      },
+      {
+        "stock_code": "600547",
+        "stock_name": "山东黄金",
+        "market_value_wan": 500.1
+      },
+      {
+        "stock_code": "603565",
+        "stock_name": "中谷物流",
+        "market_value_wan": 402.23
+      },
+      {
+        "stock_code": "002371",
+        "stock_name": "北方华创",
+        "market_value_wan": 274.61
+      },
+      {
+        "stock_code": "002353",
+        "stock_name": "杰瑞股份",
+        "market_value_wan": 266.41
+      },
+      {
+        "stock_code": "002614",
+        "stock_name": "奥佳华",
+        "market_value_wan": 252.1
+      },
+      {
+        "stock_code": "601717",
+        "stock_name": "郑煤机",
+        "market_value_wan": 236.32
+      },
+      {
+        "stock_code": "601899",
+        "stock_name": "紫金矿业",
+        "market_value_wan": 178.1
+      }
+    ],
+    "2021-Q1": [
+      {
+        "stock_code": "600988",
+        "stock_name": "赤峰黄金",
+        "market_value_wan": 620.88
+      },
+      {
+        "stock_code": "000975",
+        "stock_name": "山金国际",
+        "market_value_wan": 599.16
+      },
+      {
+        "stock_code": "600547",
+        "stock_name": "山东黄金",
+        "market_value_wan": 591.57
+      },
+      {
+        "stock_code": "600489",
+        "stock_name": "中金黄金",
+        "market_value_wan": 479.88
+      },
+      {
+        "stock_code": "002155",
+        "stock_name": "湖南黄金",
+        "market_value_wan": 468.27
+      },
+      {
+        "stock_code": "601899",
+        "stock_name": "紫金矿业",
+        "market_value_wan": 300.34
+      },
+      {
+        "stock_code": "002262",
+        "stock_name": "恩华药业",
+        "market_value_wan": 210.44
+      },
+      {
+        "stock_code": "603308",
+        "stock_name": "应流股份",
+        "market_value_wan": 200.63
+      },
+      {
+        "stock_code": "600323",
+        "stock_name": "瀚蓝环境",
+        "market_value_wan": 191.56
+      },
+      {
+        "stock_code": "002179",
+        "stock_name": "中航光电",
+        "market_value_wan": 137.9
+      }
+    ]
+  }
+}

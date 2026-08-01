@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "002335",
+    "name": "汇丰晋信大盘波动股票C",
+    "base_name": "汇丰晋信大盘波动股票"
+  },
+  "fetched_at": "2026-06-14 23:05:53",
+  "quarters": {
+    "2023-Q4": [
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 34.52
+      },
+      {
+        "stock_code": "002241",
+        "stock_name": "歌尔股份",
+        "market_value_wan": 24.58
+      },
+      {
+        "stock_code": "601229",
+        "stock_name": "上海银行",
+        "market_value_wan": 24.24
+      },
+      {
+        "stock_code": "300498",
+        "stock_name": "温氏股份",
+        "market_value_wan": 24.07
+      },
+      {
+        "stock_code": "600219",
+        "stock_name": "南山铝业",
+        "market_value_wan": 24.02
+      },
+      {
+        "stock_code": "600104",
+        "stock_name": "上汽集团",
+        "market_value_wan": 23.95
+      },
+      {
+        "stock_code": "601138",
+        "stock_name": "工业富联",
+        "market_value_wan": 23.74
+      },
+      {
+        "stock_code": "002202",
+        "stock_name": "金风科技",
+        "market_value_wan": 23.44
+      },
+      {
+        "stock_code": "600000",
+        "stock_name": "浦发银行",
+        "market_value_wan": 23.24
+      },
+      {
+        "stock_code": "002938",
+        "stock_name": "鹏鼎控股",
+        "market_value_wan": 22.1
+      }
+    ],
+    "2023-Q3": [
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 35.97
+      },
+      {
+        "stock_code": "600039",
+        "stock_name": "四川路桥",
+        "market_value_wan": 31.82
+      },
+      {
+        "stock_code": "600887",
+        "stock_name": "伊利股份",
+        "market_value_wan": 28.39
+      },
+      {
+        "stock_code": "601398",
+        "stock_name": "工商银行",
+        "market_value_wan": 28.13
+      },
+      {
+        "stock_code": "600018",
+        "stock_name": "上港集团",
+        "market_value_wan": 27.91
+      },
+      {
+        "stock_code": "601169",
+        "stock_name": "北京银行",
+        "market_value_wan": 27.78
+      },
+      {
+        "stock_code": "600104",
+        "stock_name": "上汽集团",
+        "market_value_wan": 27.23
+      },
+      {
+        "stock_code": "601229",
+        "stock_name": "上海银行",
+        "market_value_wan": 27.21
+      },
+      {
+        "stock_code": "002202",
+        "stock_name": "金风科技",
+        "market_value_wan": 27.04
+      },
+      {
+        "stock_code": "600905",
+        "stock_name": "三峡能源",
+        "market_value_wan": 27.01
+      }
+    ],
+    "2023-Q2": [
+      {
+        "stock_code": "601138",
+        "stock_name": "工业富联",
+        "market_value_wan": 42.34
+      },
+      {
+        "stock_code": "601618",
+        "stock_name": "中国中冶",
+        "market_value_wan": 36.09
+      },
+      {
+        "stock_code": "300124",
+        "stock_name": "汇川技术",
+        "market_value_wan": 33.39
+      },
+      {
+        "stock_code": "002252",
+        "stock_name": "上海莱士",
+        "market_value_wan": 30.79
+      },
+      {
+        "stock_code": "601988",
+        "stock_name": "中国银行",
+        "market_value_wan": 30.54
+      },
+      {
+        "stock_code": "601288",
+        "stock_name": "农业银行",
+        "market_value_wan": 29.97
+      },
+      {
+        "stock_code": "688159",
+        "stock_name": "有方科技",
+        "market_value_wan": 29.69
+      },
+      {
+        "stock_code": "003816",
+        "stock_name": "中国广核",
+        "market_value_wan": 28.58
+      },
+      {
+        "stock_code": "600547",
+        "stock_name": "山东黄金",
+        "market_value_wan": 28.18
+      },
+      {
+        "stock_code": "601766",
+        "stock_name": "中国中车",
+        "market_value_wan": 28.02
+      }
+    ],
+    "2023-Q1": [
+      {
+        "stock_code": "601138",
+        "stock_name": "工业富联",
+        "market_value_wan": 40.64
+      },
+      {
+        "stock_code": "002605",
+        "stock_name": "姚记科技",
+        "market_value_wan": 28.18
+      },
+      {
+        "stock_code": "601186",
+        "stock_name": "中国铁建",
+        "market_value_wan": 26.58
+      },
+      {
+        "stock_code": "600183",
+        "stock_name": "生益科技",
+        "market_value_wan": 26.4
+      },
+      {
+        "stock_code": "601766",
+        "stock_name": "中国中车",
+        "market_value_wan": 25.46
+      },
+      {
+        "stock_code": "601728",
+        "stock_name": "中国电信",
+        "market_value_wan": 25.38
+      },
+      {
+        "stock_code": "003816",
+        "stock_name": "中国广核",
+        "market_value_wan": 24.88
+      },
+      {
+        "stock_code": "000725",
+        "stock_name": "京东方A",
+        "market_value_wan": 24.82
+      },
+      {
+        "stock_code": "000651",
+        "stock_name": "格力电器",
+        "market_value_wan": 24.62
+      },
+      {
+        "stock_code": "601006",
+        "stock_name": "大秦铁路",
+        "market_value_wan": 24.16
+      }
+    ]
+  }
+}

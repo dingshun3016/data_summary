@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "001789",
+    "name": "国泰量化收益灵活配置混合A",
+    "base_name": "国泰量化收益灵活配置混合"
+  },
+  "fetched_at": "2026-06-14 23:00:57",
+  "quarters": {
+    "2022-Q4": [
+      {
+        "stock_code": "600660",
+        "stock_name": "福耀玻璃",
+        "market_value_wan": 138.88
+      },
+      {
+        "stock_code": "688777",
+        "stock_name": "中控技术",
+        "market_value_wan": 116.29
+      },
+      {
+        "stock_code": "601668",
+        "stock_name": "中国建筑",
+        "market_value_wan": 112.78
+      },
+      {
+        "stock_code": "300751",
+        "stock_name": "迈为股份",
+        "market_value_wan": 111.2
+      },
+      {
+        "stock_code": "600060",
+        "stock_name": "海信视像",
+        "market_value_wan": 94.51
+      },
+      {
+        "stock_code": "688063",
+        "stock_name": "派能科技",
+        "market_value_wan": 90.72
+      },
+      {
+        "stock_code": "301035",
+        "stock_name": "润丰股份",
+        "market_value_wan": 87.1
+      },
+      {
+        "stock_code": "300856",
+        "stock_name": "科思股份",
+        "market_value_wan": 74.57
+      },
+      {
+        "stock_code": "002304",
+        "stock_name": "洋河股份",
+        "market_value_wan": 70.62
+      },
+      {
+        "stock_code": "600873",
+        "stock_name": "梅花生物",
+        "market_value_wan": 70.55
+      }
+    ],
+    "2022-Q3": [
+      {
+        "stock_code": "600809",
+        "stock_name": "山西汾酒",
+        "market_value_wan": 377.4
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 374.5
+      },
+      {
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "market_value_wan": 273.18
+      },
+      {
+        "stock_code": "600309",
+        "stock_name": "万华化学",
+        "market_value_wan": 181.44
+      },
+      {
+        "stock_code": "601888",
+        "stock_name": "中国中免",
+        "market_value_wan": 146.71
+      },
+      {
+        "stock_code": "600150",
+        "stock_name": "中国船舶",
+        "market_value_wan": 145.64
+      },
+      {
+        "stock_code": "600426",
+        "stock_name": "华鲁恒升",
+        "market_value_wan": 144.68
+      },
+      {
+        "stock_code": "600030",
+        "stock_name": "中信证券",
+        "market_value_wan": 137.06
+      },
+      {
+        "stock_code": "601857",
+        "stock_name": "中国石油",
+        "market_value_wan": 121.68
+      },
+      {
+        "stock_code": "601128",
+        "stock_name": "常熟银行",
+        "market_value_wan": 116.61
+      }
+    ],
+    "2022-Q2": [
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 490.8
+      },
+      {
+        "stock_code": "600809",
+        "stock_name": "山西汾酒",
+        "market_value_wan": 381.96
+      },
+      {
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "market_value_wan": 289.48
+      },
+      {
+        "stock_code": "600309",
+        "stock_name": "万华化学",
+        "market_value_wan": 180.4
+      },
+      {
+        "stock_code": "601888",
+        "stock_name": "中国中免",
+        "market_value_wan": 163.05
+      },
+      {
+        "stock_code": "600030",
+        "stock_name": "中信证券",
+        "market_value_wan": 160.67
+      },
+      {
+        "stock_code": "600438",
+        "stock_name": "通威股份",
+        "market_value_wan": 138.88
+      },
+      {
+        "stock_code": "600426",
+        "stock_name": "华鲁恒升",
+        "market_value_wan": 136.66
+      },
+      {
+        "stock_code": "601919",
+        "stock_name": "中远海控",
+        "market_value_wan": 121.37
+      },
+      {
+        "stock_code": "601857",
+        "stock_name": "中国石油",
+        "market_value_wan": 118.67
+      }
+    ],
+    "2022-Q1": [
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 550.08
+      },
+      {
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "market_value_wan": 336.24
+      },
+      {
+        "stock_code": "600809",
+        "stock_name": "山西汾酒",
+        "market_value_wan": 332.9
+      },
+      {
+        "stock_code": "600030",
+        "stock_name": "中信证券",
+        "market_value_wan": 173.64
+      },
+      {
+        "stock_code": "600426",
+        "stock_name": "华鲁恒升",
+        "market_value_wan": 170.34
+      },
+      {
+        "stock_code": "600309",
+        "stock_name": "万华化学",
+        "market_value_wan": 167.44
+      },
+      {
+        "stock_code": "601919",
+        "stock_name": "中远海控",
+        "market_value_wan": 151.62
+      },
+      {
+        "stock_code": "600585",
+        "stock_name": "海螺水泥",
+        "market_value_wan": 138.6
+      },
+      {
+        "stock_code": "601857",
+        "stock_name": "中国石油",
+        "market_value_wan": 138.5
+      },
+      {
+        "stock_code": "603501",
+        "stock_name": "韦尔股份",
+        "market_value_wan": 127.64
+      }
+    ]
+  }
+}

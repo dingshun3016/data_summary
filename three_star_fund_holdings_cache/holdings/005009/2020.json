@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "005009",
+    "name": "申万菱信行业轮动股票A",
+    "base_name": "申万菱信行业轮动股票"
+  },
+  "fetched_at": "2026-06-14 23:15:59",
+  "quarters": {
+    "2020-Q4": [
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 702.22
+      },
+      {
+        "stock_code": "600438",
+        "stock_name": "通威股份",
+        "market_value_wan": 653.48
+      },
+      {
+        "stock_code": "300014",
+        "stock_name": "亿纬锂能",
+        "market_value_wan": 641.51
+      },
+      {
+        "stock_code": "601012",
+        "stock_name": "隆基绿能",
+        "market_value_wan": 600.22
+      },
+      {
+        "stock_code": "601888",
+        "stock_name": "中国中免",
+        "market_value_wan": 451.92
+      },
+      {
+        "stock_code": "002241",
+        "stock_name": "歌尔股份",
+        "market_value_wan": 413.13
+      },
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 384.06
+      },
+      {
+        "stock_code": "300763",
+        "stock_name": "锦浪科技",
+        "market_value_wan": 375.03
+      },
+      {
+        "stock_code": "688567",
+        "stock_name": "孚能科技",
+        "market_value_wan": 367.95
+      },
+      {
+        "stock_code": "300122",
+        "stock_name": "智飞生物",
+        "market_value_wan": 354.98
+      }
+    ],
+    "2020-Q3": [
+      {
+        "stock_code": "600438",
+        "stock_name": "通威股份",
+        "market_value_wan": 611.34
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 585.76
+      },
+      {
+        "stock_code": "300014",
+        "stock_name": "亿纬锂能",
+        "market_value_wan": 562.88
+      },
+      {
+        "stock_code": "002241",
+        "stock_name": "歌尔股份",
+        "market_value_wan": 487.99
+      },
+      {
+        "stock_code": "002050",
+        "stock_name": "三花智控",
+        "market_value_wan": 466.2
+      },
+      {
+        "stock_code": "601012",
+        "stock_name": "隆基绿能",
+        "market_value_wan": 450.81
+      },
+      {
+        "stock_code": "600030",
+        "stock_name": "中信证券",
+        "market_value_wan": 450.45
+      },
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 448.1
+      },
+      {
+        "stock_code": "300763",
+        "stock_name": "锦浪科技",
+        "market_value_wan": 403.31
+      },
+      {
+        "stock_code": "601888",
+        "stock_name": "中国中免",
+        "market_value_wan": 356.7
+      }
+    ],
+    "2020-Q2": [
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 804.33
+      },
+      {
+        "stock_code": "300014",
+        "stock_name": "亿纬锂能",
+        "market_value_wan": 783.37
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 749.75
+      },
+      {
+        "stock_code": "002241",
+        "stock_name": "歌尔股份",
+        "market_value_wan": 645.92
+      },
+      {
+        "stock_code": "600438",
+        "stock_name": "通威股份",
+        "market_value_wan": 600.65
+      },
+      {
+        "stock_code": "002555",
+        "stock_name": "三七互娱",
+        "market_value_wan": 584.53
+      },
+      {
+        "stock_code": "002351",
+        "stock_name": "漫步者",
+        "market_value_wan": 528.0
+      },
+      {
+        "stock_code": "000858",
+        "stock_name": "五粮液",
+        "market_value_wan": 462.02
+      },
+      {
+        "stock_code": "603238",
+        "stock_name": "诺邦股份",
+        "market_value_wan": 422.0
+      },
+      {
+        "stock_code": "300450",
+        "stock_name": "先导智能",
+        "market_value_wan": 415.89
+      }
+    ],
+    "2020-Q1": [
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 662.34
+      },
+      {
+        "stock_code": "300014",
+        "stock_name": "亿纬锂能",
+        "market_value_wan": 622.75
+      },
+      {
+        "stock_code": "601658",
+        "stock_name": "邮储银行",
+        "market_value_wan": 585.33
+      },
+      {
+        "stock_code": "600438",
+        "stock_name": "通威股份",
+        "market_value_wan": 441.3
+      },
+      {
+        "stock_code": "600276",
+        "stock_name": "恒瑞医药",
+        "market_value_wan": 437.14
+      },
+      {
+        "stock_code": "002555",
+        "stock_name": "三七互娱",
+        "market_value_wan": 422.95
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 422.18
+      },
+      {
+        "stock_code": "300136",
+        "stock_name": "信维通信",
+        "market_value_wan": 418.7
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 410.53
+      },
+      {
+        "stock_code": "688111",
+        "stock_name": "金山办公",
+        "market_value_wan": 396.81
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "160226",
+    "name": "国泰民益混合(LOF)C",
+    "base_name": "国泰民益混合(LOF)"
+  },
+  "fetched_at": "2026-06-14 23:51:37",
+  "quarters": {
+    "2024-Q4": [
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 111.72
+      },
+      {
+        "stock_code": "002222",
+        "stock_name": "福晶科技",
+        "market_value_wan": 111.13
+      },
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 63.99
+      },
+      {
+        "stock_code": "000543",
+        "stock_name": "皖能电力",
+        "market_value_wan": 47.62
+      },
+      {
+        "stock_code": "301525",
+        "stock_name": "儒竞科技",
+        "market_value_wan": 43.51
+      },
+      {
+        "stock_code": "600079",
+        "stock_name": "人福医药",
+        "market_value_wan": 37.88
+      },
+      {
+        "stock_code": "688608",
+        "stock_name": "恒玄科技",
+        "market_value_wan": 31.11
+      },
+      {
+        "stock_code": "002991",
+        "stock_name": "甘源食品",
+        "market_value_wan": 28.99
+      },
+      {
+        "stock_code": "002050",
+        "stock_name": "三花智控",
+        "market_value_wan": 28.45
+      },
+      {
+        "stock_code": "600276",
+        "stock_name": "恒瑞医药",
+        "market_value_wan": 27.08
+      }
+    ],
+    "2024-Q3": [
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 74.32
+      },
+      {
+        "stock_code": "688615",
+        "stock_name": "合合信息",
+        "market_value_wan": 66.32
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 62.97
+      },
+      {
+        "stock_code": "600577",
+        "stock_name": "精达股份",
+        "market_value_wan": 61.36
+      },
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 53.24
+      },
+      {
+        "stock_code": "000543",
+        "stock_name": "皖能电力",
+        "market_value_wan": 50.09
+      },
+      {
+        "stock_code": "688012",
+        "stock_name": "中微公司",
+        "market_value_wan": 47.84
+      },
+      {
+        "stock_code": "601899",
+        "stock_name": "紫金矿业",
+        "market_value_wan": 45.71
+      },
+      {
+        "stock_code": "688036",
+        "stock_name": "传音控股",
+        "market_value_wan": 40.71
+      },
+      {
+        "stock_code": "300699",
+        "stock_name": "光威复材",
+        "market_value_wan": 37.86
+      }
+    ],
+    "2024-Q2": [
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 112.82
+      },
+      {
+        "stock_code": "601058",
+        "stock_name": "赛轮轮胎",
+        "market_value_wan": 72.52
+      },
+      {
+        "stock_code": "600938",
+        "stock_name": "中国海油",
+        "market_value_wan": 64.02
+      },
+      {
+        "stock_code": "601899",
+        "stock_name": "紫金矿业",
+        "market_value_wan": 62.2
+      },
+      {
+        "stock_code": "002130",
+        "stock_name": "沃尔核材",
+        "market_value_wan": 55.77
+      },
+      {
+        "stock_code": "600160",
+        "stock_name": "巨化股份",
+        "market_value_wan": 54.53
+      },
+      {
+        "stock_code": "000543",
+        "stock_name": "皖能电力",
+        "market_value_wan": 53.28
+      },
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 45.15
+      },
+      {
+        "stock_code": "603979",
+        "stock_name": "金诚信",
+        "market_value_wan": 42.45
+      },
+      {
+        "stock_code": "600803",
+        "stock_name": "新奥股份",
+        "market_value_wan": 40.77
+      }
+    ],
+    "2024-Q1": [
+      {
+        "stock_code": "301589",
+        "stock_name": "诺瓦星云",
+        "market_value_wan": 230.3
+      },
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 210.28
+      },
+      {
+        "stock_code": "301035",
+        "stock_name": "润丰股份",
+        "market_value_wan": 186.89
+      },
+      {
+        "stock_code": "601058",
+        "stock_name": "赛轮轮胎",
+        "market_value_wan": 182.33
+      },
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 175.32
+      },
+      {
+        "stock_code": "605377",
+        "stock_name": "华旺科技",
+        "market_value_wan": 170.0
+      },
+      {
+        "stock_code": "601899",
+        "stock_name": "紫金矿业",
+        "market_value_wan": 124.13
+      },
+      {
+        "stock_code": "000975",
+        "stock_name": "山金国际",
+        "market_value_wan": 116.14
+      },
+      {
+        "stock_code": "603979",
+        "stock_name": "金诚信",
+        "market_value_wan": 107.08
+      },
+      {
+        "stock_code": "002517",
+        "stock_name": "恺英网络",
+        "market_value_wan": 101.82
+      }
+    ]
+  }
+}

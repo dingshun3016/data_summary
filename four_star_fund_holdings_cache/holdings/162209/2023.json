@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "162209",
+    "name": "宏利市值优选混合A",
+    "base_name": "宏利市值优选混合"
+  },
+  "fetched_at": "2026-06-14 22:42:17",
+  "quarters": {
+    "2023-Q4": [
+      {
+        "stock_code": "601899",
+        "stock_name": "紫金矿业",
+        "market_value_wan": 5755.32
+      },
+      {
+        "stock_code": "600938",
+        "stock_name": "中国海油",
+        "market_value_wan": 5630.03
+      },
+      {
+        "stock_code": "601328",
+        "stock_name": "交通银行",
+        "market_value_wan": 5472.63
+      },
+      {
+        "stock_code": "600028",
+        "stock_name": "中国石化",
+        "market_value_wan": 5309.2
+      },
+      {
+        "stock_code": "601988",
+        "stock_name": "中国银行",
+        "market_value_wan": 4502.68
+      },
+      {
+        "stock_code": "601601",
+        "stock_name": "中国太保",
+        "market_value_wan": 4451.23
+      },
+      {
+        "stock_code": "601857",
+        "stock_name": "中国石油",
+        "market_value_wan": 3965.88
+      },
+      {
+        "stock_code": "601600",
+        "stock_name": "中国铝业",
+        "market_value_wan": 2711.15
+      },
+      {
+        "stock_code": "600674",
+        "stock_name": "川投能源",
+        "market_value_wan": 2582.8
+      },
+      {
+        "stock_code": "000933",
+        "stock_name": "神火股份",
+        "market_value_wan": 2556.62
+      }
+    ],
+    "2023-Q3": [
+      {
+        "stock_code": "600938",
+        "stock_name": "中国海油",
+        "market_value_wan": 5899.12
+      },
+      {
+        "stock_code": "600028",
+        "stock_name": "中国石化",
+        "market_value_wan": 5775.42
+      },
+      {
+        "stock_code": "601899",
+        "stock_name": "紫金矿业",
+        "market_value_wan": 5602.89
+      },
+      {
+        "stock_code": "601328",
+        "stock_name": "交通银行",
+        "market_value_wan": 5491.7
+      },
+      {
+        "stock_code": "601601",
+        "stock_name": "中国太保",
+        "market_value_wan": 5202.63
+      },
+      {
+        "stock_code": "601857",
+        "stock_name": "中国石油",
+        "market_value_wan": 4482.69
+      },
+      {
+        "stock_code": "601988",
+        "stock_name": "中国银行",
+        "market_value_wan": 3989.04
+      },
+      {
+        "stock_code": "601600",
+        "stock_name": "中国铝业",
+        "market_value_wan": 2841.51
+      },
+      {
+        "stock_code": "600674",
+        "stock_name": "川投能源",
+        "market_value_wan": 2601.84
+      },
+      {
+        "stock_code": "600309",
+        "stock_name": "万华化学",
+        "market_value_wan": 2541.85
+      }
+    ],
+    "2023-Q2": [
+      {
+        "stock_code": "600028",
+        "stock_name": "中国石化",
+        "market_value_wan": 5976.49
+      },
+      {
+        "stock_code": "601899",
+        "stock_name": "紫金矿业",
+        "market_value_wan": 5502.63
+      },
+      {
+        "stock_code": "601328",
+        "stock_name": "交通银行",
+        "market_value_wan": 5406.7
+      },
+      {
+        "stock_code": "600938",
+        "stock_name": "中国海油",
+        "market_value_wan": 5054.94
+      },
+      {
+        "stock_code": "601601",
+        "stock_name": "中国太保",
+        "market_value_wan": 4728.2
+      },
+      {
+        "stock_code": "601857",
+        "stock_name": "中国石油",
+        "market_value_wan": 4048.59
+      },
+      {
+        "stock_code": "601988",
+        "stock_name": "中国银行",
+        "market_value_wan": 4015.8
+      },
+      {
+        "stock_code": "600309",
+        "stock_name": "万华化学",
+        "market_value_wan": 2634.32
+      },
+      {
+        "stock_code": "600674",
+        "stock_name": "川投能源",
+        "market_value_wan": 2564.37
+      },
+      {
+        "stock_code": "601600",
+        "stock_name": "中国铝业",
+        "market_value_wan": 2484.12
+      }
+    ],
+    "2023-Q1": [
+      {
+        "stock_code": "601601",
+        "stock_name": "中国太保",
+        "market_value_wan": 4716.4
+      },
+      {
+        "stock_code": "600028",
+        "stock_name": "中国石化",
+        "market_value_wan": 4458.01
+      },
+      {
+        "stock_code": "601328",
+        "stock_name": "交通银行",
+        "market_value_wan": 3700.15
+      },
+      {
+        "stock_code": "600938",
+        "stock_name": "中国海油",
+        "market_value_wan": 3668.88
+      },
+      {
+        "stock_code": "601899",
+        "stock_name": "紫金矿业",
+        "market_value_wan": 3097.5
+      },
+      {
+        "stock_code": "600309",
+        "stock_name": "万华化学",
+        "market_value_wan": 2638.62
+      },
+      {
+        "stock_code": "600426",
+        "stock_name": "华鲁恒升",
+        "market_value_wan": 2180.92
+      },
+      {
+        "stock_code": "000933",
+        "stock_name": "神火股份",
+        "market_value_wan": 2067.75
+      },
+      {
+        "stock_code": "601225",
+        "stock_name": "陕西煤业",
+        "market_value_wan": 1972.98
+      },
+      {
+        "stock_code": "601699",
+        "stock_name": "潞安环能",
+        "market_value_wan": 1931.82
+      }
+    ]
+  }
+}

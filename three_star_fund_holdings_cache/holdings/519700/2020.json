@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "519700",
+    "name": "交银主题优选混合A",
+    "base_name": "交银主题优选混合"
+  },
+  "fetched_at": "2026-06-15 00:04:01",
+  "quarters": {
+    "2020-Q4": [
+      {
+        "stock_code": "002352",
+        "stock_name": "顺丰控股",
+        "market_value_wan": 18241.65
+      },
+      {
+        "stock_code": "600030",
+        "stock_name": "中信证券",
+        "market_value_wan": 15161.29
+      },
+      {
+        "stock_code": "600690",
+        "stock_name": "海尔智家",
+        "market_value_wan": 13463.71
+      },
+      {
+        "stock_code": "601601",
+        "stock_name": "中国太保",
+        "market_value_wan": 12527.23
+      },
+      {
+        "stock_code": "002555",
+        "stock_name": "三七互娱",
+        "market_value_wan": 11091.32
+      },
+      {
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "market_value_wan": 10652.73
+      },
+      {
+        "stock_code": "601166",
+        "stock_name": "兴业银行",
+        "market_value_wan": 10083.84
+      },
+      {
+        "stock_code": "002049",
+        "stock_name": "紫光国微",
+        "market_value_wan": 8992.03
+      },
+      {
+        "stock_code": "002841",
+        "stock_name": "视源股份",
+        "market_value_wan": 8337.21
+      },
+      {
+        "stock_code": "601688",
+        "stock_name": "华泰证券",
+        "market_value_wan": 6998.88
+      }
+    ],
+    "2020-Q3": [
+      {
+        "stock_code": "002352",
+        "stock_name": "顺丰控股",
+        "market_value_wan": 21034.86
+      },
+      {
+        "stock_code": "600690",
+        "stock_name": "海尔智家",
+        "market_value_wan": 10821.14
+      },
+      {
+        "stock_code": "600383",
+        "stock_name": "金地集团",
+        "market_value_wan": 10408.75
+      },
+      {
+        "stock_code": "600030",
+        "stock_name": "中信证券",
+        "market_value_wan": 10392.48
+      },
+      {
+        "stock_code": "002841",
+        "stock_name": "视源股份",
+        "market_value_wan": 8780.88
+      },
+      {
+        "stock_code": "300188",
+        "stock_name": "国投智能",
+        "market_value_wan": 7375.77
+      },
+      {
+        "stock_code": "002439",
+        "stock_name": "启明星辰",
+        "market_value_wan": 7140.92
+      },
+      {
+        "stock_code": "000998",
+        "stock_name": "隆平高科",
+        "market_value_wan": 6774.15
+      },
+      {
+        "stock_code": "002928",
+        "stock_name": "华夏航空",
+        "market_value_wan": 6528.4
+      },
+      {
+        "stock_code": "002230",
+        "stock_name": "科大讯飞",
+        "market_value_wan": 6286.67
+      }
+    ],
+    "2020-Q2": [
+      {
+        "stock_code": "600383",
+        "stock_name": "金地集团",
+        "market_value_wan": 12814.59
+      },
+      {
+        "stock_code": "601166",
+        "stock_name": "兴业银行",
+        "market_value_wan": 11855.41
+      },
+      {
+        "stock_code": "002439",
+        "stock_name": "启明星辰",
+        "market_value_wan": 11406.64
+      },
+      {
+        "stock_code": "600690",
+        "stock_name": "海尔智家",
+        "market_value_wan": 10724.73
+      },
+      {
+        "stock_code": "000656",
+        "stock_name": "*ST金科",
+        "market_value_wan": 8990.04
+      },
+      {
+        "stock_code": "603517",
+        "stock_name": "绝味食品",
+        "market_value_wan": 8313.96
+      },
+      {
+        "stock_code": "002352",
+        "stock_name": "顺丰控股",
+        "market_value_wan": 8132.25
+      },
+      {
+        "stock_code": "002841",
+        "stock_name": "视源股份",
+        "market_value_wan": 8015.49
+      },
+      {
+        "stock_code": "002230",
+        "stock_name": "科大讯飞",
+        "market_value_wan": 7989.26
+      },
+      {
+        "stock_code": "300036",
+        "stock_name": "超图软件",
+        "market_value_wan": 7864.72
+      }
+    ],
+    "2020-Q1": [
+      {
+        "stock_code": "600383",
+        "stock_name": "金地集团",
+        "market_value_wan": 9516.25
+      },
+      {
+        "stock_code": "002439",
+        "stock_name": "启明星辰",
+        "market_value_wan": 7071.98
+      },
+      {
+        "stock_code": "000998",
+        "stock_name": "隆平高科",
+        "market_value_wan": 6704.44
+      },
+      {
+        "stock_code": "601166",
+        "stock_name": "兴业银行",
+        "market_value_wan": 6384.68
+      },
+      {
+        "stock_code": "603517",
+        "stock_name": "绝味食品",
+        "market_value_wan": 6082.09
+      },
+      {
+        "stock_code": "000656",
+        "stock_name": "*ST金科",
+        "market_value_wan": 5267.29
+      },
+      {
+        "stock_code": "600030",
+        "stock_name": "中信证券",
+        "market_value_wan": 4936.58
+      },
+      {
+        "stock_code": "000860",
+        "stock_name": "顺鑫农业",
+        "market_value_wan": 4708.98
+      },
+      {
+        "stock_code": "603195",
+        "stock_name": "公牛集团",
+        "market_value_wan": 4601.9
+      },
+      {
+        "stock_code": "300724",
+        "stock_name": "捷佳伟创",
+        "market_value_wan": 4556.81
+      }
+    ]
+  }
+}

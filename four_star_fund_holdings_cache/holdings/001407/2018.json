@@ -1,0 +1,64 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "001407",
+    "name": "景顺长城稳健回报混合C",
+    "base_name": "景顺长城稳健回报混合"
+  },
+  "fetched_at": "2026-06-14 22:28:14",
+  "quarters": {
+    "2018-Q4": [
+      {
+        "stock_code": "000651",
+        "stock_name": "格力电器",
+        "market_value_wan": 428.99
+      },
+      {
+        "stock_code": "002223",
+        "stock_name": "鱼跃医疗",
+        "market_value_wan": 263.75
+      }
+    ],
+    "2018-Q3": [
+      {
+        "stock_code": "000651",
+        "stock_name": "格力电器",
+        "market_value_wan": 483.2
+      },
+      {
+        "stock_code": "002223",
+        "stock_name": "鱼跃医疗",
+        "market_value_wan": 250.04
+      }
+    ],
+    "2018-Q2": [
+      {
+        "stock_code": "000651",
+        "stock_name": "格力电器",
+        "market_value_wan": 566.74
+      },
+      {
+        "stock_code": "000661",
+        "stock_name": "长春高新",
+        "market_value_wan": 368.87
+      },
+      {
+        "stock_code": "002223",
+        "stock_name": "鱼跃医疗",
+        "market_value_wan": 262.14
+      }
+    ],
+    "2018-Q1": [
+      {
+        "stock_code": "300296",
+        "stock_name": "利亚德",
+        "market_value_wan": 313.75
+      },
+      {
+        "stock_code": "000651",
+        "stock_name": "格力电器",
+        "market_value_wan": 271.08
+      }
+    ]
+  }
+}

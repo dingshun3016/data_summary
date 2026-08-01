@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "161233",
+    "name": "国投瑞银瑞泰多策略混合A",
+    "base_name": "国投瑞银瑞泰多策略混合"
+  },
+  "fetched_at": "2026-06-14 23:52:26",
+  "quarters": {
+    "2020-Q4": [
+      {
+        "stock_code": "601601",
+        "stock_name": "中国太保",
+        "market_value_wan": 1813.63
+      },
+      {
+        "stock_code": "002831",
+        "stock_name": "裕同科技",
+        "market_value_wan": 1520.65
+      },
+      {
+        "stock_code": "603816",
+        "stock_name": "顾家家居",
+        "market_value_wan": 1150.72
+      },
+      {
+        "stock_code": "603018",
+        "stock_name": "华设集团",
+        "market_value_wan": 886.17
+      },
+      {
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "market_value_wan": 813.51
+      },
+      {
+        "stock_code": "000725",
+        "stock_name": "京东方A",
+        "market_value_wan": 700.14
+      },
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 696.79
+      },
+      {
+        "stock_code": "300416",
+        "stock_name": "苏试试验",
+        "market_value_wan": 673.61
+      },
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 604.41
+      },
+      {
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "market_value_wan": 588.85
+      }
+    ],
+    "2020-Q3": [
+      {
+        "stock_code": "002831",
+        "stock_name": "裕同科技",
+        "market_value_wan": 1576.77
+      },
+      {
+        "stock_code": "603816",
+        "stock_name": "顾家家居",
+        "market_value_wan": 1525.59
+      },
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 971.99
+      },
+      {
+        "stock_code": "601933",
+        "stock_name": "永辉超市",
+        "market_value_wan": 961.21
+      },
+      {
+        "stock_code": "603018",
+        "stock_name": "华设集团",
+        "market_value_wan": 842.18
+      },
+      {
+        "stock_code": "002597",
+        "stock_name": "金禾实业",
+        "market_value_wan": 679.01
+      },
+      {
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "market_value_wan": 666.36
+      },
+      {
+        "stock_code": "601601",
+        "stock_name": "中国太保",
+        "market_value_wan": 661.34
+      },
+      {
+        "stock_code": "300416",
+        "stock_name": "苏试试验",
+        "market_value_wan": 594.9
+      },
+      {
+        "stock_code": "000725",
+        "stock_name": "京东方A",
+        "market_value_wan": 572.95
+      }
+    ],
+    "2020-Q2": [
+      {
+        "stock_code": "601933",
+        "stock_name": "永辉超市",
+        "market_value_wan": 1151.49
+      },
+      {
+        "stock_code": "603816",
+        "stock_name": "顾家家居",
+        "market_value_wan": 1002.82
+      },
+      {
+        "stock_code": "002831",
+        "stock_name": "裕同科技",
+        "market_value_wan": 761.81
+      },
+      {
+        "stock_code": "603018",
+        "stock_name": "华设集团",
+        "market_value_wan": 668.93
+      },
+      {
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "market_value_wan": 596.51
+      },
+      {
+        "stock_code": "601601",
+        "stock_name": "中国太保",
+        "market_value_wan": 577.43
+      },
+      {
+        "stock_code": "603228",
+        "stock_name": "景旺电子",
+        "market_value_wan": 570.99
+      },
+      {
+        "stock_code": "300416",
+        "stock_name": "苏试试验",
+        "market_value_wan": 522.97
+      },
+      {
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "market_value_wan": 483.38
+      },
+      {
+        "stock_code": "600690",
+        "stock_name": "海尔智家",
+        "market_value_wan": 434.89
+      }
+    ],
+    "2020-Q1": [
+      {
+        "stock_code": "601933",
+        "stock_name": "永辉超市",
+        "market_value_wan": 1517.98
+      },
+      {
+        "stock_code": "002831",
+        "stock_name": "裕同科技",
+        "market_value_wan": 820.55
+      },
+      {
+        "stock_code": "603018",
+        "stock_name": "华设集团",
+        "market_value_wan": 789.47
+      },
+      {
+        "stock_code": "601601",
+        "stock_name": "中国太保",
+        "market_value_wan": 597.98
+      },
+      {
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "market_value_wan": 571.03
+      },
+      {
+        "stock_code": "300416",
+        "stock_name": "苏试试验",
+        "market_value_wan": 554.46
+      },
+      {
+        "stock_code": "603228",
+        "stock_name": "景旺电子",
+        "market_value_wan": 507.06
+      },
+      {
+        "stock_code": "002120",
+        "stock_name": "韵达股份",
+        "market_value_wan": 402.56
+      },
+      {
+        "stock_code": "600690",
+        "stock_name": "海尔智家",
+        "market_value_wan": 353.81
+      },
+      {
+        "stock_code": "603816",
+        "stock_name": "顾家家居",
+        "market_value_wan": 314.32
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "001406",
+    "name": "东方红策略精选混合C",
+    "base_name": "东方红策略精选混合"
+  },
+  "fetched_at": "2026-06-14 22:56:43",
+  "quarters": {
+    "2021-Q4": [
+      {
+        "stock_code": "600887",
+        "stock_name": "伊利股份",
+        "market_value_wan": 2073.0
+      },
+      {
+        "stock_code": "000002",
+        "stock_name": "万科A",
+        "market_value_wan": 1778.4
+      },
+      {
+        "stock_code": "002415",
+        "stock_name": "海康威视",
+        "market_value_wan": 1726.56
+      },
+      {
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "market_value_wan": 1572.29
+      },
+      {
+        "stock_code": "601658",
+        "stock_name": "邮储银行",
+        "market_value_wan": 1528.25
+      },
+      {
+        "stock_code": "601668",
+        "stock_name": "中国建筑",
+        "market_value_wan": 1451.85
+      },
+      {
+        "stock_code": "002153",
+        "stock_name": "石基信息",
+        "market_value_wan": 1437.0
+      },
+      {
+        "stock_code": "002555",
+        "stock_name": "三七互娱",
+        "market_value_wan": 1351.0
+      },
+      {
+        "stock_code": "601233",
+        "stock_name": "桐昆股份",
+        "market_value_wan": 1216.72
+      },
+      {
+        "stock_code": "002241",
+        "stock_name": "歌尔股份",
+        "market_value_wan": 1082.0
+      }
+    ],
+    "2021-Q3": [
+      {
+        "stock_code": "601088",
+        "stock_name": "中国神华",
+        "market_value_wan": 2266.0
+      },
+      {
+        "stock_code": "601398",
+        "stock_name": "工商银行",
+        "market_value_wan": 1980.27
+      },
+      {
+        "stock_code": "600887",
+        "stock_name": "伊利股份",
+        "market_value_wan": 1885.0
+      },
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 1740.0
+      },
+      {
+        "stock_code": "000002",
+        "stock_name": "万科A",
+        "market_value_wan": 1704.8
+      },
+      {
+        "stock_code": "002415",
+        "stock_name": "海康威视",
+        "market_value_wan": 1650.0
+      },
+      {
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "market_value_wan": 1508.35
+      },
+      {
+        "stock_code": "600011",
+        "stock_name": "华能国际",
+        "market_value_wan": 1488.6
+      },
+      {
+        "stock_code": "601668",
+        "stock_name": "中国建筑",
+        "market_value_wan": 1393.78
+      },
+      {
+        "stock_code": "601233",
+        "stock_name": "桐昆股份",
+        "market_value_wan": 1260.38
+      }
+    ],
+    "2021-Q2": [
+      {
+        "stock_code": "601088",
+        "stock_name": "中国神华",
+        "market_value_wan": 4880.0
+      },
+      {
+        "stock_code": "601398",
+        "stock_name": "工商银行",
+        "market_value_wan": 2196.99
+      },
+      {
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "market_value_wan": 2004.89
+      },
+      {
+        "stock_code": "002415",
+        "stock_name": "海康威视",
+        "market_value_wan": 1935.0
+      },
+      {
+        "stock_code": "000002",
+        "stock_name": "万科A",
+        "market_value_wan": 1904.8
+      },
+      {
+        "stock_code": "600887",
+        "stock_name": "伊利股份",
+        "market_value_wan": 1841.5
+      },
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 1784.25
+      },
+      {
+        "stock_code": "600741",
+        "stock_name": "华域汽车",
+        "market_value_wan": 1554.03
+      },
+      {
+        "stock_code": "600011",
+        "stock_name": "华能国际",
+        "market_value_wan": 1477.0
+      },
+      {
+        "stock_code": "601668",
+        "stock_name": "中国建筑",
+        "market_value_wan": 1350.22
+      }
+    ],
+    "2021-Q1": [
+      {
+        "stock_code": "601088",
+        "stock_name": "中国神华",
+        "market_value_wan": 5025.0
+      },
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 2055.75
+      },
+      {
+        "stock_code": "600887",
+        "stock_name": "伊利股份",
+        "market_value_wan": 2001.5
+      },
+      {
+        "stock_code": "000002",
+        "stock_name": "万科A",
+        "market_value_wan": 1800.0
+      },
+      {
+        "stock_code": "002415",
+        "stock_name": "海康威视",
+        "market_value_wan": 1565.2
+      },
+      {
+        "stock_code": "600011",
+        "stock_name": "华能国际",
+        "market_value_wan": 1543.5
+      },
+      {
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "market_value_wan": 1495.3
+      },
+      {
+        "stock_code": "601398",
+        "stock_name": "工商银行",
+        "market_value_wan": 1385.0
+      },
+      {
+        "stock_code": "600741",
+        "stock_name": "华域汽车",
+        "market_value_wan": 1378.5
+      },
+      {
+        "stock_code": "600323",
+        "stock_name": "瀚蓝环境",
+        "market_value_wan": 1345.21
+      }
+    ]
+  }
+}

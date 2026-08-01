@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "007416",
+    "name": "南方致远混合C",
+    "base_name": "南方致远混合"
+  },
+  "fetched_at": "2026-06-14 23:24:25",
+  "quarters": {
+    "2020-Q4": [
+      {
+        "stock_code": "601166",
+        "stock_name": "兴业银行",
+        "market_value_wan": 1900.63
+      },
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 1673.48
+      },
+      {
+        "stock_code": "601877",
+        "stock_name": "正泰电器",
+        "market_value_wan": 1411.82
+      },
+      {
+        "stock_code": "600887",
+        "stock_name": "伊利股份",
+        "market_value_wan": 1331.1
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 1198.8
+      },
+      {
+        "stock_code": "603589",
+        "stock_name": "口子窖",
+        "market_value_wan": 1134.78
+      },
+      {
+        "stock_code": "601966",
+        "stock_name": "玲珑轮胎",
+        "market_value_wan": 1122.68
+      },
+      {
+        "stock_code": "601009",
+        "stock_name": "南京银行",
+        "market_value_wan": 969.6
+      },
+      {
+        "stock_code": "000063",
+        "stock_name": "中兴通讯",
+        "market_value_wan": 830.72
+      },
+      {
+        "stock_code": "002027",
+        "stock_name": "分众传媒",
+        "market_value_wan": 755.06
+      }
+    ],
+    "2020-Q3": [
+      {
+        "stock_code": "600887",
+        "stock_name": "伊利股份",
+        "market_value_wan": 1155.0
+      },
+      {
+        "stock_code": "601166",
+        "stock_name": "兴业银行",
+        "market_value_wan": 1012.8
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 917.68
+      },
+      {
+        "stock_code": "601009",
+        "stock_name": "南京银行",
+        "market_value_wan": 836.34
+      },
+      {
+        "stock_code": "000063",
+        "stock_name": "中兴通讯",
+        "market_value_wan": 802.38
+      },
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 729.63
+      },
+      {
+        "stock_code": "002027",
+        "stock_name": "分众传媒",
+        "market_value_wan": 726.3
+      },
+      {
+        "stock_code": "601877",
+        "stock_name": "正泰电器",
+        "market_value_wan": 725.05
+      },
+      {
+        "stock_code": "300132",
+        "stock_name": "青松股份",
+        "market_value_wan": 709.16
+      },
+      {
+        "stock_code": "601966",
+        "stock_name": "玲珑轮胎",
+        "market_value_wan": 674.23
+      }
+    ],
+    "2020-Q2": [
+      {
+        "stock_code": "000063",
+        "stock_name": "中兴通讯",
+        "market_value_wan": 941.14
+      },
+      {
+        "stock_code": "601166",
+        "stock_name": "兴业银行",
+        "market_value_wan": 860.01
+      },
+      {
+        "stock_code": "601009",
+        "stock_name": "南京银行",
+        "market_value_wan": 835.62
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 731.44
+      },
+      {
+        "stock_code": "601877",
+        "stock_name": "正泰电器",
+        "market_value_wan": 685.96
+      },
+      {
+        "stock_code": "600887",
+        "stock_name": "伊利股份",
+        "market_value_wan": 529.21
+      },
+      {
+        "stock_code": "688126",
+        "stock_name": "沪硅产业",
+        "market_value_wan": 484.06
+      },
+      {
+        "stock_code": "600176",
+        "stock_name": "中国巨石",
+        "market_value_wan": 430.87
+      },
+      {
+        "stock_code": "600886",
+        "stock_name": "国投电力",
+        "market_value_wan": 414.85
+      },
+      {
+        "stock_code": "688111",
+        "stock_name": "金山办公",
+        "market_value_wan": 398.25
+      }
+    ],
+    "2020-Q1": [
+      {
+        "stock_code": "601166",
+        "stock_name": "兴业银行",
+        "market_value_wan": 1162.38
+      },
+      {
+        "stock_code": "000063",
+        "stock_name": "中兴通讯",
+        "market_value_wan": 979.8
+      },
+      {
+        "stock_code": "601009",
+        "stock_name": "南京银行",
+        "market_value_wan": 979.26
+      },
+      {
+        "stock_code": "601877",
+        "stock_name": "正泰电器",
+        "market_value_wan": 615.67
+      },
+      {
+        "stock_code": "600887",
+        "stock_name": "伊利股份",
+        "market_value_wan": 597.2
+      },
+      {
+        "stock_code": "600176",
+        "stock_name": "中国巨石",
+        "market_value_wan": 593.21
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 555.5
+      },
+      {
+        "stock_code": "600886",
+        "stock_name": "国投电力",
+        "market_value_wan": 436.86
+      },
+      {
+        "stock_code": "002597",
+        "stock_name": "金禾实业",
+        "market_value_wan": 425.44
+      },
+      {
+        "stock_code": "601658",
+        "stock_name": "邮储银行",
+        "market_value_wan": 412.63
+      }
+    ]
+  }
+}

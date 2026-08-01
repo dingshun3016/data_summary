@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "005825",
+    "name": "申万菱信智能驱动股票A",
+    "base_name": "申万菱信智能驱动股票"
+  },
+  "fetched_at": "2026-06-14 23:19:26",
+  "quarters": {
+    "2019-Q4": [
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 935.79
+      },
+      {
+        "stock_code": "002624",
+        "stock_name": "完美世界",
+        "market_value_wan": 825.42
+      },
+      {
+        "stock_code": "002555",
+        "stock_name": "三七互娱",
+        "market_value_wan": 672.98
+      },
+      {
+        "stock_code": "601799",
+        "stock_name": "星宇股份",
+        "market_value_wan": 597.42
+      },
+      {
+        "stock_code": "002123",
+        "stock_name": "梦网科技",
+        "market_value_wan": 564.34
+      },
+      {
+        "stock_code": "603799",
+        "stock_name": "华友钴业",
+        "market_value_wan": 557.76
+      },
+      {
+        "stock_code": "300413",
+        "stock_name": "芒果超媒",
+        "market_value_wan": 555.44
+      },
+      {
+        "stock_code": "002142",
+        "stock_name": "宁波银行",
+        "market_value_wan": 550.61
+      },
+      {
+        "stock_code": "002463",
+        "stock_name": "沪电股份",
+        "market_value_wan": 542.37
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 532.35
+      }
+    ],
+    "2019-Q3": [
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 544.78
+      },
+      {
+        "stock_code": "601799",
+        "stock_name": "星宇股份",
+        "market_value_wan": 482.96
+      },
+      {
+        "stock_code": "002916",
+        "stock_name": "深南电路",
+        "market_value_wan": 410.72
+      },
+      {
+        "stock_code": "002463",
+        "stock_name": "沪电股份",
+        "market_value_wan": 390.04
+      },
+      {
+        "stock_code": "600183",
+        "stock_name": "生益科技",
+        "market_value_wan": 324.22
+      },
+      {
+        "stock_code": "600845",
+        "stock_name": "宝信软件",
+        "market_value_wan": 315.4
+      },
+      {
+        "stock_code": "300413",
+        "stock_name": "芒果超媒",
+        "market_value_wan": 313.0
+      },
+      {
+        "stock_code": "000001",
+        "stock_name": "平安银行",
+        "market_value_wan": 305.88
+      },
+      {
+        "stock_code": "002142",
+        "stock_name": "宁波银行",
+        "market_value_wan": 304.79
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 299.0
+      }
+    ],
+    "2019-Q2": [
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 438.04
+      },
+      {
+        "stock_code": "000063",
+        "stock_name": "中兴通讯",
+        "market_value_wan": 400.44
+      },
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 392.06
+      },
+      {
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "market_value_wan": 386.34
+      },
+      {
+        "stock_code": "000001",
+        "stock_name": "平安银行",
+        "market_value_wan": 343.54
+      },
+      {
+        "stock_code": "002916",
+        "stock_name": "深南电路",
+        "market_value_wan": 295.57
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 285.36
+      },
+      {
+        "stock_code": "600030",
+        "stock_name": "中信证券",
+        "market_value_wan": 239.53
+      },
+      {
+        "stock_code": "002142",
+        "stock_name": "宁波银行",
+        "market_value_wan": 225.92
+      },
+      {
+        "stock_code": "000651",
+        "stock_name": "格力电器",
+        "market_value_wan": 157.3
+      }
+    ],
+    "2019-Q1": [
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 310.99
+      },
+      {
+        "stock_code": "002415",
+        "stock_name": "海康威视",
+        "market_value_wan": 297.39
+      },
+      {
+        "stock_code": "000063",
+        "stock_name": "中兴通讯",
+        "market_value_wan": 238.86
+      },
+      {
+        "stock_code": "600690",
+        "stock_name": "海尔智家",
+        "market_value_wan": 225.51
+      },
+      {
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "market_value_wan": 224.59
+      },
+      {
+        "stock_code": "002142",
+        "stock_name": "宁波银行",
+        "market_value_wan": 215.59
+      },
+      {
+        "stock_code": "002384",
+        "stock_name": "东山精密",
+        "market_value_wan": 207.56
+      },
+      {
+        "stock_code": "002463",
+        "stock_name": "沪电股份",
+        "market_value_wan": 198.43
+      },
+      {
+        "stock_code": "000651",
+        "stock_name": "格力电器",
+        "market_value_wan": 196.87
+      },
+      {
+        "stock_code": "300003",
+        "stock_name": "乐普医疗",
+        "market_value_wan": 194.51
+      }
+    ]
+  }
+}

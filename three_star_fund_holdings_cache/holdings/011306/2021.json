@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "011306",
+    "name": "富国低碳新经济混合C",
+    "base_name": "富国低碳新经济混合"
+  },
+  "fetched_at": "2026-06-14 23:46:30",
+  "quarters": {
+    "2021-Q4": [
+      {
+        "stock_code": "002389",
+        "stock_name": "航天彩虹",
+        "market_value_wan": 53763.01
+      },
+      {
+        "stock_code": "002145",
+        "stock_name": "中核钛白",
+        "market_value_wan": 37238.92
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 27936.0
+      },
+      {
+        "stock_code": "002240",
+        "stock_name": "盛新锂能",
+        "market_value_wan": 24146.66
+      },
+      {
+        "stock_code": "002648",
+        "stock_name": "卫星化学",
+        "market_value_wan": 23885.77
+      },
+      {
+        "stock_code": "300573",
+        "stock_name": "兴齐眼药",
+        "market_value_wan": 21415.66
+      },
+      {
+        "stock_code": "000400",
+        "stock_name": "许继电气",
+        "market_value_wan": 17188.52
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 17048.83
+      },
+      {
+        "stock_code": "002727",
+        "stock_name": "一心堂",
+        "market_value_wan": 15483.79
+      },
+      {
+        "stock_code": "600760",
+        "stock_name": "中航沈飞",
+        "market_value_wan": 14312.47
+      }
+    ],
+    "2021-Q3": [
+      {
+        "stock_code": "002145",
+        "stock_name": "中核钛白",
+        "market_value_wan": 42041.28
+      },
+      {
+        "stock_code": "002389",
+        "stock_name": "航天彩虹",
+        "market_value_wan": 41370.83
+      },
+      {
+        "stock_code": "002648",
+        "stock_name": "卫星化学",
+        "market_value_wan": 23289.08
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 22743.18
+      },
+      {
+        "stock_code": "002240",
+        "stock_name": "盛新锂能",
+        "market_value_wan": 21344.02
+      },
+      {
+        "stock_code": "300573",
+        "stock_name": "兴齐眼药",
+        "market_value_wan": 19991.08
+      },
+      {
+        "stock_code": "300316",
+        "stock_name": "晶盛机电",
+        "market_value_wan": 16367.23
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 15219.2
+      },
+      {
+        "stock_code": "002353",
+        "stock_name": "杰瑞股份",
+        "market_value_wan": 15018.27
+      },
+      {
+        "stock_code": "601888",
+        "stock_name": "中国中免",
+        "market_value_wan": 14851.2
+      }
+    ],
+    "2021-Q2": [
+      {
+        "stock_code": "002145",
+        "stock_name": "中核钛白",
+        "market_value_wan": 51938.86
+      },
+      {
+        "stock_code": "002389",
+        "stock_name": "航天彩虹",
+        "market_value_wan": 42596.47
+      },
+      {
+        "stock_code": "603501",
+        "stock_name": "韦尔股份",
+        "market_value_wan": 27540.57
+      },
+      {
+        "stock_code": "002142",
+        "stock_name": "宁波银行",
+        "market_value_wan": 26560.49
+      },
+      {
+        "stock_code": "002648",
+        "stock_name": "卫星化学",
+        "market_value_wan": 23384.55
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 23135.55
+      },
+      {
+        "stock_code": "300573",
+        "stock_name": "兴齐眼药",
+        "market_value_wan": 22077.85
+      },
+      {
+        "stock_code": "002623",
+        "stock_name": "亚玛顿",
+        "market_value_wan": 20167.11
+      },
+      {
+        "stock_code": "002240",
+        "stock_name": "盛新锂能",
+        "market_value_wan": 20156.75
+      },
+      {
+        "stock_code": "601678",
+        "stock_name": "滨化股份",
+        "market_value_wan": 19831.33
+      }
+    ],
+    "2021-Q1": [
+      {
+        "stock_code": "002389",
+        "stock_name": "航天彩虹",
+        "market_value_wan": 40976.91
+      },
+      {
+        "stock_code": "002145",
+        "stock_name": "中核钛白",
+        "market_value_wan": 37666.57
+      },
+      {
+        "stock_code": "002142",
+        "stock_name": "宁波银行",
+        "market_value_wan": 31639.47
+      },
+      {
+        "stock_code": "603501",
+        "stock_name": "韦尔股份",
+        "market_value_wan": 21366.44
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 19259.28
+      },
+      {
+        "stock_code": "600760",
+        "stock_name": "中航沈飞",
+        "market_value_wan": 18848.9
+      },
+      {
+        "stock_code": "002438",
+        "stock_name": "江苏神通",
+        "market_value_wan": 18186.76
+      },
+      {
+        "stock_code": "002623",
+        "stock_name": "亚玛顿",
+        "market_value_wan": 16556.91
+      },
+      {
+        "stock_code": "688002",
+        "stock_name": "睿创微纳",
+        "market_value_wan": 16131.25
+      },
+      {
+        "stock_code": "603319",
+        "stock_name": "湘油泵",
+        "market_value_wan": 15140.69
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "163810",
+    "name": "中银价值混合A",
+    "base_name": "中银价值混合"
+  },
+  "fetched_at": "2026-06-14 23:53:58",
+  "quarters": {
+    "2023-Q4": [
+      {
+        "stock_code": "600030",
+        "stock_name": "中信证券",
+        "market_value_wan": 739.68
+      },
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 611.86
+      },
+      {
+        "stock_code": "601211",
+        "stock_name": "国泰君安",
+        "market_value_wan": 579.13
+      },
+      {
+        "stock_code": "000852",
+        "stock_name": "石化机械",
+        "market_value_wan": 540.15
+      },
+      {
+        "stock_code": "000776",
+        "stock_name": "广发证券",
+        "market_value_wan": 538.73
+      },
+      {
+        "stock_code": "601233",
+        "stock_name": "桐昆股份",
+        "market_value_wan": 297.46
+      },
+      {
+        "stock_code": "002271",
+        "stock_name": "东方雨虹",
+        "market_value_wan": 258.47
+      },
+      {
+        "stock_code": "600581",
+        "stock_name": "八一钢铁",
+        "market_value_wan": 249.9
+      },
+      {
+        "stock_code": "603227",
+        "stock_name": "雪峰科技",
+        "market_value_wan": 246.19
+      },
+      {
+        "stock_code": "000617",
+        "stock_name": "中油资本",
+        "market_value_wan": 241.22
+      }
+    ],
+    "2023-Q3": [
+      {
+        "stock_code": "600030",
+        "stock_name": "中信证券",
+        "market_value_wan": 786.52
+      },
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 621.38
+      },
+      {
+        "stock_code": "000852",
+        "stock_name": "石化机械",
+        "market_value_wan": 614.81
+      },
+      {
+        "stock_code": "002941",
+        "stock_name": "新疆交建",
+        "market_value_wan": 568.72
+      },
+      {
+        "stock_code": "601211",
+        "stock_name": "国泰君安",
+        "market_value_wan": 565.9
+      },
+      {
+        "stock_code": "000776",
+        "stock_name": "广发证券",
+        "market_value_wan": 553.06
+      },
+      {
+        "stock_code": "601857",
+        "stock_name": "中国石油",
+        "market_value_wan": 483.35
+      },
+      {
+        "stock_code": "002271",
+        "stock_name": "东方雨虹",
+        "market_value_wan": 359.16
+      },
+      {
+        "stock_code": "601398",
+        "stock_name": "工商银行",
+        "market_value_wan": 336.96
+      },
+      {
+        "stock_code": "603517",
+        "stock_name": "绝味食品",
+        "market_value_wan": 311.33
+      }
+    ],
+    "2023-Q2": [
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 659.9
+      },
+      {
+        "stock_code": "000776",
+        "stock_name": "广发证券",
+        "market_value_wan": 554.57
+      },
+      {
+        "stock_code": "000852",
+        "stock_name": "石化机械",
+        "market_value_wan": 513.65
+      },
+      {
+        "stock_code": "601857",
+        "stock_name": "中国石油",
+        "market_value_wan": 452.46
+      },
+      {
+        "stock_code": "600030",
+        "stock_name": "中信证券",
+        "market_value_wan": 440.14
+      },
+      {
+        "stock_code": "600028",
+        "stock_name": "中国石化",
+        "market_value_wan": 327.73
+      },
+      {
+        "stock_code": "002271",
+        "stock_name": "东方雨虹",
+        "market_value_wan": 314.09
+      },
+      {
+        "stock_code": "603517",
+        "stock_name": "绝味食品",
+        "market_value_wan": 307.77
+      },
+      {
+        "stock_code": "601618",
+        "stock_name": "中国中冶",
+        "market_value_wan": 300.41
+      },
+      {
+        "stock_code": "601211",
+        "stock_name": "国泰君安",
+        "market_value_wan": 270.57
+      }
+    ],
+    "2023-Q1": [
+      {
+        "stock_code": "600570",
+        "stock_name": "恒生电子",
+        "market_value_wan": 715.38
+      },
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 602.67
+      },
+      {
+        "stock_code": "000776",
+        "stock_name": "广发证券",
+        "market_value_wan": 563.15
+      },
+      {
+        "stock_code": "000852",
+        "stock_name": "石化机械",
+        "market_value_wan": 495.79
+      },
+      {
+        "stock_code": "600030",
+        "stock_name": "中信证券",
+        "market_value_wan": 423.16
+      },
+      {
+        "stock_code": "002271",
+        "stock_name": "东方雨虹",
+        "market_value_wan": 385.75
+      },
+      {
+        "stock_code": "000768",
+        "stock_name": "中航西飞",
+        "market_value_wan": 363.56
+      },
+      {
+        "stock_code": "603517",
+        "stock_name": "绝味食品",
+        "market_value_wan": 362.94
+      },
+      {
+        "stock_code": "601857",
+        "stock_name": "中国石油",
+        "market_value_wan": 328.97
+      },
+      {
+        "stock_code": "600893",
+        "stock_name": "航发动力",
+        "market_value_wan": 291.69
+      }
+    ]
+  }
+}

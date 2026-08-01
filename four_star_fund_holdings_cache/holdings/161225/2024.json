@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "161225",
+    "name": "国投瑞银瑞盈混合(LOF)A",
+    "base_name": "国投瑞银瑞盈混合(LOF)"
+  },
+  "fetched_at": "2026-06-14 22:42:05",
+  "quarters": {
+    "2024-Q4": [
+      {
+        "stock_code": "605196",
+        "stock_name": "华通线缆",
+        "market_value_wan": 1508.47
+      },
+      {
+        "stock_code": "002043",
+        "stock_name": "兔宝宝",
+        "market_value_wan": 1414.64
+      },
+      {
+        "stock_code": "000932",
+        "stock_name": "华菱钢铁",
+        "market_value_wan": 1368.04
+      },
+      {
+        "stock_code": "600389",
+        "stock_name": "江山股份",
+        "market_value_wan": 1223.27
+      },
+      {
+        "stock_code": "603338",
+        "stock_name": "浙江鼎力",
+        "market_value_wan": 1109.05
+      },
+      {
+        "stock_code": "002182",
+        "stock_name": "宝武镁业",
+        "market_value_wan": 961.08
+      },
+      {
+        "stock_code": "605555",
+        "stock_name": "德昌股份",
+        "market_value_wan": 946.84
+      },
+      {
+        "stock_code": "002415",
+        "stock_name": "海康威视",
+        "market_value_wan": 932.98
+      },
+      {
+        "stock_code": "000725",
+        "stock_name": "京东方A",
+        "market_value_wan": 897.54
+      },
+      {
+        "stock_code": "002352",
+        "stock_name": "顺丰控股",
+        "market_value_wan": 859.09
+      }
+    ],
+    "2024-Q3": [
+      {
+        "stock_code": "002043",
+        "stock_name": "兔宝宝",
+        "market_value_wan": 6414.18
+      },
+      {
+        "stock_code": "300747",
+        "stock_name": "锐科激光",
+        "market_value_wan": 6287.25
+      },
+      {
+        "stock_code": "600426",
+        "stock_name": "华鲁恒升",
+        "market_value_wan": 5785.58
+      },
+      {
+        "stock_code": "002182",
+        "stock_name": "宝武镁业",
+        "market_value_wan": 5673.99
+      },
+      {
+        "stock_code": "002352",
+        "stock_name": "顺丰控股",
+        "market_value_wan": 4336.18
+      },
+      {
+        "stock_code": "000725",
+        "stock_name": "京东方A",
+        "market_value_wan": 4300.32
+      },
+      {
+        "stock_code": "002415",
+        "stock_name": "海康威视",
+        "market_value_wan": 4099.87
+      },
+      {
+        "stock_code": "601601",
+        "stock_name": "中国太保",
+        "market_value_wan": 3799.35
+      },
+      {
+        "stock_code": "002594",
+        "stock_name": "比亚迪",
+        "market_value_wan": 3389.54
+      },
+      {
+        "stock_code": "300274",
+        "stock_name": "阳光电源",
+        "market_value_wan": 2888.84
+      }
+    ],
+    "2024-Q2": [
+      {
+        "stock_code": "300747",
+        "stock_name": "锐科激光",
+        "market_value_wan": 6909.49
+      },
+      {
+        "stock_code": "002182",
+        "stock_name": "宝武镁业",
+        "market_value_wan": 6393.16
+      },
+      {
+        "stock_code": "002043",
+        "stock_name": "兔宝宝",
+        "market_value_wan": 6388.04
+      },
+      {
+        "stock_code": "600426",
+        "stock_name": "华鲁恒升",
+        "market_value_wan": 5315.16
+      },
+      {
+        "stock_code": "002415",
+        "stock_name": "海康威视",
+        "market_value_wan": 4797.24
+      },
+      {
+        "stock_code": "002332",
+        "stock_name": "仙琚制药",
+        "market_value_wan": 4148.56
+      },
+      {
+        "stock_code": "002352",
+        "stock_name": "顺丰控股",
+        "market_value_wan": 3984.16
+      },
+      {
+        "stock_code": "002594",
+        "stock_name": "比亚迪",
+        "market_value_wan": 3701.12
+      },
+      {
+        "stock_code": "601601",
+        "stock_name": "中国太保",
+        "market_value_wan": 3627.09
+      },
+      {
+        "stock_code": "000725",
+        "stock_name": "京东方A",
+        "market_value_wan": 3623.37
+      }
+    ],
+    "2024-Q1": [
+      {
+        "stock_code": "002182",
+        "stock_name": "宝武镁业",
+        "market_value_wan": 9715.0
+      },
+      {
+        "stock_code": "300747",
+        "stock_name": "锐科激光",
+        "market_value_wan": 8879.74
+      },
+      {
+        "stock_code": "600426",
+        "stock_name": "华鲁恒升",
+        "market_value_wan": 8407.51
+      },
+      {
+        "stock_code": "002352",
+        "stock_name": "顺丰控股",
+        "market_value_wan": 7930.19
+      },
+      {
+        "stock_code": "000661",
+        "stock_name": "长春高新",
+        "market_value_wan": 7456.56
+      },
+      {
+        "stock_code": "601985",
+        "stock_name": "中国核电",
+        "market_value_wan": 6948.56
+      },
+      {
+        "stock_code": "002043",
+        "stock_name": "兔宝宝",
+        "market_value_wan": 5932.19
+      },
+      {
+        "stock_code": "002415",
+        "stock_name": "海康威视",
+        "market_value_wan": 5812.28
+      },
+      {
+        "stock_code": "601117",
+        "stock_name": "中国化学",
+        "market_value_wan": 5305.3
+      },
+      {
+        "stock_code": "600195",
+        "stock_name": "中牧股份",
+        "market_value_wan": 5094.98
+      }
+    ]
+  }
+}

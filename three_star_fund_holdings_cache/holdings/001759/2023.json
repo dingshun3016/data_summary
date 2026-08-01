@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "001759",
+    "name": "嘉实成长增强混合",
+    "base_name": "嘉实成长增强混合"
+  },
+  "fetched_at": "2026-06-14 23:00:48",
+  "quarters": {
+    "2023-Q4": [
+      {
+        "stock_code": "601567",
+        "stock_name": "三星医疗",
+        "market_value_wan": 5214.95
+      },
+      {
+        "stock_code": "002028",
+        "stock_name": "思源电气",
+        "market_value_wan": 3783.83
+      },
+      {
+        "stock_code": "002410",
+        "stock_name": "广联达",
+        "market_value_wan": 3542.59
+      },
+      {
+        "stock_code": "688581",
+        "stock_name": "安杰思",
+        "market_value_wan": 3498.95
+      },
+      {
+        "stock_code": "000963",
+        "stock_name": "华东医药",
+        "market_value_wan": 3057.68
+      },
+      {
+        "stock_code": "688016",
+        "stock_name": "心脉医疗",
+        "market_value_wan": 2893.37
+      },
+      {
+        "stock_code": "688227",
+        "stock_name": "品高股份",
+        "market_value_wan": 2838.83
+      },
+      {
+        "stock_code": "605555",
+        "stock_name": "德昌股份",
+        "market_value_wan": 2550.09
+      },
+      {
+        "stock_code": "600861",
+        "stock_name": "北京人力",
+        "market_value_wan": 2445.55
+      },
+      {
+        "stock_code": "603556",
+        "stock_name": "海兴电力",
+        "market_value_wan": 2296.85
+      }
+    ],
+    "2023-Q3": [
+      {
+        "stock_code": "002415",
+        "stock_name": "海康威视",
+        "market_value_wan": 5360.0
+      },
+      {
+        "stock_code": "002410",
+        "stock_name": "广联达",
+        "market_value_wan": 4444.14
+      },
+      {
+        "stock_code": "601567",
+        "stock_name": "三星医疗",
+        "market_value_wan": 3780.15
+      },
+      {
+        "stock_code": "688118",
+        "stock_name": "普元信息",
+        "market_value_wan": 3281.11
+      },
+      {
+        "stock_code": "600861",
+        "stock_name": "北京人力",
+        "market_value_wan": 3053.71
+      },
+      {
+        "stock_code": "300496",
+        "stock_name": "中科创达",
+        "market_value_wan": 2968.19
+      },
+      {
+        "stock_code": "603927",
+        "stock_name": "中科软",
+        "market_value_wan": 2888.54
+      },
+      {
+        "stock_code": "688227",
+        "stock_name": "品高股份",
+        "market_value_wan": 2680.38
+      },
+      {
+        "stock_code": "688369",
+        "stock_name": "致远互联",
+        "market_value_wan": 2234.92
+      },
+      {
+        "stock_code": "300855",
+        "stock_name": "图南股份",
+        "market_value_wan": 2141.2
+      }
+    ],
+    "2023-Q2": [
+      {
+        "stock_code": "002415",
+        "stock_name": "海康威视",
+        "market_value_wan": 5066.82
+      },
+      {
+        "stock_code": "002410",
+        "stock_name": "广联达",
+        "market_value_wan": 5040.8
+      },
+      {
+        "stock_code": "300496",
+        "stock_name": "中科创达",
+        "market_value_wan": 4975.94
+      },
+      {
+        "stock_code": "688118",
+        "stock_name": "普元信息",
+        "market_value_wan": 3762.75
+      },
+      {
+        "stock_code": "603039",
+        "stock_name": "泛微网络",
+        "market_value_wan": 3682.18
+      },
+      {
+        "stock_code": "603927",
+        "stock_name": "中科软",
+        "market_value_wan": 3622.91
+      },
+      {
+        "stock_code": "688369",
+        "stock_name": "致远互联",
+        "market_value_wan": 3172.74
+      },
+      {
+        "stock_code": "688617",
+        "stock_name": "惠泰医疗",
+        "market_value_wan": 2831.31
+      },
+      {
+        "stock_code": "688283",
+        "stock_name": "坤恒顺维",
+        "market_value_wan": 2802.31
+      },
+      {
+        "stock_code": "688227",
+        "stock_name": "品高股份",
+        "market_value_wan": 2598.33
+      }
+    ],
+    "2023-Q1": [
+      {
+        "stock_code": "002410",
+        "stock_name": "广联达",
+        "market_value_wan": 5769.79
+      },
+      {
+        "stock_code": "300496",
+        "stock_name": "中科创达",
+        "market_value_wan": 5325.88
+      },
+      {
+        "stock_code": "002415",
+        "stock_name": "海康威视",
+        "market_value_wan": 5289.84
+      },
+      {
+        "stock_code": "603039",
+        "stock_name": "泛微网络",
+        "market_value_wan": 4878.41
+      },
+      {
+        "stock_code": "688118",
+        "stock_name": "普元信息",
+        "market_value_wan": 3792.65
+      },
+      {
+        "stock_code": "688369",
+        "stock_name": "致远互联",
+        "market_value_wan": 3307.33
+      },
+      {
+        "stock_code": "688617",
+        "stock_name": "惠泰医疗",
+        "market_value_wan": 3131.91
+      },
+      {
+        "stock_code": "603927",
+        "stock_name": "中科软",
+        "market_value_wan": 3068.18
+      },
+      {
+        "stock_code": "300286",
+        "stock_name": "安科瑞",
+        "market_value_wan": 2950.74
+      },
+      {
+        "stock_code": "688023",
+        "stock_name": "安恒信息",
+        "market_value_wan": 2624.58
+      }
+    ]
+  }
+}

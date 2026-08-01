@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "210002",
+    "name": "金鹰红利价值混合A",
+    "base_name": "金鹰红利价值混合"
+  },
+  "fetched_at": "2026-06-14 23:56:04",
+  "quarters": {
+    "2019-Q4": [
+      {
+        "stock_code": "000002",
+        "stock_name": "万科A",
+        "market_value_wan": 970.55
+      },
+      {
+        "stock_code": "600201",
+        "stock_name": "生物股份",
+        "market_value_wan": 896.5
+      },
+      {
+        "stock_code": "002415",
+        "stock_name": "海康威视",
+        "market_value_wan": 883.65
+      },
+      {
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "market_value_wan": 822.98
+      },
+      {
+        "stock_code": "688023",
+        "stock_name": "安恒信息",
+        "market_value_wan": 403.61
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 378.56
+      },
+      {
+        "stock_code": "000423",
+        "stock_name": "东阿阿胶",
+        "market_value_wan": 352.64
+      },
+      {
+        "stock_code": "000786",
+        "stock_name": "北新建材",
+        "market_value_wan": 331.1
+      },
+      {
+        "stock_code": "600887",
+        "stock_name": "伊利股份",
+        "market_value_wan": 323.94
+      },
+      {
+        "stock_code": "603517",
+        "stock_name": "绝味食品",
+        "market_value_wan": 311.68
+      }
+    ],
+    "2019-Q3": [
+      {
+        "stock_code": "600201",
+        "stock_name": "生物股份",
+        "market_value_wan": 965.77
+      },
+      {
+        "stock_code": "000002",
+        "stock_name": "万科A",
+        "market_value_wan": 703.19
+      },
+      {
+        "stock_code": "600048",
+        "stock_name": "保利发展",
+        "market_value_wan": 702.27
+      },
+      {
+        "stock_code": "600383",
+        "stock_name": "金地集团",
+        "market_value_wan": 695.31
+      },
+      {
+        "stock_code": "002180",
+        "stock_name": "纳思达",
+        "market_value_wan": 594.4
+      },
+      {
+        "stock_code": "600887",
+        "stock_name": "伊利股份",
+        "market_value_wan": 593.22
+      },
+      {
+        "stock_code": "600276",
+        "stock_name": "恒瑞医药",
+        "market_value_wan": 508.28
+      },
+      {
+        "stock_code": "300724",
+        "stock_name": "捷佳伟创",
+        "market_value_wan": 475.96
+      },
+      {
+        "stock_code": "002466",
+        "stock_name": "天齐锂业",
+        "market_value_wan": 403.1
+      },
+      {
+        "stock_code": "002460",
+        "stock_name": "赣锋锂业",
+        "market_value_wan": 341.33
+      }
+    ],
+    "2019-Q2": [
+      {
+        "stock_code": "600961",
+        "stock_name": "株冶集团",
+        "market_value_wan": 958.05
+      },
+      {
+        "stock_code": "002075",
+        "stock_name": "沙钢股份",
+        "market_value_wan": 784.0
+      },
+      {
+        "stock_code": "603859",
+        "stock_name": "能科科技",
+        "market_value_wan": 458.85
+      },
+      {
+        "stock_code": "002398",
+        "stock_name": "垒知集团",
+        "market_value_wan": 353.1
+      },
+      {
+        "stock_code": "002155",
+        "stock_name": "湖南黄金",
+        "market_value_wan": 251.75
+      },
+      {
+        "stock_code": "601818",
+        "stock_name": "光大银行",
+        "market_value_wan": 190.5
+      },
+      {
+        "stock_code": "300363",
+        "stock_name": "博腾股份",
+        "market_value_wan": 183.79
+      },
+      {
+        "stock_code": "002019",
+        "stock_name": "亿帆医药",
+        "market_value_wan": 179.34
+      },
+      {
+        "stock_code": "000761",
+        "stock_name": "本钢板材",
+        "market_value_wan": 172.0
+      },
+      {
+        "stock_code": "000895",
+        "stock_name": "双汇发展",
+        "market_value_wan": 149.34
+      }
+    ],
+    "2019-Q1": [
+      {
+        "stock_code": "600961",
+        "stock_name": "株冶集团",
+        "market_value_wan": 1510.46
+      },
+      {
+        "stock_code": "002075",
+        "stock_name": "沙钢股份",
+        "market_value_wan": 999.0
+      },
+      {
+        "stock_code": "603859",
+        "stock_name": "能科科技",
+        "market_value_wan": 617.76
+      },
+      {
+        "stock_code": "300363",
+        "stock_name": "博腾股份",
+        "market_value_wan": 501.15
+      },
+      {
+        "stock_code": "300473",
+        "stock_name": "德尔股份",
+        "market_value_wan": 444.47
+      },
+      {
+        "stock_code": "300609",
+        "stock_name": "汇纳科技",
+        "market_value_wan": 346.51
+      },
+      {
+        "stock_code": "000681",
+        "stock_name": "视觉中国",
+        "market_value_wan": 265.45
+      },
+      {
+        "stock_code": "002155",
+        "stock_name": "湖南黄金",
+        "market_value_wan": 212.75
+      },
+      {
+        "stock_code": "002019",
+        "stock_name": "亿帆医药",
+        "market_value_wan": 198.75
+      },
+      {
+        "stock_code": "300201",
+        "stock_name": "海伦哲",
+        "market_value_wan": 175.2
+      }
+    ]
+  }
+}

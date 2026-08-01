@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "550002",
+    "name": "中信保诚精萃成长混合A",
+    "base_name": "中信保诚精萃成长混合"
+  },
+  "fetched_at": "2026-06-15 00:05:37",
+  "quarters": {
+    "2020-Q4": [
+      {
+        "stock_code": "603799",
+        "stock_name": "华友钴业",
+        "market_value_wan": 12688.0
+      },
+      {
+        "stock_code": "600588",
+        "stock_name": "用友网络",
+        "market_value_wan": 10967.3
+      },
+      {
+        "stock_code": "002352",
+        "stock_name": "顺丰控股",
+        "market_value_wan": 8822.96
+      },
+      {
+        "stock_code": "600690",
+        "stock_name": "海尔智家",
+        "market_value_wan": 8762.2
+      },
+      {
+        "stock_code": "300014",
+        "stock_name": "亿纬锂能",
+        "market_value_wan": 8150.0
+      },
+      {
+        "stock_code": "000516",
+        "stock_name": "国际医学",
+        "market_value_wan": 7542.0
+      },
+      {
+        "stock_code": "002001",
+        "stock_name": "新和成",
+        "market_value_wan": 7409.6
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 6993.0
+      },
+      {
+        "stock_code": "300059",
+        "stock_name": "东方财富",
+        "market_value_wan": 6819.7
+      },
+      {
+        "stock_code": "002920",
+        "stock_name": "德赛西威",
+        "market_value_wan": 6731.2
+      }
+    ],
+    "2020-Q3": [
+      {
+        "stock_code": "002001",
+        "stock_name": "新和成",
+        "market_value_wan": 6404.85
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 6276.0
+      },
+      {
+        "stock_code": "600588",
+        "stock_name": "用友网络",
+        "market_value_wan": 5922.18
+      },
+      {
+        "stock_code": "600745",
+        "stock_name": "闻泰科技",
+        "market_value_wan": 5257.34
+      },
+      {
+        "stock_code": "002624",
+        "stock_name": "完美世界",
+        "market_value_wan": 4995.0
+      },
+      {
+        "stock_code": "300037",
+        "stock_name": "新宙邦",
+        "market_value_wan": 4853.5
+      },
+      {
+        "stock_code": "601965",
+        "stock_name": "中国汽研",
+        "market_value_wan": 4638.14
+      },
+      {
+        "stock_code": "002920",
+        "stock_name": "德赛西威",
+        "market_value_wan": 4618.25
+      },
+      {
+        "stock_code": "600570",
+        "stock_name": "恒生电子",
+        "market_value_wan": 4436.55
+      },
+      {
+        "stock_code": "300832",
+        "stock_name": "新产业",
+        "market_value_wan": 4334.33
+      }
+    ],
+    "2020-Q2": [
+      {
+        "stock_code": "002001",
+        "stock_name": "新和成",
+        "market_value_wan": 10185.0
+      },
+      {
+        "stock_code": "002624",
+        "stock_name": "完美世界",
+        "market_value_wan": 6916.8
+      },
+      {
+        "stock_code": "002920",
+        "stock_name": "德赛西威",
+        "market_value_wan": 6439.65
+      },
+      {
+        "stock_code": "000063",
+        "stock_name": "中兴通讯",
+        "market_value_wan": 6020.7
+      },
+      {
+        "stock_code": "600570",
+        "stock_name": "恒生电子",
+        "market_value_wan": 5923.5
+      },
+      {
+        "stock_code": "002602",
+        "stock_name": "世纪华通",
+        "market_value_wan": 5817.8
+      },
+      {
+        "stock_code": "300037",
+        "stock_name": "新宙邦",
+        "market_value_wan": 5781.3
+      },
+      {
+        "stock_code": "600588",
+        "stock_name": "用友网络",
+        "market_value_wan": 5512.28
+      },
+      {
+        "stock_code": "300832",
+        "stock_name": "新产业",
+        "market_value_wan": 4648.39
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 4359.0
+      }
+    ],
+    "2020-Q1": [
+      {
+        "stock_code": "002001",
+        "stock_name": "新和成",
+        "market_value_wan": 8190.0
+      },
+      {
+        "stock_code": "000002",
+        "stock_name": "万科A",
+        "market_value_wan": 6412.5
+      },
+      {
+        "stock_code": "002602",
+        "stock_name": "世纪华通",
+        "market_value_wan": 6174.84
+      },
+      {
+        "stock_code": "000063",
+        "stock_name": "中兴通讯",
+        "market_value_wan": 5993.28
+      },
+      {
+        "stock_code": "002624",
+        "stock_name": "完美世界",
+        "market_value_wan": 5705.34
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 5555.0
+      },
+      {
+        "stock_code": "300003",
+        "stock_name": "乐普医疗",
+        "market_value_wan": 4708.6
+      },
+      {
+        "stock_code": "300036",
+        "stock_name": "超图软件",
+        "market_value_wan": 4532.0
+      },
+      {
+        "stock_code": "300188",
+        "stock_name": "国投智能",
+        "market_value_wan": 4472.6
+      },
+      {
+        "stock_code": "600161",
+        "stock_name": "天坛生物",
+        "market_value_wan": 4001.67
+      }
+    ]
+  }
+}

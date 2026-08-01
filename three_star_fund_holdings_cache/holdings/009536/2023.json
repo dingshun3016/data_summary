@@ -1,0 +1,129 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "009536",
+    "name": "汇添富稳健增益一年持有混合A",
+    "base_name": "汇添富稳健增益一年持有混合"
+  },
+  "fetched_at": "2026-06-14 23:34:09",
+  "quarters": {
+    "2023-Q4": [
+      {
+        "stock_code": "002262",
+        "stock_name": "恩华药业",
+        "market_value_wan": 1030.56
+      },
+      {
+        "stock_code": "600765",
+        "stock_name": "中航重机",
+        "market_value_wan": 955.5
+      },
+      {
+        "stock_code": "600079",
+        "stock_name": "人福医药",
+        "market_value_wan": 497.2
+      },
+      {
+        "stock_code": "688239",
+        "stock_name": "航宇科技",
+        "market_value_wan": 233.69
+      }
+    ],
+    "2023-Q3": [
+      {
+        "stock_code": "002262",
+        "stock_name": "恩华药业",
+        "market_value_wan": 1484.56
+      },
+      {
+        "stock_code": "600765",
+        "stock_name": "中航重机",
+        "market_value_wan": 1464.13
+      },
+      {
+        "stock_code": "688239",
+        "stock_name": "航宇科技",
+        "market_value_wan": 504.66
+      }
+    ],
+    "2023-Q2": [
+      {
+        "stock_code": "600765",
+        "stock_name": "中航重机",
+        "market_value_wan": 1564.09
+      },
+      {
+        "stock_code": "002262",
+        "stock_name": "恩华药业",
+        "market_value_wan": 1418.18
+      },
+      {
+        "stock_code": "000858",
+        "stock_name": "五粮液",
+        "market_value_wan": 654.28
+      },
+      {
+        "stock_code": "688239",
+        "stock_name": "航宇科技",
+        "market_value_wan": 623.25
+      },
+      {
+        "stock_code": "688566",
+        "stock_name": "吉贝尔",
+        "market_value_wan": 234.06
+      },
+      {
+        "stock_code": "600197",
+        "stock_name": "伊力特",
+        "market_value_wan": 135.85
+      }
+    ],
+    "2023-Q1": [
+      {
+        "stock_code": "600765",
+        "stock_name": "中航重机",
+        "market_value_wan": 1227.0
+      },
+      {
+        "stock_code": "002262",
+        "stock_name": "恩华药业",
+        "market_value_wan": 1212.1
+      },
+      {
+        "stock_code": "300855",
+        "stock_name": "图南股份",
+        "market_value_wan": 683.85
+      },
+      {
+        "stock_code": "688239",
+        "stock_name": "航宇科技",
+        "market_value_wan": 668.7
+      },
+      {
+        "stock_code": "300015",
+        "stock_name": "爱尔眼科",
+        "market_value_wan": 652.47
+      },
+      {
+        "stock_code": "600197",
+        "stock_name": "伊力特",
+        "market_value_wan": 273.7
+      },
+      {
+        "stock_code": "688459",
+        "stock_name": "哈铁科技",
+        "market_value_wan": 16.64
+      },
+      {
+        "stock_code": "600925",
+        "stock_name": "苏能股份",
+        "market_value_wan": 6.13
+      },
+      {
+        "stock_code": "001311",
+        "stock_name": "多利科技",
+        "market_value_wan": 4.71
+      }
+    ]
+  }
+}

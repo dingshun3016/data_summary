@@ -1,0 +1,80 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "008134",
+    "name": "鹏华优选价值股票A",
+    "base_name": "鹏华优选价值股票"
+  },
+  "fetched_at": "2026-08-01 20:57:36",
+  "quarters": {
+    "2026-Q2": [
+      {
+        "stock_code": "601838",
+        "stock_name": "成都银行",
+        "market_value_wan": 22318.01
+      },
+      {
+        "stock_code": "000001",
+        "stock_name": "平安银行",
+        "market_value_wan": 11553.95
+      },
+      {
+        "stock_code": "600060",
+        "stock_name": "海信视像",
+        "market_value_wan": 11069.13
+      },
+      {
+        "stock_code": "600809",
+        "stock_name": "山西汾酒",
+        "market_value_wan": 10787.98
+      },
+      {
+        "stock_code": "600885",
+        "stock_name": "宏发股份",
+        "market_value_wan": 9562.57
+      },
+      {
+        "stock_code": "000921",
+        "stock_name": "海信家电",
+        "market_value_wan": 9233.34
+      },
+      {
+        "stock_code": "603298",
+        "stock_name": "杭叉集团",
+        "market_value_wan": 7090.24
+      }
+    ],
+    "2026-Q1": [
+      {
+        "stock_code": "000858",
+        "stock_name": "五粮液",
+        "market_value_wan": 32007.51
+      },
+      {
+        "stock_code": "601838",
+        "stock_name": "成都银行",
+        "market_value_wan": 27401.66
+      },
+      {
+        "stock_code": "000001",
+        "stock_name": "平安银行",
+        "market_value_wan": 14504.68
+      },
+      {
+        "stock_code": "600809",
+        "stock_name": "山西汾酒",
+        "market_value_wan": 14111.08
+      },
+      {
+        "stock_code": "002142",
+        "stock_name": "宁波银行",
+        "market_value_wan": 12337.0
+      },
+      {
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "market_value_wan": 11688.66
+      }
+    ]
+  }
+}

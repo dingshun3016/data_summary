@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "165531",
+    "name": "中信保诚多策略混合(LOF)A",
+    "base_name": "中信保诚多策略混合(LOF)"
+  },
+  "fetched_at": "2026-06-14 23:54:21",
+  "quarters": {
+    "2021-Q4": [
+      {
+        "stock_code": "600941",
+        "stock_name": "中国移动",
+        "market_value_wan": 431.17
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 348.5
+      },
+      {
+        "stock_code": "000858",
+        "stock_name": "五粮液",
+        "market_value_wan": 289.46
+      },
+      {
+        "stock_code": "600690",
+        "stock_name": "海尔智家",
+        "market_value_wan": 239.12
+      },
+      {
+        "stock_code": "002179",
+        "stock_name": "中航光电",
+        "market_value_wan": 232.29
+      },
+      {
+        "stock_code": "600887",
+        "stock_name": "伊利股份",
+        "market_value_wan": 228.03
+      },
+      {
+        "stock_code": "002027",
+        "stock_name": "分众传媒",
+        "market_value_wan": 204.75
+      },
+      {
+        "stock_code": "603288",
+        "stock_name": "海天味业",
+        "market_value_wan": 199.71
+      },
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 191.91
+      },
+      {
+        "stock_code": "603369",
+        "stock_name": "今世缘",
+        "market_value_wan": 190.4
+      }
+    ],
+    "2021-Q3": [
+      {
+        "stock_code": "600905",
+        "stock_name": "三峡能源",
+        "market_value_wan": 636.62
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 219.6
+      },
+      {
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "market_value_wan": 191.71
+      },
+      {
+        "stock_code": "600438",
+        "stock_name": "通威股份",
+        "market_value_wan": 152.82
+      },
+      {
+        "stock_code": "600426",
+        "stock_name": "华鲁恒升",
+        "market_value_wan": 148.19
+      },
+      {
+        "stock_code": "603799",
+        "stock_name": "华友钴业",
+        "market_value_wan": 134.42
+      },
+      {
+        "stock_code": "600309",
+        "stock_name": "万华化学",
+        "market_value_wan": 120.63
+      },
+      {
+        "stock_code": "601168",
+        "stock_name": "西部矿业",
+        "market_value_wan": 112.48
+      },
+      {
+        "stock_code": "600584",
+        "stock_name": "长电科技",
+        "market_value_wan": 109.04
+      },
+      {
+        "stock_code": "603259",
+        "stock_name": "药明康德",
+        "market_value_wan": 106.96
+      }
+    ],
+    "2021-Q2": [
+      {
+        "stock_code": "600905",
+        "stock_name": "三峡能源",
+        "market_value_wan": 521.06
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 185.1
+      },
+      {
+        "stock_code": "000858",
+        "stock_name": "五粮液",
+        "market_value_wan": 163.84
+      },
+      {
+        "stock_code": "601888",
+        "stock_name": "中国中免",
+        "market_value_wan": 135.05
+      },
+      {
+        "stock_code": "603259",
+        "stock_name": "药明康德",
+        "market_value_wan": 131.85
+      },
+      {
+        "stock_code": "603517",
+        "stock_name": "绝味食品",
+        "market_value_wan": 129.81
+      },
+      {
+        "stock_code": "002142",
+        "stock_name": "宁波银行",
+        "market_value_wan": 111.45
+      },
+      {
+        "stock_code": "002415",
+        "stock_name": "海康威视",
+        "market_value_wan": 109.65
+      },
+      {
+        "stock_code": "002460",
+        "stock_name": "赣锋锂业",
+        "market_value_wan": 108.98
+      },
+      {
+        "stock_code": "000568",
+        "stock_name": "泸州老窖",
+        "market_value_wan": 106.17
+      }
+    ],
+    "2021-Q1": [
+      {
+        "stock_code": "601818",
+        "stock_name": "光大银行",
+        "market_value_wan": 367.2
+      },
+      {
+        "stock_code": "601166",
+        "stock_name": "兴业银行",
+        "market_value_wan": 192.72
+      },
+      {
+        "stock_code": "600276",
+        "stock_name": "恒瑞医药",
+        "market_value_wan": 184.18
+      },
+      {
+        "stock_code": "601988",
+        "stock_name": "中国银行",
+        "market_value_wan": 167.5
+      },
+      {
+        "stock_code": "601995",
+        "stock_name": "中金公司",
+        "market_value_wan": 118.34
+      },
+      {
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "market_value_wan": 118.05
+      },
+      {
+        "stock_code": "601601",
+        "stock_name": "中国太保",
+        "market_value_wan": 113.52
+      },
+      {
+        "stock_code": "600048",
+        "stock_name": "保利发展",
+        "market_value_wan": 106.73
+      },
+      {
+        "stock_code": "601229",
+        "stock_name": "上海银行",
+        "market_value_wan": 105.48
+      },
+      {
+        "stock_code": "601288",
+        "stock_name": "农业银行",
+        "market_value_wan": 102.0
+      }
+    ]
+  }
+}

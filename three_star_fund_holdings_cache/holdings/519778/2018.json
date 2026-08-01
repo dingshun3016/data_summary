@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "519778",
+    "name": "交银经济新动力混合A",
+    "base_name": "交银经济新动力混合"
+  },
+  "fetched_at": "2026-06-15 00:04:44",
+  "quarters": {
+    "2018-Q4": [
+      {
+        "stock_code": "300014",
+        "stock_name": "亿纬锂能",
+        "market_value_wan": 865.66
+      },
+      {
+        "stock_code": "603160",
+        "stock_name": "汇顶科技",
+        "market_value_wan": 693.95
+      },
+      {
+        "stock_code": "600048",
+        "stock_name": "保利发展",
+        "market_value_wan": 692.19
+      },
+      {
+        "stock_code": "601155",
+        "stock_name": "新城控股",
+        "market_value_wan": 636.79
+      },
+      {
+        "stock_code": "000661",
+        "stock_name": "长春高新",
+        "market_value_wan": 609.04
+      },
+      {
+        "stock_code": "603505",
+        "stock_name": "金石资源",
+        "market_value_wan": 409.52
+      },
+      {
+        "stock_code": "603713",
+        "stock_name": "密尔克卫",
+        "market_value_wan": 337.59
+      },
+      {
+        "stock_code": "601231",
+        "stock_name": "环旭电子",
+        "market_value_wan": 330.72
+      },
+      {
+        "stock_code": "002407",
+        "stock_name": "多氟多",
+        "market_value_wan": 312.91
+      },
+      {
+        "stock_code": "300207",
+        "stock_name": "欣旺达",
+        "market_value_wan": 227.81
+      }
+    ],
+    "2018-Q3": [
+      {
+        "stock_code": "300014",
+        "stock_name": "亿纬锂能",
+        "market_value_wan": 1138.66
+      },
+      {
+        "stock_code": "000661",
+        "stock_name": "长春高新",
+        "market_value_wan": 1080.44
+      },
+      {
+        "stock_code": "300602",
+        "stock_name": "飞荣达",
+        "market_value_wan": 1065.94
+      },
+      {
+        "stock_code": "601231",
+        "stock_name": "环旭电子",
+        "market_value_wan": 890.02
+      },
+      {
+        "stock_code": "601100",
+        "stock_name": "恒立液压",
+        "market_value_wan": 859.81
+      },
+      {
+        "stock_code": "600048",
+        "stock_name": "保利发展",
+        "market_value_wan": 655.84
+      },
+      {
+        "stock_code": "601155",
+        "stock_name": "新城控股",
+        "market_value_wan": 642.18
+      },
+      {
+        "stock_code": "603160",
+        "stock_name": "汇顶科技",
+        "market_value_wan": 621.41
+      },
+      {
+        "stock_code": "002463",
+        "stock_name": "沪电股份",
+        "market_value_wan": 598.16
+      },
+      {
+        "stock_code": "002436",
+        "stock_name": "兴森科技",
+        "market_value_wan": 445.22
+      }
+    ],
+    "2018-Q2": [
+      {
+        "stock_code": "300014",
+        "stock_name": "亿纬锂能",
+        "market_value_wan": 1411.29
+      },
+      {
+        "stock_code": "600217",
+        "stock_name": "中再资环",
+        "market_value_wan": 1371.79
+      },
+      {
+        "stock_code": "601100",
+        "stock_name": "恒立液压",
+        "market_value_wan": 1303.72
+      },
+      {
+        "stock_code": "000661",
+        "stock_name": "长春高新",
+        "market_value_wan": 1216.58
+      },
+      {
+        "stock_code": "300602",
+        "stock_name": "飞荣达",
+        "market_value_wan": 1078.41
+      },
+      {
+        "stock_code": "600048",
+        "stock_name": "保利发展",
+        "market_value_wan": 837.18
+      },
+      {
+        "stock_code": "601231",
+        "stock_name": "环旭电子",
+        "market_value_wan": 782.02
+      },
+      {
+        "stock_code": "603005",
+        "stock_name": "晶方科技",
+        "market_value_wan": 774.22
+      },
+      {
+        "stock_code": "600690",
+        "stock_name": "海尔智家",
+        "market_value_wan": 774.09
+      },
+      {
+        "stock_code": "002709",
+        "stock_name": "天赐材料",
+        "market_value_wan": 697.3
+      }
+    ],
+    "2018-Q1": [
+      {
+        "stock_code": "601100",
+        "stock_name": "恒立液压",
+        "market_value_wan": 6175.52
+      },
+      {
+        "stock_code": "601877",
+        "stock_name": "正泰电器",
+        "market_value_wan": 3973.72
+      },
+      {
+        "stock_code": "002624",
+        "stock_name": "完美世界",
+        "market_value_wan": 3277.36
+      },
+      {
+        "stock_code": "300012",
+        "stock_name": "华测检测",
+        "market_value_wan": 2901.67
+      },
+      {
+        "stock_code": "002709",
+        "stock_name": "天赐材料",
+        "market_value_wan": 2673.39
+      },
+      {
+        "stock_code": "603638",
+        "stock_name": "艾迪精密",
+        "market_value_wan": 2665.93
+      },
+      {
+        "stock_code": "600967",
+        "stock_name": "内蒙一机",
+        "market_value_wan": 2646.61
+      },
+      {
+        "stock_code": "300129",
+        "stock_name": "泰胜风能",
+        "market_value_wan": 2264.7
+      },
+      {
+        "stock_code": "300602",
+        "stock_name": "飞荣达",
+        "market_value_wan": 2201.62
+      },
+      {
+        "stock_code": "300600",
+        "stock_name": "ST瑞科",
+        "market_value_wan": 1817.19
+      }
+    ]
+  }
+}

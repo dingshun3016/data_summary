@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "005009",
+    "name": "申万菱信行业轮动股票A",
+    "base_name": "申万菱信行业轮动股票"
+  },
+  "fetched_at": "2026-06-14 23:16:00",
+  "quarters": {
+    "2024-Q4": [
+      {
+        "stock_code": "600873",
+        "stock_name": "梅花生物",
+        "market_value_wan": 317.95
+      },
+      {
+        "stock_code": "600160",
+        "stock_name": "巨化股份",
+        "market_value_wan": 251.57
+      },
+      {
+        "stock_code": "603227",
+        "stock_name": "雪峰科技",
+        "market_value_wan": 229.07
+      },
+      {
+        "stock_code": "601899",
+        "stock_name": "紫金矿业",
+        "market_value_wan": 220.6
+      },
+      {
+        "stock_code": "000400",
+        "stock_name": "许继电气",
+        "market_value_wan": 220.24
+      },
+      {
+        "stock_code": "601117",
+        "stock_name": "中国化学",
+        "market_value_wan": 160.66
+      },
+      {
+        "stock_code": "000807",
+        "stock_name": "云铝股份",
+        "market_value_wan": 158.3
+      },
+      {
+        "stock_code": "603871",
+        "stock_name": "嘉友国际",
+        "market_value_wan": 136.03
+      },
+      {
+        "stock_code": "000932",
+        "stock_name": "华菱钢铁",
+        "market_value_wan": 135.39
+      },
+      {
+        "stock_code": "002541",
+        "stock_name": "鸿路钢构",
+        "market_value_wan": 133.04
+      }
+    ],
+    "2024-Q3": [
+      {
+        "stock_code": "600900",
+        "stock_name": "长江电力",
+        "market_value_wan": 319.91
+      },
+      {
+        "stock_code": "603993",
+        "stock_name": "洛阳钼业",
+        "market_value_wan": 273.53
+      },
+      {
+        "stock_code": "601899",
+        "stock_name": "紫金矿业",
+        "market_value_wan": 241.81
+      },
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 192.53
+      },
+      {
+        "stock_code": "000400",
+        "stock_name": "许继电气",
+        "market_value_wan": 186.68
+      },
+      {
+        "stock_code": "600729",
+        "stock_name": "重庆百货",
+        "market_value_wan": 180.71
+      },
+      {
+        "stock_code": "000792",
+        "stock_name": "盐湖股份",
+        "market_value_wan": 173.35
+      },
+      {
+        "stock_code": "600000",
+        "stock_name": "浦发银行",
+        "market_value_wan": 156.31
+      },
+      {
+        "stock_code": "603606",
+        "stock_name": "东方电缆",
+        "market_value_wan": 142.89
+      },
+      {
+        "stock_code": "603444",
+        "stock_name": "吉比特",
+        "market_value_wan": 134.31
+      }
+    ],
+    "2024-Q2": [
+      {
+        "stock_code": "600900",
+        "stock_name": "长江电力",
+        "market_value_wan": 325.23
+      },
+      {
+        "stock_code": "603993",
+        "stock_name": "洛阳钼业",
+        "market_value_wan": 216.58
+      },
+      {
+        "stock_code": "601991",
+        "stock_name": "大唐发电",
+        "market_value_wan": 204.83
+      },
+      {
+        "stock_code": "601857",
+        "stock_name": "中国石油",
+        "market_value_wan": 187.93
+      },
+      {
+        "stock_code": "603225",
+        "stock_name": "新凤鸣",
+        "market_value_wan": 171.65
+      },
+      {
+        "stock_code": "000543",
+        "stock_name": "皖能电力",
+        "market_value_wan": 149.74
+      },
+      {
+        "stock_code": "601899",
+        "stock_name": "紫金矿业",
+        "market_value_wan": 149.17
+      },
+      {
+        "stock_code": "000400",
+        "stock_name": "许继电气",
+        "market_value_wan": 137.3
+      },
+      {
+        "stock_code": "000792",
+        "stock_name": "盐湖股份",
+        "market_value_wan": 126.86
+      },
+      {
+        "stock_code": "600961",
+        "stock_name": "株冶集团",
+        "market_value_wan": 113.19
+      }
+    ],
+    "2024-Q1": [
+      {
+        "stock_code": "603993",
+        "stock_name": "洛阳钼业",
+        "market_value_wan": 325.89
+      },
+      {
+        "stock_code": "600027",
+        "stock_name": "华电国际",
+        "market_value_wan": 241.21
+      },
+      {
+        "stock_code": "601991",
+        "stock_name": "大唐发电",
+        "market_value_wan": 239.97
+      },
+      {
+        "stock_code": "000400",
+        "stock_name": "许继电气",
+        "market_value_wan": 229.32
+      },
+      {
+        "stock_code": "600989",
+        "stock_name": "宝丰能源",
+        "market_value_wan": 200.45
+      },
+      {
+        "stock_code": "600961",
+        "stock_name": "株冶集团",
+        "market_value_wan": 193.85
+      },
+      {
+        "stock_code": "601857",
+        "stock_name": "中国石油",
+        "market_value_wan": 193.15
+      },
+      {
+        "stock_code": "601899",
+        "stock_name": "紫金矿业",
+        "market_value_wan": 188.55
+      },
+      {
+        "stock_code": "601702",
+        "stock_name": "华峰铝业",
+        "market_value_wan": 185.91
+      },
+      {
+        "stock_code": "000543",
+        "stock_name": "皖能电力",
+        "market_value_wan": 179.55
+      }
+    ]
+  }
+}

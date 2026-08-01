@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "240008",
+    "name": "华宝收益增长混合A",
+    "base_name": "华宝收益增长混合"
+  },
+  "fetched_at": "2026-06-14 23:56:48",
+  "quarters": {
+    "2019-Q4": [
+      {
+        "stock_code": "002080",
+        "stock_name": "中材科技",
+        "market_value_wan": 6928.77
+      },
+      {
+        "stock_code": "603486",
+        "stock_name": "科沃斯",
+        "market_value_wan": 6414.58
+      },
+      {
+        "stock_code": "600048",
+        "stock_name": "保利发展",
+        "market_value_wan": 4912.41
+      },
+      {
+        "stock_code": "600176",
+        "stock_name": "中国巨石",
+        "market_value_wan": 4238.73
+      },
+      {
+        "stock_code": "603816",
+        "stock_name": "顾家家居",
+        "market_value_wan": 4225.2
+      },
+      {
+        "stock_code": "002572",
+        "stock_name": "索菲亚",
+        "market_value_wan": 4129.78
+      },
+      {
+        "stock_code": "000002",
+        "stock_name": "万科A",
+        "market_value_wan": 4055.0
+      },
+      {
+        "stock_code": "601398",
+        "stock_name": "工商银行",
+        "market_value_wan": 3967.03
+      },
+      {
+        "stock_code": "600383",
+        "stock_name": "金地集团",
+        "market_value_wan": 3549.9
+      },
+      {
+        "stock_code": "603214",
+        "stock_name": "爱婴室",
+        "market_value_wan": 3331.22
+      }
+    ],
+    "2019-Q3": [
+      {
+        "stock_code": "002080",
+        "stock_name": "中材科技",
+        "market_value_wan": 6025.85
+      },
+      {
+        "stock_code": "603486",
+        "stock_name": "科沃斯",
+        "market_value_wan": 5902.26
+      },
+      {
+        "stock_code": "002202",
+        "stock_name": "金风科技",
+        "market_value_wan": 5853.62
+      },
+      {
+        "stock_code": "601398",
+        "stock_name": "工商银行",
+        "market_value_wan": 4509.35
+      },
+      {
+        "stock_code": "600048",
+        "stock_name": "保利发展",
+        "market_value_wan": 4341.62
+      },
+      {
+        "stock_code": "000002",
+        "stock_name": "万科A",
+        "market_value_wan": 4018.39
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 3973.97
+      },
+      {
+        "stock_code": "601288",
+        "stock_name": "农业银行",
+        "market_value_wan": 3931.11
+      },
+      {
+        "stock_code": "603816",
+        "stock_name": "顾家家居",
+        "market_value_wan": 3778.36
+      },
+      {
+        "stock_code": "603214",
+        "stock_name": "爱婴室",
+        "market_value_wan": 3279.45
+      }
+    ],
+    "2019-Q2": [
+      {
+        "stock_code": "603486",
+        "stock_name": "科沃斯",
+        "market_value_wan": 5965.24
+      },
+      {
+        "stock_code": "002202",
+        "stock_name": "金风科技",
+        "market_value_wan": 5811.54
+      },
+      {
+        "stock_code": "601398",
+        "stock_name": "工商银行",
+        "market_value_wan": 4802.91
+      },
+      {
+        "stock_code": "601288",
+        "stock_name": "农业银行",
+        "market_value_wan": 4090.18
+      },
+      {
+        "stock_code": "600048",
+        "stock_name": "保利发展",
+        "market_value_wan": 3693.0
+      },
+      {
+        "stock_code": "000581",
+        "stock_name": "威孚高科",
+        "market_value_wan": 3576.18
+      },
+      {
+        "stock_code": "600266",
+        "stock_name": "城建发展",
+        "market_value_wan": 3272.85
+      },
+      {
+        "stock_code": "600060",
+        "stock_name": "海信视像",
+        "market_value_wan": 3265.34
+      },
+      {
+        "stock_code": "000002",
+        "stock_name": "万科A",
+        "market_value_wan": 3226.79
+      },
+      {
+        "stock_code": "600388",
+        "stock_name": "龙净环保",
+        "market_value_wan": 2613.41
+      }
+    ],
+    "2019-Q1": [
+      {
+        "stock_code": "600266",
+        "stock_name": "城建发展",
+        "market_value_wan": 5804.61
+      },
+      {
+        "stock_code": "000581",
+        "stock_name": "威孚高科",
+        "market_value_wan": 4692.63
+      },
+      {
+        "stock_code": "601398",
+        "stock_name": "工商银行",
+        "market_value_wan": 4541.97
+      },
+      {
+        "stock_code": "601328",
+        "stock_name": "交通银行",
+        "market_value_wan": 4139.68
+      },
+      {
+        "stock_code": "600048",
+        "stock_name": "保利发展",
+        "market_value_wan": 4121.34
+      },
+      {
+        "stock_code": "603486",
+        "stock_name": "科沃斯",
+        "market_value_wan": 4098.7
+      },
+      {
+        "stock_code": "600388",
+        "stock_name": "龙净环保",
+        "market_value_wan": 3547.38
+      },
+      {
+        "stock_code": "600060",
+        "stock_name": "海信视像",
+        "market_value_wan": 3150.84
+      },
+      {
+        "stock_code": "600115",
+        "stock_name": "中国东航",
+        "market_value_wan": 2940.89
+      },
+      {
+        "stock_code": "000002",
+        "stock_name": "万科A",
+        "market_value_wan": 2867.1
+      }
+    ]
+  }
+}

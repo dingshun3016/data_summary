@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "080005",
+    "name": "长盛量化红利混合A",
+    "base_name": "长盛量化红利混合"
+  },
+  "fetched_at": "2026-06-14 23:49:48",
+  "quarters": {
+    "2024-Q4": [
+      {
+        "stock_code": "601088",
+        "stock_name": "中国神华",
+        "market_value_wan": 3703.94
+      },
+      {
+        "stock_code": "600350",
+        "stock_name": "山东高速",
+        "market_value_wan": 3580.32
+      },
+      {
+        "stock_code": "601225",
+        "stock_name": "陕西煤业",
+        "market_value_wan": 3386.19
+      },
+      {
+        "stock_code": "601668",
+        "stock_name": "中国建筑",
+        "market_value_wan": 3314.46
+      },
+      {
+        "stock_code": "601728",
+        "stock_name": "中国电信",
+        "market_value_wan": 3306.33
+      },
+      {
+        "stock_code": "600377",
+        "stock_name": "宁沪高速",
+        "market_value_wan": 3174.83
+      },
+      {
+        "stock_code": "600050",
+        "stock_name": "中国联通",
+        "market_value_wan": 3095.36
+      },
+      {
+        "stock_code": "600028",
+        "stock_name": "中国石化",
+        "market_value_wan": 3086.49
+      },
+      {
+        "stock_code": "000651",
+        "stock_name": "格力电器",
+        "market_value_wan": 3084.24
+      },
+      {
+        "stock_code": "600012",
+        "stock_name": "皖通高速",
+        "market_value_wan": 3062.81
+      }
+    ],
+    "2024-Q3": [
+      {
+        "stock_code": "601225",
+        "stock_name": "陕西煤业",
+        "market_value_wan": 4189.4
+      },
+      {
+        "stock_code": "000651",
+        "stock_name": "格力电器",
+        "market_value_wan": 3763.77
+      },
+      {
+        "stock_code": "601668",
+        "stock_name": "中国建筑",
+        "market_value_wan": 3666.04
+      },
+      {
+        "stock_code": "601088",
+        "stock_name": "中国神华",
+        "market_value_wan": 3659.22
+      },
+      {
+        "stock_code": "600795",
+        "stock_name": "国电电力",
+        "market_value_wan": 3622.62
+      },
+      {
+        "stock_code": "601000",
+        "stock_name": "唐山港",
+        "market_value_wan": 3551.42
+      },
+      {
+        "stock_code": "600012",
+        "stock_name": "皖通高速",
+        "market_value_wan": 3344.45
+      },
+      {
+        "stock_code": "600350",
+        "stock_name": "山东高速",
+        "market_value_wan": 3172.75
+      },
+      {
+        "stock_code": "600018",
+        "stock_name": "上港集团",
+        "market_value_wan": 3029.0
+      },
+      {
+        "stock_code": "601601",
+        "stock_name": "中国太保",
+        "market_value_wan": 3013.05
+      }
+    ],
+    "2024-Q2": [
+      {
+        "stock_code": "601088",
+        "stock_name": "中国神华",
+        "market_value_wan": 1487.15
+      },
+      {
+        "stock_code": "600795",
+        "stock_name": "国电电力",
+        "market_value_wan": 1260.0
+      },
+      {
+        "stock_code": "601225",
+        "stock_name": "陕西煤业",
+        "market_value_wan": 1220.72
+      },
+      {
+        "stock_code": "600177",
+        "stock_name": "雅戈尔",
+        "market_value_wan": 1159.35
+      },
+      {
+        "stock_code": "600398",
+        "stock_name": "海澜之家",
+        "market_value_wan": 1101.78
+      },
+      {
+        "stock_code": "600282",
+        "stock_name": "南钢股份",
+        "market_value_wan": 1092.81
+      },
+      {
+        "stock_code": "000651",
+        "stock_name": "格力电器",
+        "market_value_wan": 1089.92
+      },
+      {
+        "stock_code": "601000",
+        "stock_name": "唐山港",
+        "market_value_wan": 1082.08
+      },
+      {
+        "stock_code": "600350",
+        "stock_name": "山东高速",
+        "market_value_wan": 1072.8
+      },
+      {
+        "stock_code": "601857",
+        "stock_name": "中国石油",
+        "market_value_wan": 1041.6
+      }
+    ],
+    "2024-Q1": [
+      {
+        "stock_code": "600282",
+        "stock_name": "南钢股份",
+        "market_value_wan": 877.52
+      },
+      {
+        "stock_code": "600011",
+        "stock_name": "华能国际",
+        "market_value_wan": 814.56
+      },
+      {
+        "stock_code": "600028",
+        "stock_name": "中国石化",
+        "market_value_wan": 799.52
+      },
+      {
+        "stock_code": "601088",
+        "stock_name": "中国神华",
+        "market_value_wan": 790.68
+      },
+      {
+        "stock_code": "000651",
+        "stock_name": "格力电器",
+        "market_value_wan": 790.13
+      },
+      {
+        "stock_code": "601225",
+        "stock_name": "陕西煤业",
+        "market_value_wan": 762.49
+      },
+      {
+        "stock_code": "600642",
+        "stock_name": "申能股份",
+        "market_value_wan": 742.27
+      },
+      {
+        "stock_code": "601857",
+        "stock_name": "中国石油",
+        "market_value_wan": 678.76
+      },
+      {
+        "stock_code": "000157",
+        "stock_name": "中联重科",
+        "market_value_wan": 657.79
+      },
+      {
+        "stock_code": "601006",
+        "stock_name": "大秦铁路",
+        "market_value_wan": 646.72
+      }
+    ]
+  }
+}

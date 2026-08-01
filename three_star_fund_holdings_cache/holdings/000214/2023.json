@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "000214",
+    "name": "广发成长优选混合",
+    "base_name": "广发成长优选混合"
+  },
+  "fetched_at": "2026-06-14 22:49:01",
+  "quarters": {
+    "2023-Q4": [
+      {
+        "stock_code": "002027",
+        "stock_name": "分众传媒",
+        "market_value_wan": 904.9
+      },
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 882.61
+      },
+      {
+        "stock_code": "600887",
+        "stock_name": "伊利股份",
+        "market_value_wan": 754.03
+      },
+      {
+        "stock_code": "002415",
+        "stock_name": "海康威视",
+        "market_value_wan": 751.69
+      },
+      {
+        "stock_code": "300274",
+        "stock_name": "阳光电源",
+        "market_value_wan": 715.61
+      },
+      {
+        "stock_code": "600030",
+        "stock_name": "中信证券",
+        "market_value_wan": 699.91
+      },
+      {
+        "stock_code": "600570",
+        "stock_name": "恒生电子",
+        "market_value_wan": 664.41
+      },
+      {
+        "stock_code": "002557",
+        "stock_name": "洽洽食品",
+        "market_value_wan": 652.63
+      },
+      {
+        "stock_code": "601601",
+        "stock_name": "中国太保",
+        "market_value_wan": 649.43
+      },
+      {
+        "stock_code": "603345",
+        "stock_name": "安井食品",
+        "market_value_wan": 604.65
+      }
+    ],
+    "2023-Q3": [
+      {
+        "stock_code": "002027",
+        "stock_name": "分众传媒",
+        "market_value_wan": 1176.18
+      },
+      {
+        "stock_code": "600887",
+        "stock_name": "伊利股份",
+        "market_value_wan": 1156.65
+      },
+      {
+        "stock_code": "300408",
+        "stock_name": "三环集团",
+        "market_value_wan": 1121.89
+      },
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 1062.49
+      },
+      {
+        "stock_code": "000733",
+        "stock_name": "振华科技",
+        "market_value_wan": 1040.46
+      },
+      {
+        "stock_code": "600570",
+        "stock_name": "恒生电子",
+        "market_value_wan": 1030.35
+      },
+      {
+        "stock_code": "600030",
+        "stock_name": "中信证券",
+        "market_value_wan": 1015.2
+      },
+      {
+        "stock_code": "300413",
+        "stock_name": "芒果超媒",
+        "market_value_wan": 978.11
+      },
+      {
+        "stock_code": "002643",
+        "stock_name": "万润股份",
+        "market_value_wan": 968.63
+      },
+      {
+        "stock_code": "300124",
+        "stock_name": "汇川技术",
+        "market_value_wan": 934.85
+      }
+    ],
+    "2023-Q2": [
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 1363.87
+      },
+      {
+        "stock_code": "600030",
+        "stock_name": "中信证券",
+        "market_value_wan": 1249.5
+      },
+      {
+        "stock_code": "300124",
+        "stock_name": "汇川技术",
+        "market_value_wan": 1124.32
+      },
+      {
+        "stock_code": "002643",
+        "stock_name": "万润股份",
+        "market_value_wan": 1064.1
+      },
+      {
+        "stock_code": "601012",
+        "stock_name": "隆基绿能",
+        "market_value_wan": 1054.88
+      },
+      {
+        "stock_code": "603345",
+        "stock_name": "安井食品",
+        "market_value_wan": 1005.82
+      },
+      {
+        "stock_code": "000733",
+        "stock_name": "振华科技",
+        "market_value_wan": 1001.63
+      },
+      {
+        "stock_code": "600570",
+        "stock_name": "恒生电子",
+        "market_value_wan": 996.17
+      },
+      {
+        "stock_code": "300413",
+        "stock_name": "芒果超媒",
+        "market_value_wan": 993.8
+      },
+      {
+        "stock_code": "600887",
+        "stock_name": "伊利股份",
+        "market_value_wan": 984.69
+      }
+    ],
+    "2023-Q1": [
+      {
+        "stock_code": "000651",
+        "stock_name": "格力电器",
+        "market_value_wan": 1345.05
+      },
+      {
+        "stock_code": "300124",
+        "stock_name": "汇川技术",
+        "market_value_wan": 1252.04
+      },
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 1249.68
+      },
+      {
+        "stock_code": "002643",
+        "stock_name": "万润股份",
+        "market_value_wan": 1184.56
+      },
+      {
+        "stock_code": "300413",
+        "stock_name": "芒果超媒",
+        "market_value_wan": 1182.37
+      },
+      {
+        "stock_code": "300451",
+        "stock_name": "创业慧康",
+        "market_value_wan": 1039.9
+      },
+      {
+        "stock_code": "600887",
+        "stock_name": "伊利股份",
+        "market_value_wan": 986.29
+      },
+      {
+        "stock_code": "601601",
+        "stock_name": "中国太保",
+        "market_value_wan": 950.23
+      },
+      {
+        "stock_code": "002415",
+        "stock_name": "海康威视",
+        "market_value_wan": 940.65
+      },
+      {
+        "stock_code": "601012",
+        "stock_name": "隆基绿能",
+        "market_value_wan": 921.11
+      }
+    ]
+  }
+}

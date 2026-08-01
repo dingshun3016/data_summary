@@ -1,0 +1,110 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "010109",
+    "name": "富国价值增长混合A",
+    "base_name": "富国价值增长混合"
+  },
+  "fetched_at": "2026-08-01 20:59:00",
+  "quarters": {
+    "2026-Q2": [
+      {
+        "stock_code": "300308",
+        "stock_name": "中际旭创",
+        "market_value_wan": 10439.4
+      },
+      {
+        "stock_code": "300502",
+        "stock_name": "新易盛",
+        "market_value_wan": 9679.22
+      },
+      {
+        "stock_code": "002463",
+        "stock_name": "沪电股份",
+        "market_value_wan": 9328.44
+      },
+      {
+        "stock_code": "603986",
+        "stock_name": "兆易创新",
+        "market_value_wan": 9160.6
+      },
+      {
+        "stock_code": "600183",
+        "stock_name": "生益科技",
+        "market_value_wan": 8569.43
+      },
+      {
+        "stock_code": "688766",
+        "stock_name": "普冉股份",
+        "market_value_wan": 6129.58
+      },
+      {
+        "stock_code": "002384",
+        "stock_name": "东山精密",
+        "market_value_wan": 6047.17
+      },
+      {
+        "stock_code": "300548",
+        "stock_name": "长芯博创",
+        "market_value_wan": 5548.88
+      },
+      {
+        "stock_code": "600487",
+        "stock_name": "亨通光电",
+        "market_value_wan": 5254.88
+      },
+      {
+        "stock_code": "688361",
+        "stock_name": "中科飞测",
+        "market_value_wan": 3764.22
+      }
+    ],
+    "2026-Q1": [
+      {
+        "stock_code": "300502",
+        "stock_name": "新易盛",
+        "market_value_wan": 7094.3
+      },
+      {
+        "stock_code": "300308",
+        "stock_name": "中际旭创",
+        "market_value_wan": 5893.39
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 5109.62
+      },
+      {
+        "stock_code": "002463",
+        "stock_name": "沪电股份",
+        "market_value_wan": 4637.97
+      },
+      {
+        "stock_code": "300394",
+        "stock_name": "天孚通信",
+        "market_value_wan": 4514.95
+      },
+      {
+        "stock_code": "688498",
+        "stock_name": "源杰科技",
+        "market_value_wan": 3490.59
+      },
+      {
+        "stock_code": "600487",
+        "stock_name": "亨通光电",
+        "market_value_wan": 3128.0
+      },
+      {
+        "stock_code": "603308",
+        "stock_name": "应流股份",
+        "market_value_wan": 2804.39
+      },
+      {
+        "stock_code": "300548",
+        "stock_name": "长芯博创",
+        "market_value_wan": 2687.78
+      }
+    ]
+  }
+}

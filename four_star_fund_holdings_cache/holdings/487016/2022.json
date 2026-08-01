@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "487016",
+    "name": "工银瑞信灵活配置混合A",
+    "base_name": "工银瑞信灵活配置混合"
+  },
+  "fetched_at": "2026-06-14 22:43:57",
+  "quarters": {
+    "2022-Q4": [
+      {
+        "stock_code": "601965",
+        "stock_name": "中国汽研",
+        "market_value_wan": 569.38
+      },
+      {
+        "stock_code": "603198",
+        "stock_name": "迎驾贡酒",
+        "market_value_wan": 538.02
+      },
+      {
+        "stock_code": "000951",
+        "stock_name": "中国重汽",
+        "market_value_wan": 537.95
+      },
+      {
+        "stock_code": "002979",
+        "stock_name": "雷赛智能",
+        "market_value_wan": 485.89
+      },
+      {
+        "stock_code": "301035",
+        "stock_name": "润丰股份",
+        "market_value_wan": 453.93
+      },
+      {
+        "stock_code": "300395",
+        "stock_name": "菲利华",
+        "market_value_wan": 440.83
+      },
+      {
+        "stock_code": "000739",
+        "stock_name": "普洛药业",
+        "market_value_wan": 415.94
+      },
+      {
+        "stock_code": "000729",
+        "stock_name": "燕京啤酒",
+        "market_value_wan": 401.86
+      },
+      {
+        "stock_code": "300132",
+        "stock_name": "青松股份",
+        "market_value_wan": 353.31
+      },
+      {
+        "stock_code": "600079",
+        "stock_name": "人福医药",
+        "market_value_wan": 351.66
+      }
+    ],
+    "2022-Q3": [
+      {
+        "stock_code": "300395",
+        "stock_name": "菲利华",
+        "market_value_wan": 635.63
+      },
+      {
+        "stock_code": "601965",
+        "stock_name": "中国汽研",
+        "market_value_wan": 519.08
+      },
+      {
+        "stock_code": "301035",
+        "stock_name": "润丰股份",
+        "market_value_wan": 474.96
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 369.82
+      },
+      {
+        "stock_code": "603198",
+        "stock_name": "迎驾贡酒",
+        "market_value_wan": 328.59
+      },
+      {
+        "stock_code": "300394",
+        "stock_name": "天孚通信",
+        "market_value_wan": 297.78
+      },
+      {
+        "stock_code": "000951",
+        "stock_name": "中国重汽",
+        "market_value_wan": 296.37
+      },
+      {
+        "stock_code": "002179",
+        "stock_name": "中航光电",
+        "market_value_wan": 295.57
+      },
+      {
+        "stock_code": "600660",
+        "stock_name": "福耀玻璃",
+        "market_value_wan": 290.06
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 288.64
+      }
+    ],
+    "2022-Q2": [
+      {
+        "stock_code": "300059",
+        "stock_name": "东方财富",
+        "market_value_wan": 728.34
+      },
+      {
+        "stock_code": "300395",
+        "stock_name": "菲利华",
+        "market_value_wan": 542.03
+      },
+      {
+        "stock_code": "601965",
+        "stock_name": "中国汽研",
+        "market_value_wan": 414.0
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 384.48
+      },
+      {
+        "stock_code": "688202",
+        "stock_name": "美迪西",
+        "market_value_wan": 349.9
+      },
+      {
+        "stock_code": "300394",
+        "stock_name": "天孚通信",
+        "market_value_wan": 347.04
+      },
+      {
+        "stock_code": "600926",
+        "stock_name": "杭州银行",
+        "market_value_wan": 339.3
+      },
+      {
+        "stock_code": "600660",
+        "stock_name": "福耀玻璃",
+        "market_value_wan": 338.66
+      },
+      {
+        "stock_code": "600422",
+        "stock_name": "昆药集团",
+        "market_value_wan": 336.92
+      },
+      {
+        "stock_code": "002179",
+        "stock_name": "中航光电",
+        "market_value_wan": 335.98
+      }
+    ],
+    "2022-Q1": [
+      {
+        "stock_code": "300059",
+        "stock_name": "东方财富",
+        "market_value_wan": 696.95
+      },
+      {
+        "stock_code": "300395",
+        "stock_name": "菲利华",
+        "market_value_wan": 634.61
+      },
+      {
+        "stock_code": "688202",
+        "stock_name": "美迪西",
+        "market_value_wan": 521.35
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 491.81
+      },
+      {
+        "stock_code": "300661",
+        "stock_name": "圣邦股份",
+        "market_value_wan": 475.05
+      },
+      {
+        "stock_code": "600399",
+        "stock_name": "抚顺特钢",
+        "market_value_wan": 409.35
+      },
+      {
+        "stock_code": "601965",
+        "stock_name": "中国汽研",
+        "market_value_wan": 390.31
+      },
+      {
+        "stock_code": "600585",
+        "stock_name": "海螺水泥",
+        "market_value_wan": 367.65
+      },
+      {
+        "stock_code": "600111",
+        "stock_name": "北方稀土",
+        "market_value_wan": 365.22
+      },
+      {
+        "stock_code": "600702",
+        "stock_name": "舍得酒业",
+        "market_value_wan": 363.88
+      }
+    ]
+  }
+}

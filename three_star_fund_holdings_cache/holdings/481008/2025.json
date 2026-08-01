@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "481008",
+    "name": "工银大盘蓝筹混合",
+    "base_name": "工银大盘蓝筹混合"
+  },
+  "fetched_at": "2026-06-15 00:01:09",
+  "quarters": {
+    "2025-Q4": [
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 1363.72
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 1285.41
+      },
+      {
+        "stock_code": "601899",
+        "stock_name": "紫金矿业",
+        "market_value_wan": 952.41
+      },
+      {
+        "stock_code": "600426",
+        "stock_name": "华鲁恒升",
+        "market_value_wan": 923.41
+      },
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 850.08
+      },
+      {
+        "stock_code": "300408",
+        "stock_name": "三环集团",
+        "market_value_wan": 818.01
+      },
+      {
+        "stock_code": "002602",
+        "stock_name": "世纪华通",
+        "market_value_wan": 697.58
+      },
+      {
+        "stock_code": "002311",
+        "stock_name": "海大集团",
+        "market_value_wan": 683.39
+      },
+      {
+        "stock_code": "601021",
+        "stock_name": "春秋航空",
+        "market_value_wan": 661.05
+      },
+      {
+        "stock_code": "002352",
+        "stock_name": "顺丰控股",
+        "market_value_wan": 643.78
+      }
+    ],
+    "2025-Q3": [
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 1479.36
+      },
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 1267.92
+      },
+      {
+        "stock_code": "688498",
+        "stock_name": "源杰科技",
+        "market_value_wan": 1162.38
+      },
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 1078.38
+      },
+      {
+        "stock_code": "603259",
+        "stock_name": "药明康德",
+        "market_value_wan": 829.02
+      },
+      {
+        "stock_code": "300408",
+        "stock_name": "三环集团",
+        "market_value_wan": 828.38
+      },
+      {
+        "stock_code": "601899",
+        "stock_name": "紫金矿业",
+        "market_value_wan": 813.43
+      },
+      {
+        "stock_code": "002202",
+        "stock_name": "金风科技",
+        "market_value_wan": 782.33
+      },
+      {
+        "stock_code": "600426",
+        "stock_name": "华鲁恒升",
+        "market_value_wan": 781.8
+      },
+      {
+        "stock_code": "002352",
+        "stock_name": "顺丰控股",
+        "market_value_wan": 677.54
+      }
+    ],
+    "2025-Q2": [
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 1259.89
+      },
+      {
+        "stock_code": "603195",
+        "stock_name": "公牛集团",
+        "market_value_wan": 861.15
+      },
+      {
+        "stock_code": "600066",
+        "stock_name": "宇通客车",
+        "market_value_wan": 741.57
+      },
+      {
+        "stock_code": "601021",
+        "stock_name": "春秋航空",
+        "market_value_wan": 618.27
+      },
+      {
+        "stock_code": "600900",
+        "stock_name": "长江电力",
+        "market_value_wan": 580.5
+      },
+      {
+        "stock_code": "301291",
+        "stock_name": "明阳电气",
+        "market_value_wan": 544.83
+      },
+      {
+        "stock_code": "300408",
+        "stock_name": "三环集团",
+        "market_value_wan": 537.07
+      },
+      {
+        "stock_code": "002202",
+        "stock_name": "金风科技",
+        "market_value_wan": 535.67
+      },
+      {
+        "stock_code": "601899",
+        "stock_name": "紫金矿业",
+        "market_value_wan": 521.24
+      },
+      {
+        "stock_code": "601058",
+        "stock_name": "赛轮轮胎",
+        "market_value_wan": 477.83
+      }
+    ],
+    "2025-Q1": [
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 1485.22
+      },
+      {
+        "stock_code": "603195",
+        "stock_name": "公牛集团",
+        "market_value_wan": 1076.43
+      },
+      {
+        "stock_code": "688169",
+        "stock_name": "石头科技",
+        "market_value_wan": 899.67
+      },
+      {
+        "stock_code": "600066",
+        "stock_name": "宇通客车",
+        "market_value_wan": 720.28
+      },
+      {
+        "stock_code": "601058",
+        "stock_name": "赛轮轮胎",
+        "market_value_wan": 679.51
+      },
+      {
+        "stock_code": "000975",
+        "stock_name": "山金国际",
+        "market_value_wan": 598.46
+      },
+      {
+        "stock_code": "601021",
+        "stock_name": "春秋航空",
+        "market_value_wan": 525.94
+      },
+      {
+        "stock_code": "603129",
+        "stock_name": "春风动力",
+        "market_value_wan": 508.99
+      },
+      {
+        "stock_code": "300408",
+        "stock_name": "三环集团",
+        "market_value_wan": 497.88
+      },
+      {
+        "stock_code": "301061",
+        "stock_name": "匠心家居",
+        "market_value_wan": 487.83
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "519712",
+    "name": "交银阿尔法核心混合A",
+    "base_name": "交银阿尔法核心混合"
+  },
+  "fetched_at": "2026-06-15 00:04:11",
+  "quarters": {
+    "2024-Q4": [
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 36673.55
+      },
+      {
+        "stock_code": "601567",
+        "stock_name": "三星医疗",
+        "market_value_wan": 35122.52
+      },
+      {
+        "stock_code": "601288",
+        "stock_name": "农业银行",
+        "market_value_wan": 34056.38
+      },
+      {
+        "stock_code": "601988",
+        "stock_name": "中国银行",
+        "market_value_wan": 26092.32
+      },
+      {
+        "stock_code": "601398",
+        "stock_name": "工商银行",
+        "market_value_wan": 24833.74
+      },
+      {
+        "stock_code": "600919",
+        "stock_name": "江苏银行",
+        "market_value_wan": 16086.98
+      },
+      {
+        "stock_code": "603259",
+        "stock_name": "药明康德",
+        "market_value_wan": 12436.07
+      },
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 11246.89
+      },
+      {
+        "stock_code": "603556",
+        "stock_name": "海兴电力",
+        "market_value_wan": 11222.35
+      },
+      {
+        "stock_code": "601229",
+        "stock_name": "上海银行",
+        "market_value_wan": 10880.32
+      }
+    ],
+    "2024-Q3": [
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 43996.37
+      },
+      {
+        "stock_code": "601398",
+        "stock_name": "工商银行",
+        "market_value_wan": 37645.84
+      },
+      {
+        "stock_code": "601567",
+        "stock_name": "三星医疗",
+        "market_value_wan": 37461.2
+      },
+      {
+        "stock_code": "601288",
+        "stock_name": "农业银行",
+        "market_value_wan": 37225.44
+      },
+      {
+        "stock_code": "601988",
+        "stock_name": "中国银行",
+        "market_value_wan": 20795.13
+      },
+      {
+        "stock_code": "300347",
+        "stock_name": "泰格医药",
+        "market_value_wan": 20187.1
+      },
+      {
+        "stock_code": "603259",
+        "stock_name": "药明康德",
+        "market_value_wan": 18667.18
+      },
+      {
+        "stock_code": "603556",
+        "stock_name": "海兴电力",
+        "market_value_wan": 12857.76
+      },
+      {
+        "stock_code": "000400",
+        "stock_name": "许继电气",
+        "market_value_wan": 11129.19
+      },
+      {
+        "stock_code": "601229",
+        "stock_name": "上海银行",
+        "market_value_wan": 9111.05
+      }
+    ],
+    "2024-Q2": [
+      {
+        "stock_code": "601288",
+        "stock_name": "农业银行",
+        "market_value_wan": 38124.84
+      },
+      {
+        "stock_code": "601398",
+        "stock_name": "工商银行",
+        "market_value_wan": 37332.66
+      },
+      {
+        "stock_code": "300760",
+        "stock_name": "迈瑞医疗",
+        "market_value_wan": 36042.64
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 34874.51
+      },
+      {
+        "stock_code": "601567",
+        "stock_name": "三星医疗",
+        "market_value_wan": 30486.91
+      },
+      {
+        "stock_code": "300347",
+        "stock_name": "泰格医药",
+        "market_value_wan": 28230.14
+      },
+      {
+        "stock_code": "300896",
+        "stock_name": "爱美客",
+        "market_value_wan": 16265.69
+      },
+      {
+        "stock_code": "002270",
+        "stock_name": "华明装备",
+        "market_value_wan": 15892.87
+      },
+      {
+        "stock_code": "688676",
+        "stock_name": "金盘科技",
+        "market_value_wan": 15613.19
+      },
+      {
+        "stock_code": "603556",
+        "stock_name": "海兴电力",
+        "market_value_wan": 12666.93
+      }
+    ],
+    "2024-Q1": [
+      {
+        "stock_code": "300896",
+        "stock_name": "爱美客",
+        "market_value_wan": 44703.13
+      },
+      {
+        "stock_code": "300760",
+        "stock_name": "迈瑞医疗",
+        "market_value_wan": 41154.01
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 36591.54
+      },
+      {
+        "stock_code": "300347",
+        "stock_name": "泰格医药",
+        "market_value_wan": 34236.94
+      },
+      {
+        "stock_code": "002027",
+        "stock_name": "分众传媒",
+        "market_value_wan": 20807.77
+      },
+      {
+        "stock_code": "601567",
+        "stock_name": "三星医疗",
+        "market_value_wan": 18255.23
+      },
+      {
+        "stock_code": "605108",
+        "stock_name": "同庆楼",
+        "market_value_wan": 15120.57
+      },
+      {
+        "stock_code": "002270",
+        "stock_name": "华明装备",
+        "market_value_wan": 13907.57
+      },
+      {
+        "stock_code": "603259",
+        "stock_name": "药明康德",
+        "market_value_wan": 13451.18
+      },
+      {
+        "stock_code": "601398",
+        "stock_name": "工商银行",
+        "market_value_wan": 12697.77
+      }
+    ]
+  }
+}

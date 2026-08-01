@@ -1,0 +1,63 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "010349",
+    "name": "诺安低碳经济股票C",
+    "base_name": "诺安低碳经济股票"
+  },
+  "fetched_at": "2026-06-14 23:39:41",
+  "quarters": {
+    "2020-Q4": [
+      {
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "market_value_wan": 5124.86
+      },
+      {
+        "stock_code": "000002",
+        "stock_name": "万科A",
+        "market_value_wan": 5047.99
+      },
+      {
+        "stock_code": "601668",
+        "stock_name": "中国建筑",
+        "market_value_wan": 2676.25
+      },
+      {
+        "stock_code": "601166",
+        "stock_name": "兴业银行",
+        "market_value_wan": 2672.61
+      },
+      {
+        "stock_code": "601233",
+        "stock_name": "桐昆股份",
+        "market_value_wan": 2461.39
+      },
+      {
+        "stock_code": "600461",
+        "stock_name": "洪城环境",
+        "market_value_wan": 1690.32
+      },
+      {
+        "stock_code": "601601",
+        "stock_name": "中国太保",
+        "market_value_wan": 1579.39
+      },
+      {
+        "stock_code": "603156",
+        "stock_name": "养元饮品",
+        "market_value_wan": 1162.77
+      },
+      {
+        "stock_code": "601088",
+        "stock_name": "中国神华",
+        "market_value_wan": 1153.9
+      },
+      {
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "market_value_wan": 1058.76
+      }
+    ]
+  }
+}

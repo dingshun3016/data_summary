@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "660004",
+    "name": "农银策略价值混合",
+    "base_name": "农银策略价值混合"
+  },
+  "fetched_at": "2026-06-15 00:06:41",
+  "quarters": {
+    "2025-Q4": [
+      {
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "market_value_wan": 1801.66
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 1600.52
+      },
+      {
+        "stock_code": "601601",
+        "stock_name": "中国太保",
+        "market_value_wan": 1498.7
+      },
+      {
+        "stock_code": "000425",
+        "stock_name": "徐工机械",
+        "market_value_wan": 1442.64
+      },
+      {
+        "stock_code": "601899",
+        "stock_name": "紫金矿业",
+        "market_value_wan": 1327.1
+      },
+      {
+        "stock_code": "300308",
+        "stock_name": "中际旭创",
+        "market_value_wan": 1293.2
+      },
+      {
+        "stock_code": "002126",
+        "stock_name": "银轮股份",
+        "market_value_wan": 1277.26
+      },
+      {
+        "stock_code": "002371",
+        "stock_name": "北方华创",
+        "market_value_wan": 1267.06
+      },
+      {
+        "stock_code": "688256",
+        "stock_name": "寒武纪",
+        "market_value_wan": 1181.36
+      },
+      {
+        "stock_code": "601377",
+        "stock_name": "兴业证券",
+        "market_value_wan": 1040.73
+      }
+    ],
+    "2025-Q3": [
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 1892.62
+      },
+      {
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "market_value_wan": 1274.14
+      },
+      {
+        "stock_code": "300308",
+        "stock_name": "中际旭创",
+        "market_value_wan": 1207.0
+      },
+      {
+        "stock_code": "688256",
+        "stock_name": "寒武纪",
+        "market_value_wan": 1201.51
+      },
+      {
+        "stock_code": "601601",
+        "stock_name": "中国太保",
+        "market_value_wan": 1177.92
+      },
+      {
+        "stock_code": "002517",
+        "stock_name": "恺英网络",
+        "market_value_wan": 1164.2
+      },
+      {
+        "stock_code": "002126",
+        "stock_name": "银轮股份",
+        "market_value_wan": 1129.96
+      },
+      {
+        "stock_code": "688385",
+        "stock_name": "复旦微电",
+        "market_value_wan": 1055.98
+      },
+      {
+        "stock_code": "601899",
+        "stock_name": "紫金矿业",
+        "market_value_wan": 1040.12
+      },
+      {
+        "stock_code": "000776",
+        "stock_name": "广发证券",
+        "market_value_wan": 1024.88
+      }
+    ],
+    "2025-Q2": [
+      {
+        "stock_code": "600900",
+        "stock_name": "长江电力",
+        "market_value_wan": 1364.14
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 1187.45
+      },
+      {
+        "stock_code": "000651",
+        "stock_name": "格力电器",
+        "market_value_wan": 1076.73
+      },
+      {
+        "stock_code": "688385",
+        "stock_name": "复旦微电",
+        "market_value_wan": 935.98
+      },
+      {
+        "stock_code": "603606",
+        "stock_name": "东方电缆",
+        "market_value_wan": 921.99
+      },
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 869.33
+      },
+      {
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "market_value_wan": 813.34
+      },
+      {
+        "stock_code": "002078",
+        "stock_name": "太阳纸业",
+        "market_value_wan": 749.45
+      },
+      {
+        "stock_code": "002847",
+        "stock_name": "盐津铺子",
+        "market_value_wan": 747.56
+      },
+      {
+        "stock_code": "002517",
+        "stock_name": "恺英网络",
+        "market_value_wan": 739.38
+      }
+    ],
+    "2025-Q1": [
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 1347.66
+      },
+      {
+        "stock_code": "600900",
+        "stock_name": "长江电力",
+        "market_value_wan": 1342.94
+      },
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 1273.31
+      },
+      {
+        "stock_code": "688596",
+        "stock_name": "正帆科技",
+        "market_value_wan": 1098.84
+      },
+      {
+        "stock_code": "000651",
+        "stock_name": "格力电器",
+        "market_value_wan": 1089.68
+      },
+      {
+        "stock_code": "002472",
+        "stock_name": "双环传动",
+        "market_value_wan": 998.63
+      },
+      {
+        "stock_code": "002594",
+        "stock_name": "比亚迪",
+        "market_value_wan": 911.01
+      },
+      {
+        "stock_code": "603606",
+        "stock_name": "东方电缆",
+        "market_value_wan": 825.47
+      },
+      {
+        "stock_code": "002078",
+        "stock_name": "太阳纸业",
+        "market_value_wan": 819.05
+      },
+      {
+        "stock_code": "600862",
+        "stock_name": "中航高科",
+        "market_value_wan": 812.36
+      }
+    ]
+  }
+}

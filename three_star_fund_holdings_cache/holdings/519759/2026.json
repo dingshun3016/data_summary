@@ -1,0 +1,115 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "519759",
+    "name": "交银周期回报灵活配置混合C",
+    "base_name": "交银周期回报灵活配置混合"
+  },
+  "fetched_at": "2026-08-01 21:01:21",
+  "quarters": {
+    "2026-Q2": [
+      {
+        "stock_code": "603986",
+        "stock_name": "兆易创新",
+        "market_value_wan": 660.15
+      },
+      {
+        "stock_code": "002371",
+        "stock_name": "北方华创",
+        "market_value_wan": 607.69
+      },
+      {
+        "stock_code": "601336",
+        "stock_name": "新华保险",
+        "market_value_wan": 504.13
+      },
+      {
+        "stock_code": "300037",
+        "stock_name": "新宙邦",
+        "market_value_wan": 463.32
+      },
+      {
+        "stock_code": "300661",
+        "stock_name": "圣邦股份",
+        "market_value_wan": 454.83
+      },
+      {
+        "stock_code": "300308",
+        "stock_name": "中际旭创",
+        "market_value_wan": 419.1
+      },
+      {
+        "stock_code": "688146",
+        "stock_name": "中船特气",
+        "market_value_wan": 391.39
+      },
+      {
+        "stock_code": "600919",
+        "stock_name": "江苏银行",
+        "market_value_wan": 391.21
+      },
+      {
+        "stock_code": "000776",
+        "stock_name": "广发证券",
+        "market_value_wan": 348.66
+      },
+      {
+        "stock_code": "605111",
+        "stock_name": "新洁能",
+        "market_value_wan": 346.99
+      }
+    ],
+    "2026-Q1": [
+      {
+        "stock_code": "601398",
+        "stock_name": "工商银行",
+        "market_value_wan": 490.11
+      },
+      {
+        "stock_code": "003816",
+        "stock_name": "中国广核",
+        "market_value_wan": 487.88
+      },
+      {
+        "stock_code": "600919",
+        "stock_name": "江苏银行",
+        "market_value_wan": 396.29
+      },
+      {
+        "stock_code": "600150",
+        "stock_name": "中国船舶",
+        "market_value_wan": 301.0
+      },
+      {
+        "stock_code": "601088",
+        "stock_name": "中国神华",
+        "market_value_wan": 294.53
+      },
+      {
+        "stock_code": "002966",
+        "stock_name": "苏州银行",
+        "market_value_wan": 291.64
+      },
+      {
+        "stock_code": "601336",
+        "stock_name": "新华保险",
+        "market_value_wan": 287.35
+      },
+      {
+        "stock_code": "300498",
+        "stock_name": "温氏股份",
+        "market_value_wan": 263.59
+      },
+      {
+        "stock_code": "002508",
+        "stock_name": "老板电器",
+        "market_value_wan": 254.5
+      },
+      {
+        "stock_code": "002142",
+        "stock_name": "宁波银行",
+        "market_value_wan": 252.43
+      }
+    ]
+  }
+}

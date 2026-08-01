@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "080007",
+    "name": "长盛同鑫行业配置混合A",
+    "base_name": "长盛同鑫行业配置混合"
+  },
+  "fetched_at": "2026-06-14 23:49:51",
+  "quarters": {
+    "2023-Q4": [
+      {
+        "stock_code": "000975",
+        "stock_name": "山金国际",
+        "market_value_wan": 87.3
+      },
+      {
+        "stock_code": "002061",
+        "stock_name": "浙江交科",
+        "market_value_wan": 82.53
+      },
+      {
+        "stock_code": "301101",
+        "stock_name": "明月镜片",
+        "market_value_wan": 79.32
+      },
+      {
+        "stock_code": "688052",
+        "stock_name": "纳芯微",
+        "market_value_wan": 75.78
+      },
+      {
+        "stock_code": "002085",
+        "stock_name": "万丰奥威",
+        "market_value_wan": 72.72
+      },
+      {
+        "stock_code": "600547",
+        "stock_name": "山东黄金",
+        "market_value_wan": 57.86
+      },
+      {
+        "stock_code": "688480",
+        "stock_name": "赛恩斯",
+        "market_value_wan": 54.3
+      },
+      {
+        "stock_code": "603993",
+        "stock_name": "洛阳钼业",
+        "market_value_wan": 54.08
+      },
+      {
+        "stock_code": "300761",
+        "stock_name": "立华股份",
+        "market_value_wan": 52.84
+      },
+      {
+        "stock_code": "688575",
+        "stock_name": "亚辉龙",
+        "market_value_wan": 51.11
+      }
+    ],
+    "2023-Q3": [
+      {
+        "stock_code": "002061",
+        "stock_name": "浙江交科",
+        "market_value_wan": 99.14
+      },
+      {
+        "stock_code": "000975",
+        "stock_name": "山金国际",
+        "market_value_wan": 88.51
+      },
+      {
+        "stock_code": "002085",
+        "stock_name": "万丰奥威",
+        "market_value_wan": 84.37
+      },
+      {
+        "stock_code": "301101",
+        "stock_name": "明月镜片",
+        "market_value_wan": 76.3
+      },
+      {
+        "stock_code": "600547",
+        "stock_name": "山东黄金",
+        "market_value_wan": 68.05
+      },
+      {
+        "stock_code": "603993",
+        "stock_name": "洛阳钼业",
+        "market_value_wan": 65.72
+      },
+      {
+        "stock_code": "603896",
+        "stock_name": "寿仙谷",
+        "market_value_wan": 65.19
+      },
+      {
+        "stock_code": "688052",
+        "stock_name": "纳芯微",
+        "market_value_wan": 57.73
+      },
+      {
+        "stock_code": "603323",
+        "stock_name": "苏农银行",
+        "market_value_wan": 53.4
+      },
+      {
+        "stock_code": "600481",
+        "stock_name": "双良节能",
+        "market_value_wan": 52.53
+      }
+    ],
+    "2023-Q2": [
+      {
+        "stock_code": "002085",
+        "stock_name": "万丰奥威",
+        "market_value_wan": 113.37
+      },
+      {
+        "stock_code": "002061",
+        "stock_name": "浙江交科",
+        "market_value_wan": 107.84
+      },
+      {
+        "stock_code": "301101",
+        "stock_name": "明月镜片",
+        "market_value_wan": 83.09
+      },
+      {
+        "stock_code": "688052",
+        "stock_name": "纳芯微",
+        "market_value_wan": 76.94
+      },
+      {
+        "stock_code": "000975",
+        "stock_name": "山金国际",
+        "market_value_wan": 72.77
+      },
+      {
+        "stock_code": "300217",
+        "stock_name": "东方电热",
+        "market_value_wan": 72.2
+      },
+      {
+        "stock_code": "600481",
+        "stock_name": "双良节能",
+        "market_value_wan": 69.48
+      },
+      {
+        "stock_code": "603896",
+        "stock_name": "寿仙谷",
+        "market_value_wan": 66.45
+      },
+      {
+        "stock_code": "600547",
+        "stock_name": "山东黄金",
+        "market_value_wan": 63.63
+      },
+      {
+        "stock_code": "603993",
+        "stock_name": "洛阳钼业",
+        "market_value_wan": 59.27
+      }
+    ],
+    "2023-Q1": [
+      {
+        "stock_code": "000975",
+        "stock_name": "山金国际",
+        "market_value_wan": 81.92
+      },
+      {
+        "stock_code": "600481",
+        "stock_name": "双良节能",
+        "market_value_wan": 77.98
+      },
+      {
+        "stock_code": "300217",
+        "stock_name": "东方电热",
+        "market_value_wan": 77.49
+      },
+      {
+        "stock_code": "603993",
+        "stock_name": "洛阳钼业",
+        "market_value_wan": 66.61
+      },
+      {
+        "stock_code": "002085",
+        "stock_name": "万丰奥威",
+        "market_value_wan": 64.44
+      },
+      {
+        "stock_code": "600547",
+        "stock_name": "山东黄金",
+        "market_value_wan": 59.73
+      },
+      {
+        "stock_code": "300761",
+        "stock_name": "立华股份",
+        "market_value_wan": 59.39
+      },
+      {
+        "stock_code": "600718",
+        "stock_name": "东软集团",
+        "market_value_wan": 59.12
+      },
+      {
+        "stock_code": "002405",
+        "stock_name": "四维图新",
+        "market_value_wan": 56.56
+      },
+      {
+        "stock_code": "603323",
+        "stock_name": "苏农银行",
+        "market_value_wan": 55.8
+      }
+    ]
+  }
+}

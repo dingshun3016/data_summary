@@ -1,0 +1,119 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "009602",
+    "name": "招商科技动力3个月滚动持有股票C",
+    "base_name": "招商科技动力3个月滚动持有股票"
+  },
+  "fetched_at": "2026-06-14 23:34:33",
+  "quarters": {
+    "2025-Q4": [
+      {
+        "stock_code": "002371",
+        "stock_name": "北方华创",
+        "market_value_wan": 8797.58
+      },
+      {
+        "stock_code": "688041",
+        "stock_name": "海光信息",
+        "market_value_wan": 7496.6
+      },
+      {
+        "stock_code": "688256",
+        "stock_name": "寒武纪",
+        "market_value_wan": 7090.34
+      },
+      {
+        "stock_code": "688012",
+        "stock_name": "中微公司",
+        "market_value_wan": 5349.91
+      },
+      {
+        "stock_code": "688361",
+        "stock_name": "中科飞测",
+        "market_value_wan": 4425.28
+      },
+      {
+        "stock_code": "688037",
+        "stock_name": "芯源微",
+        "market_value_wan": 4160.51
+      },
+      {
+        "stock_code": "603986",
+        "stock_name": "兆易创新",
+        "market_value_wan": 4016.44
+      }
+    ],
+    "2025-Q3": [
+      {
+        "stock_code": "002371",
+        "stock_name": "北方华创",
+        "market_value_wan": 9392.58
+      },
+      {
+        "stock_code": "688012",
+        "stock_name": "中微公司",
+        "market_value_wan": 7992.3
+      },
+      {
+        "stock_code": "688361",
+        "stock_name": "中科飞测",
+        "market_value_wan": 7052.85
+      },
+      {
+        "stock_code": "688037",
+        "stock_name": "芯源微",
+        "market_value_wan": 6461.56
+      },
+      {
+        "stock_code": "688256",
+        "stock_name": "寒武纪",
+        "market_value_wan": 6160.72
+      },
+      {
+        "stock_code": "002222",
+        "stock_name": "福晶科技",
+        "market_value_wan": 6037.06
+      }
+    ],
+    "2025-Q2": [
+      {
+        "stock_code": "688361",
+        "stock_name": "中科飞测",
+        "market_value_wan": 4117.94
+      },
+      {
+        "stock_code": "688521",
+        "stock_name": "芯原股份",
+        "market_value_wan": 3994.49
+      },
+      {
+        "stock_code": "688141",
+        "stock_name": "杰华特",
+        "market_value_wan": 3329.73
+      },
+      {
+        "stock_code": "688220",
+        "stock_name": "翱捷科技",
+        "market_value_wan": 3292.31
+      }
+    ],
+    "2025-Q1": [
+      {
+        "stock_code": "688114",
+        "stock_name": "华大智造",
+        "market_value_wan": 4343.17
+      },
+      {
+        "stock_code": "688235",
+        "stock_name": "百济神州",
+        "market_value_wan": 3562.47
+      },
+      {
+        "stock_code": "688385",
+        "stock_name": "复旦微电",
+        "market_value_wan": 2880.34
+      }
+    ]
+  }
+}

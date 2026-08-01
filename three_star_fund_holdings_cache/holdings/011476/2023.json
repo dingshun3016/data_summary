@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "011476",
+    "name": "工银新蓝筹股票C",
+    "base_name": "工银新蓝筹股票"
+  },
+  "fetched_at": "2026-06-14 23:47:06",
+  "quarters": {
+    "2023-Q4": [
+      {
+        "stock_code": "600900",
+        "stock_name": "长江电力",
+        "market_value_wan": 2100.6
+      },
+      {
+        "stock_code": "600938",
+        "stock_name": "中国海油",
+        "market_value_wan": 1572.75
+      },
+      {
+        "stock_code": "600886",
+        "stock_name": "国投电力",
+        "market_value_wan": 922.6
+      },
+      {
+        "stock_code": "600795",
+        "stock_name": "国电电力",
+        "market_value_wan": 915.2
+      },
+      {
+        "stock_code": "601985",
+        "stock_name": "中国核电",
+        "market_value_wan": 900.0
+      },
+      {
+        "stock_code": "605599",
+        "stock_name": "菜百股份",
+        "market_value_wan": 893.4
+      },
+      {
+        "stock_code": "601857",
+        "stock_name": "中国石油",
+        "market_value_wan": 706.0
+      },
+      {
+        "stock_code": "601088",
+        "stock_name": "中国神华",
+        "market_value_wan": 689.7
+      },
+      {
+        "stock_code": "000975",
+        "stock_name": "山金国际",
+        "market_value_wan": 645.0
+      },
+      {
+        "stock_code": "600612",
+        "stock_name": "老凤祥",
+        "market_value_wan": 621.0
+      }
+    ],
+    "2023-Q3": [
+      {
+        "stock_code": "000651",
+        "stock_name": "格力电器",
+        "market_value_wan": 1767.08
+      },
+      {
+        "stock_code": "001979",
+        "stock_name": "招商蛇口",
+        "market_value_wan": 1580.34
+      },
+      {
+        "stock_code": "002327",
+        "stock_name": "富安娜",
+        "market_value_wan": 1447.37
+      },
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 1242.2
+      },
+      {
+        "stock_code": "603369",
+        "stock_name": "今世缘",
+        "market_value_wan": 1032.01
+      },
+      {
+        "stock_code": "603195",
+        "stock_name": "公牛集团",
+        "market_value_wan": 1013.14
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 951.43
+      },
+      {
+        "stock_code": "600048",
+        "stock_name": "保利发展",
+        "market_value_wan": 949.77
+      },
+      {
+        "stock_code": "300138",
+        "stock_name": "晨光生物",
+        "market_value_wan": 827.55
+      },
+      {
+        "stock_code": "301061",
+        "stock_name": "匠心家居",
+        "market_value_wan": 802.89
+      }
+    ],
+    "2023-Q2": [
+      {
+        "stock_code": "000651",
+        "stock_name": "格力电器",
+        "market_value_wan": 1713.05
+      },
+      {
+        "stock_code": "001979",
+        "stock_name": "招商蛇口",
+        "market_value_wan": 1661.98
+      },
+      {
+        "stock_code": "002327",
+        "stock_name": "富安娜",
+        "market_value_wan": 1378.61
+      },
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 1319.22
+      },
+      {
+        "stock_code": "600079",
+        "stock_name": "人福医药",
+        "market_value_wan": 1051.2
+      },
+      {
+        "stock_code": "601668",
+        "stock_name": "中国建筑",
+        "market_value_wan": 1022.06
+      },
+      {
+        "stock_code": "601800",
+        "stock_name": "中国交建",
+        "market_value_wan": 1012.12
+      },
+      {
+        "stock_code": "300138",
+        "stock_name": "晨光生物",
+        "market_value_wan": 987.54
+      },
+      {
+        "stock_code": "603195",
+        "stock_name": "公牛集团",
+        "market_value_wan": 938.31
+      },
+      {
+        "stock_code": "000921",
+        "stock_name": "海信家电",
+        "market_value_wan": 933.01
+      }
+    ],
+    "2023-Q1": [
+      {
+        "stock_code": "001979",
+        "stock_name": "招商蛇口",
+        "market_value_wan": 1737.23
+      },
+      {
+        "stock_code": "000651",
+        "stock_name": "格力电器",
+        "market_value_wan": 1724.31
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 1490.58
+      },
+      {
+        "stock_code": "002327",
+        "stock_name": "富安娜",
+        "market_value_wan": 1324.58
+      },
+      {
+        "stock_code": "603369",
+        "stock_name": "今世缘",
+        "market_value_wan": 1140.71
+      },
+      {
+        "stock_code": "688111",
+        "stock_name": "金山办公",
+        "market_value_wan": 1104.5
+      },
+      {
+        "stock_code": "601668",
+        "stock_name": "中国建筑",
+        "market_value_wan": 1099.74
+      },
+      {
+        "stock_code": "600079",
+        "stock_name": "人福医药",
+        "market_value_wan": 1044.96
+      },
+      {
+        "stock_code": "603195",
+        "stock_name": "公牛集团",
+        "market_value_wan": 1042.54
+      },
+      {
+        "stock_code": "300138",
+        "stock_name": "晨光生物",
+        "market_value_wan": 1017.89
+      }
+    ]
+  }
+}

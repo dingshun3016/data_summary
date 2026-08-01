@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "166020",
+    "name": "中欧成长优选混合A",
+    "base_name": "中欧成长优选混合"
+  },
+  "fetched_at": "2026-06-14 22:42:37",
+  "quarters": {
+    "2022-Q4": [
+      {
+        "stock_code": "600383",
+        "stock_name": "金地集团",
+        "market_value_wan": 3255.78
+      },
+      {
+        "stock_code": "002048",
+        "stock_name": "宁波华翔",
+        "market_value_wan": 3243.19
+      },
+      {
+        "stock_code": "002398",
+        "stock_name": "垒知集团",
+        "market_value_wan": 2292.87
+      },
+      {
+        "stock_code": "000001",
+        "stock_name": "平安银行",
+        "market_value_wan": 2039.8
+      },
+      {
+        "stock_code": "002966",
+        "stock_name": "苏州银行",
+        "market_value_wan": 1502.65
+      },
+      {
+        "stock_code": "601601",
+        "stock_name": "中国太保",
+        "market_value_wan": 1471.2
+      },
+      {
+        "stock_code": "600612",
+        "stock_name": "老凤祥",
+        "market_value_wan": 1440.22
+      },
+      {
+        "stock_code": "600219",
+        "stock_name": "南山铝业",
+        "market_value_wan": 1432.26
+      },
+      {
+        "stock_code": "002831",
+        "stock_name": "裕同科技",
+        "market_value_wan": 1415.4
+      },
+      {
+        "stock_code": "300196",
+        "stock_name": "长海股份",
+        "market_value_wan": 1413.0
+      }
+    ],
+    "2022-Q3": [
+      {
+        "stock_code": "600383",
+        "stock_name": "金地集团",
+        "market_value_wan": 2392.91
+      },
+      {
+        "stock_code": "002048",
+        "stock_name": "宁波华翔",
+        "market_value_wan": 1794.76
+      },
+      {
+        "stock_code": "002398",
+        "stock_name": "垒知集团",
+        "market_value_wan": 1456.82
+      },
+      {
+        "stock_code": "600612",
+        "stock_name": "老凤祥",
+        "market_value_wan": 1129.96
+      },
+      {
+        "stock_code": "603108",
+        "stock_name": "润达医疗",
+        "market_value_wan": 1096.45
+      },
+      {
+        "stock_code": "002966",
+        "stock_name": "苏州银行",
+        "market_value_wan": 1088.16
+      },
+      {
+        "stock_code": "600985",
+        "stock_name": "淮北矿业",
+        "market_value_wan": 1011.0
+      },
+      {
+        "stock_code": "000910",
+        "stock_name": "大亚圣象",
+        "market_value_wan": 971.55
+      },
+      {
+        "stock_code": "000001",
+        "stock_name": "平安银行",
+        "market_value_wan": 947.2
+      },
+      {
+        "stock_code": "002831",
+        "stock_name": "裕同科技",
+        "market_value_wan": 896.98
+      }
+    ],
+    "2022-Q2": [
+      {
+        "stock_code": "002048",
+        "stock_name": "宁波华翔",
+        "market_value_wan": 2135.9
+      },
+      {
+        "stock_code": "600383",
+        "stock_name": "金地集团",
+        "market_value_wan": 1919.23
+      },
+      {
+        "stock_code": "000910",
+        "stock_name": "大亚圣象",
+        "market_value_wan": 1109.48
+      },
+      {
+        "stock_code": "603108",
+        "stock_name": "润达医疗",
+        "market_value_wan": 1044.49
+      },
+      {
+        "stock_code": "002398",
+        "stock_name": "垒知集团",
+        "market_value_wan": 1006.4
+      },
+      {
+        "stock_code": "600985",
+        "stock_name": "淮北矿业",
+        "market_value_wan": 873.6
+      },
+      {
+        "stock_code": "600219",
+        "stock_name": "南山铝业",
+        "market_value_wan": 841.32
+      },
+      {
+        "stock_code": "600987",
+        "stock_name": "航民股份",
+        "market_value_wan": 806.81
+      },
+      {
+        "stock_code": "601965",
+        "stock_name": "中国汽研",
+        "market_value_wan": 785.29
+      },
+      {
+        "stock_code": "600612",
+        "stock_name": "老凤祥",
+        "market_value_wan": 752.04
+      }
+    ],
+    "2022-Q1": [
+      {
+        "stock_code": "002048",
+        "stock_name": "宁波华翔",
+        "market_value_wan": 2158.61
+      },
+      {
+        "stock_code": "600383",
+        "stock_name": "金地集团",
+        "market_value_wan": 1953.5
+      },
+      {
+        "stock_code": "600985",
+        "stock_name": "淮北矿业",
+        "market_value_wan": 1199.28
+      },
+      {
+        "stock_code": "603108",
+        "stock_name": "润达医疗",
+        "market_value_wan": 1113.42
+      },
+      {
+        "stock_code": "000910",
+        "stock_name": "大亚圣象",
+        "market_value_wan": 1034.77
+      },
+      {
+        "stock_code": "601965",
+        "stock_name": "中国汽研",
+        "market_value_wan": 980.98
+      },
+      {
+        "stock_code": "002398",
+        "stock_name": "垒知集团",
+        "market_value_wan": 864.64
+      },
+      {
+        "stock_code": "000401",
+        "stock_name": "冀东水泥",
+        "market_value_wan": 794.09
+      },
+      {
+        "stock_code": "600219",
+        "stock_name": "南山铝业",
+        "market_value_wan": 765.16
+      },
+      {
+        "stock_code": "600612",
+        "stock_name": "老凤祥",
+        "market_value_wan": 764.46
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "519672",
+    "name": "银河蓝筹混合A",
+    "base_name": "银河蓝筹混合"
+  },
+  "fetched_at": "2026-06-15 00:03:53",
+  "quarters": {
+    "2018-Q4": [
+      {
+        "stock_code": "600763",
+        "stock_name": "通策医疗",
+        "market_value_wan": 1519.04
+      },
+      {
+        "stock_code": "601336",
+        "stock_name": "新华保险",
+        "market_value_wan": 1427.71
+      },
+      {
+        "stock_code": "002410",
+        "stock_name": "广联达",
+        "market_value_wan": 1219.47
+      },
+      {
+        "stock_code": "300015",
+        "stock_name": "爱尔眼科",
+        "market_value_wan": 1138.79
+      },
+      {
+        "stock_code": "300144",
+        "stock_name": "宋城演艺",
+        "market_value_wan": 928.73
+      },
+      {
+        "stock_code": "600837",
+        "stock_name": "海通证券",
+        "market_value_wan": 924.0
+      },
+      {
+        "stock_code": "300253",
+        "stock_name": "卫宁健康",
+        "market_value_wan": 920.69
+      },
+      {
+        "stock_code": "600845",
+        "stock_name": "宝信软件",
+        "market_value_wan": 896.55
+      },
+      {
+        "stock_code": "601229",
+        "stock_name": "上海银行",
+        "market_value_wan": 805.68
+      },
+      {
+        "stock_code": "601688",
+        "stock_name": "华泰证券",
+        "market_value_wan": 801.9
+      }
+    ],
+    "2018-Q3": [
+      {
+        "stock_code": "601336",
+        "stock_name": "新华保险",
+        "market_value_wan": 1640.6
+      },
+      {
+        "stock_code": "600763",
+        "stock_name": "通策医疗",
+        "market_value_wan": 1289.04
+      },
+      {
+        "stock_code": "300015",
+        "stock_name": "爱尔眼科",
+        "market_value_wan": 1128.75
+      },
+      {
+        "stock_code": "603799",
+        "stock_name": "华友钴业",
+        "market_value_wan": 1119.09
+      },
+      {
+        "stock_code": "600845",
+        "stock_name": "宝信软件",
+        "market_value_wan": 1090.7
+      },
+      {
+        "stock_code": "002410",
+        "stock_name": "广联达",
+        "market_value_wan": 1044.42
+      },
+      {
+        "stock_code": "300618",
+        "stock_name": "寒锐钴业",
+        "market_value_wan": 1020.24
+      },
+      {
+        "stock_code": "600686",
+        "stock_name": "金龙汽车",
+        "market_value_wan": 942.59
+      },
+      {
+        "stock_code": "601688",
+        "stock_name": "华泰证券",
+        "market_value_wan": 907.2
+      },
+      {
+        "stock_code": "300253",
+        "stock_name": "卫宁健康",
+        "market_value_wan": 821.94
+      }
+    ],
+    "2018-Q2": [
+      {
+        "stock_code": "603799",
+        "stock_name": "华友钴业",
+        "market_value_wan": 1637.5
+      },
+      {
+        "stock_code": "601288",
+        "stock_name": "农业银行",
+        "market_value_wan": 1393.2
+      },
+      {
+        "stock_code": "300015",
+        "stock_name": "爱尔眼科",
+        "market_value_wan": 1291.6
+      },
+      {
+        "stock_code": "600763",
+        "stock_name": "通策医疗",
+        "market_value_wan": 1148.61
+      },
+      {
+        "stock_code": "600845",
+        "stock_name": "宝信软件",
+        "market_value_wan": 1106.7
+      },
+      {
+        "stock_code": "600686",
+        "stock_name": "金龙汽车",
+        "market_value_wan": 1086.63
+      },
+      {
+        "stock_code": "600436",
+        "stock_name": "片仔癀",
+        "market_value_wan": 1063.34
+      },
+      {
+        "stock_code": "002050",
+        "stock_name": "三花智控",
+        "market_value_wan": 1055.6
+      },
+      {
+        "stock_code": "601398",
+        "stock_name": "工商银行",
+        "market_value_wan": 1037.4
+      },
+      {
+        "stock_code": "002410",
+        "stock_name": "广联达",
+        "market_value_wan": 976.1
+      }
+    ],
+    "2018-Q1": [
+      {
+        "stock_code": "601288",
+        "stock_name": "农业银行",
+        "market_value_wan": 1837.7
+      },
+      {
+        "stock_code": "300015",
+        "stock_name": "爱尔眼科",
+        "market_value_wan": 1564.47
+      },
+      {
+        "stock_code": "603799",
+        "stock_name": "华友钴业",
+        "market_value_wan": 1481.75
+      },
+      {
+        "stock_code": "601398",
+        "stock_name": "工商银行",
+        "market_value_wan": 1175.37
+      },
+      {
+        "stock_code": "002142",
+        "stock_name": "宁波银行",
+        "market_value_wan": 1099.61
+      },
+      {
+        "stock_code": "002460",
+        "stock_name": "赣锋锂业",
+        "market_value_wan": 1067.84
+      },
+      {
+        "stock_code": "600436",
+        "stock_name": "片仔癀",
+        "market_value_wan": 995.76
+      },
+      {
+        "stock_code": "002466",
+        "stock_name": "天齐锂业",
+        "market_value_wan": 942.4
+      },
+      {
+        "stock_code": "002050",
+        "stock_name": "三花智控",
+        "market_value_wan": 888.0
+      },
+      {
+        "stock_code": "000063",
+        "stock_name": "中兴通讯",
+        "market_value_wan": 753.75
+      }
+    ]
+  }
+}

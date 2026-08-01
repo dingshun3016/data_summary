@@ -1,0 +1,129 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "010667",
+    "name": "安信价值回报三年持有混合C",
+    "base_name": "安信价值回报三年持有混合"
+  },
+  "fetched_at": "2026-06-14 23:41:52",
+  "quarters": {
+    "2025-Q4": [
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 6931.08
+      },
+      {
+        "stock_code": "688012",
+        "stock_name": "中微公司",
+        "market_value_wan": 6679.84
+      },
+      {
+        "stock_code": "300502",
+        "stock_name": "新易盛",
+        "market_value_wan": 6355.48
+      },
+      {
+        "stock_code": "603259",
+        "stock_name": "药明康德",
+        "market_value_wan": 6262.5
+      },
+      {
+        "stock_code": "002409",
+        "stock_name": "雅克科技",
+        "market_value_wan": 2098.51
+      }
+    ],
+    "2025-Q3": [
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 8125.38
+      },
+      {
+        "stock_code": "688012",
+        "stock_name": "中微公司",
+        "market_value_wan": 8044.33
+      },
+      {
+        "stock_code": "603259",
+        "stock_name": "药明康德",
+        "market_value_wan": 6761.23
+      },
+      {
+        "stock_code": "300502",
+        "stock_name": "新易盛",
+        "market_value_wan": 3628.44
+      },
+      {
+        "stock_code": "688169",
+        "stock_name": "石头科技",
+        "market_value_wan": 3345.01
+      },
+      {
+        "stock_code": "002384",
+        "stock_name": "东山精密",
+        "market_value_wan": 2998.68
+      }
+    ],
+    "2025-Q2": [
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 8286.03
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 7498.79
+      },
+      {
+        "stock_code": "688012",
+        "stock_name": "中微公司",
+        "market_value_wan": 7456.25
+      },
+      {
+        "stock_code": "002594",
+        "stock_name": "比亚迪",
+        "market_value_wan": 5277.37
+      },
+      {
+        "stock_code": "300760",
+        "stock_name": "迈瑞医疗",
+        "market_value_wan": 3935.37
+      },
+      {
+        "stock_code": "688169",
+        "stock_name": "石头科技",
+        "market_value_wan": 3381.34
+      }
+    ],
+    "2025-Q1": [
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 9350.55
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 9331.56
+      },
+      {
+        "stock_code": "688012",
+        "stock_name": "中微公司",
+        "market_value_wan": 7074.65
+      },
+      {
+        "stock_code": "002594",
+        "stock_name": "比亚迪",
+        "market_value_wan": 6178.35
+      },
+      {
+        "stock_code": "300760",
+        "stock_name": "迈瑞医疗",
+        "market_value_wan": 3896.1
+      }
+    ]
+  }
+}

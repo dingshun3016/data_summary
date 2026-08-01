@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "260116",
+    "name": "景顺长城核心竞争力混合A",
+    "base_name": "景顺长城核心竞争力混合"
+  },
+  "fetched_at": "2026-06-14 23:57:44",
+  "quarters": {
+    "2025-Q4": [
+      {
+        "stock_code": "601899",
+        "stock_name": "紫金矿业",
+        "market_value_wan": 9075.95
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 3819.5
+      },
+      {
+        "stock_code": "600961",
+        "stock_name": "株冶集团",
+        "market_value_wan": 3805.88
+      },
+      {
+        "stock_code": "002155",
+        "stock_name": "湖南黄金",
+        "market_value_wan": 3552.82
+      },
+      {
+        "stock_code": "000960",
+        "stock_name": "锡业股份",
+        "market_value_wan": 3195.61
+      },
+      {
+        "stock_code": "601688",
+        "stock_name": "华泰证券",
+        "market_value_wan": 3029.43
+      },
+      {
+        "stock_code": "600761",
+        "stock_name": "安徽合力",
+        "market_value_wan": 2640.29
+      },
+      {
+        "stock_code": "002294",
+        "stock_name": "信立泰",
+        "market_value_wan": 2477.5
+      },
+      {
+        "stock_code": "600415",
+        "stock_name": "小商品城",
+        "market_value_wan": 2395.53
+      },
+      {
+        "stock_code": "600066",
+        "stock_name": "宇通客车",
+        "market_value_wan": 2388.41
+      }
+    ],
+    "2025-Q3": [
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 9736.44
+      },
+      {
+        "stock_code": "601899",
+        "stock_name": "紫金矿业",
+        "market_value_wan": 8832.0
+      },
+      {
+        "stock_code": "688506",
+        "stock_name": "百利天恒",
+        "market_value_wan": 5633.18
+      },
+      {
+        "stock_code": "603298",
+        "stock_name": "杭叉集团",
+        "market_value_wan": 4815.72
+      },
+      {
+        "stock_code": "600761",
+        "stock_name": "安徽合力",
+        "market_value_wan": 4242.14
+      },
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 3895.63
+      },
+      {
+        "stock_code": "300558",
+        "stock_name": "贝达药业",
+        "market_value_wan": 3340.78
+      },
+      {
+        "stock_code": "605088",
+        "stock_name": "冠盛股份",
+        "market_value_wan": 3200.0
+      },
+      {
+        "stock_code": "600961",
+        "stock_name": "株冶集团",
+        "market_value_wan": 3156.09
+      },
+      {
+        "stock_code": "601958",
+        "stock_name": "金钼股份",
+        "market_value_wan": 3053.71
+      }
+    ],
+    "2025-Q2": [
+      {
+        "stock_code": "601899",
+        "stock_name": "紫金矿业",
+        "market_value_wan": 13065.0
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 10088.8
+      },
+      {
+        "stock_code": "002155",
+        "stock_name": "湖南黄金",
+        "market_value_wan": 9282.0
+      },
+      {
+        "stock_code": "603529",
+        "stock_name": "爱玛科技",
+        "market_value_wan": 8600.0
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 7047.6
+      },
+      {
+        "stock_code": "002594",
+        "stock_name": "比亚迪",
+        "market_value_wan": 6638.2
+      },
+      {
+        "stock_code": "002444",
+        "stock_name": "巨星科技",
+        "market_value_wan": 5102.0
+      },
+      {
+        "stock_code": "603277",
+        "stock_name": "银都股份",
+        "market_value_wan": 4640.0
+      },
+      {
+        "stock_code": "603298",
+        "stock_name": "杭叉集团",
+        "market_value_wan": 4190.0
+      },
+      {
+        "stock_code": "600276",
+        "stock_name": "恒瑞医药",
+        "market_value_wan": 4152.35
+      }
+    ],
+    "2025-Q1": [
+      {
+        "stock_code": "601899",
+        "stock_name": "紫金矿业",
+        "market_value_wan": 14496.0
+      },
+      {
+        "stock_code": "603529",
+        "stock_name": "爱玛科技",
+        "market_value_wan": 13314.0
+      },
+      {
+        "stock_code": "002594",
+        "stock_name": "比亚迪",
+        "market_value_wan": 13121.5
+      },
+      {
+        "stock_code": "002155",
+        "stock_name": "湖南黄金",
+        "market_value_wan": 9148.0
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 7805.0
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 6323.5
+      },
+      {
+        "stock_code": "605088",
+        "stock_name": "冠盛股份",
+        "market_value_wan": 5643.0
+      },
+      {
+        "stock_code": "600988",
+        "stock_name": "赤峰黄金",
+        "market_value_wan": 5267.0
+      },
+      {
+        "stock_code": "603277",
+        "stock_name": "银都股份",
+        "market_value_wan": 4788.0
+      },
+      {
+        "stock_code": "002444",
+        "stock_name": "巨星科技",
+        "market_value_wan": 4737.6
+      }
+    ]
+  }
+}

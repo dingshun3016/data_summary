@@ -1,0 +1,85 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "009807",
+    "name": "东方红招盈甄选一年混合C",
+    "base_name": "东方红招盈甄选一年混合"
+  },
+  "fetched_at": "2026-08-01 20:58:43",
+  "quarters": {
+    "2026-Q2": [
+      {
+        "stock_code": "600276",
+        "stock_name": "恒瑞医药",
+        "market_value_wan": 348.15
+      },
+      {
+        "stock_code": "000977",
+        "stock_name": "浪潮信息",
+        "market_value_wan": 303.1
+      },
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 271.04
+      },
+      {
+        "stock_code": "002028",
+        "stock_name": "思源电气",
+        "market_value_wan": 219.71
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 214.58
+      },
+      {
+        "stock_code": "601012",
+        "stock_name": "隆基绿能",
+        "market_value_wan": 212.41
+      },
+      {
+        "stock_code": "600887",
+        "stock_name": "伊利股份",
+        "market_value_wan": 198.63
+      }
+    ],
+    "2026-Q1": [
+      {
+        "stock_code": "600276",
+        "stock_name": "恒瑞医药",
+        "market_value_wan": 293.22
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 243.43
+      },
+      {
+        "stock_code": "600887",
+        "stock_name": "伊利股份",
+        "market_value_wan": 240.58
+      },
+      {
+        "stock_code": "002028",
+        "stock_name": "思源电气",
+        "market_value_wan": 202.0
+      },
+      {
+        "stock_code": "603606",
+        "stock_name": "东方电缆",
+        "market_value_wan": 142.87
+      },
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 130.54
+      },
+      {
+        "stock_code": "688388",
+        "stock_name": "嘉元科技",
+        "market_value_wan": 123.66
+      }
+    ]
+  }
+}

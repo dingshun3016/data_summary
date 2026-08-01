@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "163807",
+    "name": "中银优选灵活配置混合A",
+    "base_name": "中银优选灵活配置混合"
+  },
+  "fetched_at": "2026-06-14 23:53:52",
+  "quarters": {
+    "2018-Q4": [
+      {
+        "stock_code": "000002",
+        "stock_name": "万科A",
+        "market_value_wan": 940.41
+      },
+      {
+        "stock_code": "300144",
+        "stock_name": "宋城演艺",
+        "market_value_wan": 902.25
+      },
+      {
+        "stock_code": "600048",
+        "stock_name": "保利发展",
+        "market_value_wan": 892.11
+      },
+      {
+        "stock_code": "300450",
+        "stock_name": "先导智能",
+        "market_value_wan": 813.44
+      },
+      {
+        "stock_code": "300146",
+        "stock_name": "汤臣倍健",
+        "market_value_wan": 583.95
+      },
+      {
+        "stock_code": "600406",
+        "stock_name": "国电南瑞",
+        "market_value_wan": 526.99
+      },
+      {
+        "stock_code": "002739",
+        "stock_name": "万达电影",
+        "market_value_wan": 491.61
+      },
+      {
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "market_value_wan": 481.01
+      },
+      {
+        "stock_code": "603486",
+        "stock_name": "科沃斯",
+        "market_value_wan": 465.82
+      },
+      {
+        "stock_code": "600498",
+        "stock_name": "烽火通信",
+        "market_value_wan": 463.77
+      }
+    ],
+    "2018-Q3": [
+      {
+        "stock_code": "600271",
+        "stock_name": "航天信息",
+        "market_value_wan": 798.06
+      },
+      {
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "market_value_wan": 716.92
+      },
+      {
+        "stock_code": "601933",
+        "stock_name": "永辉超市",
+        "market_value_wan": 702.2
+      },
+      {
+        "stock_code": "600048",
+        "stock_name": "保利发展",
+        "market_value_wan": 697.58
+      },
+      {
+        "stock_code": "300144",
+        "stock_name": "宋城演艺",
+        "market_value_wan": 685.75
+      },
+      {
+        "stock_code": "000661",
+        "stock_name": "长春高新",
+        "market_value_wan": 667.37
+      },
+      {
+        "stock_code": "002027",
+        "stock_name": "分众传媒",
+        "market_value_wan": 647.1
+      },
+      {
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "market_value_wan": 613.08
+      },
+      {
+        "stock_code": "000860",
+        "stock_name": "顺鑫农业",
+        "market_value_wan": 594.62
+      },
+      {
+        "stock_code": "603345",
+        "stock_name": "安井食品",
+        "market_value_wan": 574.3
+      }
+    ],
+    "2018-Q2": [
+      {
+        "stock_code": "603799",
+        "stock_name": "华友钴业",
+        "market_value_wan": 1266.76
+      },
+      {
+        "stock_code": "600271",
+        "stock_name": "航天信息",
+        "market_value_wan": 843.26
+      },
+      {
+        "stock_code": "002466",
+        "stock_name": "天齐锂业",
+        "market_value_wan": 823.24
+      },
+      {
+        "stock_code": "300122",
+        "stock_name": "智飞生物",
+        "market_value_wan": 780.2
+      },
+      {
+        "stock_code": "600570",
+        "stock_name": "恒生电子",
+        "market_value_wan": 541.03
+      },
+      {
+        "stock_code": "603986",
+        "stock_name": "兆易创新",
+        "market_value_wan": 518.42
+      },
+      {
+        "stock_code": "000661",
+        "stock_name": "长春高新",
+        "market_value_wan": 504.83
+      },
+      {
+        "stock_code": "600276",
+        "stock_name": "恒瑞医药",
+        "market_value_wan": 499.97
+      },
+      {
+        "stock_code": "600115",
+        "stock_name": "中国东航",
+        "market_value_wan": 496.83
+      },
+      {
+        "stock_code": "300618",
+        "stock_name": "寒锐钴业",
+        "market_value_wan": 493.39
+      }
+    ],
+    "2018-Q1": [
+      {
+        "stock_code": "300618",
+        "stock_name": "寒锐钴业",
+        "market_value_wan": 1954.85
+      },
+      {
+        "stock_code": "603799",
+        "stock_name": "华友钴业",
+        "market_value_wan": 1878.14
+      },
+      {
+        "stock_code": "300450",
+        "stock_name": "先导智能",
+        "market_value_wan": 1579.11
+      },
+      {
+        "stock_code": "603986",
+        "stock_name": "兆易创新",
+        "market_value_wan": 1517.33
+      },
+      {
+        "stock_code": "002466",
+        "stock_name": "天齐锂业",
+        "market_value_wan": 1498.32
+      },
+      {
+        "stock_code": "600588",
+        "stock_name": "用友网络",
+        "market_value_wan": 1234.68
+      },
+      {
+        "stock_code": "002202",
+        "stock_name": "金风科技",
+        "market_value_wan": 1099.52
+      },
+      {
+        "stock_code": "300122",
+        "stock_name": "智飞生物",
+        "market_value_wan": 1046.58
+      },
+      {
+        "stock_code": "603993",
+        "stock_name": "洛阳钼业",
+        "market_value_wan": 971.72
+      },
+      {
+        "stock_code": "000703",
+        "stock_name": "恒逸石化",
+        "market_value_wan": 717.53
+      }
+    ]
+  }
+}

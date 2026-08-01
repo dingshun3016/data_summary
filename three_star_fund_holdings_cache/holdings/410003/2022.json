@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "410003",
+    "name": "华富成长趋势混合A",
+    "base_name": "华富成长趋势混合"
+  },
+  "fetched_at": "2026-06-14 23:59:59",
+  "quarters": {
+    "2022-Q4": [
+      {
+        "stock_code": "603939",
+        "stock_name": "益丰药房",
+        "market_value_wan": 10137.79
+      },
+      {
+        "stock_code": "002415",
+        "stock_name": "海康威视",
+        "market_value_wan": 7560.24
+      },
+      {
+        "stock_code": "603986",
+        "stock_name": "兆易创新",
+        "market_value_wan": 7494.66
+      },
+      {
+        "stock_code": "601012",
+        "stock_name": "隆基绿能",
+        "market_value_wan": 5843.97
+      },
+      {
+        "stock_code": "300274",
+        "stock_name": "阳光电源",
+        "market_value_wan": 5800.18
+      },
+      {
+        "stock_code": "688599",
+        "stock_name": "天合光能",
+        "market_value_wan": 5661.89
+      },
+      {
+        "stock_code": "002153",
+        "stock_name": "石基信息",
+        "market_value_wan": 5516.32
+      },
+      {
+        "stock_code": "688017",
+        "stock_name": "绿的谐波",
+        "market_value_wan": 4798.09
+      },
+      {
+        "stock_code": "688315",
+        "stock_name": "诺禾致源",
+        "market_value_wan": 4781.08
+      },
+      {
+        "stock_code": "002459",
+        "stock_name": "晶澳科技",
+        "market_value_wan": 4739.99
+      }
+    ],
+    "2022-Q3": [
+      {
+        "stock_code": "603939",
+        "stock_name": "益丰药房",
+        "market_value_wan": 10606.86
+      },
+      {
+        "stock_code": "002415",
+        "stock_name": "海康威视",
+        "market_value_wan": 8199.71
+      },
+      {
+        "stock_code": "300274",
+        "stock_name": "阳光电源",
+        "market_value_wan": 7619.51
+      },
+      {
+        "stock_code": "603986",
+        "stock_name": "兆易创新",
+        "market_value_wan": 6856.88
+      },
+      {
+        "stock_code": "601012",
+        "stock_name": "隆基绿能",
+        "market_value_wan": 6625.29
+      },
+      {
+        "stock_code": "688599",
+        "stock_name": "天合光能",
+        "market_value_wan": 5692.97
+      },
+      {
+        "stock_code": "002153",
+        "stock_name": "石基信息",
+        "market_value_wan": 5001.56
+      },
+      {
+        "stock_code": "600004",
+        "stock_name": "白云机场",
+        "market_value_wan": 4392.08
+      },
+      {
+        "stock_code": "603233",
+        "stock_name": "大参林",
+        "market_value_wan": 4181.4
+      },
+      {
+        "stock_code": "300363",
+        "stock_name": "博腾股份",
+        "market_value_wan": 4141.81
+      }
+    ],
+    "2022-Q2": [
+      {
+        "stock_code": "603939",
+        "stock_name": "益丰药房",
+        "market_value_wan": 11563.45
+      },
+      {
+        "stock_code": "603986",
+        "stock_name": "兆易创新",
+        "market_value_wan": 10401.24
+      },
+      {
+        "stock_code": "002415",
+        "stock_name": "海康威视",
+        "market_value_wan": 9757.71
+      },
+      {
+        "stock_code": "601012",
+        "stock_name": "隆基绿能",
+        "market_value_wan": 8547.7
+      },
+      {
+        "stock_code": "300274",
+        "stock_name": "阳光电源",
+        "market_value_wan": 7063.19
+      },
+      {
+        "stock_code": "002153",
+        "stock_name": "石基信息",
+        "market_value_wan": 6416.72
+      },
+      {
+        "stock_code": "300363",
+        "stock_name": "博腾股份",
+        "market_value_wan": 5797.0
+      },
+      {
+        "stock_code": "300763",
+        "stock_name": "锦浪科技",
+        "market_value_wan": 5414.46
+      },
+      {
+        "stock_code": "688390",
+        "stock_name": "固德威",
+        "market_value_wan": 5205.98
+      },
+      {
+        "stock_code": "688599",
+        "stock_name": "天合光能",
+        "market_value_wan": 4684.95
+      }
+    ],
+    "2022-Q1": [
+      {
+        "stock_code": "300363",
+        "stock_name": "博腾股份",
+        "market_value_wan": 11288.72
+      },
+      {
+        "stock_code": "603986",
+        "stock_name": "兆易创新",
+        "market_value_wan": 9420.8
+      },
+      {
+        "stock_code": "002415",
+        "stock_name": "海康威视",
+        "market_value_wan": 8970.8
+      },
+      {
+        "stock_code": "603939",
+        "stock_name": "益丰药房",
+        "market_value_wan": 8755.21
+      },
+      {
+        "stock_code": "300274",
+        "stock_name": "阳光电源",
+        "market_value_wan": 6306.89
+      },
+      {
+        "stock_code": "002153",
+        "stock_name": "石基信息",
+        "market_value_wan": 5747.27
+      },
+      {
+        "stock_code": "000830",
+        "stock_name": "鲁西化工",
+        "market_value_wan": 5698.56
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 5532.84
+      },
+      {
+        "stock_code": "300763",
+        "stock_name": "锦浪科技",
+        "market_value_wan": 4989.43
+      },
+      {
+        "stock_code": "601012",
+        "stock_name": "隆基绿能",
+        "market_value_wan": 4966.67
+      }
+    ]
+  }
+}

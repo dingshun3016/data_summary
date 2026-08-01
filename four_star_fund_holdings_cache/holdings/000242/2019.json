@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "000242",
+    "name": "景顺长城策略精选灵活配置混合A",
+    "base_name": "景顺长城策略精选灵活配置混合"
+  },
+  "fetched_at": "2026-06-14 22:26:19",
+  "quarters": {
+    "2019-Q4": [
+      {
+        "stock_code": "002449",
+        "stock_name": "国星光电",
+        "market_value_wan": 984.4
+      },
+      {
+        "stock_code": "000513",
+        "stock_name": "丽珠集团",
+        "market_value_wan": 835.72
+      },
+      {
+        "stock_code": "601788",
+        "stock_name": "光大证券",
+        "market_value_wan": 831.72
+      },
+      {
+        "stock_code": "600741",
+        "stock_name": "华域汽车",
+        "market_value_wan": 817.43
+      },
+      {
+        "stock_code": "300037",
+        "stock_name": "新宙邦",
+        "market_value_wan": 793.67
+      },
+      {
+        "stock_code": "603008",
+        "stock_name": "喜临门",
+        "market_value_wan": 792.22
+      },
+      {
+        "stock_code": "000063",
+        "stock_name": "中兴通讯",
+        "market_value_wan": 754.22
+      },
+      {
+        "stock_code": "300498",
+        "stock_name": "温氏股份",
+        "market_value_wan": 728.78
+      },
+      {
+        "stock_code": "002273",
+        "stock_name": "水晶光电",
+        "market_value_wan": 720.15
+      },
+      {
+        "stock_code": "600511",
+        "stock_name": "国药股份",
+        "market_value_wan": 712.81
+      }
+    ],
+    "2019-Q3": [
+      {
+        "stock_code": "000513",
+        "stock_name": "丽珠集团",
+        "market_value_wan": 970.27
+      },
+      {
+        "stock_code": "600511",
+        "stock_name": "国药股份",
+        "market_value_wan": 880.18
+      },
+      {
+        "stock_code": "600196",
+        "stock_name": "复星医药",
+        "market_value_wan": 866.26
+      },
+      {
+        "stock_code": "002850",
+        "stock_name": "科达利",
+        "market_value_wan": 831.57
+      },
+      {
+        "stock_code": "300498",
+        "stock_name": "温氏股份",
+        "market_value_wan": 806.43
+      },
+      {
+        "stock_code": "002449",
+        "stock_name": "国星光电",
+        "market_value_wan": 768.7
+      },
+      {
+        "stock_code": "000063",
+        "stock_name": "中兴通讯",
+        "market_value_wan": 682.18
+      },
+      {
+        "stock_code": "000568",
+        "stock_name": "泸州老窖",
+        "market_value_wan": 680.06
+      },
+      {
+        "stock_code": "603008",
+        "stock_name": "喜临门",
+        "market_value_wan": 637.05
+      },
+      {
+        "stock_code": "002463",
+        "stock_name": "沪电股份",
+        "market_value_wan": 609.56
+      }
+    ],
+    "2019-Q2": [
+      {
+        "stock_code": "600845",
+        "stock_name": "宝信软件",
+        "market_value_wan": 900.05
+      },
+      {
+        "stock_code": "600498",
+        "stock_name": "烽火通信",
+        "market_value_wan": 886.69
+      },
+      {
+        "stock_code": "600795",
+        "stock_name": "国电电力",
+        "market_value_wan": 878.23
+      },
+      {
+        "stock_code": "601888",
+        "stock_name": "中国中免",
+        "market_value_wan": 873.93
+      },
+      {
+        "stock_code": "600027",
+        "stock_name": "华电国际",
+        "market_value_wan": 856.0
+      },
+      {
+        "stock_code": "000513",
+        "stock_name": "丽珠集团",
+        "market_value_wan": 845.24
+      },
+      {
+        "stock_code": "002557",
+        "stock_name": "洽洽食品",
+        "market_value_wan": 690.84
+      },
+      {
+        "stock_code": "600801",
+        "stock_name": "华新水泥",
+        "market_value_wan": 649.85
+      },
+      {
+        "stock_code": "002299",
+        "stock_name": "圣农发展",
+        "market_value_wan": 601.12
+      },
+      {
+        "stock_code": "600897",
+        "stock_name": "厦门空港",
+        "market_value_wan": 591.75
+      }
+    ],
+    "2019-Q1": [
+      {
+        "stock_code": "600050",
+        "stock_name": "中国联通",
+        "market_value_wan": 1491.76
+      },
+      {
+        "stock_code": "600529",
+        "stock_name": "山东药玻",
+        "market_value_wan": 1399.08
+      },
+      {
+        "stock_code": "600426",
+        "stock_name": "华鲁恒升",
+        "market_value_wan": 1114.79
+      },
+      {
+        "stock_code": "600801",
+        "stock_name": "华新水泥",
+        "market_value_wan": 1003.25
+      },
+      {
+        "stock_code": "600027",
+        "stock_name": "华电国际",
+        "market_value_wan": 989.96
+      },
+      {
+        "stock_code": "600588",
+        "stock_name": "用友网络",
+        "market_value_wan": 926.32
+      },
+      {
+        "stock_code": "000789",
+        "stock_name": "万年青",
+        "market_value_wan": 836.08
+      },
+      {
+        "stock_code": "600273",
+        "stock_name": "嘉化能源",
+        "market_value_wan": 750.19
+      },
+      {
+        "stock_code": "002672",
+        "stock_name": "东江环保",
+        "market_value_wan": 740.25
+      },
+      {
+        "stock_code": "300012",
+        "stock_name": "华测检测",
+        "market_value_wan": 706.9
+      }
+    ]
+  }
+}

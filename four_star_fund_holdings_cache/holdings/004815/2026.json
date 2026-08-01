@@ -1,0 +1,75 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "004815",
+    "name": "中欧红利优享混合C",
+    "base_name": "中欧红利优享混合"
+  },
+  "fetched_at": "2026-08-01 20:47:50",
+  "quarters": {
+    "2026-Q2": [
+      {
+        "stock_code": "601899",
+        "stock_name": "紫金矿业",
+        "market_value_wan": 55498.96
+      },
+      {
+        "stock_code": "000951",
+        "stock_name": "中国重汽",
+        "market_value_wan": 54840.34
+      },
+      {
+        "stock_code": "000425",
+        "stock_name": "徐工机械",
+        "market_value_wan": 43032.25
+      },
+      {
+        "stock_code": "600031",
+        "stock_name": "三一重工",
+        "market_value_wan": 40049.86
+      },
+      {
+        "stock_code": "600346",
+        "stock_name": "恒力石化",
+        "market_value_wan": 35067.39
+      },
+      {
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "market_value_wan": 18270.58
+      }
+    ],
+    "2026-Q1": [
+      {
+        "stock_code": "000951",
+        "stock_name": "中国重汽",
+        "market_value_wan": 62542.16
+      },
+      {
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "market_value_wan": 54466.78
+      },
+      {
+        "stock_code": "000425",
+        "stock_name": "徐工机械",
+        "market_value_wan": 53617.44
+      },
+      {
+        "stock_code": "601899",
+        "stock_name": "紫金矿业",
+        "market_value_wan": 51707.65
+      },
+      {
+        "stock_code": "002142",
+        "stock_name": "宁波银行",
+        "market_value_wan": 45490.56
+      },
+      {
+        "stock_code": "600031",
+        "stock_name": "三一重工",
+        "market_value_wan": 39742.93
+      }
+    ]
+  }
+}

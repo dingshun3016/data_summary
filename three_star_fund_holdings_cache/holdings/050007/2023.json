@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "050007",
+    "name": "博时平衡配置混合",
+    "base_name": "博时平衡配置混合"
+  },
+  "fetched_at": "2026-06-14 23:48:58",
+  "quarters": {
+    "2023-Q4": [
+      {
+        "stock_code": "000858",
+        "stock_name": "五粮液",
+        "market_value_wan": 986.38
+      },
+      {
+        "stock_code": "300498",
+        "stock_name": "温氏股份",
+        "market_value_wan": 934.39
+      },
+      {
+        "stock_code": "600941",
+        "stock_name": "中国移动",
+        "market_value_wan": 878.41
+      },
+      {
+        "stock_code": "600030",
+        "stock_name": "中信证券",
+        "market_value_wan": 830.89
+      },
+      {
+        "stock_code": "002567",
+        "stock_name": "唐人神",
+        "market_value_wan": 648.23
+      },
+      {
+        "stock_code": "000725",
+        "stock_name": "京东方A",
+        "market_value_wan": 638.98
+      },
+      {
+        "stock_code": "601899",
+        "stock_name": "紫金矿业",
+        "market_value_wan": 580.04
+      },
+      {
+        "stock_code": "600600",
+        "stock_name": "青岛啤酒",
+        "market_value_wan": 574.83
+      },
+      {
+        "stock_code": "002439",
+        "stock_name": "启明星辰",
+        "market_value_wan": 497.34
+      },
+      {
+        "stock_code": "000060",
+        "stock_name": "中金岭南",
+        "market_value_wan": 448.16
+      }
+    ],
+    "2023-Q3": [
+      {
+        "stock_code": "601658",
+        "stock_name": "邮储银行",
+        "market_value_wan": 694.81
+      },
+      {
+        "stock_code": "300498",
+        "stock_name": "温氏股份",
+        "market_value_wan": 658.35
+      },
+      {
+        "stock_code": "600030",
+        "stock_name": "中信证券",
+        "market_value_wan": 626.84
+      },
+      {
+        "stock_code": "002271",
+        "stock_name": "东方雨虹",
+        "market_value_wan": 587.23
+      },
+      {
+        "stock_code": "300308",
+        "stock_name": "中际旭创",
+        "market_value_wan": 535.0
+      },
+      {
+        "stock_code": "600690",
+        "stock_name": "海尔智家",
+        "market_value_wan": 520.38
+      },
+      {
+        "stock_code": "601088",
+        "stock_name": "中国神华",
+        "market_value_wan": 457.39
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 456.82
+      },
+      {
+        "stock_code": "000060",
+        "stock_name": "中金岭南",
+        "market_value_wan": 445.9
+      },
+      {
+        "stock_code": "688036",
+        "stock_name": "传音控股",
+        "market_value_wan": 426.92
+      }
+    ],
+    "2023-Q2": [
+      {
+        "stock_code": "600600",
+        "stock_name": "青岛啤酒",
+        "market_value_wan": 729.56
+      },
+      {
+        "stock_code": "601658",
+        "stock_name": "邮储银行",
+        "market_value_wan": 667.34
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 562.82
+      },
+      {
+        "stock_code": "000060",
+        "stock_name": "中金岭南",
+        "market_value_wan": 523.07
+      },
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 417.15
+      },
+      {
+        "stock_code": "300760",
+        "stock_name": "迈瑞医疗",
+        "market_value_wan": 416.72
+      },
+      {
+        "stock_code": "603081",
+        "stock_name": "大丰实业",
+        "market_value_wan": 392.05
+      },
+      {
+        "stock_code": "300498",
+        "stock_name": "温氏股份",
+        "market_value_wan": 384.07
+      },
+      {
+        "stock_code": "300724",
+        "stock_name": "捷佳伟创",
+        "market_value_wan": 377.5
+      },
+      {
+        "stock_code": "600079",
+        "stock_name": "人福医药",
+        "market_value_wan": 371.23
+      }
+    ],
+    "2023-Q1": [
+      {
+        "stock_code": "000568",
+        "stock_name": "泸州老窖",
+        "market_value_wan": 1215.35
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 1092.0
+      },
+      {
+        "stock_code": "300760",
+        "stock_name": "迈瑞医疗",
+        "market_value_wan": 860.32
+      },
+      {
+        "stock_code": "601728",
+        "stock_name": "中国电信",
+        "market_value_wan": 715.67
+      },
+      {
+        "stock_code": "300144",
+        "stock_name": "宋城演艺",
+        "market_value_wan": 685.78
+      },
+      {
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "market_value_wan": 680.81
+      },
+      {
+        "stock_code": "002415",
+        "stock_name": "海康威视",
+        "market_value_wan": 647.58
+      },
+      {
+        "stock_code": "600085",
+        "stock_name": "同仁堂",
+        "market_value_wan": 550.3
+      },
+      {
+        "stock_code": "600028",
+        "stock_name": "中国石化",
+        "market_value_wan": 538.0
+      },
+      {
+        "stock_code": "601888",
+        "stock_name": "中国中免",
+        "market_value_wan": 494.75
+      }
+    ]
+  }
+}

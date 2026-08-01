@@ -1,0 +1,115 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "320020",
+    "name": "诺安策略精选股票A",
+    "base_name": "诺安策略精选股票"
+  },
+  "fetched_at": "2026-08-01 21:00:54",
+  "quarters": {
+    "2026-Q2": [
+      {
+        "stock_code": "000651",
+        "stock_name": "格力电器",
+        "market_value_wan": 223.13
+      },
+      {
+        "stock_code": "600015",
+        "stock_name": "华夏银行",
+        "market_value_wan": 167.1
+      },
+      {
+        "stock_code": "601229",
+        "stock_name": "上海银行",
+        "market_value_wan": 157.28
+      },
+      {
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "market_value_wan": 150.17
+      },
+      {
+        "stock_code": "601838",
+        "stock_name": "成都银行",
+        "market_value_wan": 143.55
+      },
+      {
+        "stock_code": "601998",
+        "stock_name": "中信银行",
+        "market_value_wan": 139.5
+      },
+      {
+        "stock_code": "600919",
+        "stock_name": "江苏银行",
+        "market_value_wan": 134.97
+      },
+      {
+        "stock_code": "601077",
+        "stock_name": "渝农商行",
+        "market_value_wan": 134.79
+      },
+      {
+        "stock_code": "601009",
+        "stock_name": "南京银行",
+        "market_value_wan": 133.02
+      },
+      {
+        "stock_code": "601088",
+        "stock_name": "中国神华",
+        "market_value_wan": 132.74
+      }
+    ],
+    "2026-Q1": [
+      {
+        "stock_code": "000651",
+        "stock_name": "格力电器",
+        "market_value_wan": 277.98
+      },
+      {
+        "stock_code": "601169",
+        "stock_name": "北京银行",
+        "market_value_wan": 209.93
+      },
+      {
+        "stock_code": "600015",
+        "stock_name": "华夏银行",
+        "market_value_wan": 207.08
+      },
+      {
+        "stock_code": "601166",
+        "stock_name": "兴业银行",
+        "market_value_wan": 203.44
+      },
+      {
+        "stock_code": "601818",
+        "stock_name": "光大银行",
+        "market_value_wan": 196.68
+      },
+      {
+        "stock_code": "600694",
+        "stock_name": "大商股份",
+        "market_value_wan": 194.42
+      },
+      {
+        "stock_code": "600873",
+        "stock_name": "梅花生物",
+        "market_value_wan": 187.21
+      },
+      {
+        "stock_code": "600919",
+        "stock_name": "江苏银行",
+        "market_value_wan": 184.88
+      },
+      {
+        "stock_code": "600282",
+        "stock_name": "南钢股份",
+        "market_value_wan": 183.43
+      },
+      {
+        "stock_code": "601328",
+        "stock_name": "交通银行",
+        "market_value_wan": 178.78
+      }
+    ]
+  }
+}

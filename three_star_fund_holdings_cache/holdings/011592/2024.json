@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "011592",
+    "name": "博时军工主题股票C",
+    "base_name": "博时军工主题股票"
+  },
+  "fetched_at": "2026-06-14 23:47:51",
+  "quarters": {
+    "2024-Q4": [
+      {
+        "stock_code": "600416",
+        "stock_name": "湘电股份",
+        "market_value_wan": 21108.82
+      },
+      {
+        "stock_code": "600038",
+        "stock_name": "中直股份",
+        "market_value_wan": 20285.75
+      },
+      {
+        "stock_code": "600760",
+        "stock_name": "中航沈飞",
+        "market_value_wan": 19680.45
+      },
+      {
+        "stock_code": "688568",
+        "stock_name": "中科星图",
+        "market_value_wan": 17982.25
+      },
+      {
+        "stock_code": "688256",
+        "stock_name": "寒武纪",
+        "market_value_wan": 17747.97
+      },
+      {
+        "stock_code": "600893",
+        "stock_name": "航发动力",
+        "market_value_wan": 16869.48
+      },
+      {
+        "stock_code": "688244",
+        "stock_name": "永信至诚",
+        "market_value_wan": 11768.7
+      },
+      {
+        "stock_code": "300101",
+        "stock_name": "振芯科技",
+        "market_value_wan": 11264.93
+      },
+      {
+        "stock_code": "000768",
+        "stock_name": "中航西飞",
+        "market_value_wan": 7307.1
+      },
+      {
+        "stock_code": "688002",
+        "stock_name": "睿创微纳",
+        "market_value_wan": 6862.58
+      }
+    ],
+    "2024-Q3": [
+      {
+        "stock_code": "600416",
+        "stock_name": "湘电股份",
+        "market_value_wan": 22088.21
+      },
+      {
+        "stock_code": "600038",
+        "stock_name": "中直股份",
+        "market_value_wan": 21948.17
+      },
+      {
+        "stock_code": "600760",
+        "stock_name": "中航沈飞",
+        "market_value_wan": 20926.15
+      },
+      {
+        "stock_code": "688568",
+        "stock_name": "中科星图",
+        "market_value_wan": 20865.47
+      },
+      {
+        "stock_code": "600893",
+        "stock_name": "航发动力",
+        "market_value_wan": 16804.36
+      },
+      {
+        "stock_code": "688244",
+        "stock_name": "永信至诚",
+        "market_value_wan": 14154.62
+      },
+      {
+        "stock_code": "688256",
+        "stock_name": "寒武纪",
+        "market_value_wan": 7799.4
+      },
+      {
+        "stock_code": "603063",
+        "stock_name": "禾望电气",
+        "market_value_wan": 7644.57
+      },
+      {
+        "stock_code": "000768",
+        "stock_name": "中航西飞",
+        "market_value_wan": 7141.5
+      },
+      {
+        "stock_code": "300101",
+        "stock_name": "振芯科技",
+        "market_value_wan": 7129.41
+      }
+    ],
+    "2024-Q2": [
+      {
+        "stock_code": "600760",
+        "stock_name": "中航沈飞",
+        "market_value_wan": 22121.63
+      },
+      {
+        "stock_code": "600038",
+        "stock_name": "中直股份",
+        "market_value_wan": 22061.38
+      },
+      {
+        "stock_code": "600416",
+        "stock_name": "湘电股份",
+        "market_value_wan": 20479.0
+      },
+      {
+        "stock_code": "688568",
+        "stock_name": "中科星图",
+        "market_value_wan": 17831.69
+      },
+      {
+        "stock_code": "600893",
+        "stock_name": "航发动力",
+        "market_value_wan": 14875.26
+      },
+      {
+        "stock_code": "688244",
+        "stock_name": "永信至诚",
+        "market_value_wan": 13327.13
+      },
+      {
+        "stock_code": "603063",
+        "stock_name": "禾望电气",
+        "market_value_wan": 8004.86
+      },
+      {
+        "stock_code": "600765",
+        "stock_name": "中航重机",
+        "market_value_wan": 6382.47
+      },
+      {
+        "stock_code": "300101",
+        "stock_name": "振芯科技",
+        "market_value_wan": 5983.03
+      },
+      {
+        "stock_code": "688132",
+        "stock_name": "邦彦技术",
+        "market_value_wan": 5638.02
+      }
+    ],
+    "2024-Q1": [
+      {
+        "stock_code": "600038",
+        "stock_name": "中直股份",
+        "market_value_wan": 24336.82
+      },
+      {
+        "stock_code": "600416",
+        "stock_name": "湘电股份",
+        "market_value_wan": 23670.45
+      },
+      {
+        "stock_code": "600760",
+        "stock_name": "中航沈飞",
+        "market_value_wan": 22088.78
+      },
+      {
+        "stock_code": "688568",
+        "stock_name": "中科星图",
+        "market_value_wan": 20710.18
+      },
+      {
+        "stock_code": "600893",
+        "stock_name": "航发动力",
+        "market_value_wan": 13821.17
+      },
+      {
+        "stock_code": "688244",
+        "stock_name": "永信至诚",
+        "market_value_wan": 12452.87
+      },
+      {
+        "stock_code": "603063",
+        "stock_name": "禾望电气",
+        "market_value_wan": 11999.46
+      },
+      {
+        "stock_code": "300034",
+        "stock_name": "钢研高纳",
+        "market_value_wan": 11481.78
+      },
+      {
+        "stock_code": "300395",
+        "stock_name": "菲利华",
+        "market_value_wan": 10031.28
+      },
+      {
+        "stock_code": "688636",
+        "stock_name": "智明达",
+        "market_value_wan": 8430.1
+      }
+    ]
+  }
+}

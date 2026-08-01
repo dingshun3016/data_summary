@@ -1,0 +1,115 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "161224",
+    "name": "国投瑞银新丝路混合(LOF)",
+    "base_name": "国投瑞银新丝路混合(LOF)"
+  },
+  "fetched_at": "2026-08-01 21:00:19",
+  "quarters": {
+    "2026-Q2": [
+      {
+        "stock_code": "002859",
+        "stock_name": "洁美科技",
+        "market_value_wan": 572.74
+      },
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 542.31
+      },
+      {
+        "stock_code": "688392",
+        "stock_name": "骄成超声",
+        "market_value_wan": 540.21
+      },
+      {
+        "stock_code": "603005",
+        "stock_name": "晶方科技",
+        "market_value_wan": 513.38
+      },
+      {
+        "stock_code": "002415",
+        "stock_name": "海康威视",
+        "market_value_wan": 459.31
+      },
+      {
+        "stock_code": "002422",
+        "stock_name": "科伦药业",
+        "market_value_wan": 444.91
+      },
+      {
+        "stock_code": "301585",
+        "stock_name": "蓝宇股份",
+        "market_value_wan": 313.52
+      },
+      {
+        "stock_code": "688188",
+        "stock_name": "柏楚电子",
+        "market_value_wan": 308.83
+      },
+      {
+        "stock_code": "600079",
+        "stock_name": "ST人福",
+        "market_value_wan": 296.41
+      },
+      {
+        "stock_code": "600298",
+        "stock_name": "安琪酵母",
+        "market_value_wan": 273.31
+      }
+    ],
+    "2026-Q1": [
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 548.19
+      },
+      {
+        "stock_code": "301585",
+        "stock_name": "蓝宇股份",
+        "market_value_wan": 439.88
+      },
+      {
+        "stock_code": "002415",
+        "stock_name": "海康威视",
+        "market_value_wan": 408.54
+      },
+      {
+        "stock_code": "002422",
+        "stock_name": "科伦药业",
+        "market_value_wan": 400.67
+      },
+      {
+        "stock_code": "002859",
+        "stock_name": "洁美科技",
+        "market_value_wan": 380.5
+      },
+      {
+        "stock_code": "688617",
+        "stock_name": "惠泰医疗",
+        "market_value_wan": 347.01
+      },
+      {
+        "stock_code": "600079",
+        "stock_name": "ST人福",
+        "market_value_wan": 339.5
+      },
+      {
+        "stock_code": "688392",
+        "stock_name": "骄成超声",
+        "market_value_wan": 327.34
+      },
+      {
+        "stock_code": "603005",
+        "stock_name": "晶方科技",
+        "market_value_wan": 305.25
+      },
+      {
+        "stock_code": "600298",
+        "stock_name": "安琪酵母",
+        "market_value_wan": 305.1
+      }
+    ]
+  }
+}

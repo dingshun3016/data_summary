@@ -1,0 +1,38 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "010024",
+    "name": "广发沪港深新起点股票C",
+    "base_name": "广发沪港深新起点股票"
+  },
+  "fetched_at": "2026-06-14 23:37:36",
+  "quarters": {
+    "2023-Q4": [
+      {
+        "stock_code": "601857",
+        "stock_name": "中国石油",
+        "market_value_wan": 12413.46
+      }
+    ],
+    "2023-Q3": [
+      {
+        "stock_code": "601857",
+        "stock_name": "中国石油",
+        "market_value_wan": 16001.34
+      }
+    ],
+    "2023-Q2": [
+      {
+        "stock_code": "601857",
+        "stock_name": "中国石油",
+        "market_value_wan": 17779.72
+      },
+      {
+        "stock_code": "601390",
+        "stock_name": "中国中铁",
+        "market_value_wan": 13326.18
+      }
+    ],
+    "2023-Q1": []
+  }
+}

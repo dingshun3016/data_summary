@@ -1,0 +1,115 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "340001",
+    "name": "兴全可转债混合",
+    "base_name": "兴全可转债混合"
+  },
+  "fetched_at": "2026-08-01 21:00:54",
+  "quarters": {
+    "2026-Q2": [
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 5864.43
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 3099.2
+      },
+      {
+        "stock_code": "300037",
+        "stock_name": "新宙邦",
+        "market_value_wan": 2738.15
+      },
+      {
+        "stock_code": "600030",
+        "stock_name": "中信证券",
+        "market_value_wan": 2637.41
+      },
+      {
+        "stock_code": "001301",
+        "stock_name": "尚太科技",
+        "market_value_wan": 2491.11
+      },
+      {
+        "stock_code": "300308",
+        "stock_name": "中际旭创",
+        "market_value_wan": 2489.2
+      },
+      {
+        "stock_code": "002415",
+        "stock_name": "海康威视",
+        "market_value_wan": 2405.97
+      },
+      {
+        "stock_code": "688002",
+        "stock_name": "睿创微纳",
+        "market_value_wan": 2285.47
+      },
+      {
+        "stock_code": "600900",
+        "stock_name": "长江电力",
+        "market_value_wan": 2149.59
+      },
+      {
+        "stock_code": "600031",
+        "stock_name": "三一重工",
+        "market_value_wan": 2147.04
+      }
+    ],
+    "2026-Q1": [
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 4103.44
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 3486.76
+      },
+      {
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "market_value_wan": 2817.99
+      },
+      {
+        "stock_code": "600048",
+        "stock_name": "保利发展",
+        "market_value_wan": 2570.11
+      },
+      {
+        "stock_code": "600522",
+        "stock_name": "中天科技",
+        "market_value_wan": 2422.55
+      },
+      {
+        "stock_code": "605117",
+        "stock_name": "德业股份",
+        "market_value_wan": 2299.24
+      },
+      {
+        "stock_code": "600031",
+        "stock_name": "三一重工",
+        "market_value_wan": 2171.09
+      },
+      {
+        "stock_code": "300763",
+        "stock_name": "锦浪科技",
+        "market_value_wan": 2131.87
+      },
+      {
+        "stock_code": "002810",
+        "stock_name": "山东赫达",
+        "market_value_wan": 2014.68
+      },
+      {
+        "stock_code": "002532",
+        "stock_name": "天山铝业",
+        "market_value_wan": 1952.27
+      }
+    ]
+  }
+}

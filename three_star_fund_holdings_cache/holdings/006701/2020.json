@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "006701",
+    "name": "红土创新稳健混合C",
+    "base_name": "红土创新稳健混合"
+  },
+  "fetched_at": "2026-06-14 23:22:44",
+  "quarters": {
+    "2020-Q4": [
+      {
+        "stock_code": "600900",
+        "stock_name": "长江电力",
+        "market_value_wan": 1334.42
+      },
+      {
+        "stock_code": "600350",
+        "stock_name": "山东高速",
+        "market_value_wan": 786.1
+      },
+      {
+        "stock_code": "600372",
+        "stock_name": "中航机载",
+        "market_value_wan": 688.04
+      },
+      {
+        "stock_code": "600377",
+        "stock_name": "宁沪高速",
+        "market_value_wan": 582.34
+      },
+      {
+        "stock_code": "603259",
+        "stock_name": "药明康德",
+        "market_value_wan": 497.12
+      },
+      {
+        "stock_code": "600038",
+        "stock_name": "中直股份",
+        "market_value_wan": 476.6
+      },
+      {
+        "stock_code": "600760",
+        "stock_name": "中航沈飞",
+        "market_value_wan": 367.45
+      },
+      {
+        "stock_code": "600323",
+        "stock_name": "瀚蓝环境",
+        "market_value_wan": 354.78
+      },
+      {
+        "stock_code": "603060",
+        "stock_name": "国检集团",
+        "market_value_wan": 314.92
+      },
+      {
+        "stock_code": "600674",
+        "stock_name": "川投能源",
+        "market_value_wan": 214.07
+      }
+    ],
+    "2020-Q3": [
+      {
+        "stock_code": "600900",
+        "stock_name": "长江电力",
+        "market_value_wan": 2015.27
+      },
+      {
+        "stock_code": "600377",
+        "stock_name": "宁沪高速",
+        "market_value_wan": 1092.58
+      },
+      {
+        "stock_code": "600585",
+        "stock_name": "海螺水泥",
+        "market_value_wan": 818.4
+      },
+      {
+        "stock_code": "603259",
+        "stock_name": "药明康德",
+        "market_value_wan": 628.29
+      },
+      {
+        "stock_code": "600038",
+        "stock_name": "中直股份",
+        "market_value_wan": 604.91
+      },
+      {
+        "stock_code": "600372",
+        "stock_name": "中航机载",
+        "market_value_wan": 463.74
+      },
+      {
+        "stock_code": "600276",
+        "stock_name": "恒瑞医药",
+        "market_value_wan": 454.49
+      },
+      {
+        "stock_code": "600486",
+        "stock_name": "扬农化工",
+        "market_value_wan": 377.11
+      },
+      {
+        "stock_code": "600323",
+        "stock_name": "瀚蓝环境",
+        "market_value_wan": 375.2
+      },
+      {
+        "stock_code": "600201",
+        "stock_name": "生物股份",
+        "market_value_wan": 229.5
+      }
+    ],
+    "2020-Q2": [
+      {
+        "stock_code": "600900",
+        "stock_name": "长江电力",
+        "market_value_wan": 1799.23
+      },
+      {
+        "stock_code": "600377",
+        "stock_name": "宁沪高速",
+        "market_value_wan": 1335.43
+      },
+      {
+        "stock_code": "600585",
+        "stock_name": "海螺水泥",
+        "market_value_wan": 714.81
+      },
+      {
+        "stock_code": "603259",
+        "stock_name": "药明康德",
+        "market_value_wan": 622.1
+      },
+      {
+        "stock_code": "601816",
+        "stock_name": "京沪高铁",
+        "market_value_wan": 564.64
+      },
+      {
+        "stock_code": "600276",
+        "stock_name": "恒瑞医药",
+        "market_value_wan": 467.04
+      },
+      {
+        "stock_code": "600570",
+        "stock_name": "恒生电子",
+        "market_value_wan": 452.34
+      },
+      {
+        "stock_code": "600038",
+        "stock_name": "中直股份",
+        "market_value_wan": 340.88
+      },
+      {
+        "stock_code": "600323",
+        "stock_name": "瀚蓝环境",
+        "market_value_wan": 216.61
+      },
+      {
+        "stock_code": "603180",
+        "stock_name": "金牌家居",
+        "market_value_wan": 75.49
+      }
+    ],
+    "2020-Q1": [
+      {
+        "stock_code": "600900",
+        "stock_name": "长江电力",
+        "market_value_wan": 1123.78
+      },
+      {
+        "stock_code": "600377",
+        "stock_name": "宁沪高速",
+        "market_value_wan": 916.19
+      },
+      {
+        "stock_code": "600585",
+        "stock_name": "海螺水泥",
+        "market_value_wan": 689.3
+      },
+      {
+        "stock_code": "603259",
+        "stock_name": "药明康德",
+        "market_value_wan": 597.23
+      },
+      {
+        "stock_code": "601816",
+        "stock_name": "京沪高铁",
+        "market_value_wan": 514.75
+      },
+      {
+        "stock_code": "600570",
+        "stock_name": "恒生电子",
+        "market_value_wan": 351.6
+      },
+      {
+        "stock_code": "601916",
+        "stock_name": "浙商银行",
+        "market_value_wan": 116.83
+      },
+      {
+        "stock_code": "601077",
+        "stock_name": "渝农商行",
+        "market_value_wan": 76.84
+      },
+      {
+        "stock_code": "688139",
+        "stock_name": "海尔生物",
+        "market_value_wan": 39.59
+      },
+      {
+        "stock_code": "688202",
+        "stock_name": "美迪西",
+        "market_value_wan": 13.22
+      }
+    ]
+  }
+}

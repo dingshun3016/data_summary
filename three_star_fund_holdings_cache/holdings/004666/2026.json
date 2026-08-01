@@ -1,0 +1,115 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "004666",
+    "name": "长城久嘉创新成长混合A",
+    "base_name": "长城久嘉创新成长混合"
+  },
+  "fetched_at": "2026-08-01 20:56:04",
+  "quarters": {
+    "2026-Q2": [
+      {
+        "stock_code": "002046",
+        "stock_name": "国机精工",
+        "market_value_wan": 44190.03
+      },
+      {
+        "stock_code": "301306",
+        "stock_name": "西测测试",
+        "market_value_wan": 42792.3
+      },
+      {
+        "stock_code": "688375",
+        "stock_name": "国博电子",
+        "market_value_wan": 39634.0
+      },
+      {
+        "stock_code": "301571",
+        "stock_name": "国科天成",
+        "market_value_wan": 35849.0
+      },
+      {
+        "stock_code": "688820",
+        "stock_name": "盛合晶微",
+        "market_value_wan": 29075.33
+      },
+      {
+        "stock_code": "688143",
+        "stock_name": "长盈通",
+        "market_value_wan": 28140.8
+      },
+      {
+        "stock_code": "300900",
+        "stock_name": "广联航空",
+        "market_value_wan": 23142.0
+      },
+      {
+        "stock_code": "688433",
+        "stock_name": "华曙高科",
+        "market_value_wan": 21400.0
+      },
+      {
+        "stock_code": "688385",
+        "stock_name": "复旦微电",
+        "market_value_wan": 21387.0
+      },
+      {
+        "stock_code": "603773",
+        "stock_name": "沃格光电",
+        "market_value_wan": 16297.0
+      }
+    ],
+    "2026-Q1": [
+      {
+        "stock_code": "688375",
+        "stock_name": "国博电子",
+        "market_value_wan": 42145.8
+      },
+      {
+        "stock_code": "301571",
+        "stock_name": "国科天成",
+        "market_value_wan": 29699.74
+      },
+      {
+        "stock_code": "301306",
+        "stock_name": "西测测试",
+        "market_value_wan": 26717.2
+      },
+      {
+        "stock_code": "002046",
+        "stock_name": "国机精工",
+        "market_value_wan": 26256.02
+      },
+      {
+        "stock_code": "688433",
+        "stock_name": "华曙高科",
+        "market_value_wan": 25561.2
+      },
+      {
+        "stock_code": "688143",
+        "stock_name": "长盈通",
+        "market_value_wan": 20160.0
+      },
+      {
+        "stock_code": "688385",
+        "stock_name": "复旦微电",
+        "market_value_wan": 19989.63
+      },
+      {
+        "stock_code": "300900",
+        "stock_name": "广联航空",
+        "market_value_wan": 19300.0
+      },
+      {
+        "stock_code": "600343",
+        "stock_name": "航天动力",
+        "market_value_wan": 18737.1
+      },
+      {
+        "stock_code": "603773",
+        "stock_name": "沃格光电",
+        "market_value_wan": 18018.0
+      }
+    ]
+  }
+}

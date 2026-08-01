@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "005764",
+    "name": "中欧潜力价值灵活配置混合C",
+    "base_name": "中欧潜力价值灵活配置混合"
+  },
+  "fetched_at": "2026-06-14 23:19:13",
+  "quarters": {
+    "2024-Q4": [
+      {
+        "stock_code": "000887",
+        "stock_name": "中鼎股份",
+        "market_value_wan": 9362.82
+      },
+      {
+        "stock_code": "002572",
+        "stock_name": "索菲亚",
+        "market_value_wan": 9257.96
+      },
+      {
+        "stock_code": "002120",
+        "stock_name": "韵达股份",
+        "market_value_wan": 7910.89
+      },
+      {
+        "stock_code": "603208",
+        "stock_name": "江山欧派",
+        "market_value_wan": 6542.81
+      },
+      {
+        "stock_code": "002048",
+        "stock_name": "宁波华翔",
+        "market_value_wan": 5253.86
+      },
+      {
+        "stock_code": "002011",
+        "stock_name": "盾安环境",
+        "market_value_wan": 5115.87
+      },
+      {
+        "stock_code": "002154",
+        "stock_name": "报喜鸟",
+        "market_value_wan": 5074.29
+      },
+      {
+        "stock_code": "603112",
+        "stock_name": "华翔股份",
+        "market_value_wan": 4672.5
+      },
+      {
+        "stock_code": "002790",
+        "stock_name": "瑞尔特",
+        "market_value_wan": 4550.96
+      },
+      {
+        "stock_code": "603809",
+        "stock_name": "豪能股份",
+        "market_value_wan": 4187.21
+      }
+    ],
+    "2024-Q3": [
+      {
+        "stock_code": "002048",
+        "stock_name": "宁波华翔",
+        "market_value_wan": 15714.31
+      },
+      {
+        "stock_code": "002572",
+        "stock_name": "索菲亚",
+        "market_value_wan": 10530.27
+      },
+      {
+        "stock_code": "002120",
+        "stock_name": "韵达股份",
+        "market_value_wan": 8098.61
+      },
+      {
+        "stock_code": "603208",
+        "stock_name": "江山欧派",
+        "market_value_wan": 7775.72
+      },
+      {
+        "stock_code": "603300",
+        "stock_name": "华铁应急",
+        "market_value_wan": 6579.32
+      },
+      {
+        "stock_code": "000887",
+        "stock_name": "中鼎股份",
+        "market_value_wan": 6578.88
+      },
+      {
+        "stock_code": "002949",
+        "stock_name": "华阳国际",
+        "market_value_wan": 6415.73
+      },
+      {
+        "stock_code": "002154",
+        "stock_name": "报喜鸟",
+        "market_value_wan": 6134.03
+      },
+      {
+        "stock_code": "002790",
+        "stock_name": "瑞尔特",
+        "market_value_wan": 5673.77
+      },
+      {
+        "stock_code": "603112",
+        "stock_name": "华翔股份",
+        "market_value_wan": 5078.19
+      }
+    ],
+    "2024-Q2": [
+      {
+        "stock_code": "002048",
+        "stock_name": "宁波华翔",
+        "market_value_wan": 15156.77
+      },
+      {
+        "stock_code": "002572",
+        "stock_name": "索菲亚",
+        "market_value_wan": 7370.2
+      },
+      {
+        "stock_code": "603300",
+        "stock_name": "华铁应急",
+        "market_value_wan": 6981.44
+      },
+      {
+        "stock_code": "603208",
+        "stock_name": "江山欧派",
+        "market_value_wan": 6799.92
+      },
+      {
+        "stock_code": "002120",
+        "stock_name": "韵达股份",
+        "market_value_wan": 6199.59
+      },
+      {
+        "stock_code": "002790",
+        "stock_name": "瑞尔特",
+        "market_value_wan": 6110.25
+      },
+      {
+        "stock_code": "002154",
+        "stock_name": "报喜鸟",
+        "market_value_wan": 6089.88
+      },
+      {
+        "stock_code": "002949",
+        "stock_name": "华阳国际",
+        "market_value_wan": 5419.74
+      },
+      {
+        "stock_code": "000887",
+        "stock_name": "中鼎股份",
+        "market_value_wan": 4819.25
+      },
+      {
+        "stock_code": "002831",
+        "stock_name": "裕同科技",
+        "market_value_wan": 4498.41
+      }
+    ],
+    "2024-Q1": [
+      {
+        "stock_code": "002048",
+        "stock_name": "宁波华翔",
+        "market_value_wan": 15686.62
+      },
+      {
+        "stock_code": "002790",
+        "stock_name": "瑞尔特",
+        "market_value_wan": 8891.3
+      },
+      {
+        "stock_code": "603208",
+        "stock_name": "江山欧派",
+        "market_value_wan": 7963.21
+      },
+      {
+        "stock_code": "002572",
+        "stock_name": "索菲亚",
+        "market_value_wan": 7239.16
+      },
+      {
+        "stock_code": "603300",
+        "stock_name": "华铁应急",
+        "market_value_wan": 6599.44
+      },
+      {
+        "stock_code": "002154",
+        "stock_name": "报喜鸟",
+        "market_value_wan": 6571.55
+      },
+      {
+        "stock_code": "603112",
+        "stock_name": "华翔股份",
+        "market_value_wan": 5232.79
+      },
+      {
+        "stock_code": "002831",
+        "stock_name": "裕同科技",
+        "market_value_wan": 4980.01
+      },
+      {
+        "stock_code": "002949",
+        "stock_name": "华阳国际",
+        "market_value_wan": 4821.16
+      },
+      {
+        "stock_code": "002120",
+        "stock_name": "韵达股份",
+        "market_value_wan": 4752.15
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "009270",
+    "name": "融通逆向策略灵活配置混合C",
+    "base_name": "融通逆向策略灵活配置混合"
+  },
+  "fetched_at": "2026-06-14 23:32:38",
+  "quarters": {
+    "2025-Q4": [
+      {
+        "stock_code": "601601",
+        "stock_name": "中国太保",
+        "market_value_wan": 59.93
+      },
+      {
+        "stock_code": "601336",
+        "stock_name": "新华保险",
+        "market_value_wan": 49.49
+      },
+      {
+        "stock_code": "600426",
+        "stock_name": "华鲁恒升",
+        "market_value_wan": 46.2
+      },
+      {
+        "stock_code": "600346",
+        "stock_name": "恒力石化",
+        "market_value_wan": 45.74
+      },
+      {
+        "stock_code": "600309",
+        "stock_name": "万华化学",
+        "market_value_wan": 44.47
+      },
+      {
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "market_value_wan": 43.78
+      },
+      {
+        "stock_code": "601600",
+        "stock_name": "中国铝业",
+        "market_value_wan": 42.65
+      },
+      {
+        "stock_code": "000100",
+        "stock_name": "TCL科技",
+        "market_value_wan": 41.9
+      },
+      {
+        "stock_code": "600031",
+        "stock_name": "三一重工",
+        "market_value_wan": 38.46
+      },
+      {
+        "stock_code": "600988",
+        "stock_name": "赤峰黄金",
+        "market_value_wan": 33.74
+      }
+    ],
+    "2025-Q3": [
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 64.32
+      },
+      {
+        "stock_code": "600030",
+        "stock_name": "中信证券",
+        "market_value_wan": 52.62
+      },
+      {
+        "stock_code": "600031",
+        "stock_name": "三一重工",
+        "market_value_wan": 48.57
+      },
+      {
+        "stock_code": "601665",
+        "stock_name": "齐鲁银行",
+        "market_value_wan": 43.62
+      },
+      {
+        "stock_code": "601336",
+        "stock_name": "新华保险",
+        "market_value_wan": 43.42
+      },
+      {
+        "stock_code": "002311",
+        "stock_name": "海大集团",
+        "market_value_wan": 43.36
+      },
+      {
+        "stock_code": "000100",
+        "stock_name": "TCL科技",
+        "market_value_wan": 39.78
+      },
+      {
+        "stock_code": "603606",
+        "stock_name": "东方电缆",
+        "market_value_wan": 36.73
+      },
+      {
+        "stock_code": "300502",
+        "stock_name": "新易盛",
+        "market_value_wan": 36.58
+      },
+      {
+        "stock_code": "600547",
+        "stock_name": "山东黄金",
+        "market_value_wan": 36.58
+      }
+    ],
+    "2025-Q2": [
+      {
+        "stock_code": "601288",
+        "stock_name": "农业银行",
+        "market_value_wan": 60.86
+      },
+      {
+        "stock_code": "301061",
+        "stock_name": "匠心家居",
+        "market_value_wan": 59.47
+      },
+      {
+        "stock_code": "603129",
+        "stock_name": "春风动力",
+        "market_value_wan": 54.13
+      },
+      {
+        "stock_code": "000975",
+        "stock_name": "山金国际",
+        "market_value_wan": 50.38
+      },
+      {
+        "stock_code": "600030",
+        "stock_name": "中信证券",
+        "market_value_wan": 48.61
+      },
+      {
+        "stock_code": "603699",
+        "stock_name": "纽威股份",
+        "market_value_wan": 40.83
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 40.36
+      },
+      {
+        "stock_code": "601665",
+        "stock_name": "齐鲁银行",
+        "market_value_wan": 38.36
+      },
+      {
+        "stock_code": "603337",
+        "stock_name": "杰克股份",
+        "market_value_wan": 37.67
+      },
+      {
+        "stock_code": "603997",
+        "stock_name": "继峰股份",
+        "market_value_wan": 31.82
+      }
+    ],
+    "2025-Q1": [
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 51.93
+      },
+      {
+        "stock_code": "000975",
+        "stock_name": "山金国际",
+        "market_value_wan": 51.07
+      },
+      {
+        "stock_code": "600030",
+        "stock_name": "中信证券",
+        "market_value_wan": 46.68
+      },
+      {
+        "stock_code": "000100",
+        "stock_name": "TCL科技",
+        "market_value_wan": 42.85
+      },
+      {
+        "stock_code": "603596",
+        "stock_name": "伯特利",
+        "market_value_wan": 42.47
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 40.47
+      },
+      {
+        "stock_code": "603193",
+        "stock_name": "润本股份",
+        "market_value_wan": 40.32
+      },
+      {
+        "stock_code": "688279",
+        "stock_name": "峰岹科技",
+        "market_value_wan": 38.01
+      },
+      {
+        "stock_code": "003021",
+        "stock_name": "兆威机电",
+        "market_value_wan": 37.07
+      },
+      {
+        "stock_code": "300416",
+        "stock_name": "苏试试验",
+        "market_value_wan": 28.47
+      }
+    ]
+  }
+}

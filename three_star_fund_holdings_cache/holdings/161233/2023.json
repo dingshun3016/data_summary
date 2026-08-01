@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "161233",
+    "name": "国投瑞银瑞泰多策略混合A",
+    "base_name": "国投瑞银瑞泰多策略混合"
+  },
+  "fetched_at": "2026-06-14 23:52:27",
+  "quarters": {
+    "2023-Q4": [
+      {
+        "stock_code": "601985",
+        "stock_name": "中国核电",
+        "market_value_wan": 483.38
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 406.52
+      },
+      {
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "market_value_wan": 393.1
+      },
+      {
+        "stock_code": "600900",
+        "stock_name": "长江电力",
+        "market_value_wan": 336.33
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 310.68
+      },
+      {
+        "stock_code": "600919",
+        "stock_name": "江苏银行",
+        "market_value_wan": 294.1
+      },
+      {
+        "stock_code": "601898",
+        "stock_name": "中煤能源",
+        "market_value_wan": 235.08
+      },
+      {
+        "stock_code": "601668",
+        "stock_name": "中国建筑",
+        "market_value_wan": 220.54
+      },
+      {
+        "stock_code": "603816",
+        "stock_name": "顾家家居",
+        "market_value_wan": 216.5
+      },
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 173.18
+      }
+    ],
+    "2023-Q3": [
+      {
+        "stock_code": "601985",
+        "stock_name": "中国核电",
+        "market_value_wan": 580.63
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 529.91
+      },
+      {
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "market_value_wan": 465.87
+      },
+      {
+        "stock_code": "600919",
+        "stock_name": "江苏银行",
+        "market_value_wan": 350.67
+      },
+      {
+        "stock_code": "600900",
+        "stock_name": "长江电力",
+        "market_value_wan": 327.37
+      },
+      {
+        "stock_code": "600938",
+        "stock_name": "中国海油",
+        "market_value_wan": 325.56
+      },
+      {
+        "stock_code": "603816",
+        "stock_name": "顾家家居",
+        "market_value_wan": 309.57
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 287.77
+      },
+      {
+        "stock_code": "601668",
+        "stock_name": "中国建筑",
+        "market_value_wan": 253.55
+      },
+      {
+        "stock_code": "601898",
+        "stock_name": "中煤能源",
+        "market_value_wan": 180.31
+      }
+    ],
+    "2023-Q2": [
+      {
+        "stock_code": "601985",
+        "stock_name": "中国核电",
+        "market_value_wan": 679.11
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 665.78
+      },
+      {
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "market_value_wan": 521.87
+      },
+      {
+        "stock_code": "603816",
+        "stock_name": "顾家家居",
+        "market_value_wan": 334.03
+      },
+      {
+        "stock_code": "601668",
+        "stock_name": "中国建筑",
+        "market_value_wan": 321.9
+      },
+      {
+        "stock_code": "600938",
+        "stock_name": "中国海油",
+        "market_value_wan": 283.58
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 219.83
+      },
+      {
+        "stock_code": "002831",
+        "stock_name": "裕同科技",
+        "market_value_wan": 212.97
+      },
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 205.63
+      },
+      {
+        "stock_code": "300416",
+        "stock_name": "苏试试验",
+        "market_value_wan": 194.44
+      }
+    ],
+    "2023-Q1": [
+      {
+        "stock_code": "002831",
+        "stock_name": "裕同科技",
+        "market_value_wan": 1228.75
+      },
+      {
+        "stock_code": "601985",
+        "stock_name": "中国核电",
+        "market_value_wan": 1143.03
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 1080.09
+      },
+      {
+        "stock_code": "603816",
+        "stock_name": "顾家家居",
+        "market_value_wan": 844.06
+      },
+      {
+        "stock_code": "603018",
+        "stock_name": "华设集团",
+        "market_value_wan": 762.9
+      },
+      {
+        "stock_code": "600011",
+        "stock_name": "华能国际",
+        "market_value_wan": 650.81
+      },
+      {
+        "stock_code": "300416",
+        "stock_name": "苏试试验",
+        "market_value_wan": 634.03
+      },
+      {
+        "stock_code": "603337",
+        "stock_name": "杰克股份",
+        "market_value_wan": 372.96
+      },
+      {
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "market_value_wan": 372.51
+      },
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 312.01
+      }
+    ]
+  }
+}

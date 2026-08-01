@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "001707",
+    "name": "诺安高端制造股票A",
+    "base_name": "诺安高端制造股票"
+  },
+  "fetched_at": "2026-06-14 22:59:47",
+  "quarters": {
+    "2019-Q4": [
+      {
+        "stock_code": "000035",
+        "stock_name": "中国天楹",
+        "market_value_wan": 3232.59
+      },
+      {
+        "stock_code": "300220",
+        "stock_name": "金运激光",
+        "market_value_wan": 3201.68
+      },
+      {
+        "stock_code": "600176",
+        "stock_name": "中国巨石",
+        "market_value_wan": 3179.33
+      },
+      {
+        "stock_code": "000723",
+        "stock_name": "美锦能源",
+        "market_value_wan": 3168.38
+      },
+      {
+        "stock_code": "600673",
+        "stock_name": "东阳光",
+        "market_value_wan": 3036.35
+      },
+      {
+        "stock_code": "300449",
+        "stock_name": "汉邦高科",
+        "market_value_wan": 2895.5
+      },
+      {
+        "stock_code": "603021",
+        "stock_name": "山东华鹏",
+        "market_value_wan": 2189.74
+      },
+      {
+        "stock_code": "000667",
+        "stock_name": "ST美置",
+        "market_value_wan": 1799.73
+      },
+      {
+        "stock_code": "603712",
+        "stock_name": "七一二",
+        "market_value_wan": 1597.09
+      },
+      {
+        "stock_code": "603611",
+        "stock_name": "诺力股份",
+        "market_value_wan": 1412.2
+      }
+    ],
+    "2019-Q3": [
+      {
+        "stock_code": "600984",
+        "stock_name": "建设机械",
+        "market_value_wan": 4376.18
+      },
+      {
+        "stock_code": "300220",
+        "stock_name": "金运激光",
+        "market_value_wan": 4270.53
+      },
+      {
+        "stock_code": "000723",
+        "stock_name": "美锦能源",
+        "market_value_wan": 4103.68
+      },
+      {
+        "stock_code": "000035",
+        "stock_name": "中国天楹",
+        "market_value_wan": 3976.0
+      },
+      {
+        "stock_code": "600673",
+        "stock_name": "东阳光",
+        "market_value_wan": 3679.7
+      },
+      {
+        "stock_code": "002129",
+        "stock_name": "TCL中环",
+        "market_value_wan": 3639.66
+      },
+      {
+        "stock_code": "300449",
+        "stock_name": "汉邦高科",
+        "market_value_wan": 3135.59
+      },
+      {
+        "stock_code": "300510",
+        "stock_name": "金冠股份",
+        "market_value_wan": 2334.93
+      },
+      {
+        "stock_code": "600570",
+        "stock_name": "恒生电子",
+        "market_value_wan": 1841.67
+      },
+      {
+        "stock_code": "600837",
+        "stock_name": "海通证券",
+        "market_value_wan": 1667.57
+      }
+    ],
+    "2019-Q2": [
+      {
+        "stock_code": "300220",
+        "stock_name": "金运激光",
+        "market_value_wan": 6414.67
+      },
+      {
+        "stock_code": "600703",
+        "stock_name": "三安光电",
+        "market_value_wan": 5242.61
+      },
+      {
+        "stock_code": "000723",
+        "stock_name": "美锦能源",
+        "market_value_wan": 4363.92
+      },
+      {
+        "stock_code": "600837",
+        "stock_name": "海通证券",
+        "market_value_wan": 4048.31
+      },
+      {
+        "stock_code": "600864",
+        "stock_name": "哈投股份",
+        "market_value_wan": 3950.93
+      },
+      {
+        "stock_code": "601555",
+        "stock_name": "东吴证券",
+        "market_value_wan": 3924.66
+      },
+      {
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "market_value_wan": 3314.12
+      },
+      {
+        "stock_code": "600030",
+        "stock_name": "中信证券",
+        "market_value_wan": 2984.35
+      },
+      {
+        "stock_code": "600570",
+        "stock_name": "恒生电子",
+        "market_value_wan": 2726.46
+      },
+      {
+        "stock_code": "002500",
+        "stock_name": "山西证券",
+        "market_value_wan": 2481.12
+      }
+    ],
+    "2019-Q1": [
+      {
+        "stock_code": "000723",
+        "stock_name": "美锦能源",
+        "market_value_wan": 838.91
+      },
+      {
+        "stock_code": "600570",
+        "stock_name": "恒生电子",
+        "market_value_wan": 645.43
+      },
+      {
+        "stock_code": "600837",
+        "stock_name": "海通证券",
+        "market_value_wan": 568.36
+      },
+      {
+        "stock_code": "300662",
+        "stock_name": "科锐国际",
+        "market_value_wan": 546.63
+      },
+      {
+        "stock_code": "600155",
+        "stock_name": "华创云信",
+        "market_value_wan": 468.42
+      },
+      {
+        "stock_code": "300282",
+        "stock_name": "三盛退",
+        "market_value_wan": 448.67
+      },
+      {
+        "stock_code": "601555",
+        "stock_name": "东吴证券",
+        "market_value_wan": 443.69
+      },
+      {
+        "stock_code": "600030",
+        "stock_name": "中信证券",
+        "market_value_wan": 432.41
+      },
+      {
+        "stock_code": "600850",
+        "stock_name": "电科数字",
+        "market_value_wan": 429.3
+      },
+      {
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "market_value_wan": 408.63
+      }
+    ]
+  }
+}

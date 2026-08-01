@@ -1,0 +1,75 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "010342",
+    "name": "招商产业精选股票C",
+    "base_name": "招商产业精选股票"
+  },
+  "fetched_at": "2026-08-01 20:59:08",
+  "quarters": {
+    "2026-Q2": [
+      {
+        "stock_code": "603612",
+        "stock_name": "索通发展",
+        "market_value_wan": 4079.43
+      },
+      {
+        "stock_code": "301035",
+        "stock_name": "润丰股份",
+        "market_value_wan": 3920.8
+      },
+      {
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "market_value_wan": 3819.2
+      },
+      {
+        "stock_code": "000683",
+        "stock_name": "博源化工",
+        "market_value_wan": 3456.0
+      },
+      {
+        "stock_code": "688981",
+        "stock_name": "中芯国际",
+        "market_value_wan": 3176.4
+      },
+      {
+        "stock_code": "600030",
+        "stock_name": "中信证券",
+        "market_value_wan": 2873.0
+      }
+    ],
+    "2026-Q1": [
+      {
+        "stock_code": "603612",
+        "stock_name": "索通发展",
+        "market_value_wan": 6467.5
+      },
+      {
+        "stock_code": "002541",
+        "stock_name": "鸿路钢构",
+        "market_value_wan": 6159.0
+      },
+      {
+        "stock_code": "601888",
+        "stock_name": "中国中免",
+        "market_value_wan": 5278.5
+      },
+      {
+        "stock_code": "600398",
+        "stock_name": "海澜之家",
+        "market_value_wan": 5224.0
+      },
+      {
+        "stock_code": "301035",
+        "stock_name": "润丰股份",
+        "market_value_wan": 5031.84
+      },
+      {
+        "stock_code": "002027",
+        "stock_name": "分众传媒",
+        "market_value_wan": 4585.0
+      }
+    ]
+  }
+}

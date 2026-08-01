@@ -1,0 +1,115 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "450010",
+    "name": "国富策略回报混合A",
+    "base_name": "国富策略回报混合"
+  },
+  "fetched_at": "2026-08-01 21:01:01",
+  "quarters": {
+    "2026-Q2": [
+      {
+        "stock_code": "300308",
+        "stock_name": "中际旭创",
+        "market_value_wan": 7112.0
+      },
+      {
+        "stock_code": "300408",
+        "stock_name": "三环集团",
+        "market_value_wan": 4721.6
+      },
+      {
+        "stock_code": "601211",
+        "stock_name": "国泰海通",
+        "market_value_wan": 3935.75
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 3556.47
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 3459.94
+      },
+      {
+        "stock_code": "688661",
+        "stock_name": "和林微纳",
+        "market_value_wan": 3202.21
+      },
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 2956.8
+      },
+      {
+        "stock_code": "688072",
+        "stock_name": "拓荆科技",
+        "market_value_wan": 2867.57
+      },
+      {
+        "stock_code": "002353",
+        "stock_name": "杰瑞股份",
+        "market_value_wan": 2853.28
+      },
+      {
+        "stock_code": "002463",
+        "stock_name": "沪电股份",
+        "market_value_wan": 2635.8
+      }
+    ],
+    "2026-Q1": [
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 3536.45
+      },
+      {
+        "stock_code": "300408",
+        "stock_name": "三环集团",
+        "market_value_wan": 3488.1
+      },
+      {
+        "stock_code": "300308",
+        "stock_name": "中际旭创",
+        "market_value_wan": 3336.74
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 3190.0
+      },
+      {
+        "stock_code": "002028",
+        "stock_name": "思源电气",
+        "market_value_wan": 2799.72
+      },
+      {
+        "stock_code": "000792",
+        "stock_name": "盐湖股份",
+        "market_value_wan": 2713.95
+      },
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 2463.0
+      },
+      {
+        "stock_code": "600426",
+        "stock_name": "华鲁恒升",
+        "market_value_wan": 2389.2
+      },
+      {
+        "stock_code": "000408",
+        "stock_name": "藏格矿业",
+        "market_value_wan": 2378.1
+      },
+      {
+        "stock_code": "603268",
+        "stock_name": "松发股份",
+        "market_value_wan": 2285.51
+      }
+    ]
+  }
+}

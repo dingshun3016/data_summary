@@ -1,0 +1,82 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "001356",
+    "name": "广发聚泰混合C",
+    "base_name": "广发聚泰混合"
+  },
+  "fetched_at": "2026-06-14 22:55:59",
+  "quarters": {
+    "2018-Q4": [
+      {
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "market_value_wan": 312.48
+      },
+      {
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "market_value_wan": 199.58
+      },
+      {
+        "stock_code": "600048",
+        "stock_name": "保利发展",
+        "market_value_wan": 133.7
+      },
+      {
+        "stock_code": "000002",
+        "stock_name": "万科A",
+        "market_value_wan": 71.22
+      },
+      {
+        "stock_code": "002032",
+        "stock_name": "苏泊尔",
+        "market_value_wan": 36.75
+      }
+    ],
+    "2018-Q3": [
+      {
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "market_value_wan": 381.55
+      },
+      {
+        "stock_code": "601398",
+        "stock_name": "工商银行",
+        "market_value_wan": 289.6
+      },
+      {
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "market_value_wan": 243.06
+      },
+      {
+        "stock_code": "601328",
+        "stock_name": "交通银行",
+        "market_value_wan": 148.45
+      },
+      {
+        "stock_code": "000963",
+        "stock_name": "华东医药",
+        "market_value_wan": 141.89
+      },
+      {
+        "stock_code": "000002",
+        "stock_name": "万科A",
+        "market_value_wan": 72.66
+      }
+    ],
+    "2018-Q1": [
+      {
+        "stock_code": "002859",
+        "stock_name": "洁美科技",
+        "market_value_wan": 54.54
+      },
+      {
+        "stock_code": "002860",
+        "stock_name": "星帅尔",
+        "market_value_wan": 32.38
+      }
+    ]
+  }
+}

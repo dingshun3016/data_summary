@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "519095",
+    "name": "新华行业周期轮换混合A",
+    "base_name": "新华行业周期轮换混合"
+  },
+  "fetched_at": "2026-06-15 00:02:41",
+  "quarters": {
+    "2024-Q4": [
+      {
+        "stock_code": "601088",
+        "stock_name": "中国神华",
+        "market_value_wan": 920.91
+      },
+      {
+        "stock_code": "601898",
+        "stock_name": "中煤能源",
+        "market_value_wan": 804.85
+      },
+      {
+        "stock_code": "601225",
+        "stock_name": "陕西煤业",
+        "market_value_wan": 765.72
+      },
+      {
+        "stock_code": "600919",
+        "stock_name": "江苏银行",
+        "market_value_wan": 726.29
+      },
+      {
+        "stock_code": "601939",
+        "stock_name": "建设银行",
+        "market_value_wan": 707.86
+      },
+      {
+        "stock_code": "601899",
+        "stock_name": "紫金矿业",
+        "market_value_wan": 636.25
+      },
+      {
+        "stock_code": "000975",
+        "stock_name": "山金国际",
+        "market_value_wan": 443.27
+      },
+      {
+        "stock_code": "600219",
+        "stock_name": "南山铝业",
+        "market_value_wan": 437.97
+      },
+      {
+        "stock_code": "000807",
+        "stock_name": "云铝股份",
+        "market_value_wan": 406.85
+      },
+      {
+        "stock_code": "601077",
+        "stock_name": "渝农商行",
+        "market_value_wan": 335.9
+      }
+    ],
+    "2024-Q3": [
+      {
+        "stock_code": "600026",
+        "stock_name": "中远海能",
+        "market_value_wan": 773.96
+      },
+      {
+        "stock_code": "002318",
+        "stock_name": "久立特材",
+        "market_value_wan": 723.67
+      },
+      {
+        "stock_code": "600795",
+        "stock_name": "国电电力",
+        "market_value_wan": 661.71
+      },
+      {
+        "stock_code": "601088",
+        "stock_name": "中国神华",
+        "market_value_wan": 558.52
+      },
+      {
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "market_value_wan": 544.64
+      },
+      {
+        "stock_code": "600900",
+        "stock_name": "长江电力",
+        "market_value_wan": 521.67
+      },
+      {
+        "stock_code": "601899",
+        "stock_name": "紫金矿业",
+        "market_value_wan": 482.34
+      },
+      {
+        "stock_code": "002756",
+        "stock_name": "永兴材料",
+        "market_value_wan": 472.27
+      },
+      {
+        "stock_code": "600435",
+        "stock_name": "北方导航",
+        "market_value_wan": 453.53
+      },
+      {
+        "stock_code": "002595",
+        "stock_name": "豪迈科技",
+        "market_value_wan": 444.75
+      }
+    ],
+    "2024-Q2": [
+      {
+        "stock_code": "600938",
+        "stock_name": "中国海油",
+        "market_value_wan": 1181.4
+      },
+      {
+        "stock_code": "600026",
+        "stock_name": "中远海能",
+        "market_value_wan": 882.59
+      },
+      {
+        "stock_code": "601088",
+        "stock_name": "中国神华",
+        "market_value_wan": 853.68
+      },
+      {
+        "stock_code": "600900",
+        "stock_name": "长江电力",
+        "market_value_wan": 584.76
+      },
+      {
+        "stock_code": "002318",
+        "stock_name": "久立特材",
+        "market_value_wan": 519.56
+      },
+      {
+        "stock_code": "601600",
+        "stock_name": "中国铝业",
+        "market_value_wan": 509.15
+      },
+      {
+        "stock_code": "600660",
+        "stock_name": "福耀玻璃",
+        "market_value_wan": 480.92
+      },
+      {
+        "stock_code": "000807",
+        "stock_name": "云铝股份",
+        "market_value_wan": 454.53
+      },
+      {
+        "stock_code": "000338",
+        "stock_name": "潍柴动力",
+        "market_value_wan": 437.83
+      },
+      {
+        "stock_code": "601898",
+        "stock_name": "中煤能源",
+        "market_value_wan": 421.7
+      }
+    ],
+    "2024-Q1": [
+      {
+        "stock_code": "600938",
+        "stock_name": "中国海油",
+        "market_value_wan": 959.04
+      },
+      {
+        "stock_code": "600026",
+        "stock_name": "中远海能",
+        "market_value_wan": 951.57
+      },
+      {
+        "stock_code": "601088",
+        "stock_name": "中国神华",
+        "market_value_wan": 752.09
+      },
+      {
+        "stock_code": "600188",
+        "stock_name": "兖矿能源",
+        "market_value_wan": 547.65
+      },
+      {
+        "stock_code": "600900",
+        "stock_name": "长江电力",
+        "market_value_wan": 504.08
+      },
+      {
+        "stock_code": "002318",
+        "stock_name": "久立特材",
+        "market_value_wan": 494.84
+      },
+      {
+        "stock_code": "000807",
+        "stock_name": "云铝股份",
+        "market_value_wan": 464.28
+      },
+      {
+        "stock_code": "000338",
+        "stock_name": "潍柴动力",
+        "market_value_wan": 449.96
+      },
+      {
+        "stock_code": "600660",
+        "stock_name": "福耀玻璃",
+        "market_value_wan": 434.33
+      },
+      {
+        "stock_code": "000975",
+        "stock_name": "山金国际",
+        "market_value_wan": 416.83
+      }
+    ]
+  }
+}

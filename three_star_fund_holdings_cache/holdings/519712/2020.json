@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "519712",
+    "name": "交银阿尔法核心混合A",
+    "base_name": "交银阿尔法核心混合"
+  },
+  "fetched_at": "2026-06-15 00:04:10",
+  "quarters": {
+    "2020-Q4": [
+      {
+        "stock_code": "002050",
+        "stock_name": "三花智控",
+        "market_value_wan": 78821.64
+      },
+      {
+        "stock_code": "000002",
+        "stock_name": "万科A",
+        "market_value_wan": 76866.5
+      },
+      {
+        "stock_code": "600048",
+        "stock_name": "保利发展",
+        "market_value_wan": 51385.62
+      },
+      {
+        "stock_code": "002049",
+        "stock_name": "紫光国微",
+        "market_value_wan": 47915.38
+      },
+      {
+        "stock_code": "000961",
+        "stock_name": "ST中南",
+        "market_value_wan": 45593.01
+      },
+      {
+        "stock_code": "300271",
+        "stock_name": "华宇软件",
+        "market_value_wan": 44018.8
+      },
+      {
+        "stock_code": "002352",
+        "stock_name": "顺丰控股",
+        "market_value_wan": 41063.48
+      },
+      {
+        "stock_code": "002831",
+        "stock_name": "裕同科技",
+        "market_value_wan": 34175.8
+      },
+      {
+        "stock_code": "600383",
+        "stock_name": "金地集团",
+        "market_value_wan": 28950.55
+      },
+      {
+        "stock_code": "603129",
+        "stock_name": "春风动力",
+        "market_value_wan": 26727.59
+      }
+    ],
+    "2020-Q3": [
+      {
+        "stock_code": "000002",
+        "stock_name": "万科A",
+        "market_value_wan": 84850.03
+      },
+      {
+        "stock_code": "002050",
+        "stock_name": "三花智控",
+        "market_value_wan": 66138.36
+      },
+      {
+        "stock_code": "600048",
+        "stock_name": "保利发展",
+        "market_value_wan": 52476.03
+      },
+      {
+        "stock_code": "002049",
+        "stock_name": "紫光国微",
+        "market_value_wan": 48691.12
+      },
+      {
+        "stock_code": "002831",
+        "stock_name": "裕同科技",
+        "market_value_wan": 43735.54
+      },
+      {
+        "stock_code": "600383",
+        "stock_name": "金地集团",
+        "market_value_wan": 43225.21
+      },
+      {
+        "stock_code": "300271",
+        "stock_name": "华宇软件",
+        "market_value_wan": 40506.7
+      },
+      {
+        "stock_code": "002352",
+        "stock_name": "顺丰控股",
+        "market_value_wan": 39780.13
+      },
+      {
+        "stock_code": "000961",
+        "stock_name": "ST中南",
+        "market_value_wan": 37833.82
+      },
+      {
+        "stock_code": "300188",
+        "stock_name": "国投智能",
+        "market_value_wan": 33103.92
+      }
+    ],
+    "2020-Q2": [
+      {
+        "stock_code": "000002",
+        "stock_name": "万科A",
+        "market_value_wan": 90314.39
+      },
+      {
+        "stock_code": "002050",
+        "stock_name": "三花智控",
+        "market_value_wan": 70072.08
+      },
+      {
+        "stock_code": "600048",
+        "stock_name": "保利发展",
+        "market_value_wan": 54900.13
+      },
+      {
+        "stock_code": "600383",
+        "stock_name": "金地集团",
+        "market_value_wan": 49919.14
+      },
+      {
+        "stock_code": "002831",
+        "stock_name": "裕同科技",
+        "market_value_wan": 44822.89
+      },
+      {
+        "stock_code": "300271",
+        "stock_name": "华宇软件",
+        "market_value_wan": 43657.21
+      },
+      {
+        "stock_code": "600529",
+        "stock_name": "山东药玻",
+        "market_value_wan": 31806.36
+      },
+      {
+        "stock_code": "300188",
+        "stock_name": "国投智能",
+        "market_value_wan": 30030.2
+      },
+      {
+        "stock_code": "002810",
+        "stock_name": "山东赫达",
+        "market_value_wan": 29893.98
+      },
+      {
+        "stock_code": "002271",
+        "stock_name": "东方雨虹",
+        "market_value_wan": 28095.74
+      }
+    ],
+    "2020-Q1": [
+      {
+        "stock_code": "000002",
+        "stock_name": "万科A",
+        "market_value_wan": 81261.52
+      },
+      {
+        "stock_code": "600048",
+        "stock_name": "保利发展",
+        "market_value_wan": 54443.65
+      },
+      {
+        "stock_code": "002050",
+        "stock_name": "三花智控",
+        "market_value_wan": 49365.21
+      },
+      {
+        "stock_code": "300271",
+        "stock_name": "华宇软件",
+        "market_value_wan": 40401.57
+      },
+      {
+        "stock_code": "300188",
+        "stock_name": "国投智能",
+        "market_value_wan": 39375.33
+      },
+      {
+        "stock_code": "600383",
+        "stock_name": "金地集团",
+        "market_value_wan": 39195.7
+      },
+      {
+        "stock_code": "002044",
+        "stock_name": "美年健康",
+        "market_value_wan": 35386.45
+      },
+      {
+        "stock_code": "600529",
+        "stock_name": "山东药玻",
+        "market_value_wan": 29625.02
+      },
+      {
+        "stock_code": "000501",
+        "stock_name": "武商集团",
+        "market_value_wan": 21757.93
+      },
+      {
+        "stock_code": "002831",
+        "stock_name": "裕同科技",
+        "market_value_wan": 19377.39
+      }
+    ]
+  }
+}

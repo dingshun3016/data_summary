@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "010236",
+    "name": "广发电子信息传媒股票C",
+    "base_name": "广发电子信息传媒股票"
+  },
+  "fetched_at": "2026-06-14 22:12:19",
+  "quarters": {
+    "2021-Q4": [
+      {
+        "stock_code": "300207",
+        "stock_name": "欣旺达",
+        "market_value_wan": 1754.88
+      },
+      {
+        "stock_code": "600522",
+        "stock_name": "中天科技",
+        "market_value_wan": 1716.86
+      },
+      {
+        "stock_code": "002384",
+        "stock_name": "东山精密",
+        "market_value_wan": 1659.33
+      },
+      {
+        "stock_code": "688019",
+        "stock_name": "安集科技",
+        "market_value_wan": 1334.36
+      },
+      {
+        "stock_code": "600884",
+        "stock_name": "杉杉股份",
+        "market_value_wan": 1333.74
+      },
+      {
+        "stock_code": "600588",
+        "stock_name": "用友网络",
+        "market_value_wan": 1299.21
+      },
+      {
+        "stock_code": "600131",
+        "stock_name": "国网信通",
+        "market_value_wan": 1263.97
+      },
+      {
+        "stock_code": "300496",
+        "stock_name": "中科创达",
+        "market_value_wan": 1137.81
+      },
+      {
+        "stock_code": "000725",
+        "stock_name": "京东方A",
+        "market_value_wan": 1055.3
+      },
+      {
+        "stock_code": "002049",
+        "stock_name": "紫光国微",
+        "market_value_wan": 1041.75
+      }
+    ],
+    "2021-Q3": [
+      {
+        "stock_code": "300207",
+        "stock_name": "欣旺达",
+        "market_value_wan": 1712.7
+      },
+      {
+        "stock_code": "600884",
+        "stock_name": "杉杉股份",
+        "market_value_wan": 1308.58
+      },
+      {
+        "stock_code": "002049",
+        "stock_name": "紫光国微",
+        "market_value_wan": 1160.15
+      },
+      {
+        "stock_code": "300672",
+        "stock_name": "国科微",
+        "market_value_wan": 1147.23
+      },
+      {
+        "stock_code": "002371",
+        "stock_name": "北方华创",
+        "market_value_wan": 1137.3
+      },
+      {
+        "stock_code": "000063",
+        "stock_name": "中兴通讯",
+        "market_value_wan": 1077.39
+      },
+      {
+        "stock_code": "300496",
+        "stock_name": "中科创达",
+        "market_value_wan": 1014.04
+      },
+      {
+        "stock_code": "000725",
+        "stock_name": "京东方A",
+        "market_value_wan": 914.86
+      },
+      {
+        "stock_code": "002241",
+        "stock_name": "歌尔股份",
+        "market_value_wan": 830.11
+      },
+      {
+        "stock_code": "002410",
+        "stock_name": "广联达",
+        "market_value_wan": 728.27
+      }
+    ],
+    "2021-Q2": [
+      {
+        "stock_code": "000725",
+        "stock_name": "京东方A",
+        "market_value_wan": 2434.41
+      },
+      {
+        "stock_code": "600884",
+        "stock_name": "杉杉股份",
+        "market_value_wan": 1499.01
+      },
+      {
+        "stock_code": "000100",
+        "stock_name": "TCL科技",
+        "market_value_wan": 1462.14
+      },
+      {
+        "stock_code": "300496",
+        "stock_name": "中科创达",
+        "market_value_wan": 1333.44
+      },
+      {
+        "stock_code": "300408",
+        "stock_name": "三环集团",
+        "market_value_wan": 1315.87
+      },
+      {
+        "stock_code": "300059",
+        "stock_name": "东方财富",
+        "market_value_wan": 1244.18
+      },
+      {
+        "stock_code": "603501",
+        "stock_name": "韦尔股份",
+        "market_value_wan": 1233.26
+      },
+      {
+        "stock_code": "300207",
+        "stock_name": "欣旺达",
+        "market_value_wan": 1231.56
+      },
+      {
+        "stock_code": "300454",
+        "stock_name": "深信服",
+        "market_value_wan": 1115.76
+      },
+      {
+        "stock_code": "603881",
+        "stock_name": "数据港",
+        "market_value_wan": 950.93
+      }
+    ],
+    "2021-Q1": [
+      {
+        "stock_code": "000725",
+        "stock_name": "京东方A",
+        "market_value_wan": 2826.64
+      },
+      {
+        "stock_code": "000100",
+        "stock_name": "TCL科技",
+        "market_value_wan": 1637.49
+      },
+      {
+        "stock_code": "300408",
+        "stock_name": "三环集团",
+        "market_value_wan": 1580.55
+      },
+      {
+        "stock_code": "300496",
+        "stock_name": "中科创达",
+        "market_value_wan": 1206.32
+      },
+      {
+        "stock_code": "300454",
+        "stock_name": "深信服",
+        "market_value_wan": 1153.49
+      },
+      {
+        "stock_code": "300059",
+        "stock_name": "东方财富",
+        "market_value_wan": 1094.22
+      },
+      {
+        "stock_code": "603881",
+        "stock_name": "数据港",
+        "market_value_wan": 992.11
+      },
+      {
+        "stock_code": "688023",
+        "stock_name": "安恒信息",
+        "market_value_wan": 856.53
+      },
+      {
+        "stock_code": "603501",
+        "stock_name": "韦尔股份",
+        "market_value_wan": 847.18
+      },
+      {
+        "stock_code": "603613",
+        "stock_name": "国联股份",
+        "market_value_wan": 798.8
+      }
+    ]
+  }
+}

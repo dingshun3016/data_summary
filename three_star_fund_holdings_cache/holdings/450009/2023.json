@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "450009",
+    "name": "国富中小盘股票A",
+    "base_name": "国富中小盘股票"
+  },
+  "fetched_at": "2026-06-15 00:00:31",
+  "quarters": {
+    "2023-Q4": [
+      {
+        "stock_code": "002568",
+        "stock_name": "百润股份",
+        "market_value_wan": 25670.53
+      },
+      {
+        "stock_code": "601577",
+        "stock_name": "长沙银行",
+        "market_value_wan": 22396.65
+      },
+      {
+        "stock_code": "601658",
+        "stock_name": "邮储银行",
+        "market_value_wan": 22208.62
+      },
+      {
+        "stock_code": "601128",
+        "stock_name": "常熟银行",
+        "market_value_wan": 20903.09
+      },
+      {
+        "stock_code": "601155",
+        "stock_name": "新城控股",
+        "market_value_wan": 13502.1
+      },
+      {
+        "stock_code": "000338",
+        "stock_name": "潍柴动力",
+        "market_value_wan": 12787.87
+      },
+      {
+        "stock_code": "600256",
+        "stock_name": "广汇能源",
+        "market_value_wan": 12742.09
+      },
+      {
+        "stock_code": "000651",
+        "stock_name": "格力电器",
+        "market_value_wan": 12449.36
+      },
+      {
+        "stock_code": "002050",
+        "stock_name": "三花智控",
+        "market_value_wan": 10874.21
+      },
+      {
+        "stock_code": "688333",
+        "stock_name": "铂力特",
+        "market_value_wan": 10258.91
+      }
+    ],
+    "2023-Q3": [
+      {
+        "stock_code": "002568",
+        "stock_name": "百润股份",
+        "market_value_wan": 27045.47
+      },
+      {
+        "stock_code": "601658",
+        "stock_name": "邮储银行",
+        "market_value_wan": 25848.23
+      },
+      {
+        "stock_code": "601128",
+        "stock_name": "常熟银行",
+        "market_value_wan": 23579.32
+      },
+      {
+        "stock_code": "601577",
+        "stock_name": "长沙银行",
+        "market_value_wan": 23544.33
+      },
+      {
+        "stock_code": "002142",
+        "stock_name": "宁波银行",
+        "market_value_wan": 16139.52
+      },
+      {
+        "stock_code": "600256",
+        "stock_name": "广汇能源",
+        "market_value_wan": 15639.28
+      },
+      {
+        "stock_code": "601155",
+        "stock_name": "新城控股",
+        "market_value_wan": 14354.48
+      },
+      {
+        "stock_code": "601699",
+        "stock_name": "潞安环能",
+        "market_value_wan": 13153.33
+      },
+      {
+        "stock_code": "000338",
+        "stock_name": "潍柴动力",
+        "market_value_wan": 12365.11
+      },
+      {
+        "stock_code": "002050",
+        "stock_name": "三花智控",
+        "market_value_wan": 10985.17
+      }
+    ],
+    "2023-Q2": [
+      {
+        "stock_code": "002568",
+        "stock_name": "百润股份",
+        "market_value_wan": 29011.31
+      },
+      {
+        "stock_code": "601658",
+        "stock_name": "邮储银行",
+        "market_value_wan": 27388.16
+      },
+      {
+        "stock_code": "601577",
+        "stock_name": "长沙银行",
+        "market_value_wan": 23302.08
+      },
+      {
+        "stock_code": "601128",
+        "stock_name": "常熟银行",
+        "market_value_wan": 21968.71
+      },
+      {
+        "stock_code": "601155",
+        "stock_name": "新城控股",
+        "market_value_wan": 18493.13
+      },
+      {
+        "stock_code": "002050",
+        "stock_name": "三花智控",
+        "market_value_wan": 17737.15
+      },
+      {
+        "stock_code": "002142",
+        "stock_name": "宁波银行",
+        "market_value_wan": 15196.49
+      },
+      {
+        "stock_code": "000338",
+        "stock_name": "潍柴动力",
+        "market_value_wan": 14788.03
+      },
+      {
+        "stock_code": "600256",
+        "stock_name": "广汇能源",
+        "market_value_wan": 14042.6
+      },
+      {
+        "stock_code": "688018",
+        "stock_name": "乐鑫科技",
+        "market_value_wan": 12762.5
+      }
+    ],
+    "2023-Q1": [
+      {
+        "stock_code": "601658",
+        "stock_name": "邮储银行",
+        "market_value_wan": 32032.64
+      },
+      {
+        "stock_code": "002568",
+        "stock_name": "百润股份",
+        "market_value_wan": 30073.61
+      },
+      {
+        "stock_code": "601577",
+        "stock_name": "长沙银行",
+        "market_value_wan": 24427.5
+      },
+      {
+        "stock_code": "601128",
+        "stock_name": "常熟银行",
+        "market_value_wan": 24313.81
+      },
+      {
+        "stock_code": "688018",
+        "stock_name": "乐鑫科技",
+        "market_value_wan": 22056.98
+      },
+      {
+        "stock_code": "600256",
+        "stock_name": "广汇能源",
+        "market_value_wan": 21456.91
+      },
+      {
+        "stock_code": "601155",
+        "stock_name": "新城控股",
+        "market_value_wan": 20970.0
+      },
+      {
+        "stock_code": "000338",
+        "stock_name": "潍柴动力",
+        "market_value_wan": 18920.68
+      },
+      {
+        "stock_code": "002142",
+        "stock_name": "宁波银行",
+        "market_value_wan": 18315.5
+      },
+      {
+        "stock_code": "601699",
+        "stock_name": "潞安环能",
+        "market_value_wan": 17269.66
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "166009",
+    "name": "中欧新动力混合(LOF)A",
+    "base_name": "中欧新动力混合(LOF)"
+  },
+  "fetched_at": "2026-06-14 23:54:45",
+  "quarters": {
+    "2020-Q4": [
+      {
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "market_value_wan": 9501.02
+      },
+      {
+        "stock_code": "000002",
+        "stock_name": "万科A",
+        "market_value_wan": 7458.63
+      },
+      {
+        "stock_code": "600690",
+        "stock_name": "海尔智家",
+        "market_value_wan": 6109.54
+      },
+      {
+        "stock_code": "600309",
+        "stock_name": "万华化学",
+        "market_value_wan": 6058.75
+      },
+      {
+        "stock_code": "603195",
+        "stock_name": "公牛集团",
+        "market_value_wan": 5971.19
+      },
+      {
+        "stock_code": "300078",
+        "stock_name": "思创医惠",
+        "market_value_wan": 5943.41
+      },
+      {
+        "stock_code": "603596",
+        "stock_name": "伯特利",
+        "market_value_wan": 5937.17
+      },
+      {
+        "stock_code": "600741",
+        "stock_name": "华域汽车",
+        "market_value_wan": 5628.26
+      },
+      {
+        "stock_code": "000988",
+        "stock_name": "华工科技",
+        "market_value_wan": 5341.52
+      },
+      {
+        "stock_code": "300188",
+        "stock_name": "国投智能",
+        "market_value_wan": 5323.42
+      }
+    ],
+    "2020-Q3": [
+      {
+        "stock_code": "000002",
+        "stock_name": "万科A",
+        "market_value_wan": 5598.4
+      },
+      {
+        "stock_code": "300078",
+        "stock_name": "思创医惠",
+        "market_value_wan": 5536.6
+      },
+      {
+        "stock_code": "600309",
+        "stock_name": "万华化学",
+        "market_value_wan": 4611.94
+      },
+      {
+        "stock_code": "002594",
+        "stock_name": "比亚迪",
+        "market_value_wan": 4452.15
+      },
+      {
+        "stock_code": "300188",
+        "stock_name": "国投智能",
+        "market_value_wan": 4338.43
+      },
+      {
+        "stock_code": "603596",
+        "stock_name": "伯特利",
+        "market_value_wan": 4325.6
+      },
+      {
+        "stock_code": "601636",
+        "stock_name": "旗滨集团",
+        "market_value_wan": 3937.29
+      },
+      {
+        "stock_code": "603195",
+        "stock_name": "公牛集团",
+        "market_value_wan": 3922.47
+      },
+      {
+        "stock_code": "600690",
+        "stock_name": "海尔智家",
+        "market_value_wan": 3910.56
+      },
+      {
+        "stock_code": "300450",
+        "stock_name": "先导智能",
+        "market_value_wan": 3832.62
+      }
+    ],
+    "2020-Q2": [
+      {
+        "stock_code": "300078",
+        "stock_name": "思创医惠",
+        "market_value_wan": 4097.94
+      },
+      {
+        "stock_code": "000002",
+        "stock_name": "万科A",
+        "market_value_wan": 3136.8
+      },
+      {
+        "stock_code": "603596",
+        "stock_name": "伯特利",
+        "market_value_wan": 2745.6
+      },
+      {
+        "stock_code": "300188",
+        "stock_name": "国投智能",
+        "market_value_wan": 2676.9
+      },
+      {
+        "stock_code": "600690",
+        "stock_name": "海尔智家",
+        "market_value_wan": 2479.58
+      },
+      {
+        "stock_code": "600741",
+        "stock_name": "华域汽车",
+        "market_value_wan": 2243.65
+      },
+      {
+        "stock_code": "601933",
+        "stock_name": "永辉超市",
+        "market_value_wan": 2165.8
+      },
+      {
+        "stock_code": "002594",
+        "stock_name": "比亚迪",
+        "market_value_wan": 2153.38
+      },
+      {
+        "stock_code": "601636",
+        "stock_name": "旗滨集团",
+        "market_value_wan": 2072.0
+      },
+      {
+        "stock_code": "002050",
+        "stock_name": "三花智控",
+        "market_value_wan": 2048.61
+      }
+    ],
+    "2020-Q1": [
+      {
+        "stock_code": "000002",
+        "stock_name": "万科A",
+        "market_value_wan": 3078.0
+      },
+      {
+        "stock_code": "300078",
+        "stock_name": "思创医惠",
+        "market_value_wan": 2711.95
+      },
+      {
+        "stock_code": "300188",
+        "stock_name": "国投智能",
+        "market_value_wan": 2439.57
+      },
+      {
+        "stock_code": "600521",
+        "stock_name": "华海药业",
+        "market_value_wan": 2372.98
+      },
+      {
+        "stock_code": "600741",
+        "stock_name": "华域汽车",
+        "market_value_wan": 1952.17
+      },
+      {
+        "stock_code": "601933",
+        "stock_name": "永辉超市",
+        "market_value_wan": 1843.2
+      },
+      {
+        "stock_code": "603596",
+        "stock_name": "伯特利",
+        "market_value_wan": 1737.84
+      },
+      {
+        "stock_code": "300450",
+        "stock_name": "先导智能",
+        "market_value_wan": 1685.43
+      },
+      {
+        "stock_code": "603708",
+        "stock_name": "家家悦",
+        "market_value_wan": 1644.05
+      },
+      {
+        "stock_code": "002258",
+        "stock_name": "利尔化学",
+        "market_value_wan": 1472.0
+      }
+    ]
+  }
+}

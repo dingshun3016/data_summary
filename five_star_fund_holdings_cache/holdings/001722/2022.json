@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "001722",
+    "name": "工银银和利混合",
+    "base_name": "工银银和利混合"
+  },
+  "fetched_at": "2026-06-14 22:10:42",
+  "quarters": {
+    "2022-Q4": [
+      {
+        "stock_code": "600132",
+        "stock_name": "重庆啤酒",
+        "market_value_wan": 731.16
+      },
+      {
+        "stock_code": "600600",
+        "stock_name": "青岛啤酒",
+        "market_value_wan": 659.28
+      },
+      {
+        "stock_code": "002821",
+        "stock_name": "凯莱英",
+        "market_value_wan": 605.02
+      },
+      {
+        "stock_code": "600938",
+        "stock_name": "中国海油",
+        "market_value_wan": 599.49
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 587.18
+      },
+      {
+        "stock_code": "601669",
+        "stock_name": "中国电建",
+        "market_value_wan": 580.91
+      },
+      {
+        "stock_code": "002271",
+        "stock_name": "东方雨虹",
+        "market_value_wan": 551.22
+      },
+      {
+        "stock_code": "300627",
+        "stock_name": "华测导航",
+        "market_value_wan": 525.81
+      },
+      {
+        "stock_code": "600383",
+        "stock_name": "金地集团",
+        "market_value_wan": 477.13
+      },
+      {
+        "stock_code": "002594",
+        "stock_name": "比亚迪",
+        "market_value_wan": 467.69
+      }
+    ],
+    "2022-Q3": [
+      {
+        "stock_code": "600600",
+        "stock_name": "青岛啤酒",
+        "market_value_wan": 960.35
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 636.65
+      },
+      {
+        "stock_code": "002594",
+        "stock_name": "比亚迪",
+        "market_value_wan": 624.98
+      },
+      {
+        "stock_code": "600938",
+        "stock_name": "中国海油",
+        "market_value_wan": 620.9
+      },
+      {
+        "stock_code": "300627",
+        "stock_name": "华测导航",
+        "market_value_wan": 573.09
+      },
+      {
+        "stock_code": "600132",
+        "stock_name": "重庆啤酒",
+        "market_value_wan": 572.22
+      },
+      {
+        "stock_code": "002821",
+        "stock_name": "凯莱英",
+        "market_value_wan": 567.01
+      },
+      {
+        "stock_code": "600887",
+        "stock_name": "伊利股份",
+        "market_value_wan": 527.35
+      },
+      {
+        "stock_code": "600809",
+        "stock_name": "山西汾酒",
+        "market_value_wan": 454.34
+      },
+      {
+        "stock_code": "003031",
+        "stock_name": "中瓷电子",
+        "market_value_wan": 448.65
+      }
+    ],
+    "2022-Q2": [
+      {
+        "stock_code": "000858",
+        "stock_name": "五粮液",
+        "market_value_wan": 1625.54
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 1615.55
+      },
+      {
+        "stock_code": "000568",
+        "stock_name": "泸州老窖",
+        "market_value_wan": 924.53
+      },
+      {
+        "stock_code": "002384",
+        "stock_name": "东山精密",
+        "market_value_wan": 891.29
+      },
+      {
+        "stock_code": "300627",
+        "stock_name": "华测导航",
+        "market_value_wan": 650.45
+      },
+      {
+        "stock_code": "600887",
+        "stock_name": "伊利股份",
+        "market_value_wan": 622.81
+      },
+      {
+        "stock_code": "601985",
+        "stock_name": "中国核电",
+        "market_value_wan": 608.07
+      },
+      {
+        "stock_code": "600600",
+        "stock_name": "青岛啤酒",
+        "market_value_wan": 602.74
+      },
+      {
+        "stock_code": "002245",
+        "stock_name": "蔚蓝锂芯",
+        "market_value_wan": 575.98
+      },
+      {
+        "stock_code": "002415",
+        "stock_name": "海康威视",
+        "market_value_wan": 563.63
+      }
+    ],
+    "2022-Q1": [
+      {
+        "stock_code": "603456",
+        "stock_name": "九洲药业",
+        "market_value_wan": 850.34
+      },
+      {
+        "stock_code": "002384",
+        "stock_name": "东山精密",
+        "market_value_wan": 726.09
+      },
+      {
+        "stock_code": "601985",
+        "stock_name": "中国核电",
+        "market_value_wan": 718.87
+      },
+      {
+        "stock_code": "002415",
+        "stock_name": "海康威视",
+        "market_value_wan": 638.37
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 618.84
+      },
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 606.42
+      },
+      {
+        "stock_code": "600887",
+        "stock_name": "伊利股份",
+        "market_value_wan": 589.87
+      },
+      {
+        "stock_code": "603259",
+        "stock_name": "药明康德",
+        "market_value_wan": 516.95
+      },
+      {
+        "stock_code": "000858",
+        "stock_name": "五粮液",
+        "market_value_wan": 510.15
+      },
+      {
+        "stock_code": "300627",
+        "stock_name": "华测导航",
+        "market_value_wan": 492.57
+      }
+    ]
+  }
+}

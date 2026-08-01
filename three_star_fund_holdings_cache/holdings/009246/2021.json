@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "009246",
+    "name": "大摩ESG量化混合A",
+    "base_name": "大摩ESG量化混合"
+  },
+  "fetched_at": "2026-06-14 23:32:23",
+  "quarters": {
+    "2021-Q4": [
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 1127.5
+      },
+      {
+        "stock_code": "000009",
+        "stock_name": "中国宝安",
+        "market_value_wan": 901.15
+      },
+      {
+        "stock_code": "600031",
+        "stock_name": "三一重工",
+        "market_value_wan": 799.37
+      },
+      {
+        "stock_code": "002460",
+        "stock_name": "赣锋锂业",
+        "market_value_wan": 771.39
+      },
+      {
+        "stock_code": "002714",
+        "stock_name": "牧原股份",
+        "market_value_wan": 684.08
+      },
+      {
+        "stock_code": "605555",
+        "stock_name": "德昌股份",
+        "market_value_wan": 604.66
+      },
+      {
+        "stock_code": "002821",
+        "stock_name": "凯莱英",
+        "market_value_wan": 587.25
+      },
+      {
+        "stock_code": "300760",
+        "stock_name": "迈瑞医疗",
+        "market_value_wan": 572.57
+      },
+      {
+        "stock_code": "603538",
+        "stock_name": "美诺华",
+        "market_value_wan": 491.46
+      },
+      {
+        "stock_code": "601388",
+        "stock_name": "怡球资源",
+        "market_value_wan": 461.29
+      }
+    ],
+    "2021-Q3": [
+      {
+        "stock_code": "600150",
+        "stock_name": "中国船舶",
+        "market_value_wan": 1014.29
+      },
+      {
+        "stock_code": "000301",
+        "stock_name": "东方盛虹",
+        "market_value_wan": 883.53
+      },
+      {
+        "stock_code": "300059",
+        "stock_name": "东方财富",
+        "market_value_wan": 771.47
+      },
+      {
+        "stock_code": "002821",
+        "stock_name": "凯莱英",
+        "market_value_wan": 700.06
+      },
+      {
+        "stock_code": "603505",
+        "stock_name": "金石资源",
+        "market_value_wan": 692.92
+      },
+      {
+        "stock_code": "601888",
+        "stock_name": "中国中免",
+        "market_value_wan": 676.0
+      },
+      {
+        "stock_code": "688029",
+        "stock_name": "南微医学",
+        "market_value_wan": 647.86
+      },
+      {
+        "stock_code": "002812",
+        "stock_name": "恩捷股份",
+        "market_value_wan": 641.47
+      },
+      {
+        "stock_code": "300760",
+        "stock_name": "迈瑞医疗",
+        "market_value_wan": 579.52
+      },
+      {
+        "stock_code": "688005",
+        "stock_name": "容百科技",
+        "market_value_wan": 566.34
+      }
+    ],
+    "2021-Q2": [
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 2069.68
+      },
+      {
+        "stock_code": "300122",
+        "stock_name": "智飞生物",
+        "market_value_wan": 2024.15
+      },
+      {
+        "stock_code": "002594",
+        "stock_name": "比亚迪",
+        "market_value_wan": 1741.94
+      },
+      {
+        "stock_code": "300014",
+        "stock_name": "亿纬锂能",
+        "market_value_wan": 1631.7
+      },
+      {
+        "stock_code": "002460",
+        "stock_name": "赣锋锂业",
+        "market_value_wan": 1453.08
+      },
+      {
+        "stock_code": "000858",
+        "stock_name": "五粮液",
+        "market_value_wan": 1185.45
+      },
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 1085.6
+      },
+      {
+        "stock_code": "600660",
+        "stock_name": "福耀玻璃",
+        "market_value_wan": 1034.89
+      },
+      {
+        "stock_code": "601012",
+        "stock_name": "隆基绿能",
+        "market_value_wan": 1015.09
+      },
+      {
+        "stock_code": "002821",
+        "stock_name": "凯莱英",
+        "market_value_wan": 972.49
+      }
+    ],
+    "2021-Q1": [
+      {
+        "stock_code": "300347",
+        "stock_name": "泰格医药",
+        "market_value_wan": 1657.21
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 1559.3
+      },
+      {
+        "stock_code": "002271",
+        "stock_name": "东方雨虹",
+        "market_value_wan": 1061.31
+      },
+      {
+        "stock_code": "000858",
+        "stock_name": "五粮液",
+        "market_value_wan": 1055.71
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 1044.68
+      },
+      {
+        "stock_code": "300760",
+        "stock_name": "迈瑞医疗",
+        "market_value_wan": 951.32
+      },
+      {
+        "stock_code": "000002",
+        "stock_name": "万科A",
+        "market_value_wan": 930.9
+      },
+      {
+        "stock_code": "601799",
+        "stock_name": "星宇股份",
+        "market_value_wan": 927.99
+      },
+      {
+        "stock_code": "300725",
+        "stock_name": "药石科技",
+        "market_value_wan": 908.11
+      },
+      {
+        "stock_code": "601166",
+        "stock_name": "兴业银行",
+        "market_value_wan": 877.36
+      }
+    ]
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "000586",
+    "name": "景顺长城中小创精选股票A",
+    "base_name": "景顺长城中小创精选股票"
+  },
+  "fetched_at": "2026-08-01 20:53:34",
+  "quarters": {
+    "2026-Q2": [
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 2092.98
+      },
+      {
+        "stock_code": "300567",
+        "stock_name": "精测电子",
+        "market_value_wan": 1762.68
+      },
+      {
+        "stock_code": "002916",
+        "stock_name": "深南电路",
+        "market_value_wan": 1492.75
+      },
+      {
+        "stock_code": "002436",
+        "stock_name": "兴森科技",
+        "market_value_wan": 1344.06
+      },
+      {
+        "stock_code": "300274",
+        "stock_name": "阳光电源",
+        "market_value_wan": 1310.32
+      },
+      {
+        "stock_code": "300373",
+        "stock_name": "扬杰科技",
+        "market_value_wan": 1295.58
+      },
+      {
+        "stock_code": "300408",
+        "stock_name": "三环集团",
+        "market_value_wan": 1115.59
+      },
+      {
+        "stock_code": "002636",
+        "stock_name": "金安国纪",
+        "market_value_wan": 1095.33
+      },
+      {
+        "stock_code": "688256",
+        "stock_name": "寒武纪",
+        "market_value_wan": 1005.83
+      },
+      {
+        "stock_code": "300438",
+        "stock_name": "鹏辉能源",
+        "market_value_wan": 939.52
+      }
+    ],
+    "2026-Q1": [
+      {
+        "stock_code": "300408",
+        "stock_name": "三环集团",
+        "market_value_wan": 1603.43
+      },
+      {
+        "stock_code": "300274",
+        "stock_name": "阳光电源",
+        "market_value_wan": 1242.26
+      },
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 1019.68
+      },
+      {
+        "stock_code": "300567",
+        "stock_name": "精测电子",
+        "market_value_wan": 869.84
+      },
+      {
+        "stock_code": "002008",
+        "stock_name": "大族激光",
+        "market_value_wan": 809.51
+      },
+      {
+        "stock_code": "688256",
+        "stock_name": "寒武纪",
+        "market_value_wan": 772.93
+      },
+      {
+        "stock_code": "300677",
+        "stock_name": "英科医疗",
+        "market_value_wan": 754.62
+      },
+      {
+        "stock_code": "605117",
+        "stock_name": "德业股份",
+        "market_value_wan": 724.34
+      },
+      {
+        "stock_code": "002436",
+        "stock_name": "兴森科技",
+        "market_value_wan": 698.54
+      },
+      {
+        "stock_code": "300870",
+        "stock_name": "欧陆通",
+        "market_value_wan": 680.9
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "007853",
+    "name": "华商计算机行业量化股票发起式A",
+    "base_name": "华商计算机行业量化股票发起式"
+  },
+  "fetched_at": "2026-06-14 23:25:33",
+  "quarters": {
+    "2022-Q4": [
+      {
+        "stock_code": "600536",
+        "stock_name": "中国软件",
+        "market_value_wan": 1230.18
+      },
+      {
+        "stock_code": "688111",
+        "stock_name": "金山办公",
+        "market_value_wan": 1051.64
+      },
+      {
+        "stock_code": "600570",
+        "stock_name": "恒生电子",
+        "market_value_wan": 1028.61
+      },
+      {
+        "stock_code": "000034",
+        "stock_name": "神州数码",
+        "market_value_wan": 768.34
+      },
+      {
+        "stock_code": "600845",
+        "stock_name": "宝信软件",
+        "market_value_wan": 751.3
+      },
+      {
+        "stock_code": "600588",
+        "stock_name": "用友网络",
+        "market_value_wan": 644.37
+      },
+      {
+        "stock_code": "603138",
+        "stock_name": "海量数据",
+        "market_value_wan": 639.72
+      },
+      {
+        "stock_code": "300253",
+        "stock_name": "卫宁健康",
+        "market_value_wan": 636.54
+      },
+      {
+        "stock_code": "002410",
+        "stock_name": "广联达",
+        "market_value_wan": 591.71
+      },
+      {
+        "stock_code": "688777",
+        "stock_name": "中控技术",
+        "market_value_wan": 543.17
+      }
+    ],
+    "2022-Q3": [
+      {
+        "stock_code": "300059",
+        "stock_name": "东方财富",
+        "market_value_wan": 1057.2
+      },
+      {
+        "stock_code": "600845",
+        "stock_name": "宝信软件",
+        "market_value_wan": 659.28
+      },
+      {
+        "stock_code": "688041",
+        "stock_name": "海光信息",
+        "market_value_wan": 652.63
+      },
+      {
+        "stock_code": "300496",
+        "stock_name": "中科创达",
+        "market_value_wan": 652.48
+      },
+      {
+        "stock_code": "603613",
+        "stock_name": "国联股份",
+        "market_value_wan": 626.17
+      },
+      {
+        "stock_code": "688111",
+        "stock_name": "金山办公",
+        "market_value_wan": 595.99
+      },
+      {
+        "stock_code": "600570",
+        "stock_name": "恒生电子",
+        "market_value_wan": 537.94
+      },
+      {
+        "stock_code": "600536",
+        "stock_name": "中国软件",
+        "market_value_wan": 521.89
+      },
+      {
+        "stock_code": "002410",
+        "stock_name": "广联达",
+        "market_value_wan": 493.72
+      },
+      {
+        "stock_code": "000938",
+        "stock_name": "紫光股份",
+        "market_value_wan": 441.86
+      }
+    ],
+    "2022-Q2": [
+      {
+        "stock_code": "300059",
+        "stock_name": "东方财富",
+        "market_value_wan": 1524.0
+      },
+      {
+        "stock_code": "603019",
+        "stock_name": "中科曙光",
+        "market_value_wan": 725.5
+      },
+      {
+        "stock_code": "002410",
+        "stock_name": "广联达",
+        "market_value_wan": 707.72
+      },
+      {
+        "stock_code": "300496",
+        "stock_name": "中科创达",
+        "market_value_wan": 691.54
+      },
+      {
+        "stock_code": "600845",
+        "stock_name": "宝信软件",
+        "market_value_wan": 655.2
+      },
+      {
+        "stock_code": "000977",
+        "stock_name": "浪潮信息",
+        "market_value_wan": 556.08
+      },
+      {
+        "stock_code": "002230",
+        "stock_name": "科大讯飞",
+        "market_value_wan": 535.86
+      },
+      {
+        "stock_code": "002268",
+        "stock_name": "电科网安",
+        "market_value_wan": 522.21
+      },
+      {
+        "stock_code": "603613",
+        "stock_name": "国联股份",
+        "market_value_wan": 513.88
+      },
+      {
+        "stock_code": "600588",
+        "stock_name": "用友网络",
+        "market_value_wan": 461.12
+      }
+    ],
+    "2022-Q1": [
+      {
+        "stock_code": "300059",
+        "stock_name": "东方财富",
+        "market_value_wan": 1305.01
+      },
+      {
+        "stock_code": "603019",
+        "stock_name": "中科曙光",
+        "market_value_wan": 742.25
+      },
+      {
+        "stock_code": "002410",
+        "stock_name": "广联达",
+        "market_value_wan": 645.32
+      },
+      {
+        "stock_code": "002230",
+        "stock_name": "科大讯飞",
+        "market_value_wan": 605.41
+      },
+      {
+        "stock_code": "600845",
+        "stock_name": "宝信软件",
+        "market_value_wan": 585.0
+      },
+      {
+        "stock_code": "000977",
+        "stock_name": "浪潮信息",
+        "market_value_wan": 570.15
+      },
+      {
+        "stock_code": "603613",
+        "stock_name": "国联股份",
+        "market_value_wan": 447.44
+      },
+      {
+        "stock_code": "002405",
+        "stock_name": "四维图新",
+        "market_value_wan": 419.1
+      },
+      {
+        "stock_code": "300451",
+        "stock_name": "创业慧康",
+        "market_value_wan": 417.45
+      },
+      {
+        "stock_code": "300496",
+        "stock_name": "中科创达",
+        "market_value_wan": 396.8
+      }
+    ]
+  }
+}

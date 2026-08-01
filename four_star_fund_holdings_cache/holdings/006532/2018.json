@@ -1,0 +1,63 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "006532",
+    "name": "华泰柏瑞量化阿尔法C",
+    "base_name": "华泰柏瑞量化阿尔法"
+  },
+  "fetched_at": "2026-06-14 22:34:04",
+  "quarters": {
+    "2018-Q4": [
+      {
+        "stock_code": "600031",
+        "stock_name": "三一重工",
+        "market_value_wan": 4544.79
+      },
+      {
+        "stock_code": "601818",
+        "stock_name": "光大银行",
+        "market_value_wan": 4286.45
+      },
+      {
+        "stock_code": "600585",
+        "stock_name": "海螺水泥",
+        "market_value_wan": 4191.1
+      },
+      {
+        "stock_code": "601229",
+        "stock_name": "上海银行",
+        "market_value_wan": 4146.98
+      },
+      {
+        "stock_code": "600782",
+        "stock_name": "新钢股份",
+        "market_value_wan": 4082.94
+      },
+      {
+        "stock_code": "000425",
+        "stock_name": "徐工机械",
+        "market_value_wan": 3923.9
+      },
+      {
+        "stock_code": "000049",
+        "stock_name": "德赛电池",
+        "market_value_wan": 3707.85
+      },
+      {
+        "stock_code": "600705",
+        "stock_name": "中航产融",
+        "market_value_wan": 3534.93
+      },
+      {
+        "stock_code": "600016",
+        "stock_name": "民生银行",
+        "market_value_wan": 3514.21
+      },
+      {
+        "stock_code": "601006",
+        "stock_name": "大秦铁路",
+        "market_value_wan": 3508.7
+      }
+    ]
+  }
+}

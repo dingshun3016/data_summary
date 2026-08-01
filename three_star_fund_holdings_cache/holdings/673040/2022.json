@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "673040",
+    "name": "西部利得行业主题优选混合A",
+    "base_name": "西部利得行业主题优选混合"
+  },
+  "fetched_at": "2026-06-15 00:06:56",
+  "quarters": {
+    "2022-Q4": [
+      {
+        "stock_code": "688508",
+        "stock_name": "芯朋微",
+        "market_value_wan": 108.23
+      },
+      {
+        "stock_code": "002727",
+        "stock_name": "一心堂",
+        "market_value_wan": 75.94
+      },
+      {
+        "stock_code": "920402",
+        "stock_name": "硅烷科技",
+        "market_value_wan": 75.16
+      },
+      {
+        "stock_code": "002223",
+        "stock_name": "鱼跃医疗",
+        "market_value_wan": 61.81
+      },
+      {
+        "stock_code": "301239",
+        "stock_name": "普瑞眼科",
+        "market_value_wan": 61.42
+      },
+      {
+        "stock_code": "688082",
+        "stock_name": "盛美上海",
+        "market_value_wan": 59.13
+      },
+      {
+        "stock_code": "688981",
+        "stock_name": "中芯国际",
+        "market_value_wan": 58.42
+      },
+      {
+        "stock_code": "600557",
+        "stock_name": "康缘药业",
+        "market_value_wan": 58.31
+      },
+      {
+        "stock_code": "300782",
+        "stock_name": "卓胜微",
+        "market_value_wan": 58.29
+      },
+      {
+        "stock_code": "603986",
+        "stock_name": "兆易创新",
+        "market_value_wan": 57.38
+      }
+    ],
+    "2022-Q3": [
+      {
+        "stock_code": "600938",
+        "stock_name": "中国海油",
+        "market_value_wan": 361.6
+      },
+      {
+        "stock_code": "920402",
+        "stock_name": "硅烷科技",
+        "market_value_wan": 302.66
+      },
+      {
+        "stock_code": "601666",
+        "stock_name": "平煤股份",
+        "market_value_wan": 299.4
+      },
+      {
+        "stock_code": "601898",
+        "stock_name": "中煤能源",
+        "market_value_wan": 225.57
+      },
+      {
+        "stock_code": "688390",
+        "stock_name": "固德威",
+        "market_value_wan": 113.21
+      },
+      {
+        "stock_code": "688408",
+        "stock_name": "中信博",
+        "market_value_wan": 105.6
+      },
+      {
+        "stock_code": "600438",
+        "stock_name": "通威股份",
+        "market_value_wan": 103.31
+      },
+      {
+        "stock_code": "601669",
+        "stock_name": "中国电建",
+        "market_value_wan": 102.6
+      },
+      {
+        "stock_code": "600763",
+        "stock_name": "通策医疗",
+        "market_value_wan": 79.58
+      },
+      {
+        "stock_code": "603067",
+        "stock_name": "振华股份",
+        "market_value_wan": 77.2
+      }
+    ],
+    "2022-Q2": [
+      {
+        "stock_code": "600938",
+        "stock_name": "中国海油",
+        "market_value_wan": 1005.73
+      },
+      {
+        "stock_code": "000983",
+        "stock_name": "山西焦煤",
+        "market_value_wan": 401.7
+      },
+      {
+        "stock_code": "300413",
+        "stock_name": "芒果超媒",
+        "market_value_wan": 333.6
+      },
+      {
+        "stock_code": "002212",
+        "stock_name": "天融信",
+        "market_value_wan": 304.5
+      },
+      {
+        "stock_code": "002157",
+        "stock_name": "正邦科技",
+        "market_value_wan": 303.0
+      },
+      {
+        "stock_code": "688048",
+        "stock_name": "长光华芯",
+        "market_value_wan": 42.97
+      },
+      {
+        "stock_code": "601012",
+        "stock_name": "隆基绿能",
+        "market_value_wan": 27.32
+      },
+      {
+        "stock_code": "688220",
+        "stock_name": "翱捷科技",
+        "market_value_wan": 17.63
+      },
+      {
+        "stock_code": "688290",
+        "stock_name": "景业智能",
+        "market_value_wan": 14.25
+      },
+      {
+        "stock_code": "001270",
+        "stock_name": "铖昌科技",
+        "market_value_wan": 5.75
+      }
+    ],
+    "2022-Q1": [
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 973.37
+      },
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 895.21
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 464.13
+      },
+      {
+        "stock_code": "601012",
+        "stock_name": "隆基绿能",
+        "market_value_wan": 459.13
+      },
+      {
+        "stock_code": "601899",
+        "stock_name": "紫金矿业",
+        "market_value_wan": 450.08
+      },
+      {
+        "stock_code": "688518",
+        "stock_name": "联赢激光",
+        "market_value_wan": 369.17
+      },
+      {
+        "stock_code": "600048",
+        "stock_name": "保利发展",
+        "market_value_wan": 368.87
+      },
+      {
+        "stock_code": "300760",
+        "stock_name": "迈瑞医疗",
+        "market_value_wan": 368.7
+      },
+      {
+        "stock_code": "002821",
+        "stock_name": "凯莱英",
+        "market_value_wan": 355.99
+      },
+      {
+        "stock_code": "002739",
+        "stock_name": "万达电影",
+        "market_value_wan": 330.09
+      }
+    ]
+  }
+}

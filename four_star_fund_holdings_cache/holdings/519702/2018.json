@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "519702",
+    "name": "交银趋势混合A",
+    "base_name": "交银趋势混合"
+  },
+  "fetched_at": "2026-06-14 22:44:44",
+  "quarters": {
+    "2018-Q4": [
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 2811.04
+      },
+      {
+        "stock_code": "300146",
+        "stock_name": "汤臣倍健",
+        "market_value_wan": 2768.79
+      },
+      {
+        "stock_code": "002304",
+        "stock_name": "洋河股份",
+        "market_value_wan": 2304.48
+      },
+      {
+        "stock_code": "000858",
+        "stock_name": "五粮液",
+        "market_value_wan": 2280.34
+      },
+      {
+        "stock_code": "603808",
+        "stock_name": "歌力思",
+        "market_value_wan": 2257.92
+      },
+      {
+        "stock_code": "601155",
+        "stock_name": "新城控股",
+        "market_value_wan": 1828.14
+      },
+      {
+        "stock_code": "600048",
+        "stock_name": "保利发展",
+        "market_value_wan": 1787.79
+      },
+      {
+        "stock_code": "600887",
+        "stock_name": "伊利股份",
+        "market_value_wan": 1533.02
+      },
+      {
+        "stock_code": "600276",
+        "stock_name": "恒瑞医药",
+        "market_value_wan": 1487.55
+      },
+      {
+        "stock_code": "600559",
+        "stock_name": "老白干酒",
+        "market_value_wan": 1421.41
+      }
+    ],
+    "2018-Q3": [
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 2743.27
+      },
+      {
+        "stock_code": "000858",
+        "stock_name": "五粮液",
+        "market_value_wan": 2701.63
+      },
+      {
+        "stock_code": "600048",
+        "stock_name": "保利发展",
+        "market_value_wan": 2641.94
+      },
+      {
+        "stock_code": "000002",
+        "stock_name": "万科A",
+        "market_value_wan": 2637.86
+      },
+      {
+        "stock_code": "300146",
+        "stock_name": "汤臣倍健",
+        "market_value_wan": 2563.65
+      },
+      {
+        "stock_code": "002304",
+        "stock_name": "洋河股份",
+        "market_value_wan": 2401.66
+      },
+      {
+        "stock_code": "603808",
+        "stock_name": "歌力思",
+        "market_value_wan": 2335.1
+      },
+      {
+        "stock_code": "600559",
+        "stock_name": "老白干酒",
+        "market_value_wan": 1567.19
+      },
+      {
+        "stock_code": "601155",
+        "stock_name": "新城控股",
+        "market_value_wan": 1158.12
+      },
+      {
+        "stock_code": "600887",
+        "stock_name": "伊利股份",
+        "market_value_wan": 1042.16
+      }
+    ],
+    "2018-Q2": [
+      {
+        "stock_code": "600887",
+        "stock_name": "伊利股份",
+        "market_value_wan": 3216.5
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 3146.16
+      },
+      {
+        "stock_code": "000858",
+        "stock_name": "五粮液",
+        "market_value_wan": 3133.59
+      },
+      {
+        "stock_code": "603808",
+        "stock_name": "歌力思",
+        "market_value_wan": 3131.29
+      },
+      {
+        "stock_code": "002304",
+        "stock_name": "洋河股份",
+        "market_value_wan": 3011.21
+      },
+      {
+        "stock_code": "002027",
+        "stock_name": "分众传媒",
+        "market_value_wan": 2070.15
+      },
+      {
+        "stock_code": "000002",
+        "stock_name": "万科A",
+        "market_value_wan": 1769.13
+      },
+      {
+        "stock_code": "600048",
+        "stock_name": "保利发展",
+        "market_value_wan": 1766.51
+      },
+      {
+        "stock_code": "600559",
+        "stock_name": "老白干酒",
+        "market_value_wan": 1396.23
+      },
+      {
+        "stock_code": "600315",
+        "stock_name": "上海家化",
+        "market_value_wan": 1101.15
+      }
+    ],
+    "2018-Q1": [
+      {
+        "stock_code": "002304",
+        "stock_name": "洋河股份",
+        "market_value_wan": 3235.52
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 3234.34
+      },
+      {
+        "stock_code": "603808",
+        "stock_name": "歌力思",
+        "market_value_wan": 3210.0
+      },
+      {
+        "stock_code": "600887",
+        "stock_name": "伊利股份",
+        "market_value_wan": 3191.07
+      },
+      {
+        "stock_code": "000858",
+        "stock_name": "五粮液",
+        "market_value_wan": 3057.3
+      },
+      {
+        "stock_code": "002027",
+        "stock_name": "分众传媒",
+        "market_value_wan": 2461.22
+      },
+      {
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "market_value_wan": 1789.67
+      },
+      {
+        "stock_code": "600048",
+        "stock_name": "保利发展",
+        "market_value_wan": 1742.83
+      },
+      {
+        "stock_code": "000651",
+        "stock_name": "格力电器",
+        "market_value_wan": 1739.38
+      },
+      {
+        "stock_code": "000002",
+        "stock_name": "万科A",
+        "market_value_wan": 1182.99
+      }
+    ]
+  }
+}

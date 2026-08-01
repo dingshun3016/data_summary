@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "001250",
+    "name": "天弘新活力混合发起A",
+    "base_name": "天弘新活力混合发起"
+  },
+  "fetched_at": "2026-06-14 22:55:06",
+  "quarters": {
+    "2024-Q4": [
+      {
+        "stock_code": "600690",
+        "stock_name": "海尔智家",
+        "market_value_wan": 638.58
+      },
+      {
+        "stock_code": "600887",
+        "stock_name": "伊利股份",
+        "market_value_wan": 510.65
+      },
+      {
+        "stock_code": "002027",
+        "stock_name": "分众传媒",
+        "market_value_wan": 452.87
+      },
+      {
+        "stock_code": "600298",
+        "stock_name": "安琪酵母",
+        "market_value_wan": 419.62
+      },
+      {
+        "stock_code": "600511",
+        "stock_name": "国药股份",
+        "market_value_wan": 407.9
+      },
+      {
+        "stock_code": "002064",
+        "stock_name": "华峰化学",
+        "market_value_wan": 370.47
+      },
+      {
+        "stock_code": "002468",
+        "stock_name": "申通快递",
+        "market_value_wan": 370.35
+      },
+      {
+        "stock_code": "002507",
+        "stock_name": "涪陵榨菜",
+        "market_value_wan": 349.58
+      },
+      {
+        "stock_code": "600233",
+        "stock_name": "圆通速递",
+        "market_value_wan": 340.13
+      },
+      {
+        "stock_code": "002597",
+        "stock_name": "金禾实业",
+        "market_value_wan": 330.12
+      }
+    ],
+    "2024-Q3": [
+      {
+        "stock_code": "600690",
+        "stock_name": "海尔智家",
+        "market_value_wan": 725.63
+      },
+      {
+        "stock_code": "600887",
+        "stock_name": "伊利股份",
+        "market_value_wan": 491.86
+      },
+      {
+        "stock_code": "002027",
+        "stock_name": "分众传媒",
+        "market_value_wan": 455.45
+      },
+      {
+        "stock_code": "002468",
+        "stock_name": "申通快递",
+        "market_value_wan": 409.32
+      },
+      {
+        "stock_code": "600511",
+        "stock_name": "国药股份",
+        "market_value_wan": 367.27
+      },
+      {
+        "stock_code": "600298",
+        "stock_name": "安琪酵母",
+        "market_value_wan": 354.0
+      },
+      {
+        "stock_code": "002064",
+        "stock_name": "华峰化学",
+        "market_value_wan": 351.04
+      },
+      {
+        "stock_code": "002507",
+        "stock_name": "涪陵榨菜",
+        "market_value_wan": 343.45
+      },
+      {
+        "stock_code": "600233",
+        "stock_name": "圆通速递",
+        "market_value_wan": 322.73
+      },
+      {
+        "stock_code": "601336",
+        "stock_name": "新华保险",
+        "market_value_wan": 285.48
+      }
+    ],
+    "2024-Q2": [
+      {
+        "stock_code": "600690",
+        "stock_name": "海尔智家",
+        "market_value_wan": 630.89
+      },
+      {
+        "stock_code": "600887",
+        "stock_name": "伊利股份",
+        "market_value_wan": 579.07
+      },
+      {
+        "stock_code": "002027",
+        "stock_name": "分众传媒",
+        "market_value_wan": 404.75
+      },
+      {
+        "stock_code": "601233",
+        "stock_name": "桐昆股份",
+        "market_value_wan": 337.87
+      },
+      {
+        "stock_code": "002468",
+        "stock_name": "申通快递",
+        "market_value_wan": 321.3
+      },
+      {
+        "stock_code": "002064",
+        "stock_name": "华峰化学",
+        "market_value_wan": 318.42
+      },
+      {
+        "stock_code": "600511",
+        "stock_name": "国药股份",
+        "market_value_wan": 318.37
+      },
+      {
+        "stock_code": "600233",
+        "stock_name": "圆通速递",
+        "market_value_wan": 318.32
+      },
+      {
+        "stock_code": "002507",
+        "stock_name": "涪陵榨菜",
+        "market_value_wan": 293.88
+      },
+      {
+        "stock_code": "000538",
+        "stock_name": "云南白药",
+        "market_value_wan": 285.42
+      }
+    ],
+    "2024-Q1": [
+      {
+        "stock_code": "600690",
+        "stock_name": "海尔智家",
+        "market_value_wan": 462.57
+      },
+      {
+        "stock_code": "600887",
+        "stock_name": "伊利股份",
+        "market_value_wan": 441.94
+      },
+      {
+        "stock_code": "002027",
+        "stock_name": "分众传媒",
+        "market_value_wan": 293.66
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 272.46
+      },
+      {
+        "stock_code": "600511",
+        "stock_name": "国药股份",
+        "market_value_wan": 246.84
+      },
+      {
+        "stock_code": "600998",
+        "stock_name": "九州通",
+        "market_value_wan": 246.64
+      },
+      {
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "market_value_wan": 240.37
+      },
+      {
+        "stock_code": "600233",
+        "stock_name": "圆通速递",
+        "market_value_wan": 235.29
+      },
+      {
+        "stock_code": "002468",
+        "stock_name": "申通快递",
+        "market_value_wan": 231.26
+      },
+      {
+        "stock_code": "000513",
+        "stock_name": "丽珠集团",
+        "market_value_wan": 227.03
+      }
+    ]
+  }
+}

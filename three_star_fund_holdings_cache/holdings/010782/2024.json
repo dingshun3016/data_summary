@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "010782",
+    "name": "兴业聚申一年持有期混合C",
+    "base_name": "兴业聚申一年持有期混合"
+  },
+  "fetched_at": "2026-06-14 23:42:55",
+  "quarters": {
+    "2024-Q4": [
+      {
+        "stock_code": "600845",
+        "stock_name": "宝信软件",
+        "market_value_wan": 281.27
+      },
+      {
+        "stock_code": "002138",
+        "stock_name": "顺络电子",
+        "market_value_wan": 273.56
+      },
+      {
+        "stock_code": "600406",
+        "stock_name": "国电南瑞",
+        "market_value_wan": 272.12
+      },
+      {
+        "stock_code": "600690",
+        "stock_name": "海尔智家",
+        "market_value_wan": 208.69
+      },
+      {
+        "stock_code": "600900",
+        "stock_name": "长江电力",
+        "market_value_wan": 148.34
+      },
+      {
+        "stock_code": "300760",
+        "stock_name": "迈瑞医疗",
+        "market_value_wan": 142.8
+      },
+      {
+        "stock_code": "601985",
+        "stock_name": "中国核电",
+        "market_value_wan": 141.43
+      },
+      {
+        "stock_code": "002179",
+        "stock_name": "中航光电",
+        "market_value_wan": 139.12
+      },
+      {
+        "stock_code": "600522",
+        "stock_name": "中天科技",
+        "market_value_wan": 137.47
+      },
+      {
+        "stock_code": "600809",
+        "stock_name": "山西汾酒",
+        "market_value_wan": 136.32
+      }
+    ],
+    "2024-Q3": [
+      {
+        "stock_code": "600845",
+        "stock_name": "宝信软件",
+        "market_value_wan": 350.12
+      },
+      {
+        "stock_code": "600690",
+        "stock_name": "海尔智家",
+        "market_value_wan": 239.52
+      },
+      {
+        "stock_code": "600809",
+        "stock_name": "山西汾酒",
+        "market_value_wan": 201.38
+      },
+      {
+        "stock_code": "002138",
+        "stock_name": "顺络电子",
+        "market_value_wan": 188.72
+      },
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 187.31
+      },
+      {
+        "stock_code": "600298",
+        "stock_name": "安琪酵母",
+        "market_value_wan": 184.65
+      },
+      {
+        "stock_code": "600529",
+        "stock_name": "山东药玻",
+        "market_value_wan": 180.84
+      },
+      {
+        "stock_code": "601985",
+        "stock_name": "中国核电",
+        "market_value_wan": 180.63
+      },
+      {
+        "stock_code": "600161",
+        "stock_name": "天坛生物",
+        "market_value_wan": 180.61
+      },
+      {
+        "stock_code": "300760",
+        "stock_name": "迈瑞医疗",
+        "market_value_wan": 175.8
+      }
+    ],
+    "2024-Q2": [
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 364.4
+      },
+      {
+        "stock_code": "600845",
+        "stock_name": "宝信软件",
+        "market_value_wan": 303.43
+      },
+      {
+        "stock_code": "600529",
+        "stock_name": "山东药玻",
+        "market_value_wan": 287.1
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 249.46
+      },
+      {
+        "stock_code": "600406",
+        "stock_name": "国电南瑞",
+        "market_value_wan": 191.69
+      },
+      {
+        "stock_code": "600522",
+        "stock_name": "中天科技",
+        "market_value_wan": 189.88
+      },
+      {
+        "stock_code": "601985",
+        "stock_name": "中国核电",
+        "market_value_wan": 181.75
+      },
+      {
+        "stock_code": "002371",
+        "stock_name": "北方华创",
+        "market_value_wan": 175.94
+      },
+      {
+        "stock_code": "002138",
+        "stock_name": "顺络电子",
+        "market_value_wan": 175.19
+      },
+      {
+        "stock_code": "600926",
+        "stock_name": "杭州银行",
+        "market_value_wan": 169.39
+      }
+    ],
+    "2024-Q1": [
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 391.67
+      },
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 374.39
+      },
+      {
+        "stock_code": "600529",
+        "stock_name": "山东药玻",
+        "market_value_wan": 333.56
+      },
+      {
+        "stock_code": "002179",
+        "stock_name": "中航光电",
+        "market_value_wan": 287.67
+      },
+      {
+        "stock_code": "002371",
+        "stock_name": "北方华创",
+        "market_value_wan": 216.98
+      },
+      {
+        "stock_code": "600845",
+        "stock_name": "宝信软件",
+        "market_value_wan": 211.66
+      },
+      {
+        "stock_code": "600690",
+        "stock_name": "海尔智家",
+        "market_value_wan": 209.33
+      },
+      {
+        "stock_code": "600919",
+        "stock_name": "江苏银行",
+        "market_value_wan": 206.59
+      },
+      {
+        "stock_code": "601985",
+        "stock_name": "中国核电",
+        "market_value_wan": 203.74
+      },
+      {
+        "stock_code": "600809",
+        "stock_name": "山西汾酒",
+        "market_value_wan": 198.51
+      }
+    ]
+  }
+}

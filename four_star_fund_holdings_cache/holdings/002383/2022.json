@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "002383",
+    "name": "大成趋势回报灵活配置混合A",
+    "base_name": "大成趋势回报灵活配置混合"
+  },
+  "fetched_at": "2026-06-14 22:30:25",
+  "quarters": {
+    "2022-Q4": [
+      {
+        "stock_code": "000100",
+        "stock_name": "TCL科技",
+        "market_value_wan": 88.24
+      },
+      {
+        "stock_code": "000725",
+        "stock_name": "京东方A",
+        "market_value_wan": 87.68
+      },
+      {
+        "stock_code": "601225",
+        "stock_name": "陕西煤业",
+        "market_value_wan": 45.89
+      },
+      {
+        "stock_code": "601088",
+        "stock_name": "中国神华",
+        "market_value_wan": 44.47
+      },
+      {
+        "stock_code": "300481",
+        "stock_name": "濮阳惠成",
+        "market_value_wan": 40.1
+      },
+      {
+        "stock_code": "605077",
+        "stock_name": "华康股份",
+        "market_value_wan": 34.37
+      },
+      {
+        "stock_code": "601377",
+        "stock_name": "兴业证券",
+        "market_value_wan": 33.92
+      },
+      {
+        "stock_code": "601766",
+        "stock_name": "中国中车",
+        "market_value_wan": 33.73
+      },
+      {
+        "stock_code": "601872",
+        "stock_name": "招商轮船",
+        "market_value_wan": 32.09
+      },
+      {
+        "stock_code": "300761",
+        "stock_name": "立华股份",
+        "market_value_wan": 29.46
+      }
+    ],
+    "2022-Q3": [
+      {
+        "stock_code": "600938",
+        "stock_name": "中国海油",
+        "market_value_wan": 129.53
+      },
+      {
+        "stock_code": "301162",
+        "stock_name": "国能日新",
+        "market_value_wan": 2.22
+      },
+      {
+        "stock_code": "301268",
+        "stock_name": "铭利达",
+        "market_value_wan": 1.99
+      },
+      {
+        "stock_code": "301216",
+        "stock_name": "万凯新材",
+        "market_value_wan": 1.45
+      },
+      {
+        "stock_code": "301258",
+        "stock_name": "富士莱",
+        "market_value_wan": 1.09
+      },
+      {
+        "stock_code": "301150",
+        "stock_name": "中一科技",
+        "market_value_wan": 1.08
+      },
+      {
+        "stock_code": "301248",
+        "stock_name": "杰创智能",
+        "market_value_wan": 1.07
+      },
+      {
+        "stock_code": "301148",
+        "stock_name": "嘉戎技术",
+        "market_value_wan": 0.94
+      },
+      {
+        "stock_code": "301279",
+        "stock_name": "金道科技",
+        "market_value_wan": 0.78
+      },
+      {
+        "stock_code": "301288",
+        "stock_name": "清研环境",
+        "market_value_wan": 0.76
+      }
+    ],
+    "2022-Q2": [
+      {
+        "stock_code": "603260",
+        "stock_name": "合盛硅业",
+        "market_value_wan": 511.95
+      },
+      {
+        "stock_code": "002466",
+        "stock_name": "天齐锂业",
+        "market_value_wan": 464.26
+      },
+      {
+        "stock_code": "603501",
+        "stock_name": "韦尔股份",
+        "market_value_wan": 456.8
+      },
+      {
+        "stock_code": "301155",
+        "stock_name": "海力风电",
+        "market_value_wan": 444.08
+      },
+      {
+        "stock_code": "600030",
+        "stock_name": "中信证券",
+        "market_value_wan": 441.0
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 416.52
+      },
+      {
+        "stock_code": "300613",
+        "stock_name": "富瀚微",
+        "market_value_wan": 254.74
+      },
+      {
+        "stock_code": "002245",
+        "stock_name": "蔚蓝锂芯",
+        "market_value_wan": 248.58
+      },
+      {
+        "stock_code": "300569",
+        "stock_name": "天能重工",
+        "market_value_wan": 235.87
+      },
+      {
+        "stock_code": "603986",
+        "stock_name": "兆易创新",
+        "market_value_wan": 226.11
+      }
+    ],
+    "2022-Q1": [
+      {
+        "stock_code": "600801",
+        "stock_name": "华新水泥",
+        "market_value_wan": 1165.84
+      },
+      {
+        "stock_code": "300058",
+        "stock_name": "蓝色光标",
+        "market_value_wan": 837.0
+      },
+      {
+        "stock_code": "600340",
+        "stock_name": "华夏幸福",
+        "market_value_wan": 804.3
+      },
+      {
+        "stock_code": "600988",
+        "stock_name": "赤峰黄金",
+        "market_value_wan": 779.59
+      },
+      {
+        "stock_code": "000672",
+        "stock_name": "上峰水泥",
+        "market_value_wan": 651.13
+      },
+      {
+        "stock_code": "000876",
+        "stock_name": "新希望",
+        "market_value_wan": 618.07
+      },
+      {
+        "stock_code": "300601",
+        "stock_name": "康泰生物",
+        "market_value_wan": 587.48
+      },
+      {
+        "stock_code": "002714",
+        "stock_name": "牧原股份",
+        "market_value_wan": 584.52
+      },
+      {
+        "stock_code": "600585",
+        "stock_name": "海螺水泥",
+        "market_value_wan": 560.76
+      },
+      {
+        "stock_code": "600905",
+        "stock_name": "三峡能源",
+        "market_value_wan": 521.9
+      }
+    ]
+  }
+}

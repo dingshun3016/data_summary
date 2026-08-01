@@ -1,0 +1,53 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "010667",
+    "name": "安信价值回报三年持有混合C",
+    "base_name": "安信价值回报三年持有混合"
+  },
+  "fetched_at": "2026-06-14 23:41:50",
+  "quarters": {
+    "2020-Q4": [
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 36139.22
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 25687.21
+      },
+      {
+        "stock_code": "000858",
+        "stock_name": "五粮液",
+        "market_value_wan": 20499.28
+      },
+      {
+        "stock_code": "002867",
+        "stock_name": "周大生",
+        "market_value_wan": 20104.75
+      },
+      {
+        "stock_code": "002624",
+        "stock_name": "完美世界",
+        "market_value_wan": 17082.83
+      },
+      {
+        "stock_code": "601012",
+        "stock_name": "隆基绿能",
+        "market_value_wan": 15937.81
+      },
+      {
+        "stock_code": "601668",
+        "stock_name": "中国建筑",
+        "market_value_wan": 15779.08
+      },
+      {
+        "stock_code": "000513",
+        "stock_name": "丽珠集团",
+        "market_value_wan": 13050.47
+      }
+    ]
+  }
+}

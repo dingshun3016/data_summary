@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "519672",
+    "name": "银河蓝筹混合A",
+    "base_name": "银河蓝筹混合"
+  },
+  "fetched_at": "2026-06-15 00:03:55",
+  "quarters": {
+    "2023-Q4": [
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 2853.78
+      },
+      {
+        "stock_code": "600030",
+        "stock_name": "中信证券",
+        "market_value_wan": 2220.33
+      },
+      {
+        "stock_code": "688981",
+        "stock_name": "中芯国际",
+        "market_value_wan": 1800.11
+      },
+      {
+        "stock_code": "601633",
+        "stock_name": "长城汽车",
+        "market_value_wan": 1692.77
+      },
+      {
+        "stock_code": "603688",
+        "stock_name": "石英股份",
+        "market_value_wan": 1643.71
+      },
+      {
+        "stock_code": "002156",
+        "stock_name": "通富微电",
+        "market_value_wan": 1630.42
+      },
+      {
+        "stock_code": "000625",
+        "stock_name": "长安汽车",
+        "market_value_wan": 1615.68
+      },
+      {
+        "stock_code": "688012",
+        "stock_name": "中微公司",
+        "market_value_wan": 1612.8
+      },
+      {
+        "stock_code": "300274",
+        "stock_name": "阳光电源",
+        "market_value_wan": 1586.25
+      },
+      {
+        "stock_code": "300347",
+        "stock_name": "泰格医药",
+        "market_value_wan": 1542.02
+      }
+    ],
+    "2023-Q3": [
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 3654.54
+      },
+      {
+        "stock_code": "603688",
+        "stock_name": "石英股份",
+        "market_value_wan": 2720.09
+      },
+      {
+        "stock_code": "600030",
+        "stock_name": "中信证券",
+        "market_value_wan": 2378.05
+      },
+      {
+        "stock_code": "601688",
+        "stock_name": "华泰证券",
+        "market_value_wan": 2053.88
+      },
+      {
+        "stock_code": "688012",
+        "stock_name": "中微公司",
+        "market_value_wan": 2011.03
+      },
+      {
+        "stock_code": "600584",
+        "stock_name": "长电科技",
+        "market_value_wan": 1994.4
+      },
+      {
+        "stock_code": "601633",
+        "stock_name": "长城汽车",
+        "market_value_wan": 1926.02
+      },
+      {
+        "stock_code": "300347",
+        "stock_name": "泰格医药",
+        "market_value_wan": 1801.67
+      },
+      {
+        "stock_code": "300274",
+        "stock_name": "阳光电源",
+        "market_value_wan": 1621.03
+      },
+      {
+        "stock_code": "300124",
+        "stock_name": "汇川技术",
+        "market_value_wan": 1607.73
+      }
+    ],
+    "2023-Q2": [
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 5147.78
+      },
+      {
+        "stock_code": "603688",
+        "stock_name": "石英股份",
+        "market_value_wan": 4508.06
+      },
+      {
+        "stock_code": "002459",
+        "stock_name": "晶澳科技",
+        "market_value_wan": 4503.6
+      },
+      {
+        "stock_code": "300274",
+        "stock_name": "阳光电源",
+        "market_value_wan": 2820.74
+      },
+      {
+        "stock_code": "688099",
+        "stock_name": "晶晨股份",
+        "market_value_wan": 2658.23
+      },
+      {
+        "stock_code": "688012",
+        "stock_name": "中微公司",
+        "market_value_wan": 2503.2
+      },
+      {
+        "stock_code": "002850",
+        "stock_name": "科达利",
+        "market_value_wan": 2314.38
+      },
+      {
+        "stock_code": "001269",
+        "stock_name": "欧晶科技",
+        "market_value_wan": 2226.08
+      },
+      {
+        "stock_code": "300059",
+        "stock_name": "东方财富",
+        "market_value_wan": 2059.0
+      },
+      {
+        "stock_code": "603501",
+        "stock_name": "韦尔股份",
+        "market_value_wan": 1960.8
+      }
+    ],
+    "2023-Q1": [
+      {
+        "stock_code": "002459",
+        "stock_name": "晶澳科技",
+        "market_value_wan": 5752.35
+      },
+      {
+        "stock_code": "603688",
+        "stock_name": "石英股份",
+        "market_value_wan": 5526.96
+      },
+      {
+        "stock_code": "300059",
+        "stock_name": "东方财富",
+        "market_value_wan": 5492.43
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 5408.59
+      },
+      {
+        "stock_code": "300347",
+        "stock_name": "泰格医药",
+        "market_value_wan": 3017.94
+      },
+      {
+        "stock_code": "001269",
+        "stock_name": "欧晶科技",
+        "market_value_wan": 2865.69
+      },
+      {
+        "stock_code": "300124",
+        "stock_name": "汇川技术",
+        "market_value_wan": 2693.19
+      },
+      {
+        "stock_code": "600570",
+        "stock_name": "恒生电子",
+        "market_value_wan": 2446.49
+      },
+      {
+        "stock_code": "300274",
+        "stock_name": "阳光电源",
+        "market_value_wan": 2306.44
+      },
+      {
+        "stock_code": "300751",
+        "stock_name": "迈为股份",
+        "market_value_wan": 2113.65
+      }
+    ]
+  }
+}

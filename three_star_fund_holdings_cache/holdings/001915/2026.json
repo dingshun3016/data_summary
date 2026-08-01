@@ -1,0 +1,85 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "001915",
+    "name": "宝盈医疗健康沪港深股票A",
+    "base_name": "宝盈医疗健康沪港深股票"
+  },
+  "fetched_at": "2026-08-01 20:54:35",
+  "quarters": {
+    "2026-Q2": [
+      {
+        "stock_code": "002422",
+        "stock_name": "科伦药业",
+        "market_value_wan": 12403.05
+      },
+      {
+        "stock_code": "688428",
+        "stock_name": "诺诚健华",
+        "market_value_wan": 10823.09
+      },
+      {
+        "stock_code": "002653",
+        "stock_name": "海思科",
+        "market_value_wan": 10577.25
+      },
+      {
+        "stock_code": "688235",
+        "stock_name": "百济神州",
+        "market_value_wan": 9477.37
+      },
+      {
+        "stock_code": "688506",
+        "stock_name": "百利天恒",
+        "market_value_wan": 9471.38
+      },
+      {
+        "stock_code": "600276",
+        "stock_name": "恒瑞医药",
+        "market_value_wan": 7741.29
+      },
+      {
+        "stock_code": "002821",
+        "stock_name": "凯莱英",
+        "market_value_wan": 7637.98
+      },
+      {
+        "stock_code": "603259",
+        "stock_name": "药明康德",
+        "market_value_wan": 7560.17
+      }
+    ],
+    "2026-Q1": [
+      {
+        "stock_code": "002294",
+        "stock_name": "信立泰",
+        "market_value_wan": 11310.47
+      },
+      {
+        "stock_code": "688235",
+        "stock_name": "百济神州",
+        "market_value_wan": 10691.83
+      },
+      {
+        "stock_code": "688506",
+        "stock_name": "百利天恒",
+        "market_value_wan": 10220.14
+      },
+      {
+        "stock_code": "688428",
+        "stock_name": "诺诚健华",
+        "market_value_wan": 10174.6
+      },
+      {
+        "stock_code": "002653",
+        "stock_name": "海思科",
+        "market_value_wan": 8241.88
+      },
+      {
+        "stock_code": "688331",
+        "stock_name": "荣昌生物",
+        "market_value_wan": 8217.6
+      }
+    ]
+  }
+}

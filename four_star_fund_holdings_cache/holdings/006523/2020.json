@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "006523",
+    "name": "财通新兴蓝筹混合C",
+    "base_name": "财通新兴蓝筹混合"
+  },
+  "fetched_at": "2026-06-14 22:34:02",
+  "quarters": {
+    "2020-Q4": [
+      {
+        "stock_code": "603259",
+        "stock_name": "药明康德",
+        "market_value_wan": 203.25
+      },
+      {
+        "stock_code": "300601",
+        "stock_name": "康泰生物",
+        "market_value_wan": 171.8
+      },
+      {
+        "stock_code": "603456",
+        "stock_name": "九洲药业",
+        "market_value_wan": 163.96
+      },
+      {
+        "stock_code": "002507",
+        "stock_name": "涪陵榨菜",
+        "market_value_wan": 154.97
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 154.49
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 154.25
+      },
+      {
+        "stock_code": "002050",
+        "stock_name": "三花智控",
+        "market_value_wan": 152.98
+      },
+      {
+        "stock_code": "688111",
+        "stock_name": "金山办公",
+        "market_value_wan": 136.12
+      },
+      {
+        "stock_code": "600276",
+        "stock_name": "恒瑞医药",
+        "market_value_wan": 123.63
+      },
+      {
+        "stock_code": "600690",
+        "stock_name": "海尔智家",
+        "market_value_wan": 118.59
+      }
+    ],
+    "2020-Q3": [
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 181.62
+      },
+      {
+        "stock_code": "603259",
+        "stock_name": "药明康德",
+        "market_value_wan": 180.54
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 178.86
+      },
+      {
+        "stock_code": "603456",
+        "stock_name": "九洲药业",
+        "market_value_wan": 163.06
+      },
+      {
+        "stock_code": "002507",
+        "stock_name": "涪陵榨菜",
+        "market_value_wan": 133.65
+      },
+      {
+        "stock_code": "600276",
+        "stock_name": "恒瑞医药",
+        "market_value_wan": 126.57
+      },
+      {
+        "stock_code": "688008",
+        "stock_name": "澜起科技",
+        "market_value_wan": 122.03
+      },
+      {
+        "stock_code": "688111",
+        "stock_name": "金山办公",
+        "market_value_wan": 109.3
+      },
+      {
+        "stock_code": "002050",
+        "stock_name": "三花智控",
+        "market_value_wan": 106.03
+      },
+      {
+        "stock_code": "300433",
+        "stock_name": "蓝思科技",
+        "market_value_wan": 100.63
+      }
+    ],
+    "2020-Q2": [
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 203.3
+      },
+      {
+        "stock_code": "603259",
+        "stock_name": "药明康德",
+        "market_value_wan": 171.82
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 156.82
+      },
+      {
+        "stock_code": "600276",
+        "stock_name": "恒瑞医药",
+        "market_value_wan": 144.84
+      },
+      {
+        "stock_code": "603456",
+        "stock_name": "九洲药业",
+        "market_value_wan": 128.45
+      },
+      {
+        "stock_code": "300601",
+        "stock_name": "康泰生物",
+        "market_value_wan": 124.96
+      },
+      {
+        "stock_code": "002384",
+        "stock_name": "东山精密",
+        "market_value_wan": 120.6
+      },
+      {
+        "stock_code": "688008",
+        "stock_name": "澜起科技",
+        "market_value_wan": 115.52
+      },
+      {
+        "stock_code": "300433",
+        "stock_name": "蓝思科技",
+        "market_value_wan": 113.83
+      },
+      {
+        "stock_code": "688111",
+        "stock_name": "金山办公",
+        "market_value_wan": 97.04
+      }
+    ],
+    "2020-Q1": [
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 168.32
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 152.43
+      },
+      {
+        "stock_code": "300601",
+        "stock_name": "康泰生物",
+        "market_value_wan": 139.88
+      },
+      {
+        "stock_code": "600276",
+        "stock_name": "恒瑞医药",
+        "market_value_wan": 134.46
+      },
+      {
+        "stock_code": "603259",
+        "stock_name": "药明康德",
+        "market_value_wan": 114.58
+      },
+      {
+        "stock_code": "603456",
+        "stock_name": "九洲药业",
+        "market_value_wan": 114.54
+      },
+      {
+        "stock_code": "603160",
+        "stock_name": "汇顶科技",
+        "market_value_wan": 111.8
+      },
+      {
+        "stock_code": "002241",
+        "stock_name": "歌尔股份",
+        "market_value_wan": 101.0
+      },
+      {
+        "stock_code": "688111",
+        "stock_name": "金山办公",
+        "market_value_wan": 85.22
+      },
+      {
+        "stock_code": "688008",
+        "stock_name": "澜起科技",
+        "market_value_wan": 80.23
+      }
+    ]
+  }
+}

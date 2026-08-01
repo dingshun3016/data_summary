@@ -1,0 +1,115 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "501017",
+    "name": "国泰融丰外延增长混合(LOF)A",
+    "base_name": "国泰融丰外延增长混合(LOF)"
+  },
+  "fetched_at": "2026-08-01 21:01:06",
+  "quarters": {
+    "2026-Q2": [
+      {
+        "stock_code": "002371",
+        "stock_name": "北方华创",
+        "market_value_wan": 221.58
+      },
+      {
+        "stock_code": "688120",
+        "stock_name": "华海清科",
+        "market_value_wan": 136.41
+      },
+      {
+        "stock_code": "601211",
+        "stock_name": "国泰海通",
+        "market_value_wan": 111.2
+      },
+      {
+        "stock_code": "601688",
+        "stock_name": "华泰证券",
+        "market_value_wan": 105.37
+      },
+      {
+        "stock_code": "688012",
+        "stock_name": "中微公司",
+        "market_value_wan": 100.87
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 66.81
+      },
+      {
+        "stock_code": "688279",
+        "stock_name": "峰岹科技",
+        "market_value_wan": 66.05
+      },
+      {
+        "stock_code": "688621",
+        "stock_name": "阳光诺和",
+        "market_value_wan": 62.18
+      },
+      {
+        "stock_code": "300274",
+        "stock_name": "阳光电源",
+        "market_value_wan": 58.84
+      },
+      {
+        "stock_code": "688131",
+        "stock_name": "皓元医药",
+        "market_value_wan": 52.81
+      }
+    ],
+    "2026-Q1": [
+      {
+        "stock_code": "300274",
+        "stock_name": "阳光电源",
+        "market_value_wan": 120.61
+      },
+      {
+        "stock_code": "002371",
+        "stock_name": "北方华创",
+        "market_value_wan": 111.97
+      },
+      {
+        "stock_code": "601211",
+        "stock_name": "国泰海通",
+        "market_value_wan": 101.36
+      },
+      {
+        "stock_code": "601688",
+        "stock_name": "华泰证券",
+        "market_value_wan": 90.96
+      },
+      {
+        "stock_code": "601117",
+        "stock_name": "中国化学",
+        "market_value_wan": 81.66
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 68.29
+      },
+      {
+        "stock_code": "688621",
+        "stock_name": "阳光诺和",
+        "market_value_wan": 60.21
+      },
+      {
+        "stock_code": "688120",
+        "stock_name": "华海清科",
+        "market_value_wan": 52.62
+      },
+      {
+        "stock_code": "002311",
+        "stock_name": "海大集团",
+        "market_value_wan": 45.83
+      },
+      {
+        "stock_code": "600409",
+        "stock_name": "三友化工",
+        "market_value_wan": 45.6
+      }
+    ]
+  }
+}

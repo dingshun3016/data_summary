@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "373010",
+    "name": "摩根双息平衡混合A",
+    "base_name": "摩根双息平衡混合"
+  },
+  "fetched_at": "2026-06-14 23:59:20",
+  "quarters": {
+    "2023-Q4": [
+      {
+        "stock_code": "300031",
+        "stock_name": "宝通科技",
+        "market_value_wan": 2747.44
+      },
+      {
+        "stock_code": "002100",
+        "stock_name": "天康生物",
+        "market_value_wan": 2636.09
+      },
+      {
+        "stock_code": "600941",
+        "stock_name": "中国移动",
+        "market_value_wan": 2508.89
+      },
+      {
+        "stock_code": "002714",
+        "stock_name": "牧原股份",
+        "market_value_wan": 2494.27
+      },
+      {
+        "stock_code": "600398",
+        "stock_name": "海澜之家",
+        "market_value_wan": 2454.39
+      },
+      {
+        "stock_code": "601088",
+        "stock_name": "中国神华",
+        "market_value_wan": 2453.45
+      },
+      {
+        "stock_code": "601288",
+        "stock_name": "农业银行",
+        "market_value_wan": 2427.95
+      },
+      {
+        "stock_code": "601988",
+        "stock_name": "中国银行",
+        "market_value_wan": 2400.7
+      },
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 2350.67
+      },
+      {
+        "stock_code": "000039",
+        "stock_name": "中集集团",
+        "market_value_wan": 2343.12
+      }
+    ],
+    "2023-Q3": [
+      {
+        "stock_code": "600398",
+        "stock_name": "海澜之家",
+        "market_value_wan": 2540.39
+      },
+      {
+        "stock_code": "600941",
+        "stock_name": "中国移动",
+        "market_value_wan": 2441.8
+      },
+      {
+        "stock_code": "002508",
+        "stock_name": "老板电器",
+        "market_value_wan": 2354.89
+      },
+      {
+        "stock_code": "603587",
+        "stock_name": "地素时尚",
+        "market_value_wan": 2313.72
+      },
+      {
+        "stock_code": "601088",
+        "stock_name": "中国神华",
+        "market_value_wan": 2193.67
+      },
+      {
+        "stock_code": "600377",
+        "stock_name": "宁沪高速",
+        "market_value_wan": 2160.7
+      },
+      {
+        "stock_code": "601288",
+        "stock_name": "农业银行",
+        "market_value_wan": 2082.53
+      },
+      {
+        "stock_code": "601818",
+        "stock_name": "光大银行",
+        "market_value_wan": 2060.14
+      },
+      {
+        "stock_code": "601328",
+        "stock_name": "交通银行",
+        "market_value_wan": 2018.13
+      },
+      {
+        "stock_code": "601006",
+        "stock_name": "大秦铁路",
+        "market_value_wan": 2014.23
+      }
+    ],
+    "2023-Q2": [
+      {
+        "stock_code": "000651",
+        "stock_name": "格力电器",
+        "market_value_wan": 2851.07
+      },
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 2531.0
+      },
+      {
+        "stock_code": "600941",
+        "stock_name": "中国移动",
+        "market_value_wan": 2353.03
+      },
+      {
+        "stock_code": "600398",
+        "stock_name": "海澜之家",
+        "market_value_wan": 2275.77
+      },
+      {
+        "stock_code": "601088",
+        "stock_name": "中国神华",
+        "market_value_wan": 2162.03
+      },
+      {
+        "stock_code": "601988",
+        "stock_name": "中国银行",
+        "market_value_wan": 2076.09
+      },
+      {
+        "stock_code": "601818",
+        "stock_name": "光大银行",
+        "market_value_wan": 2060.14
+      },
+      {
+        "stock_code": "601006",
+        "stock_name": "大秦铁路",
+        "market_value_wan": 2052.91
+      },
+      {
+        "stock_code": "600377",
+        "stock_name": "宁沪高速",
+        "market_value_wan": 2044.25
+      },
+      {
+        "stock_code": "601288",
+        "stock_name": "农业银行",
+        "market_value_wan": 2042.03
+      }
+    ],
+    "2023-Q1": [
+      {
+        "stock_code": "000651",
+        "stock_name": "格力电器",
+        "market_value_wan": 2869.81
+      },
+      {
+        "stock_code": "002236",
+        "stock_name": "大华股份",
+        "market_value_wan": 2722.92
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 2074.92
+      },
+      {
+        "stock_code": "002714",
+        "stock_name": "牧原股份",
+        "market_value_wan": 2044.39
+      },
+      {
+        "stock_code": "601328",
+        "stock_name": "交通银行",
+        "market_value_wan": 1790.39
+      },
+      {
+        "stock_code": "600089",
+        "stock_name": "特变电工",
+        "market_value_wan": 1679.1
+      },
+      {
+        "stock_code": "603035",
+        "stock_name": "常熟汽饰",
+        "market_value_wan": 1626.21
+      },
+      {
+        "stock_code": "600048",
+        "stock_name": "保利发展",
+        "market_value_wan": 1518.38
+      },
+      {
+        "stock_code": "600383",
+        "stock_name": "金地集团",
+        "market_value_wan": 1393.18
+      },
+      {
+        "stock_code": "601166",
+        "stock_name": "兴业银行",
+        "market_value_wan": 1391.22
+      }
+    ]
+  }
+}

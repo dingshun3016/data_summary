@@ -1,0 +1,214 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "005763",
+    "name": "中欧电子信息产业沪港深股票C",
+    "base_name": "中欧电子信息产业沪港深股票"
+  },
+  "fetched_at": "2026-06-14 23:19:10",
+  "quarters": {
+    "2022-Q4": [
+      {
+        "stock_code": "688111",
+        "stock_name": "金山办公",
+        "market_value_wan": 19674.22
+      },
+      {
+        "stock_code": "600570",
+        "stock_name": "恒生电子",
+        "market_value_wan": 17175.49
+      },
+      {
+        "stock_code": "688201",
+        "stock_name": "信安世纪",
+        "market_value_wan": 12712.78
+      },
+      {
+        "stock_code": "002987",
+        "stock_name": "京北方",
+        "market_value_wan": 12507.53
+      },
+      {
+        "stock_code": "002063",
+        "stock_name": "远光软件",
+        "market_value_wan": 7512.91
+      },
+      {
+        "stock_code": "002410",
+        "stock_name": "广联达",
+        "market_value_wan": 7432.93
+      },
+      {
+        "stock_code": "603383",
+        "stock_name": "顶点软件",
+        "market_value_wan": 6626.39
+      },
+      {
+        "stock_code": "603228",
+        "stock_name": "景旺电子",
+        "market_value_wan": 6587.9
+      },
+      {
+        "stock_code": "600941",
+        "stock_name": "中国移动",
+        "market_value_wan": 6181.72
+      }
+    ],
+    "2022-Q3": [
+      {
+        "stock_code": "603228",
+        "stock_name": "景旺电子",
+        "market_value_wan": 5918.01
+      },
+      {
+        "stock_code": "688111",
+        "stock_name": "金山办公",
+        "market_value_wan": 5916.64
+      },
+      {
+        "stock_code": "002987",
+        "stock_name": "京北方",
+        "market_value_wan": 5157.48
+      },
+      {
+        "stock_code": "603383",
+        "stock_name": "顶点软件",
+        "market_value_wan": 5139.42
+      },
+      {
+        "stock_code": "688201",
+        "stock_name": "信安世纪",
+        "market_value_wan": 4752.84
+      },
+      {
+        "stock_code": "600570",
+        "stock_name": "恒生电子",
+        "market_value_wan": 4269.15
+      },
+      {
+        "stock_code": "688369",
+        "stock_name": "致远互联",
+        "market_value_wan": 2952.22
+      },
+      {
+        "stock_code": "603019",
+        "stock_name": "中科曙光",
+        "market_value_wan": 2699.34
+      },
+      {
+        "stock_code": "688041",
+        "stock_name": "海光信息",
+        "market_value_wan": 2495.4
+      },
+      {
+        "stock_code": "600487",
+        "stock_name": "亨通光电",
+        "market_value_wan": 2303.01
+      }
+    ],
+    "2022-Q2": [
+      {
+        "stock_code": "603228",
+        "stock_name": "景旺电子",
+        "market_value_wan": 7929.06
+      },
+      {
+        "stock_code": "688099",
+        "stock_name": "晶晨股份",
+        "market_value_wan": 5647.2
+      },
+      {
+        "stock_code": "002987",
+        "stock_name": "京北方",
+        "market_value_wan": 4922.65
+      },
+      {
+        "stock_code": "300674",
+        "stock_name": "宇信科技",
+        "market_value_wan": 3582.19
+      },
+      {
+        "stock_code": "688111",
+        "stock_name": "金山办公",
+        "market_value_wan": 3153.6
+      },
+      {
+        "stock_code": "688201",
+        "stock_name": "信安世纪",
+        "market_value_wan": 3059.79
+      },
+      {
+        "stock_code": "300496",
+        "stock_name": "中科创达",
+        "market_value_wan": 2758.35
+      },
+      {
+        "stock_code": "600570",
+        "stock_name": "恒生电子",
+        "market_value_wan": 2591.94
+      },
+      {
+        "stock_code": "688036",
+        "stock_name": "传音控股",
+        "market_value_wan": 2429.98
+      },
+      {
+        "stock_code": "600522",
+        "stock_name": "中天科技",
+        "market_value_wan": 2357.59
+      }
+    ],
+    "2022-Q1": [
+      {
+        "stock_code": "688099",
+        "stock_name": "晶晨股份",
+        "market_value_wan": 13871.47
+      },
+      {
+        "stock_code": "000977",
+        "stock_name": "浪潮信息",
+        "market_value_wan": 10519.82
+      },
+      {
+        "stock_code": "603039",
+        "stock_name": "泛微网络",
+        "market_value_wan": 8387.74
+      },
+      {
+        "stock_code": "300674",
+        "stock_name": "宇信科技",
+        "market_value_wan": 7809.38
+      },
+      {
+        "stock_code": "002987",
+        "stock_name": "京北方",
+        "market_value_wan": 7655.62
+      },
+      {
+        "stock_code": "603228",
+        "stock_name": "景旺电子",
+        "market_value_wan": 6903.95
+      },
+      {
+        "stock_code": "688201",
+        "stock_name": "信安世纪",
+        "market_value_wan": 5730.85
+      },
+      {
+        "stock_code": "603927",
+        "stock_name": "中科软",
+        "market_value_wan": 4565.66
+      },
+      {
+        "stock_code": "688080",
+        "stock_name": "映翰通",
+        "market_value_wan": 4472.86
+      },
+      {
+        "stock_code": "688036",
+        "stock_name": "传音控股",
+        "market_value_wan": 4462.22
+      }
+    ]
+  }
+}

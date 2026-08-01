@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "260103",
+    "name": "景顺长城动力平衡混合",
+    "base_name": "景顺长城动力平衡混合"
+  },
+  "fetched_at": "2026-06-14 23:57:30",
+  "quarters": {
+    "2024-Q4": [
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 7692.54
+      },
+      {
+        "stock_code": "000858",
+        "stock_name": "五粮液",
+        "market_value_wan": 6139.38
+      },
+      {
+        "stock_code": "600690",
+        "stock_name": "海尔智家",
+        "market_value_wan": 4272.49
+      },
+      {
+        "stock_code": "002027",
+        "stock_name": "分众传媒",
+        "market_value_wan": 3871.91
+      },
+      {
+        "stock_code": "603529",
+        "stock_name": "爱玛科技",
+        "market_value_wan": 3581.87
+      },
+      {
+        "stock_code": "601899",
+        "stock_name": "紫金矿业",
+        "market_value_wan": 3407.39
+      },
+      {
+        "stock_code": "603855",
+        "stock_name": "华荣股份",
+        "market_value_wan": 2929.88
+      },
+      {
+        "stock_code": "600809",
+        "stock_name": "山西汾酒",
+        "market_value_wan": 2715.26
+      },
+      {
+        "stock_code": "600989",
+        "stock_name": "宝丰能源",
+        "market_value_wan": 2598.58
+      },
+      {
+        "stock_code": "600285",
+        "stock_name": "羚锐制药",
+        "market_value_wan": 2436.94
+      }
+    ],
+    "2024-Q3": [
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 9067.92
+      },
+      {
+        "stock_code": "000858",
+        "stock_name": "五粮液",
+        "market_value_wan": 7626.63
+      },
+      {
+        "stock_code": "600809",
+        "stock_name": "山西汾酒",
+        "market_value_wan": 5765.56
+      },
+      {
+        "stock_code": "601899",
+        "stock_name": "紫金矿业",
+        "market_value_wan": 5592.14
+      },
+      {
+        "stock_code": "600690",
+        "stock_name": "海尔智家",
+        "market_value_wan": 5360.69
+      },
+      {
+        "stock_code": "300760",
+        "stock_name": "迈瑞医疗",
+        "market_value_wan": 4025.82
+      },
+      {
+        "stock_code": "002027",
+        "stock_name": "分众传媒",
+        "market_value_wan": 3893.94
+      },
+      {
+        "stock_code": "300979",
+        "stock_name": "华利集团",
+        "market_value_wan": 3198.82
+      },
+      {
+        "stock_code": "000630",
+        "stock_name": "铜陵有色",
+        "market_value_wan": 2959.89
+      },
+      {
+        "stock_code": "603855",
+        "stock_name": "华荣股份",
+        "market_value_wan": 2839.8
+      }
+    ],
+    "2024-Q2": [
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 7612.23
+      },
+      {
+        "stock_code": "601899",
+        "stock_name": "紫金矿业",
+        "market_value_wan": 6843.98
+      },
+      {
+        "stock_code": "000858",
+        "stock_name": "五粮液",
+        "market_value_wan": 5567.2
+      },
+      {
+        "stock_code": "300760",
+        "stock_name": "迈瑞医疗",
+        "market_value_wan": 5419.65
+      },
+      {
+        "stock_code": "600809",
+        "stock_name": "山西汾酒",
+        "market_value_wan": 4320.93
+      },
+      {
+        "stock_code": "000568",
+        "stock_name": "泸州老窖",
+        "market_value_wan": 4115.29
+      },
+      {
+        "stock_code": "600690",
+        "stock_name": "海尔智家",
+        "market_value_wan": 3373.53
+      },
+      {
+        "stock_code": "002027",
+        "stock_name": "分众传媒",
+        "market_value_wan": 2971.64
+      },
+      {
+        "stock_code": "603855",
+        "stock_name": "华荣股份",
+        "market_value_wan": 2918.52
+      },
+      {
+        "stock_code": "300979",
+        "stock_name": "华利集团",
+        "market_value_wan": 2633.59
+      }
+    ],
+    "2024-Q1": [
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 8833.96
+      },
+      {
+        "stock_code": "000858",
+        "stock_name": "五粮液",
+        "market_value_wan": 6674.65
+      },
+      {
+        "stock_code": "601899",
+        "stock_name": "紫金矿业",
+        "market_value_wan": 6551.84
+      },
+      {
+        "stock_code": "000568",
+        "stock_name": "泸州老窖",
+        "market_value_wan": 5391.87
+      },
+      {
+        "stock_code": "300760",
+        "stock_name": "迈瑞医疗",
+        "market_value_wan": 5243.6
+      },
+      {
+        "stock_code": "600809",
+        "stock_name": "山西汾酒",
+        "market_value_wan": 4840.33
+      },
+      {
+        "stock_code": "600690",
+        "stock_name": "海尔智家",
+        "market_value_wan": 3489.26
+      },
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 3377.97
+      },
+      {
+        "stock_code": "603801",
+        "stock_name": "志邦家居",
+        "market_value_wan": 2761.29
+      },
+      {
+        "stock_code": "603855",
+        "stock_name": "华荣股份",
+        "market_value_wan": 2757.78
+      }
+    ]
+  }
+}

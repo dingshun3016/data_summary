@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "255010",
+    "name": "国联安稳健混合A",
+    "base_name": "国联安稳健混合"
+  },
+  "fetched_at": "2026-06-14 23:57:00",
+  "quarters": {
+    "2025-Q4": [
+      {
+        "stock_code": "002049",
+        "stock_name": "紫光国微",
+        "market_value_wan": 1156.14
+      },
+      {
+        "stock_code": "600595",
+        "stock_name": "中孚实业",
+        "market_value_wan": 1015.79
+      },
+      {
+        "stock_code": "000680",
+        "stock_name": "山推股份",
+        "market_value_wan": 996.5
+      },
+      {
+        "stock_code": "002027",
+        "stock_name": "分众传媒",
+        "market_value_wan": 905.85
+      },
+      {
+        "stock_code": "002223",
+        "stock_name": "鱼跃医疗",
+        "market_value_wan": 752.35
+      },
+      {
+        "stock_code": "000803",
+        "stock_name": "山高环能",
+        "market_value_wan": 731.59
+      },
+      {
+        "stock_code": "688257",
+        "stock_name": "新锐股份",
+        "market_value_wan": 616.59
+      },
+      {
+        "stock_code": "688236",
+        "stock_name": "春立医疗",
+        "market_value_wan": 596.93
+      },
+      {
+        "stock_code": "002483",
+        "stock_name": "润邦股份",
+        "market_value_wan": 594.83
+      },
+      {
+        "stock_code": "603611",
+        "stock_name": "诺力股份",
+        "market_value_wan": 572.37
+      }
+    ],
+    "2025-Q3": [
+      {
+        "stock_code": "002049",
+        "stock_name": "紫光国微",
+        "market_value_wan": 1472.05
+      },
+      {
+        "stock_code": "603611",
+        "stock_name": "诺力股份",
+        "market_value_wan": 1109.17
+      },
+      {
+        "stock_code": "002223",
+        "stock_name": "鱼跃医疗",
+        "market_value_wan": 958.48
+      },
+      {
+        "stock_code": "688236",
+        "stock_name": "春立医疗",
+        "market_value_wan": 865.05
+      },
+      {
+        "stock_code": "600850",
+        "stock_name": "电科数字",
+        "market_value_wan": 803.0
+      },
+      {
+        "stock_code": "600782",
+        "stock_name": "新钢股份",
+        "market_value_wan": 775.1
+      },
+      {
+        "stock_code": "000803",
+        "stock_name": "山高环能",
+        "market_value_wan": 774.85
+      },
+      {
+        "stock_code": "600595",
+        "stock_name": "中孚实业",
+        "market_value_wan": 763.55
+      },
+      {
+        "stock_code": "002027",
+        "stock_name": "分众传媒",
+        "market_value_wan": 594.59
+      },
+      {
+        "stock_code": "002110",
+        "stock_name": "三钢闽光",
+        "market_value_wan": 561.74
+      }
+    ],
+    "2025-Q2": [
+      {
+        "stock_code": "603611",
+        "stock_name": "诺力股份",
+        "market_value_wan": 1135.59
+      },
+      {
+        "stock_code": "600595",
+        "stock_name": "中孚实业",
+        "market_value_wan": 898.08
+      },
+      {
+        "stock_code": "300416",
+        "stock_name": "苏试试验",
+        "market_value_wan": 725.53
+      },
+      {
+        "stock_code": "002517",
+        "stock_name": "恺英网络",
+        "market_value_wan": 723.93
+      },
+      {
+        "stock_code": "600196",
+        "stock_name": "复星医药",
+        "market_value_wan": 707.04
+      },
+      {
+        "stock_code": "688410",
+        "stock_name": "山外山",
+        "market_value_wan": 698.08
+      },
+      {
+        "stock_code": "002223",
+        "stock_name": "鱼跃医疗",
+        "market_value_wan": 676.4
+      },
+      {
+        "stock_code": "300633",
+        "stock_name": "开立医疗",
+        "market_value_wan": 655.92
+      },
+      {
+        "stock_code": "600782",
+        "stock_name": "新钢股份",
+        "market_value_wan": 626.54
+      },
+      {
+        "stock_code": "688236",
+        "stock_name": "春立医疗",
+        "market_value_wan": 553.36
+      }
+    ],
+    "2025-Q1": [
+      {
+        "stock_code": "603259",
+        "stock_name": "药明康德",
+        "market_value_wan": 1063.66
+      },
+      {
+        "stock_code": "600595",
+        "stock_name": "中孚实业",
+        "market_value_wan": 736.8
+      },
+      {
+        "stock_code": "002517",
+        "stock_name": "恺英网络",
+        "market_value_wan": 707.12
+      },
+      {
+        "stock_code": "002223",
+        "stock_name": "鱼跃医疗",
+        "market_value_wan": 662.72
+      },
+      {
+        "stock_code": "600782",
+        "stock_name": "新钢股份",
+        "market_value_wan": 641.07
+      },
+      {
+        "stock_code": "302132",
+        "stock_name": "中航成飞",
+        "market_value_wan": 584.1
+      },
+      {
+        "stock_code": "300633",
+        "stock_name": "开立医疗",
+        "market_value_wan": 578.42
+      },
+      {
+        "stock_code": "603611",
+        "stock_name": "诺力股份",
+        "market_value_wan": 510.06
+      },
+      {
+        "stock_code": "002572",
+        "stock_name": "索菲亚",
+        "market_value_wan": 487.73
+      },
+      {
+        "stock_code": "300416",
+        "stock_name": "苏试试验",
+        "market_value_wan": 465.45
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "003305",
+    "name": "前海开源沪港深核心资源混合C",
+    "base_name": "前海开源沪港深核心资源混合"
+  },
+  "fetched_at": "2026-06-14 22:31:20",
+  "quarters": {
+    "2025-Q4": [
+      {
+        "stock_code": "601899",
+        "stock_name": "紫金矿业",
+        "market_value_wan": 18297.37
+      },
+      {
+        "stock_code": "600549",
+        "stock_name": "厦门钨业",
+        "market_value_wan": 13763.72
+      },
+      {
+        "stock_code": "000426",
+        "stock_name": "兴业银锡",
+        "market_value_wan": 12373.49
+      },
+      {
+        "stock_code": "600111",
+        "stock_name": "北方稀土",
+        "market_value_wan": 11915.36
+      },
+      {
+        "stock_code": "603799",
+        "stock_name": "华友钴业",
+        "market_value_wan": 11664.95
+      },
+      {
+        "stock_code": "000408",
+        "stock_name": "藏格矿业",
+        "market_value_wan": 11430.29
+      },
+      {
+        "stock_code": "002240",
+        "stock_name": "盛新锂能",
+        "market_value_wan": 10967.68
+      },
+      {
+        "stock_code": "000792",
+        "stock_name": "盐湖股份",
+        "market_value_wan": 10294.92
+      },
+      {
+        "stock_code": "001203",
+        "stock_name": "大中矿业",
+        "market_value_wan": 9523.87
+      }
+    ],
+    "2025-Q3": [
+      {
+        "stock_code": "601899",
+        "stock_name": "紫金矿业",
+        "market_value_wan": 20161.4
+      },
+      {
+        "stock_code": "300748",
+        "stock_name": "金力永磁",
+        "market_value_wan": 19057.48
+      },
+      {
+        "stock_code": "600111",
+        "stock_name": "北方稀土",
+        "market_value_wan": 18657.32
+      },
+      {
+        "stock_code": "600392",
+        "stock_name": "盛和资源",
+        "market_value_wan": 18031.55
+      },
+      {
+        "stock_code": "600259",
+        "stock_name": "广晟有色",
+        "market_value_wan": 17769.8
+      },
+      {
+        "stock_code": "600366",
+        "stock_name": "宁波韵升",
+        "market_value_wan": 17001.28
+      },
+      {
+        "stock_code": "000831",
+        "stock_name": "中国稀土",
+        "market_value_wan": 16846.18
+      },
+      {
+        "stock_code": "002155",
+        "stock_name": "湖南黄金",
+        "market_value_wan": 12826.58
+      },
+      {
+        "stock_code": "000426",
+        "stock_name": "兴业银锡",
+        "market_value_wan": 10624.46
+      }
+    ],
+    "2025-Q2": [
+      {
+        "stock_code": "600366",
+        "stock_name": "宁波韵升",
+        "market_value_wan": 6772.51
+      },
+      {
+        "stock_code": "300748",
+        "stock_name": "金力永磁",
+        "market_value_wan": 6391.27
+      },
+      {
+        "stock_code": "600259",
+        "stock_name": "广晟有色",
+        "market_value_wan": 6187.95
+      },
+      {
+        "stock_code": "300224",
+        "stock_name": "正海磁材",
+        "market_value_wan": 6182.29
+      },
+      {
+        "stock_code": "000831",
+        "stock_name": "中国稀土",
+        "market_value_wan": 6161.35
+      },
+      {
+        "stock_code": "000970",
+        "stock_name": "中科三环",
+        "market_value_wan": 4625.91
+      },
+      {
+        "stock_code": "600988",
+        "stock_name": "赤峰黄金",
+        "market_value_wan": 4447.94
+      },
+      {
+        "stock_code": "600392",
+        "stock_name": "盛和资源",
+        "market_value_wan": 4176.87
+      },
+      {
+        "stock_code": "000975",
+        "stock_name": "山金国际",
+        "market_value_wan": 3968.08
+      }
+    ],
+    "2025-Q1": [
+      {
+        "stock_code": "600259",
+        "stock_name": "广晟有色",
+        "market_value_wan": 5401.26
+      },
+      {
+        "stock_code": "600366",
+        "stock_name": "宁波韵升",
+        "market_value_wan": 5307.2
+      },
+      {
+        "stock_code": "600988",
+        "stock_name": "赤峰黄金",
+        "market_value_wan": 5270.8
+      },
+      {
+        "stock_code": "600392",
+        "stock_name": "盛和资源",
+        "market_value_wan": 5147.95
+      },
+      {
+        "stock_code": "300748",
+        "stock_name": "金力永磁",
+        "market_value_wan": 5118.56
+      },
+      {
+        "stock_code": "600010",
+        "stock_name": "包钢股份",
+        "market_value_wan": 4480.41
+      },
+      {
+        "stock_code": "300224",
+        "stock_name": "正海磁材",
+        "market_value_wan": 4462.14
+      },
+      {
+        "stock_code": "002155",
+        "stock_name": "湖南黄金",
+        "market_value_wan": 3837.12
+      },
+      {
+        "stock_code": "000975",
+        "stock_name": "山金国际",
+        "market_value_wan": 3544.28
+      },
+      {
+        "stock_code": "000603",
+        "stock_name": "盛达资源",
+        "market_value_wan": 3423.87
+      }
+    ]
+  }
+}

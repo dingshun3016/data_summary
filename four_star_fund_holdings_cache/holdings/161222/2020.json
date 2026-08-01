@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "161222",
+    "name": "国投瑞银瑞利混合(LOF)A",
+    "base_name": "国投瑞银瑞利混合(LOF)"
+  },
+  "fetched_at": "2026-06-14 22:42:01",
+  "quarters": {
+    "2020-Q4": [
+      {
+        "stock_code": "600998",
+        "stock_name": "九州通",
+        "market_value_wan": 861.15
+      },
+      {
+        "stock_code": "601088",
+        "stock_name": "中国神华",
+        "market_value_wan": 744.34
+      },
+      {
+        "stock_code": "601966",
+        "stock_name": "玲珑轮胎",
+        "market_value_wan": 627.58
+      },
+      {
+        "stock_code": "000860",
+        "stock_name": "顺鑫农业",
+        "market_value_wan": 582.5
+      },
+      {
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "market_value_wan": 531.36
+      },
+      {
+        "stock_code": "002120",
+        "stock_name": "韵达股份",
+        "market_value_wan": 504.74
+      },
+      {
+        "stock_code": "002001",
+        "stock_name": "新和成",
+        "market_value_wan": 482.97
+      },
+      {
+        "stock_code": "300308",
+        "stock_name": "中际旭创",
+        "market_value_wan": 468.73
+      },
+      {
+        "stock_code": "000582",
+        "stock_name": "北部湾港",
+        "market_value_wan": 464.63
+      },
+      {
+        "stock_code": "601225",
+        "stock_name": "陕西煤业",
+        "market_value_wan": 454.3
+      }
+    ],
+    "2020-Q3": [
+      {
+        "stock_code": "601088",
+        "stock_name": "中国神华",
+        "market_value_wan": 756.29
+      },
+      {
+        "stock_code": "600998",
+        "stock_name": "九州通",
+        "market_value_wan": 728.39
+      },
+      {
+        "stock_code": "601966",
+        "stock_name": "玲珑轮胎",
+        "market_value_wan": 613.32
+      },
+      {
+        "stock_code": "601398",
+        "stock_name": "工商银行",
+        "market_value_wan": 612.64
+      },
+      {
+        "stock_code": "000860",
+        "stock_name": "顺鑫农业",
+        "market_value_wan": 522.19
+      },
+      {
+        "stock_code": "600201",
+        "stock_name": "生物股份",
+        "market_value_wan": 519.69
+      },
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 465.37
+      },
+      {
+        "stock_code": "002120",
+        "stock_name": "韵达股份",
+        "market_value_wan": 440.87
+      },
+      {
+        "stock_code": "000002",
+        "stock_name": "万科A",
+        "market_value_wan": 395.92
+      },
+      {
+        "stock_code": "601225",
+        "stock_name": "陕西煤业",
+        "market_value_wan": 392.99
+      }
+    ],
+    "2020-Q2": [
+      {
+        "stock_code": "600998",
+        "stock_name": "九州通",
+        "market_value_wan": 847.77
+      },
+      {
+        "stock_code": "601088",
+        "stock_name": "中国神华",
+        "market_value_wan": 659.4
+      },
+      {
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "market_value_wan": 543.57
+      },
+      {
+        "stock_code": "600201",
+        "stock_name": "生物股份",
+        "market_value_wan": 535.86
+      },
+      {
+        "stock_code": "002120",
+        "stock_name": "韵达股份",
+        "market_value_wan": 532.72
+      },
+      {
+        "stock_code": "000860",
+        "stock_name": "顺鑫农业",
+        "market_value_wan": 494.59
+      },
+      {
+        "stock_code": "600195",
+        "stock_name": "中牧股份",
+        "market_value_wan": 490.35
+      },
+      {
+        "stock_code": "600567",
+        "stock_name": "山鹰国际",
+        "market_value_wan": 485.57
+      },
+      {
+        "stock_code": "000002",
+        "stock_name": "万科A",
+        "market_value_wan": 476.27
+      },
+      {
+        "stock_code": "000089",
+        "stock_name": "深圳机场",
+        "market_value_wan": 447.57
+      }
+    ],
+    "2020-Q1": [
+      {
+        "stock_code": "600998",
+        "stock_name": "九州通",
+        "market_value_wan": 774.01
+      },
+      {
+        "stock_code": "601088",
+        "stock_name": "中国神华",
+        "market_value_wan": 745.72
+      },
+      {
+        "stock_code": "002311",
+        "stock_name": "海大集团",
+        "market_value_wan": 673.03
+      },
+      {
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "market_value_wan": 520.35
+      },
+      {
+        "stock_code": "600201",
+        "stock_name": "生物股份",
+        "market_value_wan": 511.85
+      },
+      {
+        "stock_code": "000860",
+        "stock_name": "顺鑫农业",
+        "market_value_wan": 511.38
+      },
+      {
+        "stock_code": "600567",
+        "stock_name": "山鹰国际",
+        "market_value_wan": 503.68
+      },
+      {
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "market_value_wan": 482.29
+      },
+      {
+        "stock_code": "000002",
+        "stock_name": "万科A",
+        "market_value_wan": 467.34
+      },
+      {
+        "stock_code": "002120",
+        "stock_name": "韵达股份",
+        "market_value_wan": 445.2
+      }
+    ]
+  }
+}

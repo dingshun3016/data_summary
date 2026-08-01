@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "000520",
+    "name": "上银新兴价值成长混合A",
+    "base_name": "上银新兴价值成长混合"
+  },
+  "fetched_at": "2026-06-14 22:49:50",
+  "quarters": {
+    "2021-Q4": [
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 4872.94
+      },
+      {
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "market_value_wan": 4794.04
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 4508.36
+      },
+      {
+        "stock_code": "002372",
+        "stock_name": "伟星新材",
+        "market_value_wan": 2800.57
+      },
+      {
+        "stock_code": "002867",
+        "stock_name": "周大生",
+        "market_value_wan": 2125.47
+      },
+      {
+        "stock_code": "603816",
+        "stock_name": "顾家家居",
+        "market_value_wan": 1928.29
+      },
+      {
+        "stock_code": "603886",
+        "stock_name": "元祖股份",
+        "market_value_wan": 1888.01
+      },
+      {
+        "stock_code": "600761",
+        "stock_name": "安徽合力",
+        "market_value_wan": 1627.73
+      },
+      {
+        "stock_code": "000858",
+        "stock_name": "五粮液",
+        "market_value_wan": 1286.97
+      },
+      {
+        "stock_code": "002508",
+        "stock_name": "老板电器",
+        "market_value_wan": 1267.59
+      }
+    ],
+    "2021-Q3": [
+      {
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "market_value_wan": 4517.8
+      },
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 4400.81
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 3859.84
+      },
+      {
+        "stock_code": "002867",
+        "stock_name": "周大生",
+        "market_value_wan": 2421.38
+      },
+      {
+        "stock_code": "002372",
+        "stock_name": "伟星新材",
+        "market_value_wan": 2170.11
+      },
+      {
+        "stock_code": "603886",
+        "stock_name": "元祖股份",
+        "market_value_wan": 2043.13
+      },
+      {
+        "stock_code": "603816",
+        "stock_name": "顾家家居",
+        "market_value_wan": 1436.45
+      },
+      {
+        "stock_code": "002508",
+        "stock_name": "老板电器",
+        "market_value_wan": 1379.42
+      },
+      {
+        "stock_code": "600761",
+        "stock_name": "安徽合力",
+        "market_value_wan": 1317.89
+      },
+      {
+        "stock_code": "300788",
+        "stock_name": "中信出版",
+        "market_value_wan": 1203.78
+      }
+    ],
+    "2021-Q2": [
+      {
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "market_value_wan": 4852.71
+      },
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 4512.73
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 4337.99
+      },
+      {
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "market_value_wan": 2854.87
+      },
+      {
+        "stock_code": "002372",
+        "stock_name": "伟星新材",
+        "market_value_wan": 2528.05
+      },
+      {
+        "stock_code": "002867",
+        "stock_name": "周大生",
+        "market_value_wan": 2399.53
+      },
+      {
+        "stock_code": "603180",
+        "stock_name": "金牌家居",
+        "market_value_wan": 2128.18
+      },
+      {
+        "stock_code": "002508",
+        "stock_name": "老板电器",
+        "market_value_wan": 1995.38
+      },
+      {
+        "stock_code": "603886",
+        "stock_name": "元祖股份",
+        "market_value_wan": 1764.09
+      },
+      {
+        "stock_code": "603700",
+        "stock_name": "宁水集团",
+        "market_value_wan": 1717.76
+      }
+    ],
+    "2021-Q1": [
+      {
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "market_value_wan": 5215.27
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 4599.0
+      },
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 4483.18
+      },
+      {
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "market_value_wan": 3795.15
+      },
+      {
+        "stock_code": "002372",
+        "stock_name": "伟星新材",
+        "market_value_wan": 2645.98
+      },
+      {
+        "stock_code": "603180",
+        "stock_name": "金牌家居",
+        "market_value_wan": 2507.74
+      },
+      {
+        "stock_code": "002867",
+        "stock_name": "周大生",
+        "market_value_wan": 2456.12
+      },
+      {
+        "stock_code": "000002",
+        "stock_name": "万科A",
+        "market_value_wan": 2086.77
+      },
+      {
+        "stock_code": "603886",
+        "stock_name": "元祖股份",
+        "market_value_wan": 1923.0
+      },
+      {
+        "stock_code": "600025",
+        "stock_name": "华能水电",
+        "market_value_wan": 1722.99
+      }
+    ]
+  }
+}

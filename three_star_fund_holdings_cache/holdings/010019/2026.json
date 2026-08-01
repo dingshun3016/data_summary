@@ -1,0 +1,85 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "010019",
+    "name": "招商瑞泽一年持有期混合C",
+    "base_name": "招商瑞泽一年持有期混合"
+  },
+  "fetched_at": "2026-08-01 20:58:57",
+  "quarters": {
+    "2026-Q2": [
+      {
+        "stock_code": "002353",
+        "stock_name": "杰瑞股份",
+        "market_value_wan": 558.15
+      },
+      {
+        "stock_code": "002409",
+        "stock_name": "雅克科技",
+        "market_value_wan": 226.75
+      },
+      {
+        "stock_code": "002517",
+        "stock_name": "恺英网络",
+        "market_value_wan": 143.49
+      },
+      {
+        "stock_code": "603259",
+        "stock_name": "药明康德",
+        "market_value_wan": 141.94
+      },
+      {
+        "stock_code": "002648",
+        "stock_name": "卫星化学",
+        "market_value_wan": 140.94
+      },
+      {
+        "stock_code": "603129",
+        "stock_name": "春风动力",
+        "market_value_wan": 122.78
+      },
+      {
+        "stock_code": "600482",
+        "stock_name": "中国动力",
+        "market_value_wan": 117.75
+      }
+    ],
+    "2026-Q1": [
+      {
+        "stock_code": "002353",
+        "stock_name": "杰瑞股份",
+        "market_value_wan": 354.29
+      },
+      {
+        "stock_code": "002648",
+        "stock_name": "卫星化学",
+        "market_value_wan": 165.72
+      },
+      {
+        "stock_code": "002517",
+        "stock_name": "恺英网络",
+        "market_value_wan": 156.29
+      },
+      {
+        "stock_code": "601128",
+        "stock_name": "常熟银行",
+        "market_value_wan": 117.49
+      },
+      {
+        "stock_code": "603259",
+        "stock_name": "药明康德",
+        "market_value_wan": 111.83
+      },
+      {
+        "stock_code": "603129",
+        "stock_name": "春风动力",
+        "market_value_wan": 109.73
+      },
+      {
+        "stock_code": "002311",
+        "stock_name": "海大集团",
+        "market_value_wan": 107.09
+      }
+    ]
+  }
+}

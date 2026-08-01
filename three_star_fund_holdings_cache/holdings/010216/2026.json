@@ -1,0 +1,115 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "010216",
+    "name": "中欧达益稳健一年混合C",
+    "base_name": "中欧达益稳健一年混合"
+  },
+  "fetched_at": "2026-08-01 20:59:04",
+  "quarters": {
+    "2026-Q2": [
+      {
+        "stock_code": "300308",
+        "stock_name": "中际旭创",
+        "market_value_wan": 63.5
+      },
+      {
+        "stock_code": "688777",
+        "stock_name": "中控技术",
+        "market_value_wan": 61.96
+      },
+      {
+        "stock_code": "300604",
+        "stock_name": "长川科技",
+        "market_value_wan": 40.97
+      },
+      {
+        "stock_code": "601665",
+        "stock_name": "齐鲁银行",
+        "market_value_wan": 39.8
+      },
+      {
+        "stock_code": "688630",
+        "stock_name": "芯碁微装",
+        "market_value_wan": 38.84
+      },
+      {
+        "stock_code": "603259",
+        "stock_name": "药明康德",
+        "market_value_wan": 36.11
+      },
+      {
+        "stock_code": "688256",
+        "stock_name": "寒武纪",
+        "market_value_wan": 31.91
+      },
+      {
+        "stock_code": "002384",
+        "stock_name": "东山精密",
+        "market_value_wan": 31.48
+      },
+      {
+        "stock_code": "601166",
+        "stock_name": "兴业银行",
+        "market_value_wan": 30.3
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 27.51
+      }
+    ],
+    "2026-Q1": [
+      {
+        "stock_code": "601665",
+        "stock_name": "齐鲁银行",
+        "market_value_wan": 49.69
+      },
+      {
+        "stock_code": "603259",
+        "stock_name": "药明康德",
+        "market_value_wan": 41.2
+      },
+      {
+        "stock_code": "601166",
+        "stock_name": "兴业银行",
+        "market_value_wan": 34.44
+      },
+      {
+        "stock_code": "600426",
+        "stock_name": "华鲁恒升",
+        "market_value_wan": 28.6
+      },
+      {
+        "stock_code": "688180",
+        "stock_name": "君实生物",
+        "market_value_wan": 28.19
+      },
+      {
+        "stock_code": "002379",
+        "stock_name": "宏桥控股",
+        "market_value_wan": 27.35
+      },
+      {
+        "stock_code": "600985",
+        "stock_name": "淮北矿业",
+        "market_value_wan": 27.1
+      },
+      {
+        "stock_code": "688777",
+        "stock_name": "中控技术",
+        "market_value_wan": 26.8
+      },
+      {
+        "stock_code": "601899",
+        "stock_name": "紫金矿业",
+        "market_value_wan": 25.52
+      },
+      {
+        "stock_code": "601985",
+        "stock_name": "中国核电",
+        "market_value_wan": 25.16
+      }
+    ]
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "011385",
+    "name": "南方远见回报股票C",
+    "base_name": "南方远见回报股票"
+  },
+  "fetched_at": "2026-06-14 23:46:47",
+  "quarters": {
+    "2022-Q4": [
+      {
+        "stock_code": "002415",
+        "stock_name": "海康威视",
+        "market_value_wan": 1244.32
+      },
+      {
+        "stock_code": "002372",
+        "stock_name": "伟星新材",
+        "market_value_wan": 1123.12
+      },
+      {
+        "stock_code": "603279",
+        "stock_name": "景津装备",
+        "market_value_wan": 1053.14
+      },
+      {
+        "stock_code": "600346",
+        "stock_name": "恒力石化",
+        "market_value_wan": 983.2
+      },
+      {
+        "stock_code": "603129",
+        "stock_name": "春风动力",
+        "market_value_wan": 902.41
+      },
+      {
+        "stock_code": "002142",
+        "stock_name": "宁波银行",
+        "market_value_wan": 878.49
+      },
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 726.44
+      },
+      {
+        "stock_code": "002003",
+        "stock_name": "伟星股份",
+        "market_value_wan": 702.44
+      },
+      {
+        "stock_code": "603444",
+        "stock_name": "吉比特",
+        "market_value_wan": 675.73
+      },
+      {
+        "stock_code": "600660",
+        "stock_name": "福耀玻璃",
+        "market_value_wan": 605.31
+      }
+    ],
+    "2022-Q3": [
+      {
+        "stock_code": "002372",
+        "stock_name": "伟星新材",
+        "market_value_wan": 1148.45
+      },
+      {
+        "stock_code": "002415",
+        "stock_name": "海康威视",
+        "market_value_wan": 1102.42
+      },
+      {
+        "stock_code": "603129",
+        "stock_name": "春风动力",
+        "market_value_wan": 1062.55
+      },
+      {
+        "stock_code": "600346",
+        "stock_name": "恒力石化",
+        "market_value_wan": 964.61
+      },
+      {
+        "stock_code": "603279",
+        "stock_name": "景津装备",
+        "market_value_wan": 954.17
+      },
+      {
+        "stock_code": "002003",
+        "stock_name": "伟星股份",
+        "market_value_wan": 945.64
+      },
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 862.01
+      },
+      {
+        "stock_code": "002714",
+        "stock_name": "牧原股份",
+        "market_value_wan": 663.55
+      },
+      {
+        "stock_code": "002142",
+        "stock_name": "宁波银行",
+        "market_value_wan": 654.41
+      },
+      {
+        "stock_code": "600660",
+        "stock_name": "福耀玻璃",
+        "market_value_wan": 618.08
+      }
+    ],
+    "2022-Q2": [
+      {
+        "stock_code": "002372",
+        "stock_name": "伟星新材",
+        "market_value_wan": 1252.48
+      },
+      {
+        "stock_code": "002415",
+        "stock_name": "海康威视",
+        "market_value_wan": 1202.56
+      },
+      {
+        "stock_code": "600346",
+        "stock_name": "恒力石化",
+        "market_value_wan": 1182.95
+      },
+      {
+        "stock_code": "002714",
+        "stock_name": "牧原股份",
+        "market_value_wan": 1111.52
+      },
+      {
+        "stock_code": "603279",
+        "stock_name": "景津装备",
+        "market_value_wan": 1053.84
+      },
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 1052.56
+      },
+      {
+        "stock_code": "603129",
+        "stock_name": "春风动力",
+        "market_value_wan": 931.37
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 675.05
+      },
+      {
+        "stock_code": "002003",
+        "stock_name": "伟星股份",
+        "market_value_wan": 651.75
+      },
+      {
+        "stock_code": "600989",
+        "stock_name": "宝丰能源",
+        "market_value_wan": 595.67
+      }
+    ],
+    "2022-Q1": [
+      {
+        "stock_code": "002714",
+        "stock_name": "牧原股份",
+        "market_value_wan": 1377.76
+      },
+      {
+        "stock_code": "002372",
+        "stock_name": "伟星新材",
+        "market_value_wan": 1141.87
+      },
+      {
+        "stock_code": "002415",
+        "stock_name": "海康威视",
+        "market_value_wan": 1131.6
+      },
+      {
+        "stock_code": "600346",
+        "stock_name": "恒力石化",
+        "market_value_wan": 1124.95
+      },
+      {
+        "stock_code": "603279",
+        "stock_name": "景津装备",
+        "market_value_wan": 1012.22
+      },
+      {
+        "stock_code": "603129",
+        "stock_name": "春风动力",
+        "market_value_wan": 992.22
+      },
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 952.59
+      },
+      {
+        "stock_code": "603707",
+        "stock_name": "健友股份",
+        "market_value_wan": 752.18
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 618.84
+      }
+    ]
+  }
+}

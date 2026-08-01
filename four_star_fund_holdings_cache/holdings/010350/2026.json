@@ -1,0 +1,80 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "010350",
+    "name": "景顺长城品质长青混合A",
+    "base_name": "景顺长城品质长青混合"
+  },
+  "fetched_at": "2026-08-01 20:48:26",
+  "quarters": {
+    "2026-Q2": [
+      {
+        "stock_code": "688498",
+        "stock_name": "源杰科技",
+        "market_value_wan": 68638.33
+      },
+      {
+        "stock_code": "300502",
+        "stock_name": "新易盛",
+        "market_value_wan": 67482.13
+      },
+      {
+        "stock_code": "300308",
+        "stock_name": "中际旭创",
+        "market_value_wan": 64953.01
+      },
+      {
+        "stock_code": "600183",
+        "stock_name": "生益科技",
+        "market_value_wan": 61806.49
+      },
+      {
+        "stock_code": "002436",
+        "stock_name": "兴森科技",
+        "market_value_wan": 59782.02
+      },
+      {
+        "stock_code": "002273",
+        "stock_name": "水晶光电",
+        "market_value_wan": 48953.69
+      },
+      {
+        "stock_code": "002916",
+        "stock_name": "深南电路",
+        "market_value_wan": 42239.58
+      },
+      {
+        "stock_code": "002938",
+        "stock_name": "鹏鼎控股",
+        "market_value_wan": 39141.11
+      }
+    ],
+    "2026-Q1": [
+      {
+        "stock_code": "300308",
+        "stock_name": "中际旭创",
+        "market_value_wan": 63371.97
+      },
+      {
+        "stock_code": "300502",
+        "stock_name": "新易盛",
+        "market_value_wan": 63101.16
+      },
+      {
+        "stock_code": "688498",
+        "stock_name": "源杰科技",
+        "market_value_wan": 59189.95
+      },
+      {
+        "stock_code": "002273",
+        "stock_name": "水晶光电",
+        "market_value_wan": 55433.35
+      },
+      {
+        "stock_code": "689009",
+        "stock_name": "九号公司",
+        "market_value_wan": 27304.13
+      }
+    ]
+  }
+}

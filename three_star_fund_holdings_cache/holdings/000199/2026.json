@@ -1,0 +1,115 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "000199",
+    "name": "国泰量化策略收益混合A",
+    "base_name": "国泰量化策略收益混合"
+  },
+  "fetched_at": "2026-08-01 20:53:25",
+  "quarters": {
+    "2026-Q2": [
+      {
+        "stock_code": "603986",
+        "stock_name": "兆易创新",
+        "market_value_wan": 1532.2
+      },
+      {
+        "stock_code": "002463",
+        "stock_name": "沪电股份",
+        "market_value_wan": 1055.85
+      },
+      {
+        "stock_code": "301536",
+        "stock_name": "星宸科技",
+        "market_value_wan": 984.63
+      },
+      {
+        "stock_code": "002384",
+        "stock_name": "东山精密",
+        "market_value_wan": 933.97
+      },
+      {
+        "stock_code": "001309",
+        "stock_name": "德明利",
+        "market_value_wan": 848.61
+      },
+      {
+        "stock_code": "300475",
+        "stock_name": "香农芯创",
+        "market_value_wan": 837.0
+      },
+      {
+        "stock_code": "600150",
+        "stock_name": "中国船舶",
+        "market_value_wan": 802.3
+      },
+      {
+        "stock_code": "002266",
+        "stock_name": "浙富控股",
+        "market_value_wan": 799.88
+      },
+      {
+        "stock_code": "300857",
+        "stock_name": "协创数据",
+        "market_value_wan": 666.88
+      },
+      {
+        "stock_code": "000807",
+        "stock_name": "云铝股份",
+        "market_value_wan": 631.21
+      }
+    ],
+    "2026-Q1": [
+      {
+        "stock_code": "300308",
+        "stock_name": "中际旭创",
+        "market_value_wan": 671.9
+      },
+      {
+        "stock_code": "688525",
+        "stock_name": "佰维存储",
+        "market_value_wan": 621.13
+      },
+      {
+        "stock_code": "603259",
+        "stock_name": "药明康德",
+        "market_value_wan": 537.59
+      },
+      {
+        "stock_code": "601009",
+        "stock_name": "南京银行",
+        "market_value_wan": 438.4
+      },
+      {
+        "stock_code": "000100",
+        "stock_name": "TCL科技",
+        "market_value_wan": 369.82
+      },
+      {
+        "stock_code": "601600",
+        "stock_name": "中国铝业",
+        "market_value_wan": 343.25
+      },
+      {
+        "stock_code": "002051",
+        "stock_name": "中工国际",
+        "market_value_wan": 339.14
+      },
+      {
+        "stock_code": "300502",
+        "stock_name": "新易盛",
+        "market_value_wan": 336.56
+      },
+      {
+        "stock_code": "002436",
+        "stock_name": "兴森科技",
+        "market_value_wan": 335.44
+      },
+      {
+        "stock_code": "002803",
+        "stock_name": "吉宏股份",
+        "market_value_wan": 309.18
+      }
+    ]
+  }
+}

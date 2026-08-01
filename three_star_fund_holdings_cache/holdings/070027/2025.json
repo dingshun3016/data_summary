@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "070027",
+    "name": "嘉实周期优选混合",
+    "base_name": "嘉实周期优选混合"
+  },
+  "fetched_at": "2026-06-14 23:49:37",
+  "quarters": {
+    "2025-Q4": [
+      {
+        "stock_code": "603885",
+        "stock_name": "吉祥航空",
+        "market_value_wan": 7166.12
+      },
+      {
+        "stock_code": "603993",
+        "stock_name": "洛阳钼业",
+        "market_value_wan": 5389.8
+      },
+      {
+        "stock_code": "600919",
+        "stock_name": "江苏银行",
+        "market_value_wan": 5206.64
+      },
+      {
+        "stock_code": "000807",
+        "stock_name": "云铝股份",
+        "market_value_wan": 3964.77
+      },
+      {
+        "stock_code": "688099",
+        "stock_name": "晶晨股份",
+        "market_value_wan": 3892.4
+      },
+      {
+        "stock_code": "688012",
+        "stock_name": "中微公司",
+        "market_value_wan": 3719.88
+      },
+      {
+        "stock_code": "601899",
+        "stock_name": "紫金矿业",
+        "market_value_wan": 3043.84
+      },
+      {
+        "stock_code": "603799",
+        "stock_name": "华友钴业",
+        "market_value_wan": 3006.85
+      },
+      {
+        "stock_code": "600958",
+        "stock_name": "东方证券",
+        "market_value_wan": 2994.23
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 2945.43
+      }
+    ],
+    "2025-Q3": [
+      {
+        "stock_code": "603885",
+        "stock_name": "吉祥航空",
+        "market_value_wan": 6269.79
+      },
+      {
+        "stock_code": "603993",
+        "stock_name": "洛阳钼业",
+        "market_value_wan": 5533.47
+      },
+      {
+        "stock_code": "600233",
+        "stock_name": "圆通速递",
+        "market_value_wan": 5275.12
+      },
+      {
+        "stock_code": "600919",
+        "stock_name": "江苏银行",
+        "market_value_wan": 5237.85
+      },
+      {
+        "stock_code": "688099",
+        "stock_name": "晶晨股份",
+        "market_value_wan": 4755.34
+      },
+      {
+        "stock_code": "601899",
+        "stock_name": "紫金矿业",
+        "market_value_wan": 4631.33
+      },
+      {
+        "stock_code": "000932",
+        "stock_name": "华菱钢铁",
+        "market_value_wan": 4353.69
+      },
+      {
+        "stock_code": "002444",
+        "stock_name": "巨星科技",
+        "market_value_wan": 4175.49
+      },
+      {
+        "stock_code": "603799",
+        "stock_name": "华友钴业",
+        "market_value_wan": 3061.71
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 2890.38
+      }
+    ],
+    "2025-Q2": [
+      {
+        "stock_code": "603885",
+        "stock_name": "吉祥航空",
+        "market_value_wan": 6394.86
+      },
+      {
+        "stock_code": "600919",
+        "stock_name": "江苏银行",
+        "market_value_wan": 6235.29
+      },
+      {
+        "stock_code": "600233",
+        "stock_name": "圆通速递",
+        "market_value_wan": 5938.5
+      },
+      {
+        "stock_code": "002444",
+        "stock_name": "巨星科技",
+        "market_value_wan": 3652.78
+      },
+      {
+        "stock_code": "688099",
+        "stock_name": "晶晨股份",
+        "market_value_wan": 3105.81
+      },
+      {
+        "stock_code": "601899",
+        "stock_name": "紫金矿业",
+        "market_value_wan": 3067.62
+      },
+      {
+        "stock_code": "000932",
+        "stock_name": "华菱钢铁",
+        "market_value_wan": 2951.65
+      },
+      {
+        "stock_code": "603993",
+        "stock_name": "洛阳钼业",
+        "market_value_wan": 2471.19
+      },
+      {
+        "stock_code": "688213",
+        "stock_name": "思特威",
+        "market_value_wan": 2270.74
+      },
+      {
+        "stock_code": "601166",
+        "stock_name": "兴业银行",
+        "market_value_wan": 2245.31
+      }
+    ],
+    "2025-Q1": [
+      {
+        "stock_code": "603885",
+        "stock_name": "吉祥航空",
+        "market_value_wan": 6406.92
+      },
+      {
+        "stock_code": "600233",
+        "stock_name": "圆通速递",
+        "market_value_wan": 5590.14
+      },
+      {
+        "stock_code": "600919",
+        "stock_name": "江苏银行",
+        "market_value_wan": 4961.08
+      },
+      {
+        "stock_code": "688099",
+        "stock_name": "晶晨股份",
+        "market_value_wan": 3649.9
+      },
+      {
+        "stock_code": "000932",
+        "stock_name": "华菱钢铁",
+        "market_value_wan": 3340.04
+      },
+      {
+        "stock_code": "002353",
+        "stock_name": "杰瑞股份",
+        "market_value_wan": 3271.01
+      },
+      {
+        "stock_code": "601899",
+        "stock_name": "紫金矿业",
+        "market_value_wan": 2850.53
+      },
+      {
+        "stock_code": "601166",
+        "stock_name": "兴业银行",
+        "market_value_wan": 2770.63
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 2170.23
+      },
+      {
+        "stock_code": "002444",
+        "stock_name": "巨星科技",
+        "market_value_wan": 2074.48
+      }
+    ]
+  }
+}

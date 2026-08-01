@@ -1,0 +1,45 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "673143",
+    "name": "西部利得景程混合C",
+    "base_name": "西部利得景程混合"
+  },
+  "fetched_at": "2026-06-15 00:07:18",
+  "quarters": {
+    "2018-Q4": [
+      {
+        "stock_code": "601618",
+        "stock_name": "中国中冶",
+        "market_value_wan": 68.48
+      },
+      {
+        "stock_code": "002078",
+        "stock_name": "太阳纸业",
+        "market_value_wan": 63.9
+      },
+      {
+        "stock_code": "000768",
+        "stock_name": "中航西飞",
+        "market_value_wan": 62.36
+      },
+      {
+        "stock_code": "600567",
+        "stock_name": "山鹰国际",
+        "market_value_wan": 61.53
+      }
+    ],
+    "2018-Q3": [
+      {
+        "stock_code": "600522",
+        "stock_name": "中天科技",
+        "market_value_wan": 151.96
+      },
+      {
+        "stock_code": "601607",
+        "stock_name": "上海医药",
+        "market_value_wan": 77.49
+      }
+    ]
+  }
+}

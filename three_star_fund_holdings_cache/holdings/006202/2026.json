@@ -1,0 +1,100 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "006202",
+    "name": "交银核心资产混合A",
+    "base_name": "交银核心资产混合"
+  },
+  "fetched_at": "2026-08-01 20:56:56",
+  "quarters": {
+    "2026-Q2": [
+      {
+        "stock_code": "300373",
+        "stock_name": "扬杰科技",
+        "market_value_wan": 424.52
+      },
+      {
+        "stock_code": "603259",
+        "stock_name": "药明康德",
+        "market_value_wan": 280.15
+      },
+      {
+        "stock_code": "300037",
+        "stock_name": "新宙邦",
+        "market_value_wan": 278.55
+      },
+      {
+        "stock_code": "603129",
+        "stock_name": "春风动力",
+        "market_value_wan": 253.24
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 243.67
+      },
+      {
+        "stock_code": "002028",
+        "stock_name": "思源电气",
+        "market_value_wan": 237.01
+      },
+      {
+        "stock_code": "300308",
+        "stock_name": "中际旭创",
+        "market_value_wan": 203.2
+      },
+      {
+        "stock_code": "600030",
+        "stock_name": "中信证券",
+        "market_value_wan": 192.2
+      },
+      {
+        "stock_code": "000921",
+        "stock_name": "海信家电",
+        "market_value_wan": 133.59
+      }
+    ],
+    "2026-Q1": [
+      {
+        "stock_code": "002028",
+        "stock_name": "思源电气",
+        "market_value_wan": 276.74
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 249.05
+      },
+      {
+        "stock_code": "002532",
+        "stock_name": "天山铝业",
+        "market_value_wan": 228.96
+      },
+      {
+        "stock_code": "603129",
+        "stock_name": "春风动力",
+        "market_value_wan": 226.31
+      },
+      {
+        "stock_code": "601398",
+        "stock_name": "工商银行",
+        "market_value_wan": 186.8
+      },
+      {
+        "stock_code": "300373",
+        "stock_name": "扬杰科技",
+        "market_value_wan": 182.17
+      },
+      {
+        "stock_code": "600089",
+        "stock_name": "特变电工",
+        "market_value_wan": 173.31
+      },
+      {
+        "stock_code": "601919",
+        "stock_name": "中远海控",
+        "market_value_wan": 162.33
+      }
+    ]
+  }
+}

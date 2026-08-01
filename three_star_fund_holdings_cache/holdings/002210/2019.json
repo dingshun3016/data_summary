@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "002210",
+    "name": "创金合信量化多因子股票A",
+    "base_name": "创金合信量化多因子股票"
+  },
+  "fetched_at": "2026-06-14 23:04:46",
+  "quarters": {
+    "2019-Q4": [
+      {
+        "stock_code": "300699",
+        "stock_name": "光威复材",
+        "market_value_wan": 499.32
+      },
+      {
+        "stock_code": "300326",
+        "stock_name": "凯利泰",
+        "market_value_wan": 494.44
+      },
+      {
+        "stock_code": "002123",
+        "stock_name": "梦网科技",
+        "market_value_wan": 476.53
+      },
+      {
+        "stock_code": "300118",
+        "stock_name": "东方日升",
+        "market_value_wan": 461.07
+      },
+      {
+        "stock_code": "300377",
+        "stock_name": "赢时胜",
+        "market_value_wan": 431.68
+      },
+      {
+        "stock_code": "601163",
+        "stock_name": "三角轮胎",
+        "market_value_wan": 430.08
+      },
+      {
+        "stock_code": "002251",
+        "stock_name": "ST步步高",
+        "market_value_wan": 428.88
+      },
+      {
+        "stock_code": "002318",
+        "stock_name": "久立特材",
+        "market_value_wan": 416.85
+      },
+      {
+        "stock_code": "300487",
+        "stock_name": "蓝晓科技",
+        "market_value_wan": 412.45
+      },
+      {
+        "stock_code": "300559",
+        "stock_name": "佳发教育",
+        "market_value_wan": 400.68
+      }
+    ],
+    "2019-Q3": [
+      {
+        "stock_code": "002938",
+        "stock_name": "鹏鼎控股",
+        "market_value_wan": 516.81
+      },
+      {
+        "stock_code": "300347",
+        "stock_name": "泰格医药",
+        "market_value_wan": 511.91
+      },
+      {
+        "stock_code": "600132",
+        "stock_name": "重庆啤酒",
+        "market_value_wan": 490.72
+      },
+      {
+        "stock_code": "601606",
+        "stock_name": "长城军工",
+        "market_value_wan": 458.14
+      },
+      {
+        "stock_code": "600963",
+        "stock_name": "岳阳林纸",
+        "market_value_wan": 409.91
+      },
+      {
+        "stock_code": "603220",
+        "stock_name": "中贝通信",
+        "market_value_wan": 407.84
+      },
+      {
+        "stock_code": "600055",
+        "stock_name": "万东医疗",
+        "market_value_wan": 404.78
+      },
+      {
+        "stock_code": "300251",
+        "stock_name": "光线传媒",
+        "market_value_wan": 395.9
+      },
+      {
+        "stock_code": "603026",
+        "stock_name": "石大胜华",
+        "market_value_wan": 391.15
+      },
+      {
+        "stock_code": "000520",
+        "stock_name": "凤凰航运",
+        "market_value_wan": 383.05
+      }
+    ],
+    "2019-Q2": [
+      {
+        "stock_code": "000922",
+        "stock_name": "佳电股份",
+        "market_value_wan": 337.21
+      },
+      {
+        "stock_code": "601188",
+        "stock_name": "龙江交通",
+        "market_value_wan": 331.47
+      },
+      {
+        "stock_code": "600163",
+        "stock_name": "中闽能源",
+        "market_value_wan": 330.02
+      },
+      {
+        "stock_code": "601238",
+        "stock_name": "广汽集团",
+        "market_value_wan": 329.65
+      },
+      {
+        "stock_code": "601992",
+        "stock_name": "金隅集团",
+        "market_value_wan": 327.2
+      },
+      {
+        "stock_code": "002293",
+        "stock_name": "罗莱生活",
+        "market_value_wan": 325.47
+      },
+      {
+        "stock_code": "603997",
+        "stock_name": "继峰股份",
+        "market_value_wan": 325.4
+      },
+      {
+        "stock_code": "000429",
+        "stock_name": "粤高速A",
+        "market_value_wan": 324.43
+      },
+      {
+        "stock_code": "600757",
+        "stock_name": "长江传媒",
+        "market_value_wan": 324.09
+      },
+      {
+        "stock_code": "002016",
+        "stock_name": "世荣兆业",
+        "market_value_wan": 323.74
+      }
+    ],
+    "2019-Q1": [
+      {
+        "stock_code": "600077",
+        "stock_name": "*ST宋都",
+        "market_value_wan": 434.96
+      },
+      {
+        "stock_code": "002150",
+        "stock_name": "通润装备",
+        "market_value_wan": 419.0
+      },
+      {
+        "stock_code": "603688",
+        "stock_name": "石英股份",
+        "market_value_wan": 415.0
+      },
+      {
+        "stock_code": "002541",
+        "stock_name": "鸿路钢构",
+        "market_value_wan": 411.78
+      },
+      {
+        "stock_code": "600173",
+        "stock_name": "卧龙地产",
+        "market_value_wan": 410.33
+      },
+      {
+        "stock_code": "601872",
+        "stock_name": "招商轮船",
+        "market_value_wan": 409.29
+      },
+      {
+        "stock_code": "600704",
+        "stock_name": "物产中大",
+        "market_value_wan": 408.79
+      },
+      {
+        "stock_code": "601369",
+        "stock_name": "陕鼓动力",
+        "market_value_wan": 407.88
+      },
+      {
+        "stock_code": "002406",
+        "stock_name": "远东传动",
+        "market_value_wan": 406.78
+      },
+      {
+        "stock_code": "601199",
+        "stock_name": "江南水务",
+        "market_value_wan": 406.46
+      }
+    ]
+  }
+}

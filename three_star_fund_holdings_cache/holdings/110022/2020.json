@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "110022",
+    "name": "易方达消费行业股票",
+    "base_name": "易方达消费行业股票"
+  },
+  "fetched_at": "2026-06-14 23:50:52",
+  "quarters": {
+    "2020-Q4": [
+      {
+        "stock_code": "600809",
+        "stock_name": "山西汾酒",
+        "market_value_wan": 340773.2
+      },
+      {
+        "stock_code": "000568",
+        "stock_name": "泸州老窖",
+        "market_value_wan": 316326.08
+      },
+      {
+        "stock_code": "000858",
+        "stock_name": "五粮液",
+        "market_value_wan": 297435.1
+      },
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 294552.81
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 283095.42
+      },
+      {
+        "stock_code": "000596",
+        "stock_name": "古井贡酒",
+        "market_value_wan": 251446.48
+      },
+      {
+        "stock_code": "000860",
+        "stock_name": "顺鑫农业",
+        "market_value_wan": 242227.9
+      },
+      {
+        "stock_code": "601888",
+        "stock_name": "中国中免",
+        "market_value_wan": 156338.17
+      },
+      {
+        "stock_code": "600600",
+        "stock_name": "青岛啤酒",
+        "market_value_wan": 139333.9
+      },
+      {
+        "stock_code": "600660",
+        "stock_name": "福耀玻璃",
+        "market_value_wan": 129993.48
+      }
+    ],
+    "2020-Q3": [
+      {
+        "stock_code": "600809",
+        "stock_name": "山西汾酒",
+        "market_value_wan": 225715.67
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 220758.23
+      },
+      {
+        "stock_code": "000568",
+        "stock_name": "泸州老窖",
+        "market_value_wan": 217234.5
+      },
+      {
+        "stock_code": "000858",
+        "stock_name": "五粮液",
+        "market_value_wan": 215223.83
+      },
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 203896.42
+      },
+      {
+        "stock_code": "000596",
+        "stock_name": "古井贡酒",
+        "market_value_wan": 200399.15
+      },
+      {
+        "stock_code": "000860",
+        "stock_name": "顺鑫农业",
+        "market_value_wan": 176054.68
+      },
+      {
+        "stock_code": "600600",
+        "stock_name": "青岛啤酒",
+        "market_value_wan": 105285.4
+      },
+      {
+        "stock_code": "000651",
+        "stock_name": "格力电器",
+        "market_value_wan": 101252.76
+      },
+      {
+        "stock_code": "000423",
+        "stock_name": "东阿阿胶",
+        "market_value_wan": 77869.28
+      }
+    ],
+    "2020-Q2": [
+      {
+        "stock_code": "000858",
+        "stock_name": "五粮液",
+        "market_value_wan": 209069.37
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 205322.08
+      },
+      {
+        "stock_code": "600809",
+        "stock_name": "山西汾酒",
+        "market_value_wan": 199306.46
+      },
+      {
+        "stock_code": "000651",
+        "stock_name": "格力电器",
+        "market_value_wan": 181592.39
+      },
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 178368.48
+      },
+      {
+        "stock_code": "000568",
+        "stock_name": "泸州老窖",
+        "market_value_wan": 177879.57
+      },
+      {
+        "stock_code": "000860",
+        "stock_name": "顺鑫农业",
+        "market_value_wan": 172826.22
+      },
+      {
+        "stock_code": "000596",
+        "stock_name": "古井贡酒",
+        "market_value_wan": 172126.5
+      },
+      {
+        "stock_code": "000423",
+        "stock_name": "东阿阿胶",
+        "market_value_wan": 70221.58
+      },
+      {
+        "stock_code": "002032",
+        "stock_name": "苏泊尔",
+        "market_value_wan": 47556.57
+      }
+    ],
+    "2020-Q1": [
+      {
+        "stock_code": "000860",
+        "stock_name": "顺鑫农业",
+        "market_value_wan": 174578.53
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 167614.01
+      },
+      {
+        "stock_code": "000858",
+        "stock_name": "五粮液",
+        "market_value_wan": 166468.83
+      },
+      {
+        "stock_code": "600809",
+        "stock_name": "山西汾酒",
+        "market_value_wan": 152043.1
+      },
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 144448.93
+      },
+      {
+        "stock_code": "000568",
+        "stock_name": "泸州老窖",
+        "market_value_wan": 143775.57
+      },
+      {
+        "stock_code": "000651",
+        "stock_name": "格力电器",
+        "market_value_wan": 132844.42
+      },
+      {
+        "stock_code": "000596",
+        "stock_name": "古井贡酒",
+        "market_value_wan": 130870.67
+      },
+      {
+        "stock_code": "600887",
+        "stock_name": "伊利股份",
+        "market_value_wan": 43203.03
+      },
+      {
+        "stock_code": "000423",
+        "stock_name": "东阿阿胶",
+        "market_value_wan": 42972.36
+      }
+    ]
+  }
+}

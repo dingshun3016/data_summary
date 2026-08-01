@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "310358",
+    "name": "申万菱信新经济混合A",
+    "base_name": "申万菱信新经济混合"
+  },
+  "fetched_at": "2026-06-14 23:58:23",
+  "quarters": {
+    "2025-Q4": [
+      {
+        "stock_code": "300806",
+        "stock_name": "斯迪克",
+        "market_value_wan": 16354.38
+      },
+      {
+        "stock_code": "002371",
+        "stock_name": "北方华创",
+        "market_value_wan": 14750.01
+      },
+      {
+        "stock_code": "688120",
+        "stock_name": "华海清科",
+        "market_value_wan": 14053.96
+      },
+      {
+        "stock_code": "688012",
+        "stock_name": "中微公司",
+        "market_value_wan": 13801.6
+      },
+      {
+        "stock_code": "601100",
+        "stock_name": "恒立液压",
+        "market_value_wan": 13402.43
+      },
+      {
+        "stock_code": "600183",
+        "stock_name": "生益科技",
+        "market_value_wan": 10430.86
+      },
+      {
+        "stock_code": "002384",
+        "stock_name": "东山精密",
+        "market_value_wan": 10336.61
+      },
+      {
+        "stock_code": "300567",
+        "stock_name": "精测电子",
+        "market_value_wan": 8744.26
+      },
+      {
+        "stock_code": "300604",
+        "stock_name": "长川科技",
+        "market_value_wan": 8161.53
+      },
+      {
+        "stock_code": "688228",
+        "stock_name": "开普云",
+        "market_value_wan": 8096.89
+      }
+    ],
+    "2025-Q3": [
+      {
+        "stock_code": "688120",
+        "stock_name": "华海清科",
+        "market_value_wan": 15469.84
+      },
+      {
+        "stock_code": "300806",
+        "stock_name": "斯迪克",
+        "market_value_wan": 15267.57
+      },
+      {
+        "stock_code": "300604",
+        "stock_name": "长川科技",
+        "market_value_wan": 13689.78
+      },
+      {
+        "stock_code": "601100",
+        "stock_name": "恒立液压",
+        "market_value_wan": 11678.19
+      },
+      {
+        "stock_code": "688249",
+        "stock_name": "晶合集成",
+        "market_value_wan": 10093.2
+      },
+      {
+        "stock_code": "001309",
+        "stock_name": "德明利",
+        "market_value_wan": 8302.23
+      },
+      {
+        "stock_code": "688525",
+        "stock_name": "佰维存储",
+        "market_value_wan": 8197.91
+      },
+      {
+        "stock_code": "300475",
+        "stock_name": "香农芯创",
+        "market_value_wan": 7827.37
+      },
+      {
+        "stock_code": "688012",
+        "stock_name": "中微公司",
+        "market_value_wan": 7786.6
+      },
+      {
+        "stock_code": "688228",
+        "stock_name": "开普云",
+        "market_value_wan": 7742.46
+      }
+    ],
+    "2025-Q2": [
+      {
+        "stock_code": "300806",
+        "stock_name": "斯迪克",
+        "market_value_wan": 11001.59
+      },
+      {
+        "stock_code": "601058",
+        "stock_name": "赛轮轮胎",
+        "market_value_wan": 10488.91
+      },
+      {
+        "stock_code": "002127",
+        "stock_name": "南极电商",
+        "market_value_wan": 10044.93
+      },
+      {
+        "stock_code": "600418",
+        "stock_name": "江淮汽车",
+        "market_value_wan": 9823.65
+      },
+      {
+        "stock_code": "301078",
+        "stock_name": "孩子王",
+        "market_value_wan": 8870.66
+      },
+      {
+        "stock_code": "601100",
+        "stock_name": "恒立液压",
+        "market_value_wan": 8779.68
+      },
+      {
+        "stock_code": "688182",
+        "stock_name": "灿勤科技",
+        "market_value_wan": 7855.37
+      },
+      {
+        "stock_code": "601595",
+        "stock_name": "上海电影",
+        "market_value_wan": 7763.61
+      },
+      {
+        "stock_code": "002241",
+        "stock_name": "歌尔股份",
+        "market_value_wan": 7033.55
+      },
+      {
+        "stock_code": "300474",
+        "stock_name": "景嘉微",
+        "market_value_wan": 6417.43
+      }
+    ],
+    "2025-Q1": [
+      {
+        "stock_code": "601058",
+        "stock_name": "赛轮轮胎",
+        "market_value_wan": 11536.2
+      },
+      {
+        "stock_code": "300806",
+        "stock_name": "斯迪克",
+        "market_value_wan": 11248.29
+      },
+      {
+        "stock_code": "601100",
+        "stock_name": "恒立液压",
+        "market_value_wan": 9699.11
+      },
+      {
+        "stock_code": "002127",
+        "stock_name": "南极电商",
+        "market_value_wan": 9255.29
+      },
+      {
+        "stock_code": "601595",
+        "stock_name": "上海电影",
+        "market_value_wan": 9066.74
+      },
+      {
+        "stock_code": "002241",
+        "stock_name": "歌尔股份",
+        "market_value_wan": 7884.09
+      },
+      {
+        "stock_code": "301078",
+        "stock_name": "孩子王",
+        "market_value_wan": 7443.18
+      },
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 7315.63
+      },
+      {
+        "stock_code": "300433",
+        "stock_name": "蓝思科技",
+        "market_value_wan": 6853.79
+      },
+      {
+        "stock_code": "603986",
+        "stock_name": "兆易创新",
+        "market_value_wan": 6692.55
+      }
+    ]
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "166001",
+    "name": "中欧新趋势混合A",
+    "base_name": "中欧新趋势混合"
+  },
+  "fetched_at": "2026-08-01 21:00:32",
+  "quarters": {
+    "2026-Q2": [
+      {
+        "stock_code": "300308",
+        "stock_name": "中际旭创",
+        "market_value_wan": 44117.26
+      },
+      {
+        "stock_code": "300502",
+        "stock_name": "新易盛",
+        "market_value_wan": 37306.22
+      },
+      {
+        "stock_code": "601138",
+        "stock_name": "工业富联",
+        "market_value_wan": 34914.79
+      },
+      {
+        "stock_code": "600309",
+        "stock_name": "万华化学",
+        "market_value_wan": 33405.66
+      },
+      {
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "market_value_wan": 32411.05
+      },
+      {
+        "stock_code": "603259",
+        "stock_name": "药明康德",
+        "market_value_wan": 30875.99
+      },
+      {
+        "stock_code": "688256",
+        "stock_name": "寒武纪",
+        "market_value_wan": 23657.38
+      },
+      {
+        "stock_code": "000807",
+        "stock_name": "云铝股份",
+        "market_value_wan": 19085.69
+      },
+      {
+        "stock_code": "603009",
+        "stock_name": "北特科技",
+        "market_value_wan": 12326.37
+      },
+      {
+        "stock_code": "002493",
+        "stock_name": "荣盛石化",
+        "market_value_wan": 10888.08
+      }
+    ],
+    "2026-Q1": [
+      {
+        "stock_code": "600309",
+        "stock_name": "万华化学",
+        "market_value_wan": 46146.59
+      },
+      {
+        "stock_code": "300308",
+        "stock_name": "中际旭创",
+        "market_value_wan": 34004.03
+      },
+      {
+        "stock_code": "000807",
+        "stock_name": "云铝股份",
+        "market_value_wan": 31927.38
+      },
+      {
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "market_value_wan": 31198.49
+      },
+      {
+        "stock_code": "603259",
+        "stock_name": "药明康德",
+        "market_value_wan": 24326.84
+      },
+      {
+        "stock_code": "600487",
+        "stock_name": "亨通光电",
+        "market_value_wan": 23802.32
+      },
+      {
+        "stock_code": "000933",
+        "stock_name": "神火股份",
+        "market_value_wan": 20328.22
+      },
+      {
+        "stock_code": "600426",
+        "stock_name": "华鲁恒升",
+        "market_value_wan": 19391.26
+      },
+      {
+        "stock_code": "000426",
+        "stock_name": "兴业银锡",
+        "market_value_wan": 15710.96
+      },
+      {
+        "stock_code": "601600",
+        "stock_name": "中国铝业",
+        "market_value_wan": 15662.8
+      }
+    ]
+  }
+}

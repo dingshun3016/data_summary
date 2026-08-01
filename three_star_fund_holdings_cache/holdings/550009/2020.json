@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "550009",
+    "name": "中信保诚中小盘混合A",
+    "base_name": "中信保诚中小盘混合"
+  },
+  "fetched_at": "2026-06-15 00:05:45",
+  "quarters": {
+    "2020-Q4": [
+      {
+        "stock_code": "601012",
+        "stock_name": "隆基绿能",
+        "market_value_wan": 1369.17
+      },
+      {
+        "stock_code": "002129",
+        "stock_name": "TCL中环",
+        "market_value_wan": 1316.59
+      },
+      {
+        "stock_code": "300316",
+        "stock_name": "晶盛机电",
+        "market_value_wan": 930.62
+      },
+      {
+        "stock_code": "002460",
+        "stock_name": "赣锋锂业",
+        "market_value_wan": 862.22
+      },
+      {
+        "stock_code": "300124",
+        "stock_name": "汇川技术",
+        "market_value_wan": 827.57
+      },
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 769.99
+      },
+      {
+        "stock_code": "600588",
+        "stock_name": "用友网络",
+        "market_value_wan": 754.24
+      },
+      {
+        "stock_code": "603501",
+        "stock_name": "韦尔股份",
+        "market_value_wan": 746.45
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 737.33
+      },
+      {
+        "stock_code": "603799",
+        "stock_name": "华友钴业",
+        "market_value_wan": 727.08
+      }
+    ],
+    "2020-Q3": [
+      {
+        "stock_code": "002129",
+        "stock_name": "TCL中环",
+        "market_value_wan": 1186.15
+      },
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 1049.51
+      },
+      {
+        "stock_code": "300316",
+        "stock_name": "晶盛机电",
+        "market_value_wan": 948.25
+      },
+      {
+        "stock_code": "601012",
+        "stock_name": "隆基绿能",
+        "market_value_wan": 947.38
+      },
+      {
+        "stock_code": "600745",
+        "stock_name": "闻泰科技",
+        "market_value_wan": 906.44
+      },
+      {
+        "stock_code": "002241",
+        "stock_name": "歌尔股份",
+        "market_value_wan": 847.24
+      },
+      {
+        "stock_code": "600588",
+        "stock_name": "用友网络",
+        "market_value_wan": 656.93
+      },
+      {
+        "stock_code": "300124",
+        "stock_name": "汇川技术",
+        "market_value_wan": 513.57
+      },
+      {
+        "stock_code": "603259",
+        "stock_name": "药明康德",
+        "market_value_wan": 499.38
+      },
+      {
+        "stock_code": "002216",
+        "stock_name": "三全食品",
+        "market_value_wan": 498.95
+      }
+    ],
+    "2020-Q2": [
+      {
+        "stock_code": "002129",
+        "stock_name": "TCL中环",
+        "market_value_wan": 1202.75
+      },
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 978.24
+      },
+      {
+        "stock_code": "002371",
+        "stock_name": "北方华创",
+        "market_value_wan": 958.41
+      },
+      {
+        "stock_code": "600588",
+        "stock_name": "用友网络",
+        "market_value_wan": 954.44
+      },
+      {
+        "stock_code": "600745",
+        "stock_name": "闻泰科技",
+        "market_value_wan": 934.12
+      },
+      {
+        "stock_code": "300316",
+        "stock_name": "晶盛机电",
+        "market_value_wan": 742.45
+      },
+      {
+        "stock_code": "688066",
+        "stock_name": "航天宏图",
+        "market_value_wan": 691.22
+      },
+      {
+        "stock_code": "002384",
+        "stock_name": "东山精密",
+        "market_value_wan": 659.5
+      },
+      {
+        "stock_code": "002456",
+        "stock_name": "欧菲光",
+        "market_value_wan": 608.71
+      },
+      {
+        "stock_code": "688111",
+        "stock_name": "金山办公",
+        "market_value_wan": 571.7
+      }
+    ],
+    "2020-Q1": [
+      {
+        "stock_code": "002129",
+        "stock_name": "TCL中环",
+        "market_value_wan": 1040.04
+      },
+      {
+        "stock_code": "600745",
+        "stock_name": "闻泰科技",
+        "market_value_wan": 1018.71
+      },
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 921.18
+      },
+      {
+        "stock_code": "600183",
+        "stock_name": "生益科技",
+        "market_value_wan": 916.66
+      },
+      {
+        "stock_code": "002241",
+        "stock_name": "歌尔股份",
+        "market_value_wan": 914.2
+      },
+      {
+        "stock_code": "002371",
+        "stock_name": "北方华创",
+        "market_value_wan": 891.75
+      },
+      {
+        "stock_code": "688008",
+        "stock_name": "澜起科技",
+        "market_value_wan": 692.47
+      },
+      {
+        "stock_code": "300115",
+        "stock_name": "长盈精密",
+        "market_value_wan": 648.41
+      },
+      {
+        "stock_code": "300433",
+        "stock_name": "蓝思科技",
+        "market_value_wan": 639.04
+      },
+      {
+        "stock_code": "300782",
+        "stock_name": "卓胜微",
+        "market_value_wan": 617.7
+      }
+    ]
+  }
+}

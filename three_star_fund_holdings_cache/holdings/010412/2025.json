@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "010412",
+    "name": "汇安均衡优选混合A",
+    "base_name": "汇安均衡优选混合"
+  },
+  "fetched_at": "2026-06-14 23:40:29",
+  "quarters": {
+    "2025-Q4": [
+      {
+        "stock_code": "600350",
+        "stock_name": "山东高速",
+        "market_value_wan": 4399.1
+      },
+      {
+        "stock_code": "001965",
+        "stock_name": "招商公路",
+        "market_value_wan": 4318.07
+      },
+      {
+        "stock_code": "600012",
+        "stock_name": "皖通高速",
+        "market_value_wan": 4290.41
+      },
+      {
+        "stock_code": "000429",
+        "stock_name": "粤高速A",
+        "market_value_wan": 3971.51
+      },
+      {
+        "stock_code": "600377",
+        "stock_name": "宁沪高速",
+        "market_value_wan": 3953.43
+      },
+      {
+        "stock_code": "600674",
+        "stock_name": "川投能源",
+        "market_value_wan": 1843.14
+      },
+      {
+        "stock_code": "600941",
+        "stock_name": "中国移动",
+        "market_value_wan": 1805.76
+      },
+      {
+        "stock_code": "600900",
+        "stock_name": "长江电力",
+        "market_value_wan": 1785.02
+      },
+      {
+        "stock_code": "601088",
+        "stock_name": "中国神华",
+        "market_value_wan": 1758.11
+      },
+      {
+        "stock_code": "600285",
+        "stock_name": "羚锐制药",
+        "market_value_wan": 1687.04
+      }
+    ],
+    "2025-Q3": [
+      {
+        "stock_code": "688072",
+        "stock_name": "拓荆科技",
+        "market_value_wan": 6093.7
+      },
+      {
+        "stock_code": "688120",
+        "stock_name": "华海清科",
+        "market_value_wan": 6021.56
+      },
+      {
+        "stock_code": "688037",
+        "stock_name": "芯源微",
+        "market_value_wan": 5895.19
+      },
+      {
+        "stock_code": "002371",
+        "stock_name": "北方华创",
+        "market_value_wan": 5786.36
+      },
+      {
+        "stock_code": "688596",
+        "stock_name": "正帆科技",
+        "market_value_wan": 5726.02
+      },
+      {
+        "stock_code": "300666",
+        "stock_name": "江丰电子",
+        "market_value_wan": 5670.92
+      },
+      {
+        "stock_code": "688012",
+        "stock_name": "中微公司",
+        "market_value_wan": 5596.05
+      },
+      {
+        "stock_code": "688409",
+        "stock_name": "富创精密",
+        "market_value_wan": 4997.31
+      },
+      {
+        "stock_code": "300260",
+        "stock_name": "新莱应材",
+        "market_value_wan": 4086.75
+      },
+      {
+        "stock_code": "688361",
+        "stock_name": "中科飞测",
+        "market_value_wan": 4026.29
+      }
+    ],
+    "2025-Q2": [
+      {
+        "stock_code": "688037",
+        "stock_name": "芯源微",
+        "market_value_wan": 4963.89
+      },
+      {
+        "stock_code": "688120",
+        "stock_name": "华海清科",
+        "market_value_wan": 4801.42
+      },
+      {
+        "stock_code": "300666",
+        "stock_name": "江丰电子",
+        "market_value_wan": 4734.25
+      },
+      {
+        "stock_code": "688012",
+        "stock_name": "中微公司",
+        "market_value_wan": 4714.17
+      },
+      {
+        "stock_code": "688072",
+        "stock_name": "拓荆科技",
+        "market_value_wan": 4699.33
+      },
+      {
+        "stock_code": "002371",
+        "stock_name": "北方华创",
+        "market_value_wan": 4550.34
+      },
+      {
+        "stock_code": "688596",
+        "stock_name": "正帆科技",
+        "market_value_wan": 4423.05
+      },
+      {
+        "stock_code": "688409",
+        "stock_name": "富创精密",
+        "market_value_wan": 4163.92
+      },
+      {
+        "stock_code": "688361",
+        "stock_name": "中科飞测",
+        "market_value_wan": 3221.12
+      },
+      {
+        "stock_code": "600331",
+        "stock_name": "宏达股份",
+        "market_value_wan": 3209.41
+      }
+    ],
+    "2025-Q1": [
+      {
+        "stock_code": "688037",
+        "stock_name": "芯源微",
+        "market_value_wan": 5142.0
+      },
+      {
+        "stock_code": "688072",
+        "stock_name": "拓荆科技",
+        "market_value_wan": 4942.99
+      },
+      {
+        "stock_code": "688596",
+        "stock_name": "正帆科技",
+        "market_value_wan": 4921.72
+      },
+      {
+        "stock_code": "688012",
+        "stock_name": "中微公司",
+        "market_value_wan": 4864.98
+      },
+      {
+        "stock_code": "300666",
+        "stock_name": "江丰电子",
+        "market_value_wan": 4853.01
+      },
+      {
+        "stock_code": "688120",
+        "stock_name": "华海清科",
+        "market_value_wan": 4605.69
+      },
+      {
+        "stock_code": "688409",
+        "stock_name": "富创精密",
+        "market_value_wan": 4568.13
+      },
+      {
+        "stock_code": "002371",
+        "stock_name": "北方华创",
+        "market_value_wan": 4359.68
+      },
+      {
+        "stock_code": "300260",
+        "stock_name": "新莱应材",
+        "market_value_wan": 3573.77
+      },
+      {
+        "stock_code": "600331",
+        "stock_name": "宏达股份",
+        "market_value_wan": 3054.24
+      }
+    ]
+  }
+}

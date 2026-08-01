@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "163807",
+    "name": "中银优选灵活配置混合A",
+    "base_name": "中银优选灵活配置混合"
+  },
+  "fetched_at": "2026-06-14 23:53:55",
+  "quarters": {
+    "2025-Q4": [
+      {
+        "stock_code": "600801",
+        "stock_name": "华新建材",
+        "market_value_wan": 5415.59
+      },
+      {
+        "stock_code": "601231",
+        "stock_name": "环旭电子",
+        "market_value_wan": 3371.1
+      },
+      {
+        "stock_code": "300395",
+        "stock_name": "菲利华",
+        "market_value_wan": 3342.0
+      },
+      {
+        "stock_code": "600309",
+        "stock_name": "万华化学",
+        "market_value_wan": 2672.3
+      },
+      {
+        "stock_code": "002080",
+        "stock_name": "中材科技",
+        "market_value_wan": 2659.0
+      },
+      {
+        "stock_code": "600686",
+        "stock_name": "金龙汽车",
+        "market_value_wan": 2638.47
+      },
+      {
+        "stock_code": "600031",
+        "stock_name": "三一重工",
+        "market_value_wan": 2368.04
+      },
+      {
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "market_value_wan": 2211.37
+      },
+      {
+        "stock_code": "002517",
+        "stock_name": "恺英网络",
+        "market_value_wan": 1981.86
+      },
+      {
+        "stock_code": "600496",
+        "stock_name": "精工钢构",
+        "market_value_wan": 1922.61
+      }
+    ],
+    "2025-Q3": [
+      {
+        "stock_code": "002517",
+        "stock_name": "恺英网络",
+        "market_value_wan": 4907.82
+      },
+      {
+        "stock_code": "600801",
+        "stock_name": "华新水泥",
+        "market_value_wan": 3564.29
+      },
+      {
+        "stock_code": "688981",
+        "stock_name": "中芯国际",
+        "market_value_wan": 3320.84
+      },
+      {
+        "stock_code": "300395",
+        "stock_name": "菲利华",
+        "market_value_wan": 3045.41
+      },
+      {
+        "stock_code": "601555",
+        "stock_name": "东吴证券",
+        "market_value_wan": 2934.82
+      },
+      {
+        "stock_code": "301183",
+        "stock_name": "东田微",
+        "market_value_wan": 2613.99
+      },
+      {
+        "stock_code": "600309",
+        "stock_name": "万华化学",
+        "market_value_wan": 2448.15
+      },
+      {
+        "stock_code": "601231",
+        "stock_name": "环旭电子",
+        "market_value_wan": 2153.32
+      },
+      {
+        "stock_code": "300037",
+        "stock_name": "新宙邦",
+        "market_value_wan": 2011.89
+      },
+      {
+        "stock_code": "600031",
+        "stock_name": "三一重工",
+        "market_value_wan": 1980.51
+      }
+    ],
+    "2025-Q2": [
+      {
+        "stock_code": "002517",
+        "stock_name": "恺英网络",
+        "market_value_wan": 5427.08
+      },
+      {
+        "stock_code": "688981",
+        "stock_name": "中芯国际",
+        "market_value_wan": 3489.52
+      },
+      {
+        "stock_code": "688002",
+        "stock_name": "睿创微纳",
+        "market_value_wan": 3273.52
+      },
+      {
+        "stock_code": "601555",
+        "stock_name": "东吴证券",
+        "market_value_wan": 2830.98
+      },
+      {
+        "stock_code": "603067",
+        "stock_name": "振华股份",
+        "market_value_wan": 2828.52
+      },
+      {
+        "stock_code": "603005",
+        "stock_name": "晶方科技",
+        "market_value_wan": 2687.62
+      },
+      {
+        "stock_code": "689009",
+        "stock_name": "九号公司",
+        "market_value_wan": 2664.85
+      },
+      {
+        "stock_code": "601166",
+        "stock_name": "兴业银行",
+        "market_value_wan": 2214.5
+      },
+      {
+        "stock_code": "600760",
+        "stock_name": "中航沈飞",
+        "market_value_wan": 2151.94
+      },
+      {
+        "stock_code": "600562",
+        "stock_name": "国睿科技",
+        "market_value_wan": 2010.01
+      }
+    ],
+    "2025-Q1": [
+      {
+        "stock_code": "002517",
+        "stock_name": "恺英网络",
+        "market_value_wan": 5006.38
+      },
+      {
+        "stock_code": "688981",
+        "stock_name": "中芯国际",
+        "market_value_wan": 4173.05
+      },
+      {
+        "stock_code": "689009",
+        "stock_name": "九号公司",
+        "market_value_wan": 4003.35
+      },
+      {
+        "stock_code": "300953",
+        "stock_name": "震裕科技",
+        "market_value_wan": 3495.05
+      },
+      {
+        "stock_code": "002916",
+        "stock_name": "深南电路",
+        "market_value_wan": 3355.93
+      },
+      {
+        "stock_code": "603005",
+        "stock_name": "晶方科技",
+        "market_value_wan": 3264.72
+      },
+      {
+        "stock_code": "603067",
+        "stock_name": "振华股份",
+        "market_value_wan": 3047.95
+      },
+      {
+        "stock_code": "601689",
+        "stock_name": "拓普集团",
+        "market_value_wan": 2533.71
+      },
+      {
+        "stock_code": "688598",
+        "stock_name": "金博股份",
+        "market_value_wan": 2166.45
+      },
+      {
+        "stock_code": "002345",
+        "stock_name": "潮宏基",
+        "market_value_wan": 2092.42
+      }
+    ]
+  }
+}

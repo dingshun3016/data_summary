@@ -1,0 +1,55 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "010024",
+    "name": "广发沪港深新起点股票C",
+    "base_name": "广发沪港深新起点股票"
+  },
+  "fetched_at": "2026-08-01 20:58:57",
+  "quarters": {
+    "2026-Q2": [
+      {
+        "stock_code": "300604",
+        "stock_name": "长川科技",
+        "market_value_wan": 18274.1
+      },
+      {
+        "stock_code": "300223",
+        "stock_name": "北京君正",
+        "market_value_wan": 17014.8
+      },
+      {
+        "stock_code": "688072",
+        "stock_name": "拓荆科技",
+        "market_value_wan": 16397.52
+      },
+      {
+        "stock_code": "688041",
+        "stock_name": "海光信息",
+        "market_value_wan": 15535.31
+      },
+      {
+        "stock_code": "688808",
+        "stock_name": "联讯仪器",
+        "market_value_wan": 14646.75
+      }
+    ],
+    "2026-Q1": [
+      {
+        "stock_code": "600893",
+        "stock_name": "航发动力",
+        "market_value_wan": 12683.05
+      },
+      {
+        "stock_code": "600487",
+        "stock_name": "亨通光电",
+        "market_value_wan": 11857.45
+      },
+      {
+        "stock_code": "300604",
+        "stock_name": "长川科技",
+        "market_value_wan": 8310.07
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "160323",
+    "name": "华夏磐泰混合(LOF)A",
+    "base_name": "华夏磐泰混合(LOF)"
+  },
+  "fetched_at": "2026-06-14 22:12:40",
+  "quarters": {
+    "2018-Q4": [
+      {
+        "stock_code": "601888",
+        "stock_name": "中国中免",
+        "market_value_wan": 13.15
+      },
+      {
+        "stock_code": "600104",
+        "stock_name": "上汽集团",
+        "market_value_wan": 11.27
+      },
+      {
+        "stock_code": "601989",
+        "stock_name": "中国重工",
+        "market_value_wan": 10.35
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 9.79
+      },
+      {
+        "stock_code": "600406",
+        "stock_name": "国电南瑞",
+        "market_value_wan": 7.6
+      },
+      {
+        "stock_code": "601766",
+        "stock_name": "中国中车",
+        "market_value_wan": 7.4
+      },
+      {
+        "stock_code": "601857",
+        "stock_name": "中国石油",
+        "market_value_wan": 7.35
+      },
+      {
+        "stock_code": "000002",
+        "stock_name": "万科A",
+        "market_value_wan": 7.35
+      },
+      {
+        "stock_code": "600900",
+        "stock_name": "长江电力",
+        "market_value_wan": 7.27
+      },
+      {
+        "stock_code": "601600",
+        "stock_name": "中国铝业",
+        "market_value_wan": 7.24
+      }
+    ],
+    "2018-Q3": [
+      {
+        "stock_code": "000968",
+        "stock_name": "蓝焰控股",
+        "market_value_wan": 69.81
+      },
+      {
+        "stock_code": "002557",
+        "stock_name": "洽洽食品",
+        "market_value_wan": 56.78
+      },
+      {
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "market_value_wan": 48.37
+      },
+      {
+        "stock_code": "601727",
+        "stock_name": "上海电气",
+        "market_value_wan": 46.85
+      },
+      {
+        "stock_code": "600900",
+        "stock_name": "长江电力",
+        "market_value_wan": 44.81
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 43.65
+      },
+      {
+        "stock_code": "600104",
+        "stock_name": "上汽集团",
+        "market_value_wan": 41.68
+      },
+      {
+        "stock_code": "002024",
+        "stock_name": "ST易购",
+        "market_value_wan": 39.3
+      },
+      {
+        "stock_code": "002027",
+        "stock_name": "分众传媒",
+        "market_value_wan": 38.69
+      },
+      {
+        "stock_code": "600398",
+        "stock_name": "海澜之家",
+        "market_value_wan": 37.9
+      }
+    ],
+    "2018-Q2": [
+      {
+        "stock_code": "000968",
+        "stock_name": "蓝焰控股",
+        "market_value_wan": 163.64
+      },
+      {
+        "stock_code": "600282",
+        "stock_name": "南钢股份",
+        "market_value_wan": 162.17
+      },
+      {
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "market_value_wan": 144.11
+      },
+      {
+        "stock_code": "000651",
+        "stock_name": "格力电器",
+        "market_value_wan": 135.79
+      },
+      {
+        "stock_code": "002230",
+        "stock_name": "科大讯飞",
+        "market_value_wan": 132.84
+      },
+      {
+        "stock_code": "600398",
+        "stock_name": "海澜之家",
+        "market_value_wan": 132.67
+      },
+      {
+        "stock_code": "601727",
+        "stock_name": "上海电气",
+        "market_value_wan": 132.57
+      },
+      {
+        "stock_code": "600585",
+        "stock_name": "海螺水泥",
+        "market_value_wan": 125.68
+      },
+      {
+        "stock_code": "600569",
+        "stock_name": "安阳钢铁",
+        "market_value_wan": 123.99
+      },
+      {
+        "stock_code": "600276",
+        "stock_name": "恒瑞医药",
+        "market_value_wan": 119.84
+      }
+    ],
+    "2018-Q1": [
+      {
+        "stock_code": "601288",
+        "stock_name": "农业银行",
+        "market_value_wan": 206.88
+      },
+      {
+        "stock_code": "600276",
+        "stock_name": "恒瑞医药",
+        "market_value_wan": 206.21
+      },
+      {
+        "stock_code": "002230",
+        "stock_name": "科大讯飞",
+        "market_value_wan": 194.66
+      },
+      {
+        "stock_code": "601600",
+        "stock_name": "中国铝业",
+        "market_value_wan": 181.02
+      },
+      {
+        "stock_code": "600104",
+        "stock_name": "上汽集团",
+        "market_value_wan": 178.55
+      },
+      {
+        "stock_code": "002415",
+        "stock_name": "海康威视",
+        "market_value_wan": 177.18
+      },
+      {
+        "stock_code": "601989",
+        "stock_name": "中国重工",
+        "market_value_wan": 173.43
+      },
+      {
+        "stock_code": "600900",
+        "stock_name": "长江电力",
+        "market_value_wan": 173.34
+      },
+      {
+        "stock_code": "601888",
+        "stock_name": "中国中免",
+        "market_value_wan": 163.9
+      },
+      {
+        "stock_code": "600050",
+        "stock_name": "中国联通",
+        "market_value_wan": 161.16
+      }
+    ]
+  }
+}

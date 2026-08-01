@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "006624",
+    "name": "中泰玉衡价值优选混合A",
+    "base_name": "中泰玉衡价值优选混合"
+  },
+  "fetched_at": "2026-06-14 22:34:25",
+  "quarters": {
+    "2020-Q4": [
+      {
+        "stock_code": "601668",
+        "stock_name": "中国建筑",
+        "market_value_wan": 1599.5
+      },
+      {
+        "stock_code": "601117",
+        "stock_name": "中国化学",
+        "market_value_wan": 1462.51
+      },
+      {
+        "stock_code": "600153",
+        "stock_name": "建发股份",
+        "market_value_wan": 1334.92
+      },
+      {
+        "stock_code": "601088",
+        "stock_name": "中国神华",
+        "market_value_wan": 1142.58
+      },
+      {
+        "stock_code": "600352",
+        "stock_name": "浙江龙盛",
+        "market_value_wan": 1037.16
+      },
+      {
+        "stock_code": "600426",
+        "stock_name": "华鲁恒升",
+        "market_value_wan": 705.47
+      },
+      {
+        "stock_code": "600486",
+        "stock_name": "扬农化工",
+        "market_value_wan": 691.68
+      },
+      {
+        "stock_code": "601111",
+        "stock_name": "中国国航",
+        "market_value_wan": 656.4
+      },
+      {
+        "stock_code": "600761",
+        "stock_name": "安徽合力",
+        "market_value_wan": 595.56
+      },
+      {
+        "stock_code": "002078",
+        "stock_name": "太阳纸业",
+        "market_value_wan": 549.56
+      }
+    ],
+    "2020-Q3": [
+      {
+        "stock_code": "601668",
+        "stock_name": "中国建筑",
+        "market_value_wan": 1551.08
+      },
+      {
+        "stock_code": "600153",
+        "stock_name": "建发股份",
+        "market_value_wan": 1122.44
+      },
+      {
+        "stock_code": "601088",
+        "stock_name": "中国神华",
+        "market_value_wan": 1044.88
+      },
+      {
+        "stock_code": "600352",
+        "stock_name": "浙江龙盛",
+        "market_value_wan": 1010.69
+      },
+      {
+        "stock_code": "601117",
+        "stock_name": "中国化学",
+        "market_value_wan": 954.47
+      },
+      {
+        "stock_code": "600426",
+        "stock_name": "华鲁恒升",
+        "market_value_wan": 766.44
+      },
+      {
+        "stock_code": "603589",
+        "stock_name": "口子窖",
+        "market_value_wan": 695.14
+      },
+      {
+        "stock_code": "600486",
+        "stock_name": "扬农化工",
+        "market_value_wan": 640.21
+      },
+      {
+        "stock_code": "600176",
+        "stock_name": "中国巨石",
+        "market_value_wan": 627.13
+      },
+      {
+        "stock_code": "601111",
+        "stock_name": "中国国航",
+        "market_value_wan": 621.34
+      }
+    ],
+    "2020-Q2": [
+      {
+        "stock_code": "600426",
+        "stock_name": "华鲁恒升",
+        "market_value_wan": 1500.92
+      },
+      {
+        "stock_code": "600153",
+        "stock_name": "建发股份",
+        "market_value_wan": 1355.26
+      },
+      {
+        "stock_code": "002078",
+        "stock_name": "太阳纸业",
+        "market_value_wan": 1344.65
+      },
+      {
+        "stock_code": "600176",
+        "stock_name": "中国巨石",
+        "market_value_wan": 1182.27
+      },
+      {
+        "stock_code": "603589",
+        "stock_name": "口子窖",
+        "market_value_wan": 1128.22
+      },
+      {
+        "stock_code": "601088",
+        "stock_name": "中国神华",
+        "market_value_wan": 1085.2
+      },
+      {
+        "stock_code": "601111",
+        "stock_name": "中国国航",
+        "market_value_wan": 1000.33
+      },
+      {
+        "stock_code": "000501",
+        "stock_name": "武商集团",
+        "market_value_wan": 998.66
+      },
+      {
+        "stock_code": "601877",
+        "stock_name": "正泰电器",
+        "market_value_wan": 920.95
+      },
+      {
+        "stock_code": "601668",
+        "stock_name": "中国建筑",
+        "market_value_wan": 916.94
+      }
+    ],
+    "2020-Q1": [
+      {
+        "stock_code": "600426",
+        "stock_name": "华鲁恒升",
+        "market_value_wan": 2377.81
+      },
+      {
+        "stock_code": "600153",
+        "stock_name": "建发股份",
+        "market_value_wan": 2002.51
+      },
+      {
+        "stock_code": "002078",
+        "stock_name": "太阳纸业",
+        "market_value_wan": 1988.08
+      },
+      {
+        "stock_code": "601088",
+        "stock_name": "中国神华",
+        "market_value_wan": 1793.71
+      },
+      {
+        "stock_code": "600585",
+        "stock_name": "海螺水泥",
+        "market_value_wan": 1687.86
+      },
+      {
+        "stock_code": "603589",
+        "stock_name": "口子窖",
+        "market_value_wan": 1620.71
+      },
+      {
+        "stock_code": "000501",
+        "stock_name": "武商集团",
+        "market_value_wan": 1570.23
+      },
+      {
+        "stock_code": "600176",
+        "stock_name": "中国巨石",
+        "market_value_wan": 1536.95
+      },
+      {
+        "stock_code": "601111",
+        "stock_name": "中国国航",
+        "market_value_wan": 1536.21
+      },
+      {
+        "stock_code": "601117",
+        "stock_name": "中国化学",
+        "market_value_wan": 1420.08
+      }
+    ]
+  }
+}

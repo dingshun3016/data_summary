@@ -1,0 +1,75 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "009190",
+    "name": "景顺长城核心优选一年持有混合",
+    "base_name": "景顺长城核心优选一年持有混合"
+  },
+  "fetched_at": "2026-08-01 20:58:12",
+  "quarters": {
+    "2026-Q2": [
+      {
+        "stock_code": "601899",
+        "stock_name": "紫金矿业",
+        "market_value_wan": 4860.57
+      },
+      {
+        "stock_code": "002353",
+        "stock_name": "杰瑞股份",
+        "market_value_wan": 4748.85
+      },
+      {
+        "stock_code": "000725",
+        "stock_name": "京东方A",
+        "market_value_wan": 3971.45
+      },
+      {
+        "stock_code": "600961",
+        "stock_name": "株冶集团",
+        "market_value_wan": 3873.52
+      },
+      {
+        "stock_code": "000338",
+        "stock_name": "潍柴动力",
+        "market_value_wan": 3675.75
+      },
+      {
+        "stock_code": "688545",
+        "stock_name": "兴福电子",
+        "market_value_wan": 3306.26
+      },
+      {
+        "stock_code": "000960",
+        "stock_name": "锡业股份",
+        "market_value_wan": 2826.62
+      }
+    ],
+    "2026-Q1": [
+      {
+        "stock_code": "601899",
+        "stock_name": "紫金矿业",
+        "market_value_wan": 6326.08
+      },
+      {
+        "stock_code": "000338",
+        "stock_name": "潍柴动力",
+        "market_value_wan": 3656.36
+      },
+      {
+        "stock_code": "000960",
+        "stock_name": "锡业股份",
+        "market_value_wan": 3444.55
+      },
+      {
+        "stock_code": "002353",
+        "stock_name": "杰瑞股份",
+        "market_value_wan": 3014.35
+      },
+      {
+        "stock_code": "600961",
+        "stock_name": "株冶集团",
+        "market_value_wan": 2264.87
+      }
+    ]
+  }
+}

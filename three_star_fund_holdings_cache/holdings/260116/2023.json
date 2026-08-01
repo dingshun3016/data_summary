@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "260116",
+    "name": "景顺长城核心竞争力混合A",
+    "base_name": "景顺长城核心竞争力混合"
+  },
+  "fetched_at": "2026-06-14 23:57:43",
+  "quarters": {
+    "2023-Q4": [
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 17260.0
+      },
+      {
+        "stock_code": "600938",
+        "stock_name": "中国海油",
+        "market_value_wan": 16776.0
+      },
+      {
+        "stock_code": "603298",
+        "stock_name": "杭叉集团",
+        "market_value_wan": 11196.19
+      },
+      {
+        "stock_code": "601899",
+        "stock_name": "紫金矿业",
+        "market_value_wan": 9968.0
+      },
+      {
+        "stock_code": "600761",
+        "stock_name": "安徽合力",
+        "market_value_wan": 9105.0
+      },
+      {
+        "stock_code": "603529",
+        "stock_name": "爱玛科技",
+        "market_value_wan": 7512.0
+      },
+      {
+        "stock_code": "600026",
+        "stock_name": "中远海能",
+        "market_value_wan": 6120.0
+      },
+      {
+        "stock_code": "601699",
+        "stock_name": "潞安环能",
+        "market_value_wan": 5477.5
+      },
+      {
+        "stock_code": "605499",
+        "stock_name": "东鹏饮料",
+        "market_value_wan": 5474.61
+      },
+      {
+        "stock_code": "002262",
+        "stock_name": "恩华药业",
+        "market_value_wan": 5424.0
+      }
+    ],
+    "2023-Q3": [
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 17985.5
+      },
+      {
+        "stock_code": "600938",
+        "stock_name": "中国海油",
+        "market_value_wan": 16912.0
+      },
+      {
+        "stock_code": "603298",
+        "stock_name": "杭叉集团",
+        "market_value_wan": 10228.19
+      },
+      {
+        "stock_code": "600761",
+        "stock_name": "安徽合力",
+        "market_value_wan": 9910.0
+      },
+      {
+        "stock_code": "601899",
+        "stock_name": "紫金矿业",
+        "market_value_wan": 9704.0
+      },
+      {
+        "stock_code": "603529",
+        "stock_name": "爱玛科技",
+        "market_value_wan": 8880.0
+      },
+      {
+        "stock_code": "600026",
+        "stock_name": "中远海能",
+        "market_value_wan": 8112.0
+      },
+      {
+        "stock_code": "000063",
+        "stock_name": "中兴通讯",
+        "market_value_wan": 7189.6
+      },
+      {
+        "stock_code": "002594",
+        "stock_name": "比亚迪",
+        "market_value_wan": 7101.0
+      },
+      {
+        "stock_code": "000893",
+        "stock_name": "亚钾国际",
+        "market_value_wan": 7022.5
+      }
+    ],
+    "2023-Q2": [
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 16910.0
+      },
+      {
+        "stock_code": "600938",
+        "stock_name": "中国海油",
+        "market_value_wan": 12684.0
+      },
+      {
+        "stock_code": "603529",
+        "stock_name": "爱玛科技",
+        "market_value_wan": 12082.5
+      },
+      {
+        "stock_code": "601899",
+        "stock_name": "紫金矿业",
+        "market_value_wan": 10233.0
+      },
+      {
+        "stock_code": "000063",
+        "stock_name": "中兴通讯",
+        "market_value_wan": 9108.0
+      },
+      {
+        "stock_code": "603298",
+        "stock_name": "杭叉集团",
+        "market_value_wan": 8242.68
+      },
+      {
+        "stock_code": "600761",
+        "stock_name": "安徽合力",
+        "market_value_wan": 7972.0
+      },
+      {
+        "stock_code": "002594",
+        "stock_name": "比亚迪",
+        "market_value_wan": 7748.1
+      },
+      {
+        "stock_code": "002262",
+        "stock_name": "恩华药业",
+        "market_value_wan": 7707.5
+      },
+      {
+        "stock_code": "600941",
+        "stock_name": "中国移动",
+        "market_value_wan": 7464.0
+      }
+    ],
+    "2023-Q1": [
+      {
+        "stock_code": "603529",
+        "stock_name": "爱玛科技",
+        "market_value_wan": 17832.5
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 14560.0
+      },
+      {
+        "stock_code": "600938",
+        "stock_name": "中国海油",
+        "market_value_wan": 12780.03
+      },
+      {
+        "stock_code": "600941",
+        "stock_name": "中国移动",
+        "market_value_wan": 11696.08
+      },
+      {
+        "stock_code": "000893",
+        "stock_name": "亚钾国际",
+        "market_value_wan": 9565.52
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 8121.0
+      },
+      {
+        "stock_code": "600761",
+        "stock_name": "安徽合力",
+        "market_value_wan": 8082.04
+      },
+      {
+        "stock_code": "601899",
+        "stock_name": "紫金矿业",
+        "market_value_wan": 8053.5
+      },
+      {
+        "stock_code": "603259",
+        "stock_name": "药明康德",
+        "market_value_wan": 7950.0
+      },
+      {
+        "stock_code": "002262",
+        "stock_name": "恩华药业",
+        "market_value_wan": 7905.0
+      }
+    ]
+  }
+}

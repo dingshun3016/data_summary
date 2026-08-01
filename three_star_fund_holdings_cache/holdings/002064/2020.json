@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "002064",
+    "name": "华富产业升级灵活配置混合A",
+    "base_name": "华富产业升级灵活配置混合"
+  },
+  "fetched_at": "2026-06-14 23:03:26",
+  "quarters": {
+    "2020-Q4": [
+      {
+        "stock_code": "603501",
+        "stock_name": "韦尔股份",
+        "market_value_wan": 2311.0
+      },
+      {
+        "stock_code": "603986",
+        "stock_name": "兆易创新",
+        "market_value_wan": 1931.95
+      },
+      {
+        "stock_code": "603920",
+        "stock_name": "世运电路",
+        "market_value_wan": 1674.24
+      },
+      {
+        "stock_code": "300073",
+        "stock_name": "当升科技",
+        "market_value_wan": 1348.88
+      },
+      {
+        "stock_code": "600588",
+        "stock_name": "用友网络",
+        "market_value_wan": 1219.59
+      },
+      {
+        "stock_code": "300763",
+        "stock_name": "锦浪科技",
+        "market_value_wan": 1043.0
+      },
+      {
+        "stock_code": "002049",
+        "stock_name": "紫光国微",
+        "market_value_wan": 936.66
+      },
+      {
+        "stock_code": "600703",
+        "stock_name": "三安光电",
+        "market_value_wan": 891.33
+      },
+      {
+        "stock_code": "688390",
+        "stock_name": "固德威",
+        "market_value_wan": 873.35
+      },
+      {
+        "stock_code": "603678",
+        "stock_name": "火炬电子",
+        "market_value_wan": 867.6
+      }
+    ],
+    "2020-Q3": [
+      {
+        "stock_code": "002241",
+        "stock_name": "歌尔股份",
+        "market_value_wan": 1285.67
+      },
+      {
+        "stock_code": "603986",
+        "stock_name": "兆易创新",
+        "market_value_wan": 1191.34
+      },
+      {
+        "stock_code": "002153",
+        "stock_name": "石基信息",
+        "market_value_wan": 1106.1
+      },
+      {
+        "stock_code": "002236",
+        "stock_name": "大华股份",
+        "market_value_wan": 1000.39
+      },
+      {
+        "stock_code": "300073",
+        "stock_name": "当升科技",
+        "market_value_wan": 846.0
+      },
+      {
+        "stock_code": "002439",
+        "stock_name": "启明星辰",
+        "market_value_wan": 752.46
+      },
+      {
+        "stock_code": "600703",
+        "stock_name": "三安光电",
+        "market_value_wan": 703.58
+      },
+      {
+        "stock_code": "300747",
+        "stock_name": "锐科激光",
+        "market_value_wan": 642.27
+      },
+      {
+        "stock_code": "300502",
+        "stock_name": "新易盛",
+        "market_value_wan": 570.67
+      },
+      {
+        "stock_code": "300124",
+        "stock_name": "汇川技术",
+        "market_value_wan": 514.15
+      }
+    ],
+    "2020-Q2": [
+      {
+        "stock_code": "603986",
+        "stock_name": "兆易创新",
+        "market_value_wan": 538.35
+      },
+      {
+        "stock_code": "002153",
+        "stock_name": "石基信息",
+        "market_value_wan": 397.33
+      },
+      {
+        "stock_code": "600570",
+        "stock_name": "恒生电子",
+        "market_value_wan": 392.03
+      },
+      {
+        "stock_code": "600588",
+        "stock_name": "用友网络",
+        "market_value_wan": 343.98
+      },
+      {
+        "stock_code": "002439",
+        "stock_name": "启明星辰",
+        "market_value_wan": 328.15
+      },
+      {
+        "stock_code": "000063",
+        "stock_name": "中兴通讯",
+        "market_value_wan": 272.88
+      },
+      {
+        "stock_code": "300253",
+        "stock_name": "卫宁健康",
+        "market_value_wan": 238.58
+      },
+      {
+        "stock_code": "002241",
+        "stock_name": "歌尔股份",
+        "market_value_wan": 234.88
+      },
+      {
+        "stock_code": "300073",
+        "stock_name": "当升科技",
+        "market_value_wan": 224.88
+      },
+      {
+        "stock_code": "300502",
+        "stock_name": "新易盛",
+        "market_value_wan": 210.32
+      }
+    ],
+    "2020-Q1": [
+      {
+        "stock_code": "603986",
+        "stock_name": "兆易创新",
+        "market_value_wan": 333.97
+      },
+      {
+        "stock_code": "002439",
+        "stock_name": "启明星辰",
+        "market_value_wan": 288.6
+      },
+      {
+        "stock_code": "600570",
+        "stock_name": "恒生电子",
+        "market_value_wan": 246.12
+      },
+      {
+        "stock_code": "600588",
+        "stock_name": "用友网络",
+        "market_value_wan": 242.76
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 240.78
+      },
+      {
+        "stock_code": "300253",
+        "stock_name": "卫宁健康",
+        "market_value_wan": 167.76
+      },
+      {
+        "stock_code": "000063",
+        "stock_name": "中兴通讯",
+        "market_value_wan": 162.64
+      },
+      {
+        "stock_code": "600845",
+        "stock_name": "宝信软件",
+        "market_value_wan": 151.05
+      },
+      {
+        "stock_code": "601698",
+        "stock_name": "中国卫通",
+        "market_value_wan": 142.9
+      },
+      {
+        "stock_code": "300502",
+        "stock_name": "新易盛",
+        "market_value_wan": 138.87
+      }
+    ]
+  }
+}

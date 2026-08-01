@@ -1,0 +1,95 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "011565",
+    "name": "富国周期优势混合C",
+    "base_name": "富国周期优势混合"
+  },
+  "fetched_at": "2026-08-01 20:59:49",
+  "quarters": {
+    "2026-Q2": [
+      {
+        "stock_code": "000960",
+        "stock_name": "锡业股份",
+        "market_value_wan": 5862.19
+      },
+      {
+        "stock_code": "600549",
+        "stock_name": "厦门钨业",
+        "market_value_wan": 5317.59
+      },
+      {
+        "stock_code": "002028",
+        "stock_name": "思源电气",
+        "market_value_wan": 5052.74
+      },
+      {
+        "stock_code": "000630",
+        "stock_name": "铜陵有色",
+        "market_value_wan": 4561.9
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 4213.07
+      },
+      {
+        "stock_code": "002142",
+        "stock_name": "宁波银行",
+        "market_value_wan": 3885.68
+      },
+      {
+        "stock_code": "601899",
+        "stock_name": "紫金矿业",
+        "market_value_wan": 3476.36
+      },
+      {
+        "stock_code": "600885",
+        "stock_name": "宏发股份",
+        "market_value_wan": 3372.3
+      },
+      {
+        "stock_code": "300502",
+        "stock_name": "新易盛",
+        "market_value_wan": 3339.71
+      }
+    ],
+    "2026-Q1": [
+      {
+        "stock_code": "601899",
+        "stock_name": "紫金矿业",
+        "market_value_wan": 10064.34
+      },
+      {
+        "stock_code": "600549",
+        "stock_name": "厦门钨业",
+        "market_value_wan": 6559.43
+      },
+      {
+        "stock_code": "002028",
+        "stock_name": "思源电气",
+        "market_value_wan": 6269.39
+      },
+      {
+        "stock_code": "000960",
+        "stock_name": "锡业股份",
+        "market_value_wan": 4524.44
+      },
+      {
+        "stock_code": "600111",
+        "stock_name": "北方稀土",
+        "market_value_wan": 4354.14
+      },
+      {
+        "stock_code": "600489",
+        "stock_name": "中金黄金",
+        "market_value_wan": 4291.5
+      },
+      {
+        "stock_code": "002142",
+        "stock_name": "宁波银行",
+        "market_value_wan": 3985.14
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "002980",
+    "name": "华夏创新前沿股票A",
+    "base_name": "华夏创新前沿股票"
+  },
+  "fetched_at": "2026-06-14 23:08:42",
+  "quarters": {
+    "2018-Q4": [
+      {
+        "stock_code": "300662",
+        "stock_name": "科锐国际",
+        "market_value_wan": 1013.46
+      },
+      {
+        "stock_code": "600276",
+        "stock_name": "恒瑞医药",
+        "market_value_wan": 926.29
+      },
+      {
+        "stock_code": "300003",
+        "stock_name": "乐普医疗",
+        "market_value_wan": 780.38
+      },
+      {
+        "stock_code": "300413",
+        "stock_name": "芒果超媒",
+        "market_value_wan": 753.15
+      },
+      {
+        "stock_code": "300059",
+        "stock_name": "东方财富",
+        "market_value_wan": 660.66
+      },
+      {
+        "stock_code": "002410",
+        "stock_name": "广联达",
+        "market_value_wan": 624.3
+      },
+      {
+        "stock_code": "600867",
+        "stock_name": "通化东宝",
+        "market_value_wan": 566.09
+      },
+      {
+        "stock_code": "300454",
+        "stock_name": "深信服",
+        "market_value_wan": 556.42
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 520.29
+      },
+      {
+        "stock_code": "000063",
+        "stock_name": "中兴通讯",
+        "market_value_wan": 511.49
+      }
+    ],
+    "2018-Q3": [
+      {
+        "stock_code": "300003",
+        "stock_name": "乐普医疗",
+        "market_value_wan": 1138.13
+      },
+      {
+        "stock_code": "600276",
+        "stock_name": "恒瑞医药",
+        "market_value_wan": 957.58
+      },
+      {
+        "stock_code": "002410",
+        "stock_name": "广联达",
+        "market_value_wan": 803.4
+      },
+      {
+        "stock_code": "600867",
+        "stock_name": "通化东宝",
+        "market_value_wan": 698.68
+      },
+      {
+        "stock_code": "300413",
+        "stock_name": "芒果超媒",
+        "market_value_wan": 686.41
+      },
+      {
+        "stock_code": "300662",
+        "stock_name": "科锐国际",
+        "market_value_wan": 658.41
+      },
+      {
+        "stock_code": "002376",
+        "stock_name": "新北洋",
+        "market_value_wan": 656.01
+      },
+      {
+        "stock_code": "600570",
+        "stock_name": "恒生电子",
+        "market_value_wan": 628.84
+      },
+      {
+        "stock_code": "002185",
+        "stock_name": "华天科技",
+        "market_value_wan": 608.66
+      },
+      {
+        "stock_code": "603039",
+        "stock_name": "泛微网络",
+        "market_value_wan": 602.37
+      }
+    ],
+    "2018-Q2": [
+      {
+        "stock_code": "300003",
+        "stock_name": "乐普医疗",
+        "market_value_wan": 1375.5
+      },
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 1367.5
+      },
+      {
+        "stock_code": "603096",
+        "stock_name": "新经典",
+        "market_value_wan": 1245.81
+      },
+      {
+        "stock_code": "600276",
+        "stock_name": "恒瑞医药",
+        "market_value_wan": 1142.46
+      },
+      {
+        "stock_code": "002456",
+        "stock_name": "欧菲光",
+        "market_value_wan": 1029.58
+      },
+      {
+        "stock_code": "002415",
+        "stock_name": "海康威视",
+        "market_value_wan": 969.46
+      },
+      {
+        "stock_code": "300630",
+        "stock_name": "普利制药",
+        "market_value_wan": 930.92
+      },
+      {
+        "stock_code": "002410",
+        "stock_name": "广联达",
+        "market_value_wan": 831.9
+      },
+      {
+        "stock_code": "601607",
+        "stock_name": "上海医药",
+        "market_value_wan": 717.0
+      },
+      {
+        "stock_code": "002027",
+        "stock_name": "分众传媒",
+        "market_value_wan": 689.04
+      }
+    ],
+    "2018-Q1": [
+      {
+        "stock_code": "002456",
+        "stock_name": "欧菲光",
+        "market_value_wan": 2228.6
+      },
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 1467.0
+      },
+      {
+        "stock_code": "300003",
+        "stock_name": "乐普医疗",
+        "market_value_wan": 1264.5
+      },
+      {
+        "stock_code": "603096",
+        "stock_name": "新经典",
+        "market_value_wan": 1155.25
+      },
+      {
+        "stock_code": "000968",
+        "stock_name": "蓝焰控股",
+        "market_value_wan": 1098.12
+      },
+      {
+        "stock_code": "002415",
+        "stock_name": "海康威视",
+        "market_value_wan": 1078.34
+      },
+      {
+        "stock_code": "002583",
+        "stock_name": "海能达",
+        "market_value_wan": 1046.26
+      },
+      {
+        "stock_code": "002027",
+        "stock_name": "分众传媒",
+        "market_value_wan": 1031.2
+      },
+      {
+        "stock_code": "600276",
+        "stock_name": "恒瑞医药",
+        "market_value_wan": 1009.32
+      },
+      {
+        "stock_code": "002410",
+        "stock_name": "广联达",
+        "market_value_wan": 761.1
+      }
+    ]
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "010898",
+    "name": "银河产业动力混合A",
+    "base_name": "银河产业动力混合"
+  },
+  "fetched_at": "2026-08-01 20:59:31",
+  "quarters": {
+    "2026-Q2": [
+      {
+        "stock_code": "002371",
+        "stock_name": "北方华创",
+        "market_value_wan": 2857.13
+      },
+      {
+        "stock_code": "300308",
+        "stock_name": "中际旭创",
+        "market_value_wan": 2654.3
+      },
+      {
+        "stock_code": "300661",
+        "stock_name": "圣邦股份",
+        "market_value_wan": 2477.9
+      },
+      {
+        "stock_code": "688521",
+        "stock_name": "芯原股份",
+        "market_value_wan": 2328.09
+      },
+      {
+        "stock_code": "688012",
+        "stock_name": "中微公司",
+        "market_value_wan": 2001.24
+      },
+      {
+        "stock_code": "600584",
+        "stock_name": "长电科技",
+        "market_value_wan": 1896.0
+      },
+      {
+        "stock_code": "688008",
+        "stock_name": "澜起科技",
+        "market_value_wan": 1887.88
+      },
+      {
+        "stock_code": "688041",
+        "stock_name": "海光信息",
+        "market_value_wan": 1648.91
+      }
+    ],
+    "2026-Q1": [
+      {
+        "stock_code": "300308",
+        "stock_name": "中际旭创",
+        "market_value_wan": 2425.69
+      },
+      {
+        "stock_code": "002371",
+        "stock_name": "北方华创",
+        "market_value_wan": 1685.19
+      },
+      {
+        "stock_code": "688012",
+        "stock_name": "中微公司",
+        "market_value_wan": 1676.54
+      },
+      {
+        "stock_code": "600426",
+        "stock_name": "华鲁恒升",
+        "market_value_wan": 1650.36
+      },
+      {
+        "stock_code": "600309",
+        "stock_name": "万华化学",
+        "market_value_wan": 1461.28
+      },
+      {
+        "stock_code": "300394",
+        "stock_name": "天孚通信",
+        "market_value_wan": 1396.41
+      },
+      {
+        "stock_code": "300274",
+        "stock_name": "阳光电源",
+        "market_value_wan": 1349.3
+      }
+    ]
+  }
+}

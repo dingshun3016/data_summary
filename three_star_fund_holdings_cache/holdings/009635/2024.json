@@ -1,0 +1,63 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "009635",
+    "name": "鹏华安睿两年持有期混合C",
+    "base_name": "鹏华安睿两年持有期混合"
+  },
+  "fetched_at": "2026-06-14 23:34:47",
+  "quarters": {
+    "2024-Q1": [
+      {
+        "stock_code": "600809",
+        "stock_name": "山西汾酒",
+        "market_value_wan": 51.47
+      },
+      {
+        "stock_code": "002463",
+        "stock_name": "沪电股份",
+        "market_value_wan": 47.68
+      },
+      {
+        "stock_code": "000543",
+        "stock_name": "皖能电力",
+        "market_value_wan": 42.35
+      },
+      {
+        "stock_code": "000596",
+        "stock_name": "古井贡酒",
+        "market_value_wan": 39.0
+      },
+      {
+        "stock_code": "300832",
+        "stock_name": "新产业",
+        "market_value_wan": 38.36
+      },
+      {
+        "stock_code": "688617",
+        "stock_name": "惠泰医疗",
+        "market_value_wan": 34.55
+      },
+      {
+        "stock_code": "601872",
+        "stock_name": "招商轮船",
+        "market_value_wan": 32.56
+      },
+      {
+        "stock_code": "002920",
+        "stock_name": "德赛西威",
+        "market_value_wan": 29.88
+      },
+      {
+        "stock_code": "600026",
+        "stock_name": "中远海能",
+        "market_value_wan": 26.42
+      },
+      {
+        "stock_code": "002984",
+        "stock_name": "森麒麟",
+        "market_value_wan": 25.09
+      }
+    ]
+  }
+}

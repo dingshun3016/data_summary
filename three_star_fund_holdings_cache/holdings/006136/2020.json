@@ -1,0 +1,139 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "006136",
+    "name": "广发估值优势混合A",
+    "base_name": "广发估值优势混合"
+  },
+  "fetched_at": "2026-06-14 23:20:40",
+  "quarters": {
+    "2020-Q4": [
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 5034.96
+      },
+      {
+        "stock_code": "000568",
+        "stock_name": "泸州老窖",
+        "market_value_wan": 4971.0
+      },
+      {
+        "stock_code": "000858",
+        "stock_name": "五粮液",
+        "market_value_wan": 4777.58
+      },
+      {
+        "stock_code": "000860",
+        "stock_name": "顺鑫农业",
+        "market_value_wan": 2989.09
+      },
+      {
+        "stock_code": "600031",
+        "stock_name": "三一重工",
+        "market_value_wan": 2240.82
+      },
+      {
+        "stock_code": "600690",
+        "stock_name": "海尔智家",
+        "market_value_wan": 2177.31
+      },
+      {
+        "stock_code": "600309",
+        "stock_name": "万华化学",
+        "market_value_wan": 2062.06
+      }
+    ],
+    "2020-Q3": [
+      {
+        "stock_code": "000568",
+        "stock_name": "泸州老窖",
+        "market_value_wan": 3409.31
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 3003.3
+      },
+      {
+        "stock_code": "000858",
+        "stock_name": "五粮液",
+        "market_value_wan": 3001.18
+      },
+      {
+        "stock_code": "600690",
+        "stock_name": "海尔智家",
+        "market_value_wan": 1640.43
+      },
+      {
+        "stock_code": "601012",
+        "stock_name": "隆基绿能",
+        "market_value_wan": 1542.21
+      },
+      {
+        "stock_code": "600309",
+        "stock_name": "万华化学",
+        "market_value_wan": 1446.98
+      }
+    ],
+    "2020-Q2": [
+      {
+        "stock_code": "000568",
+        "stock_name": "泸州老窖",
+        "market_value_wan": 1888.01
+      },
+      {
+        "stock_code": "000858",
+        "stock_name": "五粮液",
+        "market_value_wan": 1516.12
+      },
+      {
+        "stock_code": "000656",
+        "stock_name": "*ST金科",
+        "market_value_wan": 1092.95
+      },
+      {
+        "stock_code": "600048",
+        "stock_name": "保利发展",
+        "market_value_wan": 1003.41
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 994.76
+      },
+      {
+        "stock_code": "600009",
+        "stock_name": "上海机场",
+        "market_value_wan": 940.51
+      }
+    ],
+    "2020-Q1": [
+      {
+        "stock_code": "600048",
+        "stock_name": "保利发展",
+        "market_value_wan": 519.11
+      },
+      {
+        "stock_code": "002507",
+        "stock_name": "涪陵榨菜",
+        "market_value_wan": 456.7
+      },
+      {
+        "stock_code": "000656",
+        "stock_name": "*ST金科",
+        "market_value_wan": 441.94
+      },
+      {
+        "stock_code": "000858",
+        "stock_name": "五粮液",
+        "market_value_wan": 441.22
+      },
+      {
+        "stock_code": "002007",
+        "stock_name": "华兰生物",
+        "market_value_wan": 377.61
+      }
+    ]
+  }
+}

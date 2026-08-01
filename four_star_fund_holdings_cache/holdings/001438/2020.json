@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "001438",
+    "name": "易方达瑞享混合E",
+    "base_name": "易方达瑞享混合"
+  },
+  "fetched_at": "2026-06-14 22:28:17",
+  "quarters": {
+    "2020-Q4": [
+      {
+        "stock_code": "600570",
+        "stock_name": "恒生电子",
+        "market_value_wan": 2594.55
+      },
+      {
+        "stock_code": "002410",
+        "stock_name": "广联达",
+        "market_value_wan": 2524.95
+      },
+      {
+        "stock_code": "600845",
+        "stock_name": "宝信软件",
+        "market_value_wan": 2518.64
+      },
+      {
+        "stock_code": "600588",
+        "stock_name": "用友网络",
+        "market_value_wan": 2507.67
+      },
+      {
+        "stock_code": "002153",
+        "stock_name": "石基信息",
+        "market_value_wan": 2385.34
+      },
+      {
+        "stock_code": "603960",
+        "stock_name": "克来机电",
+        "market_value_wan": 1627.8
+      },
+      {
+        "stock_code": "002568",
+        "stock_name": "百润股份",
+        "market_value_wan": 1504.9
+      },
+      {
+        "stock_code": "300454",
+        "stock_name": "深信服",
+        "market_value_wan": 1394.51
+      },
+      {
+        "stock_code": "603737",
+        "stock_name": "三棵树",
+        "market_value_wan": 1352.9
+      },
+      {
+        "stock_code": "300113",
+        "stock_name": "顺网科技",
+        "market_value_wan": 1305.16
+      }
+    ],
+    "2020-Q3": [
+      {
+        "stock_code": "002410",
+        "stock_name": "广联达",
+        "market_value_wan": 2588.04
+      },
+      {
+        "stock_code": "600845",
+        "stock_name": "宝信软件",
+        "market_value_wan": 2579.11
+      },
+      {
+        "stock_code": "002153",
+        "stock_name": "石基信息",
+        "market_value_wan": 2409.98
+      },
+      {
+        "stock_code": "600588",
+        "stock_name": "用友网络",
+        "market_value_wan": 2324.36
+      },
+      {
+        "stock_code": "600570",
+        "stock_name": "恒生电子",
+        "market_value_wan": 1790.8
+      },
+      {
+        "stock_code": "300251",
+        "stock_name": "光线传媒",
+        "market_value_wan": 1577.22
+      },
+      {
+        "stock_code": "603960",
+        "stock_name": "克来机电",
+        "market_value_wan": 1431.43
+      },
+      {
+        "stock_code": "300454",
+        "stock_name": "深信服",
+        "market_value_wan": 1336.8
+      },
+      {
+        "stock_code": "300747",
+        "stock_name": "锐科激光",
+        "market_value_wan": 1269.61
+      },
+      {
+        "stock_code": "300699",
+        "stock_name": "光威复材",
+        "market_value_wan": 1266.96
+      }
+    ],
+    "2020-Q2": [
+      {
+        "stock_code": "600570",
+        "stock_name": "恒生电子",
+        "market_value_wan": 1956.27
+      },
+      {
+        "stock_code": "002410",
+        "stock_name": "广联达",
+        "market_value_wan": 1916.49
+      },
+      {
+        "stock_code": "002153",
+        "stock_name": "石基信息",
+        "market_value_wan": 1865.0
+      },
+      {
+        "stock_code": "600967",
+        "stock_name": "内蒙一机",
+        "market_value_wan": 1837.06
+      },
+      {
+        "stock_code": "600588",
+        "stock_name": "用友网络",
+        "market_value_wan": 1518.67
+      },
+      {
+        "stock_code": "600845",
+        "stock_name": "宝信软件",
+        "market_value_wan": 1295.62
+      },
+      {
+        "stock_code": "300113",
+        "stock_name": "顺网科技",
+        "market_value_wan": 1104.99
+      },
+      {
+        "stock_code": "603786",
+        "stock_name": "科博达",
+        "market_value_wan": 1096.34
+      },
+      {
+        "stock_code": "300454",
+        "stock_name": "深信服",
+        "market_value_wan": 1042.73
+      },
+      {
+        "stock_code": "300699",
+        "stock_name": "光威复材",
+        "market_value_wan": 1022.62
+      }
+    ],
+    "2020-Q1": [
+      {
+        "stock_code": "600570",
+        "stock_name": "恒生电子",
+        "market_value_wan": 1414.93
+      },
+      {
+        "stock_code": "002410",
+        "stock_name": "广联达",
+        "market_value_wan": 1393.01
+      },
+      {
+        "stock_code": "002415",
+        "stock_name": "海康威视",
+        "market_value_wan": 1368.22
+      },
+      {
+        "stock_code": "002153",
+        "stock_name": "石基信息",
+        "market_value_wan": 1311.13
+      },
+      {
+        "stock_code": "600967",
+        "stock_name": "内蒙一机",
+        "market_value_wan": 1298.99
+      },
+      {
+        "stock_code": "600588",
+        "stock_name": "用友网络",
+        "market_value_wan": 1071.79
+      },
+      {
+        "stock_code": "600845",
+        "stock_name": "宝信软件",
+        "market_value_wan": 871.72
+      },
+      {
+        "stock_code": "300699",
+        "stock_name": "光威复材",
+        "market_value_wan": 808.09
+      },
+      {
+        "stock_code": "603960",
+        "stock_name": "克来机电",
+        "market_value_wan": 721.9
+      },
+      {
+        "stock_code": "300113",
+        "stock_name": "顺网科技",
+        "market_value_wan": 712.68
+      }
+    ]
+  }
+}

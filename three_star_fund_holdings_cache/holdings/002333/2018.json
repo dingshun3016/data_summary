@@ -1,0 +1,44 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "002333",
+    "name": "汇丰晋信沪港深C",
+    "base_name": "汇丰晋信沪港深"
+  },
+  "fetched_at": "2026-06-14 23:05:49",
+  "quarters": {
+    "2018-Q4": [
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 4419.73
+      }
+    ],
+    "2018-Q3": [
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 4848.54
+      }
+    ],
+    "2018-Q2": [
+      {
+        "stock_code": "002531",
+        "stock_name": "天顺风能",
+        "market_value_wan": 6220.47
+      }
+    ],
+    "2018-Q1": [
+      {
+        "stock_code": "002531",
+        "stock_name": "天顺风能",
+        "market_value_wan": 10928.96
+      },
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 5753.96
+      }
+    ]
+  }
+}

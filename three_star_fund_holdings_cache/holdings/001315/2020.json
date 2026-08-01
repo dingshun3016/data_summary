@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "001315",
+    "name": "易方达新益混合E",
+    "base_name": "易方达新益混合"
+  },
+  "fetched_at": "2026-06-14 22:55:34",
+  "quarters": {
+    "2020-Q4": [
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 2657.34
+      },
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 2474.83
+      },
+      {
+        "stock_code": "601799",
+        "stock_name": "星宇股份",
+        "market_value_wan": 2450.11
+      },
+      {
+        "stock_code": "603806",
+        "stock_name": "福斯特",
+        "market_value_wan": 2404.42
+      },
+      {
+        "stock_code": "601012",
+        "stock_name": "隆基绿能",
+        "market_value_wan": 1863.36
+      },
+      {
+        "stock_code": "603179",
+        "stock_name": "新泉股份",
+        "market_value_wan": 1762.96
+      },
+      {
+        "stock_code": "600893",
+        "stock_name": "航发动力",
+        "market_value_wan": 1711.34
+      },
+      {
+        "stock_code": "000651",
+        "stock_name": "格力电器",
+        "market_value_wan": 1605.48
+      },
+      {
+        "stock_code": "300274",
+        "stock_name": "阳光电源",
+        "market_value_wan": 1577.3
+      },
+      {
+        "stock_code": "002415",
+        "stock_name": "海康威视",
+        "market_value_wan": 1484.41
+      }
+    ],
+    "2020-Q3": [
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 1968.83
+      },
+      {
+        "stock_code": "601799",
+        "stock_name": "星宇股份",
+        "market_value_wan": 1829.7
+      },
+      {
+        "stock_code": "603806",
+        "stock_name": "福斯特",
+        "market_value_wan": 1647.59
+      },
+      {
+        "stock_code": "603179",
+        "stock_name": "新泉股份",
+        "market_value_wan": 1626.18
+      },
+      {
+        "stock_code": "000651",
+        "stock_name": "格力电器",
+        "market_value_wan": 1299.99
+      },
+      {
+        "stock_code": "300433",
+        "stock_name": "蓝思科技",
+        "market_value_wan": 1128.18
+      },
+      {
+        "stock_code": "600763",
+        "stock_name": "通策医疗",
+        "market_value_wan": 1062.09
+      },
+      {
+        "stock_code": "601012",
+        "stock_name": "隆基绿能",
+        "market_value_wan": 1042.64
+      },
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 1004.78
+      },
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 955.08
+      }
+    ],
+    "2020-Q2": [
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 1579.91
+      },
+      {
+        "stock_code": "300628",
+        "stock_name": "亿联网络",
+        "market_value_wan": 1561.79
+      },
+      {
+        "stock_code": "601799",
+        "stock_name": "星宇股份",
+        "market_value_wan": 1551.94
+      },
+      {
+        "stock_code": "000651",
+        "stock_name": "格力电器",
+        "market_value_wan": 1379.74
+      },
+      {
+        "stock_code": "603179",
+        "stock_name": "新泉股份",
+        "market_value_wan": 1177.38
+      },
+      {
+        "stock_code": "603806",
+        "stock_name": "福斯特",
+        "market_value_wan": 1125.07
+      },
+      {
+        "stock_code": "300433",
+        "stock_name": "蓝思科技",
+        "market_value_wan": 984.88
+      },
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 858.45
+      },
+      {
+        "stock_code": "300059",
+        "stock_name": "东方财富",
+        "market_value_wan": 852.98
+      },
+      {
+        "stock_code": "300115",
+        "stock_name": "长盈精密",
+        "market_value_wan": 834.71
+      }
+    ],
+    "2020-Q1": [
+      {
+        "stock_code": "601799",
+        "stock_name": "星宇股份",
+        "market_value_wan": 867.75
+      },
+      {
+        "stock_code": "600585",
+        "stock_name": "海螺水泥",
+        "market_value_wan": 863.97
+      },
+      {
+        "stock_code": "300115",
+        "stock_name": "长盈精密",
+        "market_value_wan": 779.48
+      },
+      {
+        "stock_code": "000651",
+        "stock_name": "格力电器",
+        "market_value_wan": 745.94
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 655.49
+      },
+      {
+        "stock_code": "603179",
+        "stock_name": "新泉股份",
+        "market_value_wan": 640.55
+      },
+      {
+        "stock_code": "601933",
+        "stock_name": "永辉超市",
+        "market_value_wan": 604.47
+      },
+      {
+        "stock_code": "300628",
+        "stock_name": "亿联网络",
+        "market_value_wan": 601.99
+      },
+      {
+        "stock_code": "000977",
+        "stock_name": "浪潮信息",
+        "market_value_wan": 584.18
+      },
+      {
+        "stock_code": "603939",
+        "stock_name": "益丰药房",
+        "market_value_wan": 573.5
+      }
+    ]
+  }
+}

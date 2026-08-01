@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "003166",
+    "name": "鹏华弘嘉混合C",
+    "base_name": "鹏华弘嘉混合"
+  },
+  "fetched_at": "2026-06-14 23:09:35",
+  "quarters": {
+    "2021-Q4": [
+      {
+        "stock_code": "601677",
+        "stock_name": "明泰铝业",
+        "market_value_wan": 983.63
+      },
+      {
+        "stock_code": "300659",
+        "stock_name": "中孚信息",
+        "market_value_wan": 764.6
+      },
+      {
+        "stock_code": "688369",
+        "stock_name": "致远互联",
+        "market_value_wan": 729.88
+      },
+      {
+        "stock_code": "603985",
+        "stock_name": "恒润股份",
+        "market_value_wan": 620.63
+      },
+      {
+        "stock_code": "002236",
+        "stock_name": "大华股份",
+        "market_value_wan": 612.12
+      },
+      {
+        "stock_code": "300873",
+        "stock_name": "海晨股份",
+        "market_value_wan": 596.07
+      },
+      {
+        "stock_code": "300470",
+        "stock_name": "中密控股",
+        "market_value_wan": 582.94
+      },
+      {
+        "stock_code": "002777",
+        "stock_name": "久远银海",
+        "market_value_wan": 582.03
+      },
+      {
+        "stock_code": "603855",
+        "stock_name": "华荣股份",
+        "market_value_wan": 581.74
+      },
+      {
+        "stock_code": "603113",
+        "stock_name": "金能科技",
+        "market_value_wan": 581.15
+      }
+    ],
+    "2021-Q3": [
+      {
+        "stock_code": "601677",
+        "stock_name": "明泰铝业",
+        "market_value_wan": 677.51
+      },
+      {
+        "stock_code": "600905",
+        "stock_name": "三峡能源",
+        "market_value_wan": 629.99
+      },
+      {
+        "stock_code": "002236",
+        "stock_name": "大华股份",
+        "market_value_wan": 618.38
+      },
+      {
+        "stock_code": "300873",
+        "stock_name": "海晨股份",
+        "market_value_wan": 591.83
+      },
+      {
+        "stock_code": "300659",
+        "stock_name": "中孚信息",
+        "market_value_wan": 566.78
+      },
+      {
+        "stock_code": "000733",
+        "stock_name": "振华科技",
+        "market_value_wan": 516.13
+      },
+      {
+        "stock_code": "002979",
+        "stock_name": "雷赛智能",
+        "market_value_wan": 499.51
+      },
+      {
+        "stock_code": "603113",
+        "stock_name": "金能科技",
+        "market_value_wan": 487.08
+      },
+      {
+        "stock_code": "300470",
+        "stock_name": "中密控股",
+        "market_value_wan": 485.33
+      },
+      {
+        "stock_code": "603855",
+        "stock_name": "华荣股份",
+        "market_value_wan": 481.07
+      }
+    ],
+    "2021-Q2": [
+      {
+        "stock_code": "601677",
+        "stock_name": "明泰铝业",
+        "market_value_wan": 623.44
+      },
+      {
+        "stock_code": "603855",
+        "stock_name": "华荣股份",
+        "market_value_wan": 603.32
+      },
+      {
+        "stock_code": "000338",
+        "stock_name": "潍柴动力",
+        "market_value_wan": 580.05
+      },
+      {
+        "stock_code": "603018",
+        "stock_name": "华设集团",
+        "market_value_wan": 573.4
+      },
+      {
+        "stock_code": "000026",
+        "stock_name": "飞亚达",
+        "market_value_wan": 567.8
+      },
+      {
+        "stock_code": "300470",
+        "stock_name": "中密控股",
+        "market_value_wan": 565.69
+      },
+      {
+        "stock_code": "600905",
+        "stock_name": "三峡能源",
+        "market_value_wan": 514.7
+      },
+      {
+        "stock_code": "688056",
+        "stock_name": "莱伯泰科",
+        "market_value_wan": 482.8
+      },
+      {
+        "stock_code": "603113",
+        "stock_name": "金能科技",
+        "market_value_wan": 480.28
+      },
+      {
+        "stock_code": "300776",
+        "stock_name": "帝尔激光",
+        "market_value_wan": 456.44
+      }
+    ],
+    "2021-Q1": [
+      {
+        "stock_code": "601677",
+        "stock_name": "明泰铝业",
+        "market_value_wan": 4627.44
+      },
+      {
+        "stock_code": "603855",
+        "stock_name": "华荣股份",
+        "market_value_wan": 3658.08
+      },
+      {
+        "stock_code": "603018",
+        "stock_name": "华设集团",
+        "market_value_wan": 3560.36
+      },
+      {
+        "stock_code": "000026",
+        "stock_name": "飞亚达",
+        "market_value_wan": 3361.69
+      },
+      {
+        "stock_code": "000338",
+        "stock_name": "潍柴动力",
+        "market_value_wan": 2862.51
+      },
+      {
+        "stock_code": "603113",
+        "stock_name": "金能科技",
+        "market_value_wan": 2407.06
+      },
+      {
+        "stock_code": "000951",
+        "stock_name": "中国重汽",
+        "market_value_wan": 2235.08
+      },
+      {
+        "stock_code": "002643",
+        "stock_name": "万润股份",
+        "market_value_wan": 1890.53
+      },
+      {
+        "stock_code": "300815",
+        "stock_name": "玉禾田",
+        "market_value_wan": 1766.84
+      },
+      {
+        "stock_code": "300776",
+        "stock_name": "帝尔激光",
+        "market_value_wan": 1749.41
+      }
+    ]
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "009892",
+    "name": "富国成长策略混合A",
+    "base_name": "富国成长策略混合"
+  },
+  "fetched_at": "2026-08-01 20:58:51",
+  "quarters": {
+    "2026-Q2": [
+      {
+        "stock_code": "002384",
+        "stock_name": "东山精密",
+        "market_value_wan": 40394.03
+      },
+      {
+        "stock_code": "300502",
+        "stock_name": "新易盛",
+        "market_value_wan": 39453.3
+      },
+      {
+        "stock_code": "300308",
+        "stock_name": "中际旭创",
+        "market_value_wan": 36179.89
+      },
+      {
+        "stock_code": "002916",
+        "stock_name": "深南电路",
+        "market_value_wan": 33309.29
+      },
+      {
+        "stock_code": "002463",
+        "stock_name": "沪电股份",
+        "market_value_wan": 33231.54
+      },
+      {
+        "stock_code": "688256",
+        "stock_name": "寒武纪",
+        "market_value_wan": 22984.06
+      },
+      {
+        "stock_code": "688019",
+        "stock_name": "安集科技",
+        "market_value_wan": 19390.77
+      },
+      {
+        "stock_code": "300394",
+        "stock_name": "天孚通信",
+        "market_value_wan": 15498.91
+      },
+      {
+        "stock_code": "600487",
+        "stock_name": "亨通光电",
+        "market_value_wan": 14033.84
+      }
+    ],
+    "2026-Q1": [
+      {
+        "stock_code": "300502",
+        "stock_name": "新易盛",
+        "market_value_wan": 25971.06
+      },
+      {
+        "stock_code": "300308",
+        "stock_name": "中际旭创",
+        "market_value_wan": 24392.44
+      },
+      {
+        "stock_code": "002463",
+        "stock_name": "沪电股份",
+        "market_value_wan": 22078.7
+      },
+      {
+        "stock_code": "002916",
+        "stock_name": "深南电路",
+        "market_value_wan": 18193.78
+      },
+      {
+        "stock_code": "002384",
+        "stock_name": "东山精密",
+        "market_value_wan": 16999.05
+      },
+      {
+        "stock_code": "300394",
+        "stock_name": "天孚通信",
+        "market_value_wan": 13940.68
+      },
+      {
+        "stock_code": "688019",
+        "stock_name": "安集科技",
+        "market_value_wan": 11981.75
+      },
+      {
+        "stock_code": "601899",
+        "stock_name": "紫金矿业",
+        "market_value_wan": 11492.25
+      },
+      {
+        "stock_code": "603308",
+        "stock_name": "应流股份",
+        "market_value_wan": 11082.5
+      }
+    ]
+  }
+}

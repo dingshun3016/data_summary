@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "121010",
+    "name": "国投瑞银瑞源灵活配置混合A",
+    "base_name": "国投瑞银瑞源灵活配置混合"
+  },
+  "fetched_at": "2026-06-14 23:51:23",
+  "quarters": {
+    "2019-Q4": [
+      {
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "market_value_wan": 467.47
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 437.71
+      },
+      {
+        "stock_code": "603799",
+        "stock_name": "华友钴业",
+        "market_value_wan": 416.36
+      },
+      {
+        "stock_code": "600030",
+        "stock_name": "中信证券",
+        "market_value_wan": 390.13
+      },
+      {
+        "stock_code": "603885",
+        "stock_name": "吉祥航空",
+        "market_value_wan": 336.15
+      },
+      {
+        "stock_code": "603259",
+        "stock_name": "药明康德",
+        "market_value_wan": 330.71
+      },
+      {
+        "stock_code": "600837",
+        "stock_name": "海通证券",
+        "market_value_wan": 324.35
+      },
+      {
+        "stock_code": "600893",
+        "stock_name": "航发动力",
+        "market_value_wan": 305.04
+      },
+      {
+        "stock_code": "600380",
+        "stock_name": "健康元",
+        "market_value_wan": 279.77
+      },
+      {
+        "stock_code": "002402",
+        "stock_name": "和而泰",
+        "market_value_wan": 277.7
+      }
+    ],
+    "2019-Q3": [
+      {
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "market_value_wan": 452.61
+      },
+      {
+        "stock_code": "603259",
+        "stock_name": "药明康德",
+        "market_value_wan": 450.93
+      },
+      {
+        "stock_code": "600004",
+        "stock_name": "白云机场",
+        "market_value_wan": 418.69
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 391.0
+      },
+      {
+        "stock_code": "000001",
+        "stock_name": "平安银行",
+        "market_value_wan": 389.75
+      },
+      {
+        "stock_code": "603885",
+        "stock_name": "吉祥航空",
+        "market_value_wan": 306.34
+      },
+      {
+        "stock_code": "600406",
+        "stock_name": "国电南瑞",
+        "market_value_wan": 297.96
+      },
+      {
+        "stock_code": "601939",
+        "stock_name": "建设银行",
+        "market_value_wan": 290.29
+      },
+      {
+        "stock_code": "601138",
+        "stock_name": "工业富联",
+        "market_value_wan": 276.34
+      },
+      {
+        "stock_code": "600547",
+        "stock_name": "山东黄金",
+        "market_value_wan": 272.34
+      }
+    ],
+    "2019-Q2": [
+      {
+        "stock_code": "601688",
+        "stock_name": "华泰证券",
+        "market_value_wan": 432.56
+      },
+      {
+        "stock_code": "000568",
+        "stock_name": "泸州老窖",
+        "market_value_wan": 383.47
+      },
+      {
+        "stock_code": "601336",
+        "stock_name": "新华保险",
+        "market_value_wan": 375.3
+      },
+      {
+        "stock_code": "600887",
+        "stock_name": "伊利股份",
+        "market_value_wan": 374.53
+      },
+      {
+        "stock_code": "002402",
+        "stock_name": "和而泰",
+        "market_value_wan": 365.26
+      },
+      {
+        "stock_code": "000001",
+        "stock_name": "平安银行",
+        "market_value_wan": 358.42
+      },
+      {
+        "stock_code": "300014",
+        "stock_name": "亿纬锂能",
+        "market_value_wan": 354.55
+      },
+      {
+        "stock_code": "000651",
+        "stock_name": "格力电器",
+        "market_value_wan": 298.1
+      },
+      {
+        "stock_code": "000858",
+        "stock_name": "五粮液",
+        "market_value_wan": 290.16
+      },
+      {
+        "stock_code": "000860",
+        "stock_name": "顺鑫农业",
+        "market_value_wan": 261.71
+      }
+    ],
+    "2019-Q1": [
+      {
+        "stock_code": "300014",
+        "stock_name": "亿纬锂能",
+        "market_value_wan": 477.85
+      },
+      {
+        "stock_code": "002402",
+        "stock_name": "和而泰",
+        "market_value_wan": 386.96
+      },
+      {
+        "stock_code": "300037",
+        "stock_name": "新宙邦",
+        "market_value_wan": 383.29
+      },
+      {
+        "stock_code": "000568",
+        "stock_name": "泸州老窖",
+        "market_value_wan": 348.88
+      },
+      {
+        "stock_code": "002311",
+        "stock_name": "海大集团",
+        "market_value_wan": 346.86
+      },
+      {
+        "stock_code": "601688",
+        "stock_name": "华泰证券",
+        "market_value_wan": 333.01
+      },
+      {
+        "stock_code": "000968",
+        "stock_name": "蓝焰控股",
+        "market_value_wan": 322.57
+      },
+      {
+        "stock_code": "603589",
+        "stock_name": "口子窖",
+        "market_value_wan": 298.06
+      },
+      {
+        "stock_code": "300207",
+        "stock_name": "欣旺达",
+        "market_value_wan": 296.44
+      },
+      {
+        "stock_code": "600562",
+        "stock_name": "国睿科技",
+        "market_value_wan": 285.22
+      }
+    ]
+  }
+}

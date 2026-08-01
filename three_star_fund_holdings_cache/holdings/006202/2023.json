@@ -1,0 +1,129 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "006202",
+    "name": "交银核心资产混合A",
+    "base_name": "交银核心资产混合"
+  },
+  "fetched_at": "2026-06-14 23:20:59",
+  "quarters": {
+    "2023-Q4": [
+      {
+        "stock_code": "002352",
+        "stock_name": "顺丰控股",
+        "market_value_wan": 284.42
+      },
+      {
+        "stock_code": "600690",
+        "stock_name": "海尔智家",
+        "market_value_wan": 245.49
+      },
+      {
+        "stock_code": "300866",
+        "stock_name": "安克创新",
+        "market_value_wan": 212.64
+      },
+      {
+        "stock_code": "002027",
+        "stock_name": "分众传媒",
+        "market_value_wan": 193.83
+      },
+      {
+        "stock_code": "300782",
+        "stock_name": "卓胜微",
+        "market_value_wan": 149.46
+      }
+    ],
+    "2023-Q3": [
+      {
+        "stock_code": "600690",
+        "stock_name": "海尔智家",
+        "market_value_wan": 275.88
+      },
+      {
+        "stock_code": "002027",
+        "stock_name": "分众传媒",
+        "market_value_wan": 219.29
+      },
+      {
+        "stock_code": "000063",
+        "stock_name": "中兴通讯",
+        "market_value_wan": 218.3
+      },
+      {
+        "stock_code": "600546",
+        "stock_name": "山煤国际",
+        "market_value_wan": 198.87
+      }
+    ],
+    "2023-Q2": [
+      {
+        "stock_code": "000063",
+        "stock_name": "中兴通讯",
+        "market_value_wan": 304.21
+      },
+      {
+        "stock_code": "600690",
+        "stock_name": "海尔智家",
+        "market_value_wan": 247.95
+      },
+      {
+        "stock_code": "002594",
+        "stock_name": "比亚迪",
+        "market_value_wan": 211.78
+      },
+      {
+        "stock_code": "000963",
+        "stock_name": "华东医药",
+        "market_value_wan": 210.78
+      },
+      {
+        "stock_code": "002027",
+        "stock_name": "分众传媒",
+        "market_value_wan": 184.35
+      },
+      {
+        "stock_code": "603899",
+        "stock_name": "晨光股份",
+        "market_value_wan": 175.44
+      },
+      {
+        "stock_code": "600546",
+        "stock_name": "山煤国际",
+        "market_value_wan": 152.66
+      }
+    ],
+    "2023-Q1": [
+      {
+        "stock_code": "002352",
+        "stock_name": "顺丰控股",
+        "market_value_wan": 253.09
+      },
+      {
+        "stock_code": "000963",
+        "stock_name": "华东医药",
+        "market_value_wan": 225.21
+      },
+      {
+        "stock_code": "000858",
+        "stock_name": "五粮液",
+        "market_value_wan": 187.15
+      },
+      {
+        "stock_code": "600276",
+        "stock_name": "恒瑞医药",
+        "market_value_wan": 178.99
+      },
+      {
+        "stock_code": "600875",
+        "stock_name": "东方电气",
+        "market_value_wan": 170.64
+      },
+      {
+        "stock_code": "300760",
+        "stock_name": "迈瑞医疗",
+        "market_value_wan": 168.32
+      }
+    ]
+  }
+}

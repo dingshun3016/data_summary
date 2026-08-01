@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "005764",
+    "name": "中欧潜力价值灵活配置混合C",
+    "base_name": "中欧潜力价值灵活配置混合"
+  },
+  "fetched_at": "2026-06-14 23:19:13",
+  "quarters": {
+    "2023-Q4": [
+      {
+        "stock_code": "002048",
+        "stock_name": "宁波华翔",
+        "market_value_wan": 15570.17
+      },
+      {
+        "stock_code": "603208",
+        "stock_name": "江山欧派",
+        "market_value_wan": 8559.03
+      },
+      {
+        "stock_code": "002790",
+        "stock_name": "瑞尔特",
+        "market_value_wan": 8198.85
+      },
+      {
+        "stock_code": "603300",
+        "stock_name": "华铁应急",
+        "market_value_wan": 7431.36
+      },
+      {
+        "stock_code": "002572",
+        "stock_name": "索菲亚",
+        "market_value_wan": 6539.5
+      },
+      {
+        "stock_code": "002949",
+        "stock_name": "华阳国际",
+        "market_value_wan": 6537.02
+      },
+      {
+        "stock_code": "002154",
+        "stock_name": "报喜鸟",
+        "market_value_wan": 6201.82
+      },
+      {
+        "stock_code": "300630",
+        "stock_name": "普利制药",
+        "market_value_wan": 5883.51
+      },
+      {
+        "stock_code": "002327",
+        "stock_name": "富安娜",
+        "market_value_wan": 5288.0
+      },
+      {
+        "stock_code": "002831",
+        "stock_name": "裕同科技",
+        "market_value_wan": 5011.99
+      }
+    ],
+    "2023-Q3": [
+      {
+        "stock_code": "002048",
+        "stock_name": "宁波华翔",
+        "market_value_wan": 17354.48
+      },
+      {
+        "stock_code": "002790",
+        "stock_name": "瑞尔特",
+        "market_value_wan": 9768.54
+      },
+      {
+        "stock_code": "603208",
+        "stock_name": "江山欧派",
+        "market_value_wan": 7700.7
+      },
+      {
+        "stock_code": "603300",
+        "stock_name": "华铁应急",
+        "market_value_wan": 7061.0
+      },
+      {
+        "stock_code": "002154",
+        "stock_name": "报喜鸟",
+        "market_value_wan": 6652.42
+      },
+      {
+        "stock_code": "600612",
+        "stock_name": "老凤祥",
+        "market_value_wan": 6178.65
+      },
+      {
+        "stock_code": "002327",
+        "stock_name": "富安娜",
+        "market_value_wan": 6042.74
+      },
+      {
+        "stock_code": "002949",
+        "stock_name": "华阳国际",
+        "market_value_wan": 6004.61
+      },
+      {
+        "stock_code": "600219",
+        "stock_name": "南山铝业",
+        "market_value_wan": 5764.74
+      },
+      {
+        "stock_code": "002572",
+        "stock_name": "索菲亚",
+        "market_value_wan": 5397.9
+      }
+    ],
+    "2023-Q2": [
+      {
+        "stock_code": "002048",
+        "stock_name": "宁波华翔",
+        "market_value_wan": 16459.41
+      },
+      {
+        "stock_code": "603108",
+        "stock_name": "润达医疗",
+        "market_value_wan": 12617.71
+      },
+      {
+        "stock_code": "002398",
+        "stock_name": "垒知集团",
+        "market_value_wan": 10217.47
+      },
+      {
+        "stock_code": "600612",
+        "stock_name": "老凤祥",
+        "market_value_wan": 7473.09
+      },
+      {
+        "stock_code": "002327",
+        "stock_name": "富安娜",
+        "market_value_wan": 6651.7
+      },
+      {
+        "stock_code": "002154",
+        "stock_name": "报喜鸟",
+        "market_value_wan": 6007.08
+      },
+      {
+        "stock_code": "601311",
+        "stock_name": "骆驼股份",
+        "market_value_wan": 5939.14
+      },
+      {
+        "stock_code": "603300",
+        "stock_name": "华铁应急",
+        "market_value_wan": 5651.65
+      },
+      {
+        "stock_code": "600219",
+        "stock_name": "南山铝业",
+        "market_value_wan": 5646.75
+      },
+      {
+        "stock_code": "002790",
+        "stock_name": "瑞尔特",
+        "market_value_wan": 5471.93
+      }
+    ],
+    "2023-Q1": [
+      {
+        "stock_code": "002048",
+        "stock_name": "宁波华翔",
+        "market_value_wan": 17450.84
+      },
+      {
+        "stock_code": "600383",
+        "stock_name": "金地集团",
+        "market_value_wan": 15545.86
+      },
+      {
+        "stock_code": "002398",
+        "stock_name": "垒知集团",
+        "market_value_wan": 12067.07
+      },
+      {
+        "stock_code": "603108",
+        "stock_name": "润达医疗",
+        "market_value_wan": 9596.46
+      },
+      {
+        "stock_code": "000910",
+        "stock_name": "大亚圣象",
+        "market_value_wan": 8161.11
+      },
+      {
+        "stock_code": "600985",
+        "stock_name": "淮北矿业",
+        "market_value_wan": 6957.99
+      },
+      {
+        "stock_code": "002327",
+        "stock_name": "富安娜",
+        "market_value_wan": 6552.81
+      },
+      {
+        "stock_code": "600612",
+        "stock_name": "老凤祥",
+        "market_value_wan": 6257.38
+      },
+      {
+        "stock_code": "600219",
+        "stock_name": "南山铝业",
+        "market_value_wan": 5457.22
+      },
+      {
+        "stock_code": "002154",
+        "stock_name": "报喜鸟",
+        "market_value_wan": 5366.99
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "008129",
+    "name": "湘财长源股票型C",
+    "base_name": "湘财长源股票型"
+  },
+  "fetched_at": "2026-06-14 23:26:15",
+  "quarters": {
+    "2021-Q4": [
+      {
+        "stock_code": "600329",
+        "stock_name": "达仁堂",
+        "market_value_wan": 1451.14
+      },
+      {
+        "stock_code": "600115",
+        "stock_name": "中国东航",
+        "market_value_wan": 1391.39
+      },
+      {
+        "stock_code": "601111",
+        "stock_name": "中国国航",
+        "market_value_wan": 1351.51
+      },
+      {
+        "stock_code": "002870",
+        "stock_name": "香山股份",
+        "market_value_wan": 1104.26
+      },
+      {
+        "stock_code": "000650",
+        "stock_name": "仁和药业",
+        "market_value_wan": 1094.07
+      },
+      {
+        "stock_code": "300738",
+        "stock_name": "奥飞数据",
+        "market_value_wan": 1082.79
+      },
+      {
+        "stock_code": "688299",
+        "stock_name": "长阳科技",
+        "market_value_wan": 1065.14
+      },
+      {
+        "stock_code": "002745",
+        "stock_name": "木林森",
+        "market_value_wan": 1040.04
+      },
+      {
+        "stock_code": "601117",
+        "stock_name": "中国化学",
+        "market_value_wan": 1019.88
+      },
+      {
+        "stock_code": "002449",
+        "stock_name": "国星光电",
+        "market_value_wan": 1013.0
+      }
+    ],
+    "2021-Q3": [
+      {
+        "stock_code": "000938",
+        "stock_name": "紫光股份",
+        "market_value_wan": 2651.15
+      },
+      {
+        "stock_code": "000063",
+        "stock_name": "中兴通讯",
+        "market_value_wan": 2533.45
+      },
+      {
+        "stock_code": "688099",
+        "stock_name": "晶晨股份",
+        "market_value_wan": 2417.78
+      },
+      {
+        "stock_code": "688299",
+        "stock_name": "长阳科技",
+        "market_value_wan": 2403.27
+      },
+      {
+        "stock_code": "603538",
+        "stock_name": "美诺华",
+        "market_value_wan": 2227.15
+      },
+      {
+        "stock_code": "002449",
+        "stock_name": "国星光电",
+        "market_value_wan": 2208.21
+      },
+      {
+        "stock_code": "600398",
+        "stock_name": "海澜之家",
+        "market_value_wan": 2154.41
+      },
+      {
+        "stock_code": "002745",
+        "stock_name": "木林森",
+        "market_value_wan": 2056.49
+      },
+      {
+        "stock_code": "002870",
+        "stock_name": "香山股份",
+        "market_value_wan": 1819.11
+      },
+      {
+        "stock_code": "600567",
+        "stock_name": "山鹰国际",
+        "market_value_wan": 1289.2
+      }
+    ],
+    "2021-Q2": [
+      {
+        "stock_code": "002221",
+        "stock_name": "东华能源",
+        "market_value_wan": 1274.8
+      },
+      {
+        "stock_code": "002532",
+        "stock_name": "天山铝业",
+        "market_value_wan": 1037.44
+      },
+      {
+        "stock_code": "600985",
+        "stock_name": "淮北矿业",
+        "market_value_wan": 723.6
+      },
+      {
+        "stock_code": "002408",
+        "stock_name": "齐翔腾达",
+        "market_value_wan": 707.94
+      },
+      {
+        "stock_code": "600567",
+        "stock_name": "山鹰国际",
+        "market_value_wan": 702.32
+      },
+      {
+        "stock_code": "000983",
+        "stock_name": "山西焦煤",
+        "market_value_wan": 683.58
+      },
+      {
+        "stock_code": "002739",
+        "stock_name": "万达电影",
+        "market_value_wan": 671.37
+      },
+      {
+        "stock_code": "600010",
+        "stock_name": "包钢股份",
+        "market_value_wan": 622.9
+      },
+      {
+        "stock_code": "000822",
+        "stock_name": "山东海化",
+        "market_value_wan": 588.9
+      },
+      {
+        "stock_code": "300303",
+        "stock_name": "聚飞光电",
+        "market_value_wan": 485.18
+      }
+    ],
+    "2021-Q1": [
+      {
+        "stock_code": "000831",
+        "stock_name": "中国稀土",
+        "market_value_wan": 733.57
+      },
+      {
+        "stock_code": "600066",
+        "stock_name": "宇通客车",
+        "market_value_wan": 685.64
+      },
+      {
+        "stock_code": "600010",
+        "stock_name": "包钢股份",
+        "market_value_wan": 626.92
+      },
+      {
+        "stock_code": "600567",
+        "stock_name": "山鹰国际",
+        "market_value_wan": 606.21
+      },
+      {
+        "stock_code": "002408",
+        "stock_name": "齐翔腾达",
+        "market_value_wan": 603.72
+      },
+      {
+        "stock_code": "603612",
+        "stock_name": "索通发展",
+        "market_value_wan": 578.4
+      },
+      {
+        "stock_code": "600030",
+        "stock_name": "中信证券",
+        "market_value_wan": 533.22
+      },
+      {
+        "stock_code": "000933",
+        "stock_name": "神火股份",
+        "market_value_wan": 522.6
+      },
+      {
+        "stock_code": "002221",
+        "stock_name": "东华能源",
+        "market_value_wan": 521.37
+      },
+      {
+        "stock_code": "603348",
+        "stock_name": "文灿股份",
+        "market_value_wan": 475.42
+      }
+    ]
+  }
+}

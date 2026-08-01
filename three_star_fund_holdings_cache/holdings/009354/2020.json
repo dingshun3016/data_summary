@@ -1,0 +1,58 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "009354",
+    "name": "浙商科创一个月滚动持有混合C",
+    "base_name": "浙商科创一个月滚动持有混合"
+  },
+  "fetched_at": "2026-06-14 23:32:56",
+  "quarters": {
+    "2020-Q4": [
+      {
+        "stock_code": "603986",
+        "stock_name": "兆易创新",
+        "market_value_wan": 829.52
+      },
+      {
+        "stock_code": "688099",
+        "stock_name": "晶晨股份",
+        "market_value_wan": 782.57
+      },
+      {
+        "stock_code": "002415",
+        "stock_name": "海康威视",
+        "market_value_wan": 714.55
+      },
+      {
+        "stock_code": "300327",
+        "stock_name": "中颖电子",
+        "market_value_wan": 662.16
+      },
+      {
+        "stock_code": "002241",
+        "stock_name": "歌尔股份",
+        "market_value_wan": 492.25
+      },
+      {
+        "stock_code": "002371",
+        "stock_name": "北方华创",
+        "market_value_wan": 469.31
+      },
+      {
+        "stock_code": "688023",
+        "stock_name": "安恒信息",
+        "market_value_wan": 429.53
+      },
+      {
+        "stock_code": "603259",
+        "stock_name": "药明康德",
+        "market_value_wan": 427.1
+      },
+      {
+        "stock_code": "600885",
+        "stock_name": "宏发股份",
+        "market_value_wan": 411.45
+      }
+    ]
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "009270",
+    "name": "融通逆向策略灵活配置混合C",
+    "base_name": "融通逆向策略灵活配置混合"
+  },
+  "fetched_at": "2026-08-01 20:58:19",
+  "quarters": {
+    "2026-Q2": [
+      {
+        "stock_code": "000725",
+        "stock_name": "京东方A",
+        "market_value_wan": 113.71
+      },
+      {
+        "stock_code": "000657",
+        "stock_name": "中钨高新",
+        "market_value_wan": 111.04
+      },
+      {
+        "stock_code": "300776",
+        "stock_name": "帝尔激光",
+        "market_value_wan": 81.68
+      },
+      {
+        "stock_code": "600549",
+        "stock_name": "厦门钨业",
+        "market_value_wan": 74.98
+      },
+      {
+        "stock_code": "600426",
+        "stock_name": "华鲁恒升",
+        "market_value_wan": 64.58
+      },
+      {
+        "stock_code": "300285",
+        "stock_name": "国瓷材料",
+        "market_value_wan": 59.84
+      },
+      {
+        "stock_code": "601208",
+        "stock_name": "东材科技",
+        "market_value_wan": 57.34
+      },
+      {
+        "stock_code": "601233",
+        "stock_name": "桐昆股份",
+        "market_value_wan": 50.88
+      },
+      {
+        "stock_code": "688300",
+        "stock_name": "联瑞新材",
+        "market_value_wan": 50.59
+      },
+      {
+        "stock_code": "000510",
+        "stock_name": "新金路",
+        "market_value_wan": 42.97
+      }
+    ],
+    "2026-Q1": [
+      {
+        "stock_code": "002648",
+        "stock_name": "卫星化学",
+        "market_value_wan": 86.17
+      },
+      {
+        "stock_code": "600426",
+        "stock_name": "华鲁恒升",
+        "market_value_wan": 70.95
+      },
+      {
+        "stock_code": "600389",
+        "stock_name": "江山股份",
+        "market_value_wan": 50.22
+      },
+      {
+        "stock_code": "300498",
+        "stock_name": "温氏股份",
+        "market_value_wan": 49.03
+      },
+      {
+        "stock_code": "600309",
+        "stock_name": "万华化学",
+        "market_value_wan": 46.08
+      },
+      {
+        "stock_code": "601857",
+        "stock_name": "中国石油",
+        "market_value_wan": 42.3
+      },
+      {
+        "stock_code": "600938",
+        "stock_name": "中国海油",
+        "market_value_wan": 41.2
+      },
+      {
+        "stock_code": "002001",
+        "stock_name": "新和成",
+        "market_value_wan": 40.42
+      },
+      {
+        "stock_code": "601600",
+        "stock_name": "中国铝业",
+        "market_value_wan": 39.79
+      },
+      {
+        "stock_code": "600031",
+        "stock_name": "三一重工",
+        "market_value_wan": 29.98
+      }
+    ]
+  }
+}

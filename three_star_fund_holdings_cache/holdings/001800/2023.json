@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "001800",
+    "name": "华安新乐享灵活配置混合A",
+    "base_name": "华安新乐享灵活配置混合"
+  },
+  "fetched_at": "2026-06-14 23:01:00",
+  "quarters": {
+    "2023-Q4": [
+      {
+        "stock_code": "002698",
+        "stock_name": "博实股份",
+        "market_value_wan": 117.57
+      },
+      {
+        "stock_code": "601369",
+        "stock_name": "陕鼓动力",
+        "market_value_wan": 104.54
+      },
+      {
+        "stock_code": "002472",
+        "stock_name": "双环传动",
+        "market_value_wan": 98.88
+      },
+      {
+        "stock_code": "300087",
+        "stock_name": "荃银高科",
+        "market_value_wan": 96.37
+      },
+      {
+        "stock_code": "002389",
+        "stock_name": "航天彩虹",
+        "market_value_wan": 94.86
+      },
+      {
+        "stock_code": "600989",
+        "stock_name": "宝丰能源",
+        "market_value_wan": 91.57
+      },
+      {
+        "stock_code": "000831",
+        "stock_name": "中国稀土",
+        "market_value_wan": 91.31
+      },
+      {
+        "stock_code": "300251",
+        "stock_name": "光线传媒",
+        "market_value_wan": 88.84
+      },
+      {
+        "stock_code": "601881",
+        "stock_name": "中国银河",
+        "market_value_wan": 77.12
+      },
+      {
+        "stock_code": "601899",
+        "stock_name": "紫金矿业",
+        "market_value_wan": 74.76
+      }
+    ],
+    "2023-Q3": [
+      {
+        "stock_code": "002389",
+        "stock_name": "航天彩虹",
+        "market_value_wan": 68.88
+      },
+      {
+        "stock_code": "300087",
+        "stock_name": "荃银高科",
+        "market_value_wan": 67.52
+      },
+      {
+        "stock_code": "002698",
+        "stock_name": "博实股份",
+        "market_value_wan": 67.24
+      },
+      {
+        "stock_code": "002472",
+        "stock_name": "双环传动",
+        "market_value_wan": 65.5
+      },
+      {
+        "stock_code": "601369",
+        "stock_name": "陕鼓动力",
+        "market_value_wan": 65.28
+      },
+      {
+        "stock_code": "300059",
+        "stock_name": "东方财富",
+        "market_value_wan": 62.32
+      },
+      {
+        "stock_code": "600989",
+        "stock_name": "宝丰能源",
+        "market_value_wan": 61.92
+      },
+      {
+        "stock_code": "600879",
+        "stock_name": "航天电子",
+        "market_value_wan": 60.67
+      },
+      {
+        "stock_code": "600760",
+        "stock_name": "中航沈飞",
+        "market_value_wan": 60.42
+      },
+      {
+        "stock_code": "601899",
+        "stock_name": "紫金矿业",
+        "market_value_wan": 58.22
+      }
+    ],
+    "2023-Q2": [
+      {
+        "stock_code": "600989",
+        "stock_name": "宝丰能源",
+        "market_value_wan": 53.34
+      },
+      {
+        "stock_code": "600760",
+        "stock_name": "中航沈飞",
+        "market_value_wan": 50.4
+      },
+      {
+        "stock_code": "600285",
+        "stock_name": "羚锐制药",
+        "market_value_wan": 48.18
+      },
+      {
+        "stock_code": "601899",
+        "stock_name": "紫金矿业",
+        "market_value_wan": 47.75
+      },
+      {
+        "stock_code": "002389",
+        "stock_name": "航天彩虹",
+        "market_value_wan": 46.64
+      },
+      {
+        "stock_code": "601231",
+        "stock_name": "环旭电子",
+        "market_value_wan": 44.88
+      },
+      {
+        "stock_code": "601881",
+        "stock_name": "中国银河",
+        "market_value_wan": 42.96
+      },
+      {
+        "stock_code": "600919",
+        "stock_name": "江苏银行",
+        "market_value_wan": 42.63
+      },
+      {
+        "stock_code": "300087",
+        "stock_name": "荃银高科",
+        "market_value_wan": 42.19
+      },
+      {
+        "stock_code": "600938",
+        "stock_name": "中国海油",
+        "market_value_wan": 41.68
+      }
+    ],
+    "2023-Q1": [
+      {
+        "stock_code": "600938",
+        "stock_name": "中国海油",
+        "market_value_wan": 56.23
+      },
+      {
+        "stock_code": "600989",
+        "stock_name": "宝丰能源",
+        "market_value_wan": 55.02
+      },
+      {
+        "stock_code": "600919",
+        "stock_name": "江苏银行",
+        "market_value_wan": 54.76
+      },
+      {
+        "stock_code": "601899",
+        "stock_name": "紫金矿业",
+        "market_value_wan": 49.56
+      },
+      {
+        "stock_code": "000831",
+        "stock_name": "中国稀土",
+        "market_value_wan": 47.28
+      },
+      {
+        "stock_code": "600285",
+        "stock_name": "羚锐制药",
+        "market_value_wan": 46.53
+      },
+      {
+        "stock_code": "601117",
+        "stock_name": "中国化学",
+        "market_value_wan": 46.4
+      },
+      {
+        "stock_code": "000963",
+        "stock_name": "华东医药",
+        "market_value_wan": 46.34
+      },
+      {
+        "stock_code": "600760",
+        "stock_name": "中航沈飞",
+        "market_value_wan": 43.07
+      },
+      {
+        "stock_code": "002080",
+        "stock_name": "中材科技",
+        "market_value_wan": 42.23
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "400003",
+    "name": "东方精选混合",
+    "base_name": "东方精选混合"
+  },
+  "fetched_at": "2026-06-14 23:59:44",
+  "quarters": {
+    "2018-Q4": [
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 6198.53
+      },
+      {
+        "stock_code": "002372",
+        "stock_name": "伟星新材",
+        "market_value_wan": 5583.7
+      },
+      {
+        "stock_code": "600900",
+        "stock_name": "长江电力",
+        "market_value_wan": 4764.05
+      },
+      {
+        "stock_code": "002032",
+        "stock_name": "苏泊尔",
+        "market_value_wan": 4200.0
+      },
+      {
+        "stock_code": "600066",
+        "stock_name": "宇通客车",
+        "market_value_wan": 3910.5
+      },
+      {
+        "stock_code": "600340",
+        "stock_name": "华夏幸福",
+        "market_value_wan": 3817.51
+      },
+      {
+        "stock_code": "603288",
+        "stock_name": "海天味业",
+        "market_value_wan": 3784.67
+      },
+      {
+        "stock_code": "601668",
+        "stock_name": "中国建筑",
+        "market_value_wan": 3420.04
+      },
+      {
+        "stock_code": "600886",
+        "stock_name": "国投电力",
+        "market_value_wan": 3220.02
+      },
+      {
+        "stock_code": "601398",
+        "stock_name": "工商银行",
+        "market_value_wan": 3174.01
+      }
+    ],
+    "2018-Q3": [
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 8326.23
+      },
+      {
+        "stock_code": "000423",
+        "stock_name": "东阿阿胶",
+        "market_value_wan": 7120.95
+      },
+      {
+        "stock_code": "603288",
+        "stock_name": "海天味业",
+        "market_value_wan": 6891.17
+      },
+      {
+        "stock_code": "002372",
+        "stock_name": "伟星新材",
+        "market_value_wan": 5928.09
+      },
+      {
+        "stock_code": "601398",
+        "stock_name": "工商银行",
+        "market_value_wan": 5770.01
+      },
+      {
+        "stock_code": "600900",
+        "stock_name": "长江电力",
+        "market_value_wan": 5733.05
+      },
+      {
+        "stock_code": "002032",
+        "stock_name": "苏泊尔",
+        "market_value_wan": 4318.4
+      },
+      {
+        "stock_code": "600028",
+        "stock_name": "中国石化",
+        "market_value_wan": 3916.0
+      },
+      {
+        "stock_code": "600340",
+        "stock_name": "华夏幸福",
+        "market_value_wan": 3799.51
+      },
+      {
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "market_value_wan": 3767.5
+      }
+    ],
+    "2018-Q2": [
+      {
+        "stock_code": "300429",
+        "stock_name": "强力新材",
+        "market_value_wan": 10220.0
+      },
+      {
+        "stock_code": "002375",
+        "stock_name": "亚厦股份",
+        "market_value_wan": 8544.0
+      },
+      {
+        "stock_code": "000651",
+        "stock_name": "格力电器",
+        "market_value_wan": 7921.01
+      },
+      {
+        "stock_code": "002202",
+        "stock_name": "金风科技",
+        "market_value_wan": 5434.89
+      },
+      {
+        "stock_code": "603818",
+        "stock_name": "曲美家居",
+        "market_value_wan": 4888.75
+      },
+      {
+        "stock_code": "000069",
+        "stock_name": "华侨城A",
+        "market_value_wan": 4338.0
+      },
+      {
+        "stock_code": "002531",
+        "stock_name": "天顺风能",
+        "market_value_wan": 4327.3
+      },
+      {
+        "stock_code": "600197",
+        "stock_name": "伊力特",
+        "market_value_wan": 3544.41
+      },
+      {
+        "stock_code": "000959",
+        "stock_name": "首钢股份",
+        "market_value_wan": 3288.0
+      },
+      {
+        "stock_code": "600019",
+        "stock_name": "宝钢股份",
+        "market_value_wan": 3116.0
+      }
+    ],
+    "2018-Q1": [
+      {
+        "stock_code": "002375",
+        "stock_name": "亚厦股份",
+        "market_value_wan": 11215.66
+      },
+      {
+        "stock_code": "000069",
+        "stock_name": "华侨城A",
+        "market_value_wan": 8445.94
+      },
+      {
+        "stock_code": "300429",
+        "stock_name": "强力新材",
+        "market_value_wan": 8148.0
+      },
+      {
+        "stock_code": "002202",
+        "stock_name": "金风科技",
+        "market_value_wan": 7428.75
+      },
+      {
+        "stock_code": "002531",
+        "stock_name": "天顺风能",
+        "market_value_wan": 7261.9
+      },
+      {
+        "stock_code": "000959",
+        "stock_name": "首钢股份",
+        "market_value_wan": 6599.44
+      },
+      {
+        "stock_code": "603818",
+        "stock_name": "曲美家居",
+        "market_value_wan": 6569.56
+      },
+      {
+        "stock_code": "001979",
+        "stock_name": "招商蛇口",
+        "market_value_wan": 5450.0
+      },
+      {
+        "stock_code": "002279",
+        "stock_name": "久其软件",
+        "market_value_wan": 4629.11
+      },
+      {
+        "stock_code": "600197",
+        "stock_name": "伊力特",
+        "market_value_wan": 4336.58
+      }
+    ]
+  }
+}

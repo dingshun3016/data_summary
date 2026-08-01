@@ -1,0 +1,70 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "011221",
+    "name": "南方匠心优选股票C",
+    "base_name": "南方匠心优选股票"
+  },
+  "fetched_at": "2026-08-01 20:59:42",
+  "quarters": {
+    "2026-Q2": [
+      {
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "market_value_wan": 16933.43
+      },
+      {
+        "stock_code": "000651",
+        "stock_name": "格力电器",
+        "market_value_wan": 13575.53
+      },
+      {
+        "stock_code": "601077",
+        "stock_name": "渝农商行",
+        "market_value_wan": 13330.43
+      },
+      {
+        "stock_code": "600690",
+        "stock_name": "海尔智家",
+        "market_value_wan": 9446.98
+      },
+      {
+        "stock_code": "000786",
+        "stock_name": "北新建材",
+        "market_value_wan": 8983.39
+      },
+      {
+        "stock_code": "600710",
+        "stock_name": "苏美达",
+        "market_value_wan": 6349.73
+      }
+    ],
+    "2026-Q1": [
+      {
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "market_value_wan": 19436.19
+      },
+      {
+        "stock_code": "601077",
+        "stock_name": "渝农商行",
+        "market_value_wan": 14941.35
+      },
+      {
+        "stock_code": "000651",
+        "stock_name": "格力电器",
+        "market_value_wan": 12852.51
+      },
+      {
+        "stock_code": "000786",
+        "stock_name": "北新建材",
+        "market_value_wan": 12665.6
+      },
+      {
+        "stock_code": "600690",
+        "stock_name": "海尔智家",
+        "market_value_wan": 9691.78
+      }
+    ]
+  }
+}

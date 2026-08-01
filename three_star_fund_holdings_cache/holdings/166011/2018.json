@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "166011",
+    "name": "中欧盛世成长混合(LOF)A",
+    "base_name": "中欧盛世成长混合(LOF)"
+  },
+  "fetched_at": "2026-06-14 23:54:48",
+  "quarters": {
+    "2018-Q4": [
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 3817.36
+      },
+      {
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "market_value_wan": 3628.04
+      },
+      {
+        "stock_code": "600038",
+        "stock_name": "中直股份",
+        "market_value_wan": 3582.67
+      },
+      {
+        "stock_code": "600570",
+        "stock_name": "恒生电子",
+        "market_value_wan": 3473.24
+      },
+      {
+        "stock_code": "002624",
+        "stock_name": "完美世界",
+        "market_value_wan": 3361.5
+      },
+      {
+        "stock_code": "300253",
+        "stock_name": "卫宁健康",
+        "market_value_wan": 3359.83
+      },
+      {
+        "stock_code": "603885",
+        "stock_name": "吉祥航空",
+        "market_value_wan": 3225.22
+      },
+      {
+        "stock_code": "601021",
+        "stock_name": "春秋航空",
+        "market_value_wan": 3172.31
+      },
+      {
+        "stock_code": "300212",
+        "stock_name": "易华录",
+        "market_value_wan": 2427.95
+      },
+      {
+        "stock_code": "002174",
+        "stock_name": "游族网络",
+        "market_value_wan": 1938.94
+      }
+    ],
+    "2018-Q3": [
+      {
+        "stock_code": "000661",
+        "stock_name": "长春高新",
+        "market_value_wan": 4671.72
+      },
+      {
+        "stock_code": "600038",
+        "stock_name": "中直股份",
+        "market_value_wan": 4373.68
+      },
+      {
+        "stock_code": "300253",
+        "stock_name": "卫宁健康",
+        "market_value_wan": 4265.23
+      },
+      {
+        "stock_code": "600893",
+        "stock_name": "航发动力",
+        "market_value_wan": 4185.05
+      },
+      {
+        "stock_code": "002007",
+        "stock_name": "华兰生物",
+        "market_value_wan": 3969.58
+      },
+      {
+        "stock_code": "601021",
+        "stock_name": "春秋航空",
+        "market_value_wan": 3946.06
+      },
+      {
+        "stock_code": "600570",
+        "stock_name": "恒生电子",
+        "market_value_wan": 3878.99
+      },
+      {
+        "stock_code": "002368",
+        "stock_name": "太极股份",
+        "market_value_wan": 3744.92
+      },
+      {
+        "stock_code": "603885",
+        "stock_name": "吉祥航空",
+        "market_value_wan": 3691.37
+      },
+      {
+        "stock_code": "601111",
+        "stock_name": "中国国航",
+        "market_value_wan": 3222.54
+      }
+    ],
+    "2018-Q2": [
+      {
+        "stock_code": "000661",
+        "stock_name": "长春高新",
+        "market_value_wan": 6178.64
+      },
+      {
+        "stock_code": "600029",
+        "stock_name": "南方航空",
+        "market_value_wan": 4826.89
+      },
+      {
+        "stock_code": "601111",
+        "stock_name": "中国国航",
+        "market_value_wan": 4677.22
+      },
+      {
+        "stock_code": "603885",
+        "stock_name": "吉祥航空",
+        "market_value_wan": 4595.11
+      },
+      {
+        "stock_code": "600038",
+        "stock_name": "中直股份",
+        "market_value_wan": 4454.33
+      },
+      {
+        "stock_code": "601021",
+        "stock_name": "春秋航空",
+        "market_value_wan": 4371.33
+      },
+      {
+        "stock_code": "600893",
+        "stock_name": "航发动力",
+        "market_value_wan": 4333.7
+      },
+      {
+        "stock_code": "600115",
+        "stock_name": "中国东航",
+        "market_value_wan": 4194.47
+      },
+      {
+        "stock_code": "600570",
+        "stock_name": "恒生电子",
+        "market_value_wan": 3717.03
+      },
+      {
+        "stock_code": "002368",
+        "stock_name": "太极股份",
+        "market_value_wan": 3609.68
+      }
+    ],
+    "2018-Q1": [
+      {
+        "stock_code": "601111",
+        "stock_name": "中国国航",
+        "market_value_wan": 6633.41
+      },
+      {
+        "stock_code": "600029",
+        "stock_name": "南方航空",
+        "market_value_wan": 6332.19
+      },
+      {
+        "stock_code": "600038",
+        "stock_name": "中直股份",
+        "market_value_wan": 5794.55
+      },
+      {
+        "stock_code": "600893",
+        "stock_name": "航发动力",
+        "market_value_wan": 4886.22
+      },
+      {
+        "stock_code": "600115",
+        "stock_name": "中国东航",
+        "market_value_wan": 4795.41
+      },
+      {
+        "stock_code": "603885",
+        "stock_name": "吉祥航空",
+        "market_value_wan": 4756.31
+      },
+      {
+        "stock_code": "000661",
+        "stock_name": "长春高新",
+        "market_value_wan": 4648.94
+      },
+      {
+        "stock_code": "601009",
+        "stock_name": "南京银行",
+        "market_value_wan": 4538.86
+      },
+      {
+        "stock_code": "600581",
+        "stock_name": "八一钢铁",
+        "market_value_wan": 4085.28
+      },
+      {
+        "stock_code": "600326",
+        "stock_name": "西藏天路",
+        "market_value_wan": 3966.39
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "370024",
+    "name": "摩根核心优选混合A",
+    "base_name": "摩根核心优选混合"
+  },
+  "fetched_at": "2026-06-14 23:59:17",
+  "quarters": {
+    "2023-Q4": [
+      {
+        "stock_code": "002236",
+        "stock_name": "大华股份",
+        "market_value_wan": 2633.23
+      },
+      {
+        "stock_code": "603477",
+        "stock_name": "巨星农牧",
+        "market_value_wan": 2160.64
+      },
+      {
+        "stock_code": "601233",
+        "stock_name": "桐昆股份",
+        "market_value_wan": 1702.88
+      },
+      {
+        "stock_code": "603225",
+        "stock_name": "新凤鸣",
+        "market_value_wan": 1685.48
+      },
+      {
+        "stock_code": "002028",
+        "stock_name": "思源电气",
+        "market_value_wan": 1673.61
+      },
+      {
+        "stock_code": "002270",
+        "stock_name": "华明装备",
+        "market_value_wan": 1648.41
+      },
+      {
+        "stock_code": "688676",
+        "stock_name": "金盘科技",
+        "market_value_wan": 1574.87
+      },
+      {
+        "stock_code": "603712",
+        "stock_name": "七一二",
+        "market_value_wan": 1526.16
+      },
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 1524.77
+      },
+      {
+        "stock_code": "688100",
+        "stock_name": "威胜信息",
+        "market_value_wan": 1493.93
+      }
+    ],
+    "2023-Q3": [
+      {
+        "stock_code": "002236",
+        "stock_name": "大华股份",
+        "market_value_wan": 3121.87
+      },
+      {
+        "stock_code": "601138",
+        "stock_name": "工业富联",
+        "market_value_wan": 2227.09
+      },
+      {
+        "stock_code": "688100",
+        "stock_name": "威胜信息",
+        "market_value_wan": 1850.43
+      },
+      {
+        "stock_code": "603477",
+        "stock_name": "巨星农牧",
+        "market_value_wan": 1679.89
+      },
+      {
+        "stock_code": "601233",
+        "stock_name": "桐昆股份",
+        "market_value_wan": 1660.11
+      },
+      {
+        "stock_code": "002028",
+        "stock_name": "思源电气",
+        "market_value_wan": 1609.32
+      },
+      {
+        "stock_code": "603225",
+        "stock_name": "新凤鸣",
+        "market_value_wan": 1571.03
+      },
+      {
+        "stock_code": "688676",
+        "stock_name": "金盘科技",
+        "market_value_wan": 1387.52
+      },
+      {
+        "stock_code": "002270",
+        "stock_name": "华明装备",
+        "market_value_wan": 1344.3
+      },
+      {
+        "stock_code": "600761",
+        "stock_name": "安徽合力",
+        "market_value_wan": 1315.83
+      }
+    ],
+    "2023-Q2": [
+      {
+        "stock_code": "002236",
+        "stock_name": "大华股份",
+        "market_value_wan": 3151.9
+      },
+      {
+        "stock_code": "600079",
+        "stock_name": "人福医药",
+        "market_value_wan": 2569.21
+      },
+      {
+        "stock_code": "300502",
+        "stock_name": "新易盛",
+        "market_value_wan": 2268.49
+      },
+      {
+        "stock_code": "002459",
+        "stock_name": "晶澳科技",
+        "market_value_wan": 2091.63
+      },
+      {
+        "stock_code": "688100",
+        "stock_name": "威胜信息",
+        "market_value_wan": 2079.77
+      },
+      {
+        "stock_code": "603477",
+        "stock_name": "巨星农牧",
+        "market_value_wan": 1910.74
+      },
+      {
+        "stock_code": "603345",
+        "stock_name": "安井食品",
+        "market_value_wan": 1846.42
+      },
+      {
+        "stock_code": "688472",
+        "stock_name": "阿特斯",
+        "market_value_wan": 1815.19
+      },
+      {
+        "stock_code": "002063",
+        "stock_name": "远光软件",
+        "market_value_wan": 1805.37
+      },
+      {
+        "stock_code": "601138",
+        "stock_name": "工业富联",
+        "market_value_wan": 1634.72
+      }
+    ],
+    "2023-Q1": [
+      {
+        "stock_code": "002236",
+        "stock_name": "大华股份",
+        "market_value_wan": 3206.55
+      },
+      {
+        "stock_code": "600079",
+        "stock_name": "人福医药",
+        "market_value_wan": 2559.07
+      },
+      {
+        "stock_code": "600557",
+        "stock_name": "康缘药业",
+        "market_value_wan": 2407.05
+      },
+      {
+        "stock_code": "000032",
+        "stock_name": "深桑达A",
+        "market_value_wan": 2401.75
+      },
+      {
+        "stock_code": "002063",
+        "stock_name": "远光软件",
+        "market_value_wan": 2315.45
+      },
+      {
+        "stock_code": "002459",
+        "stock_name": "晶澳科技",
+        "market_value_wan": 2223.07
+      },
+      {
+        "stock_code": "603345",
+        "stock_name": "安井食品",
+        "market_value_wan": 2058.11
+      },
+      {
+        "stock_code": "600559",
+        "stock_name": "老白干酒",
+        "market_value_wan": 1899.33
+      },
+      {
+        "stock_code": "601117",
+        "stock_name": "中国化学",
+        "market_value_wan": 1896.37
+      },
+      {
+        "stock_code": "688100",
+        "stock_name": "威胜信息",
+        "market_value_wan": 1860.02
+      }
+    ]
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "010590",
+    "name": "鹏扬景安一年持有期混合C",
+    "base_name": "鹏扬景安一年持有期混合"
+  },
+  "fetched_at": "2026-06-14 22:39:44",
+  "quarters": {
+    "2023-Q4": [
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 293.42
+      },
+      {
+        "stock_code": "600989",
+        "stock_name": "宝丰能源",
+        "market_value_wan": 204.27
+      },
+      {
+        "stock_code": "600803",
+        "stock_name": "新奥股份",
+        "market_value_wan": 201.5
+      },
+      {
+        "stock_code": "002078",
+        "stock_name": "太阳纸业",
+        "market_value_wan": 140.2
+      },
+      {
+        "stock_code": "603855",
+        "stock_name": "华荣股份",
+        "market_value_wan": 136.33
+      }
+    ],
+    "2023-Q3": [
+      {
+        "stock_code": "600803",
+        "stock_name": "新奥股份",
+        "market_value_wan": 285.34
+      },
+      {
+        "stock_code": "600989",
+        "stock_name": "宝丰能源",
+        "market_value_wan": 270.56
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 269.78
+      },
+      {
+        "stock_code": "002078",
+        "stock_name": "太阳纸业",
+        "market_value_wan": 173.85
+      },
+      {
+        "stock_code": "603855",
+        "stock_name": "华荣股份",
+        "market_value_wan": 166.55
+      }
+    ],
+    "2023-Q2": [
+      {
+        "stock_code": "600803",
+        "stock_name": "新奥股份",
+        "market_value_wan": 343.92
+      },
+      {
+        "stock_code": "600989",
+        "stock_name": "宝丰能源",
+        "market_value_wan": 263.8
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 253.65
+      },
+      {
+        "stock_code": "603855",
+        "stock_name": "华荣股份",
+        "market_value_wan": 220.51
+      },
+      {
+        "stock_code": "002078",
+        "stock_name": "太阳纸业",
+        "market_value_wan": 167.73
+      }
+    ],
+    "2023-Q1": [
+      {
+        "stock_code": "600803",
+        "stock_name": "新奥股份",
+        "market_value_wan": 486.22
+      },
+      {
+        "stock_code": "603855",
+        "stock_name": "华荣股份",
+        "market_value_wan": 423.65
+      },
+      {
+        "stock_code": "600989",
+        "stock_name": "宝丰能源",
+        "market_value_wan": 397.37
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 273.0
+      },
+      {
+        "stock_code": "002078",
+        "stock_name": "太阳纸业",
+        "market_value_wan": 246.12
+      }
+    ]
+  }
+}

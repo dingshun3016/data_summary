@@ -1,0 +1,69 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "010761",
+    "name": "华商甄选回报混合A",
+    "base_name": "华商甄选回报混合"
+  },
+  "fetched_at": "2026-06-14 22:40:10",
+  "quarters": {
+    "2024-Q4": [
+      {
+        "stock_code": "601899",
+        "stock_name": "紫金矿业",
+        "market_value_wan": 33755.17
+      },
+      {
+        "stock_code": "000426",
+        "stock_name": "兴业银锡",
+        "market_value_wan": 14066.91
+      }
+    ],
+    "2024-Q3": [
+      {
+        "stock_code": "601899",
+        "stock_name": "紫金矿业",
+        "market_value_wan": 42678.98
+      },
+      {
+        "stock_code": "000426",
+        "stock_name": "兴业银锡",
+        "market_value_wan": 17846.2
+      }
+    ],
+    "2024-Q2": [
+      {
+        "stock_code": "601899",
+        "stock_name": "紫金矿业",
+        "market_value_wan": 40424.27
+      },
+      {
+        "stock_code": "000426",
+        "stock_name": "兴业银锡",
+        "market_value_wan": 18180.9
+      },
+      {
+        "stock_code": "603979",
+        "stock_name": "金诚信",
+        "market_value_wan": 16215.38
+      }
+    ],
+    "2024-Q1": [
+      {
+        "stock_code": "601899",
+        "stock_name": "紫金矿业",
+        "market_value_wan": 40709.87
+      },
+      {
+        "stock_code": "603979",
+        "stock_name": "金诚信",
+        "market_value_wan": 18901.56
+      },
+      {
+        "stock_code": "000426",
+        "stock_name": "兴业银锡",
+        "market_value_wan": 15115.05
+      }
+    ]
+  }
+}

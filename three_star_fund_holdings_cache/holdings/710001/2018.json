@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "710001",
+    "name": "富安达优势成长混合A",
+    "base_name": "富安达优势成长混合"
+  },
+  "fetched_at": "2026-06-15 00:07:34",
+  "quarters": {
+    "2018-Q4": [
+      {
+        "stock_code": "600521",
+        "stock_name": "华海药业",
+        "market_value_wan": 7238.6
+      },
+      {
+        "stock_code": "300098",
+        "stock_name": "高新兴",
+        "market_value_wan": 6886.0
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 5569.69
+      },
+      {
+        "stock_code": "002603",
+        "stock_name": "以岭药业",
+        "market_value_wan": 5164.01
+      },
+      {
+        "stock_code": "600588",
+        "stock_name": "用友网络",
+        "market_value_wan": 3973.23
+      },
+      {
+        "stock_code": "002020",
+        "stock_name": "京新药业",
+        "market_value_wan": 3862.6
+      },
+      {
+        "stock_code": "002415",
+        "stock_name": "海康威视",
+        "market_value_wan": 3776.32
+      },
+      {
+        "stock_code": "002332",
+        "stock_name": "仙琚制药",
+        "market_value_wan": 3372.54
+      },
+      {
+        "stock_code": "600031",
+        "stock_name": "三一重工",
+        "market_value_wan": 3336.0
+      },
+      {
+        "stock_code": "600900",
+        "stock_name": "长江电力",
+        "market_value_wan": 3129.71
+      }
+    ],
+    "2018-Q3": [
+      {
+        "stock_code": "600585",
+        "stock_name": "海螺水泥",
+        "market_value_wan": 8829.36
+      },
+      {
+        "stock_code": "300098",
+        "stock_name": "高新兴",
+        "market_value_wan": 7117.28
+      },
+      {
+        "stock_code": "600521",
+        "stock_name": "华海药业",
+        "market_value_wan": 6665.24
+      },
+      {
+        "stock_code": "600801",
+        "stock_name": "华新水泥",
+        "market_value_wan": 6645.87
+      },
+      {
+        "stock_code": "000789",
+        "stock_name": "万年青",
+        "market_value_wan": 6312.13
+      },
+      {
+        "stock_code": "000661",
+        "stock_name": "长春高新",
+        "market_value_wan": 6064.26
+      },
+      {
+        "stock_code": "002773",
+        "stock_name": "康弘药业",
+        "market_value_wan": 5545.01
+      },
+      {
+        "stock_code": "600588",
+        "stock_name": "用友网络",
+        "market_value_wan": 5327.22
+      },
+      {
+        "stock_code": "000063",
+        "stock_name": "中兴通讯",
+        "market_value_wan": 5124.0
+      },
+      {
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "market_value_wan": 4639.71
+      }
+    ],
+    "2018-Q2": [
+      {
+        "stock_code": "300098",
+        "stock_name": "高新兴",
+        "market_value_wan": 12448.33
+      },
+      {
+        "stock_code": "300166",
+        "stock_name": "东方国信",
+        "market_value_wan": 10855.76
+      },
+      {
+        "stock_code": "300287",
+        "stock_name": "飞利信",
+        "market_value_wan": 8147.76
+      },
+      {
+        "stock_code": "002773",
+        "stock_name": "康弘药业",
+        "market_value_wan": 8131.4
+      },
+      {
+        "stock_code": "000661",
+        "stock_name": "长春高新",
+        "market_value_wan": 6964.8
+      },
+      {
+        "stock_code": "600276",
+        "stock_name": "恒瑞医药",
+        "market_value_wan": 6744.26
+      },
+      {
+        "stock_code": "002020",
+        "stock_name": "京新药业",
+        "market_value_wan": 6311.96
+      },
+      {
+        "stock_code": "300188",
+        "stock_name": "国投智能",
+        "market_value_wan": 5855.82
+      },
+      {
+        "stock_code": "600521",
+        "stock_name": "华海药业",
+        "market_value_wan": 5829.25
+      },
+      {
+        "stock_code": "600703",
+        "stock_name": "三安光电",
+        "market_value_wan": 4697.91
+      }
+    ],
+    "2018-Q1": [
+      {
+        "stock_code": "600588",
+        "stock_name": "用友网络",
+        "market_value_wan": 12850.21
+      },
+      {
+        "stock_code": "300098",
+        "stock_name": "高新兴",
+        "market_value_wan": 11067.28
+      },
+      {
+        "stock_code": "300166",
+        "stock_name": "东方国信",
+        "market_value_wan": 10454.94
+      },
+      {
+        "stock_code": "002773",
+        "stock_name": "康弘药业",
+        "market_value_wan": 9355.57
+      },
+      {
+        "stock_code": "600521",
+        "stock_name": "华海药业",
+        "market_value_wan": 8700.44
+      },
+      {
+        "stock_code": "300287",
+        "stock_name": "飞利信",
+        "market_value_wan": 8461.21
+      },
+      {
+        "stock_code": "600172",
+        "stock_name": "黄河旋风",
+        "market_value_wan": 6907.48
+      },
+      {
+        "stock_code": "002439",
+        "stock_name": "启明星辰",
+        "market_value_wan": 6798.38
+      },
+      {
+        "stock_code": "600570",
+        "stock_name": "恒生电子",
+        "market_value_wan": 6575.8
+      },
+      {
+        "stock_code": "300188",
+        "stock_name": "国投智能",
+        "market_value_wan": 6199.81
+      }
+    ]
+  }
+}

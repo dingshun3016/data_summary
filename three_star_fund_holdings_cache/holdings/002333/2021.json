@@ -1,0 +1,59 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "002333",
+    "name": "汇丰晋信沪港深C",
+    "base_name": "汇丰晋信沪港深"
+  },
+  "fetched_at": "2026-06-14 23:05:50",
+  "quarters": {
+    "2021-Q4": [
+      {
+        "stock_code": "002013",
+        "stock_name": "中航机电",
+        "market_value_wan": 4500.64
+      },
+      {
+        "stock_code": "300014",
+        "stock_name": "亿纬锂能",
+        "market_value_wan": 3574.95
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 3451.56
+      }
+    ],
+    "2021-Q3": [
+      {
+        "stock_code": "688798",
+        "stock_name": "艾为电子",
+        "market_value_wan": 3990.8
+      }
+    ],
+    "2021-Q2": [
+      {
+        "stock_code": "603589",
+        "stock_name": "口子窖",
+        "market_value_wan": 6530.05
+      },
+      {
+        "stock_code": "600741",
+        "stock_name": "华域汽车",
+        "market_value_wan": 6425.12
+      }
+    ],
+    "2021-Q1": [
+      {
+        "stock_code": "300014",
+        "stock_name": "亿纬锂能",
+        "market_value_wan": 15662.82
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 7197.28
+      }
+    ]
+  }
+}

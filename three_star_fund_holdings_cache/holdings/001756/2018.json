@@ -1,0 +1,77 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "001756",
+    "name": "嘉实策略优选混合",
+    "base_name": "嘉实策略优选混合"
+  },
+  "fetched_at": "2026-06-14 23:00:41",
+  "quarters": {
+    "2018-Q4": [
+      {
+        "stock_code": "000963",
+        "stock_name": "华东医药",
+        "market_value_wan": 687.17
+      },
+      {
+        "stock_code": "300567",
+        "stock_name": "精测电子",
+        "market_value_wan": 504.66
+      },
+      {
+        "stock_code": "600486",
+        "stock_name": "扬农化工",
+        "market_value_wan": 244.8
+      }
+    ],
+    "2018-Q3": [
+      {
+        "stock_code": "600566",
+        "stock_name": "济川药业",
+        "market_value_wan": 1176.97
+      },
+      {
+        "stock_code": "000963",
+        "stock_name": "华东医药",
+        "market_value_wan": 519.29
+      },
+      {
+        "stock_code": "600426",
+        "stock_name": "华鲁恒升",
+        "market_value_wan": 491.0
+      },
+      {
+        "stock_code": "002258",
+        "stock_name": "利尔化学",
+        "market_value_wan": 419.0
+      },
+      {
+        "stock_code": "000513",
+        "stock_name": "丽珠集团",
+        "market_value_wan": 47.43
+      }
+    ],
+    "2018-Q2": [
+      {
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "market_value_wan": 555.24
+      },
+      {
+        "stock_code": "000513",
+        "stock_name": "丽珠集团",
+        "market_value_wan": 518.26
+      },
+      {
+        "stock_code": "603367",
+        "stock_name": "辰欣药业",
+        "market_value_wan": 57.92
+      },
+      {
+        "stock_code": "300747",
+        "stock_name": "锐科激光",
+        "market_value_wan": 12.4
+      }
+    ]
+  }
+}

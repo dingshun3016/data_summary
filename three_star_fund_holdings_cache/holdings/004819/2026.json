@@ -1,0 +1,115 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "004819",
+    "name": "国寿安保目标策略混合发起C",
+    "base_name": "国寿安保目标策略混合发起"
+  },
+  "fetched_at": "2026-08-01 20:56:10",
+  "quarters": {
+    "2026-Q2": [
+      {
+        "stock_code": "688300",
+        "stock_name": "联瑞新材",
+        "market_value_wan": 1395.52
+      },
+      {
+        "stock_code": "688519",
+        "stock_name": "南亚新材",
+        "market_value_wan": 1370.2
+      },
+      {
+        "stock_code": "002484",
+        "stock_name": "江海股份",
+        "market_value_wan": 1050.0
+      },
+      {
+        "stock_code": "688257",
+        "stock_name": "新锐股份",
+        "market_value_wan": 1003.86
+      },
+      {
+        "stock_code": "688307",
+        "stock_name": "中润光学",
+        "market_value_wan": 861.86
+      },
+      {
+        "stock_code": "603989",
+        "stock_name": "艾华集团",
+        "market_value_wan": 735.0
+      },
+      {
+        "stock_code": "688559",
+        "stock_name": "海目星",
+        "market_value_wan": 675.22
+      },
+      {
+        "stock_code": "688598",
+        "stock_name": "金博股份",
+        "market_value_wan": 589.44
+      },
+      {
+        "stock_code": "300545",
+        "stock_name": "联得装备",
+        "market_value_wan": 554.4
+      },
+      {
+        "stock_code": "603078",
+        "stock_name": "江化微",
+        "market_value_wan": 498.07
+      }
+    ],
+    "2026-Q1": [
+      {
+        "stock_code": "688519",
+        "stock_name": "南亚新材",
+        "market_value_wan": 779.38
+      },
+      {
+        "stock_code": "688307",
+        "stock_name": "中润光学",
+        "market_value_wan": 649.33
+      },
+      {
+        "stock_code": "688300",
+        "stock_name": "联瑞新材",
+        "market_value_wan": 589.26
+      },
+      {
+        "stock_code": "688257",
+        "stock_name": "新锐股份",
+        "market_value_wan": 562.57
+      },
+      {
+        "stock_code": "688678",
+        "stock_name": "福立旺",
+        "market_value_wan": 441.8
+      },
+      {
+        "stock_code": "002851",
+        "stock_name": "麦格米特",
+        "market_value_wan": 437.4
+      },
+      {
+        "stock_code": "688559",
+        "stock_name": "海目星",
+        "market_value_wan": 416.19
+      },
+      {
+        "stock_code": "600089",
+        "stock_name": "特变电工",
+        "market_value_wan": 397.5
+      },
+      {
+        "stock_code": "603859",
+        "stock_name": "能科科技",
+        "market_value_wan": 363.85
+      },
+      {
+        "stock_code": "688518",
+        "stock_name": "联赢激光",
+        "market_value_wan": 355.5
+      }
+    ]
+  }
+}

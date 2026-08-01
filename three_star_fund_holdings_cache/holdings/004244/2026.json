@@ -1,0 +1,115 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "004244",
+    "name": "东方周期优选灵活配置混合A",
+    "base_name": "东方周期优选灵活配置混合"
+  },
+  "fetched_at": "2026-08-01 20:55:56",
+  "quarters": {
+    "2026-Q2": [
+      {
+        "stock_code": "600176",
+        "stock_name": "中国巨石",
+        "market_value_wan": 182.2
+      },
+      {
+        "stock_code": "600309",
+        "stock_name": "万华化学",
+        "market_value_wan": 136.82
+      },
+      {
+        "stock_code": "600966",
+        "stock_name": "博汇纸业",
+        "market_value_wan": 124.28
+      },
+      {
+        "stock_code": "002064",
+        "stock_name": "华峰化学",
+        "market_value_wan": 94.9
+      },
+      {
+        "stock_code": "002254",
+        "stock_name": "泰和新材",
+        "market_value_wan": 90.95
+      },
+      {
+        "stock_code": "600256",
+        "stock_name": "广汇能源",
+        "market_value_wan": 74.1
+      },
+      {
+        "stock_code": "000893",
+        "stock_name": "亚钾国际",
+        "market_value_wan": 73.6
+      },
+      {
+        "stock_code": "600328",
+        "stock_name": "中盐化工",
+        "market_value_wan": 72.0
+      },
+      {
+        "stock_code": "002986",
+        "stock_name": "宇新股份",
+        "market_value_wan": 70.98
+      },
+      {
+        "stock_code": "603393",
+        "stock_name": "新天然气",
+        "market_value_wan": 64.23
+      }
+    ],
+    "2026-Q1": [
+      {
+        "stock_code": "600966",
+        "stock_name": "博汇纸业",
+        "market_value_wan": 166.66
+      },
+      {
+        "stock_code": "600309",
+        "stock_name": "万华化学",
+        "market_value_wan": 158.9
+      },
+      {
+        "stock_code": "601857",
+        "stock_name": "中国石油",
+        "market_value_wan": 121.9
+      },
+      {
+        "stock_code": "600176",
+        "stock_name": "中国巨石",
+        "market_value_wan": 116.69
+      },
+      {
+        "stock_code": "000893",
+        "stock_name": "亚钾国际",
+        "market_value_wan": 109.98
+      },
+      {
+        "stock_code": "603393",
+        "stock_name": "新天然气",
+        "market_value_wan": 107.97
+      },
+      {
+        "stock_code": "600328",
+        "stock_name": "中盐化工",
+        "market_value_wan": 104.04
+      },
+      {
+        "stock_code": "002064",
+        "stock_name": "华峰化学",
+        "market_value_wan": 102.6
+      },
+      {
+        "stock_code": "600256",
+        "stock_name": "广汇能源",
+        "market_value_wan": 100.05
+      },
+      {
+        "stock_code": "600989",
+        "stock_name": "宝丰能源",
+        "market_value_wan": 87.18
+      }
+    ]
+  }
+}

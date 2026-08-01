@@ -1,0 +1,60 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "008515",
+    "name": "国富基本面优选混合A",
+    "base_name": "国富基本面优选混合"
+  },
+  "fetched_at": "2026-08-01 20:57:52",
+  "quarters": {
+    "2026-Q2": [
+      {
+        "stock_code": "600016",
+        "stock_name": "民生银行",
+        "market_value_wan": 15402.27
+      },
+      {
+        "stock_code": "601577",
+        "stock_name": "长沙银行",
+        "market_value_wan": 12840.85
+      },
+      {
+        "stock_code": "002142",
+        "stock_name": "宁波银行",
+        "market_value_wan": 9566.03
+      },
+      {
+        "stock_code": "601665",
+        "stock_name": "齐鲁银行",
+        "market_value_wan": 4645.14
+      }
+    ],
+    "2026-Q1": [
+      {
+        "stock_code": "600016",
+        "stock_name": "民生银行",
+        "market_value_wan": 20038.47
+      },
+      {
+        "stock_code": "601577",
+        "stock_name": "长沙银行",
+        "market_value_wan": 17151.08
+      },
+      {
+        "stock_code": "002142",
+        "stock_name": "宁波银行",
+        "market_value_wan": 10907.1
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 8410.0
+      },
+      {
+        "stock_code": "002035",
+        "stock_name": "华帝股份",
+        "market_value_wan": 7037.86
+      }
+    ]
+  }
+}

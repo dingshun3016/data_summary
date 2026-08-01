@@ -1,0 +1,40 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "002691",
+    "name": "前海开源恒泽混合C",
+    "base_name": "前海开源恒泽混合"
+  },
+  "fetched_at": "2026-06-14 23:07:16",
+  "quarters": {
+    "2018-Q2": [
+      {
+        "stock_code": "600660",
+        "stock_name": "福耀玻璃",
+        "market_value_wan": 1012.72
+      }
+    ],
+    "2018-Q1": [
+      {
+        "stock_code": "600660",
+        "stock_name": "福耀玻璃",
+        "market_value_wan": 975.69
+      },
+      {
+        "stock_code": "600038",
+        "stock_name": "中直股份",
+        "market_value_wan": 951.04
+      },
+      {
+        "stock_code": "600893",
+        "stock_name": "航发动力",
+        "market_value_wan": 733.35
+      },
+      {
+        "stock_code": "601689",
+        "stock_name": "拓普集团",
+        "market_value_wan": 214.04
+      }
+    ]
+  }
+}

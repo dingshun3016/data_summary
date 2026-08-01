@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "671030",
+    "name": "西部利得事件驱动股票A",
+    "base_name": "西部利得事件驱动股票"
+  },
+  "fetched_at": "2026-06-14 22:45:40",
+  "quarters": {
+    "2019-Q4": [
+      {
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "market_value_wan": 179.47
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 177.45
+      },
+      {
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "market_value_wan": 140.18
+      },
+      {
+        "stock_code": "601916",
+        "stock_name": "浙商银行",
+        "market_value_wan": 137.09
+      },
+      {
+        "stock_code": "600276",
+        "stock_name": "恒瑞医药",
+        "market_value_wan": 105.02
+      },
+      {
+        "stock_code": "601166",
+        "stock_name": "兴业银行",
+        "market_value_wan": 103.75
+      },
+      {
+        "stock_code": "600030",
+        "stock_name": "中信证券",
+        "market_value_wan": 68.82
+      },
+      {
+        "stock_code": "600887",
+        "stock_name": "伊利股份",
+        "market_value_wan": 64.97
+      },
+      {
+        "stock_code": "600016",
+        "stock_name": "民生银行",
+        "market_value_wan": 55.97
+      },
+      {
+        "stock_code": "600000",
+        "stock_name": "浦发银行",
+        "market_value_wan": 53.44
+      }
+    ],
+    "2019-Q3": [
+      {
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "market_value_wan": 765.95
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 713.0
+      },
+      {
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "market_value_wan": 512.56
+      },
+      {
+        "stock_code": "600276",
+        "stock_name": "恒瑞医药",
+        "market_value_wan": 378.39
+      },
+      {
+        "stock_code": "601166",
+        "stock_name": "兴业银行",
+        "market_value_wan": 362.7
+      },
+      {
+        "stock_code": "600030",
+        "stock_name": "中信证券",
+        "market_value_wan": 240.09
+      },
+      {
+        "stock_code": "600887",
+        "stock_name": "伊利股份",
+        "market_value_wan": 236.15
+      },
+      {
+        "stock_code": "600016",
+        "stock_name": "民生银行",
+        "market_value_wan": 211.9
+      },
+      {
+        "stock_code": "601328",
+        "stock_name": "交通银行",
+        "market_value_wan": 203.94
+      },
+      {
+        "stock_code": "600000",
+        "stock_name": "浦发银行",
+        "market_value_wan": 202.46
+      }
+    ],
+    "2019-Q2": [
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 777.36
+      },
+      {
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "market_value_wan": 755.84
+      },
+      {
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "market_value_wan": 660.95
+      },
+      {
+        "stock_code": "601166",
+        "stock_name": "兴业银行",
+        "market_value_wan": 469.5
+      },
+      {
+        "stock_code": "600276",
+        "stock_name": "恒瑞医药",
+        "market_value_wan": 392.04
+      },
+      {
+        "stock_code": "600887",
+        "stock_name": "伊利股份",
+        "market_value_wan": 367.18
+      },
+      {
+        "stock_code": "600030",
+        "stock_name": "中信证券",
+        "market_value_wan": 340.96
+      },
+      {
+        "stock_code": "601328",
+        "stock_name": "交通银行",
+        "market_value_wan": 290.46
+      },
+      {
+        "stock_code": "600016",
+        "stock_name": "民生银行",
+        "market_value_wan": 275.84
+      },
+      {
+        "stock_code": "600000",
+        "stock_name": "浦发银行",
+        "market_value_wan": 250.65
+      }
+    ],
+    "2019-Q1": [
+      {
+        "stock_code": "002124",
+        "stock_name": "ST天邦",
+        "market_value_wan": 24.3
+      },
+      {
+        "stock_code": "002798",
+        "stock_name": "帝欧家居",
+        "market_value_wan": 20.32
+      },
+      {
+        "stock_code": "300651",
+        "stock_name": "金陵体育",
+        "market_value_wan": 19.43
+      },
+      {
+        "stock_code": "300531",
+        "stock_name": "优博讯",
+        "market_value_wan": 18.94
+      },
+      {
+        "stock_code": "002803",
+        "stock_name": "吉宏股份",
+        "market_value_wan": 18.72
+      },
+      {
+        "stock_code": "000789",
+        "stock_name": "万年青",
+        "market_value_wan": 18.24
+      },
+      {
+        "stock_code": "002514",
+        "stock_name": "宝馨科技",
+        "market_value_wan": 17.8
+      },
+      {
+        "stock_code": "300506",
+        "stock_name": "*ST名家",
+        "market_value_wan": 17.67
+      },
+      {
+        "stock_code": "300081",
+        "stock_name": "恒信东方",
+        "market_value_wan": 17.54
+      },
+      {
+        "stock_code": "000672",
+        "stock_name": "上峰水泥",
+        "market_value_wan": 17.17
+      }
+    ]
+  }
+}

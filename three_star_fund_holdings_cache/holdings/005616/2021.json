@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "005616",
+    "name": "东方量化成长灵活配置混合A",
+    "base_name": "东方量化成长灵活配置混合"
+  },
+  "fetched_at": "2026-06-14 23:18:22",
+  "quarters": {
+    "2021-Q4": [
+      {
+        "stock_code": "600563",
+        "stock_name": "法拉电子",
+        "market_value_wan": 62.75
+      },
+      {
+        "stock_code": "601016",
+        "stock_name": "节能风电",
+        "market_value_wan": 51.88
+      },
+      {
+        "stock_code": "000039",
+        "stock_name": "中集集团",
+        "market_value_wan": 50.62
+      },
+      {
+        "stock_code": "000830",
+        "stock_name": "鲁西化工",
+        "market_value_wan": 50.36
+      },
+      {
+        "stock_code": "603267",
+        "stock_name": "鸿远电子",
+        "market_value_wan": 50.24
+      },
+      {
+        "stock_code": "000733",
+        "stock_name": "振华科技",
+        "market_value_wan": 49.71
+      },
+      {
+        "stock_code": "002709",
+        "stock_name": "天赐材料",
+        "market_value_wan": 48.04
+      },
+      {
+        "stock_code": "601881",
+        "stock_name": "中国银河",
+        "market_value_wan": 47.11
+      },
+      {
+        "stock_code": "603290",
+        "stock_name": "斯达半导",
+        "market_value_wan": 45.72
+      },
+      {
+        "stock_code": "600884",
+        "stock_name": "杉杉股份",
+        "market_value_wan": 45.22
+      }
+    ],
+    "2021-Q3": [
+      {
+        "stock_code": "002709",
+        "stock_name": "天赐材料",
+        "market_value_wan": 78.95
+      },
+      {
+        "stock_code": "600563",
+        "stock_name": "法拉电子",
+        "market_value_wan": 55.42
+      },
+      {
+        "stock_code": "000039",
+        "stock_name": "中集集团",
+        "market_value_wan": 52.6
+      },
+      {
+        "stock_code": "000429",
+        "stock_name": "粤高速A",
+        "market_value_wan": 52.38
+      },
+      {
+        "stock_code": "002603",
+        "stock_name": "以岭药业",
+        "market_value_wan": 50.06
+      },
+      {
+        "stock_code": "600497",
+        "stock_name": "驰宏锌锗",
+        "market_value_wan": 47.19
+      },
+      {
+        "stock_code": "601881",
+        "stock_name": "中国银河",
+        "market_value_wan": 45.38
+      },
+      {
+        "stock_code": "601699",
+        "stock_name": "潞安环能",
+        "market_value_wan": 45.18
+      },
+      {
+        "stock_code": "603727",
+        "stock_name": "博迈科",
+        "market_value_wan": 43.99
+      },
+      {
+        "stock_code": "601615",
+        "stock_name": "明阳智能",
+        "market_value_wan": 42.91
+      }
+    ],
+    "2021-Q2": [
+      {
+        "stock_code": "002709",
+        "stock_name": "天赐材料",
+        "market_value_wan": 85.16
+      },
+      {
+        "stock_code": "600563",
+        "stock_name": "法拉电子",
+        "market_value_wan": 83.93
+      },
+      {
+        "stock_code": "600132",
+        "stock_name": "重庆啤酒",
+        "market_value_wan": 79.18
+      },
+      {
+        "stock_code": "603882",
+        "stock_name": "金域医学",
+        "market_value_wan": 71.9
+      },
+      {
+        "stock_code": "603355",
+        "stock_name": "莱克电气",
+        "market_value_wan": 60.99
+      },
+      {
+        "stock_code": "000039",
+        "stock_name": "中集集团",
+        "market_value_wan": 60.18
+      },
+      {
+        "stock_code": "603727",
+        "stock_name": "博迈科",
+        "market_value_wan": 53.75
+      },
+      {
+        "stock_code": "600039",
+        "stock_name": "四川路桥",
+        "market_value_wan": 53.61
+      },
+      {
+        "stock_code": "002568",
+        "stock_name": "百润股份",
+        "market_value_wan": 51.76
+      },
+      {
+        "stock_code": "000898",
+        "stock_name": "鞍钢股份",
+        "market_value_wan": 48.37
+      }
+    ],
+    "2021-Q1": [
+      {
+        "stock_code": "000039",
+        "stock_name": "中集集团",
+        "market_value_wan": 59.8
+      },
+      {
+        "stock_code": "600563",
+        "stock_name": "法拉电子",
+        "market_value_wan": 56.61
+      },
+      {
+        "stock_code": "000600",
+        "stock_name": "建投能源",
+        "market_value_wan": 56.05
+      },
+      {
+        "stock_code": "603882",
+        "stock_name": "金域医学",
+        "market_value_wan": 55.9
+      },
+      {
+        "stock_code": "600497",
+        "stock_name": "驰宏锌锗",
+        "market_value_wan": 55.09
+      },
+      {
+        "stock_code": "603355",
+        "stock_name": "莱克电气",
+        "market_value_wan": 54.15
+      },
+      {
+        "stock_code": "601992",
+        "stock_name": "金隅集团",
+        "market_value_wan": 50.33
+      },
+      {
+        "stock_code": "603727",
+        "stock_name": "博迈科",
+        "market_value_wan": 49.77
+      },
+      {
+        "stock_code": "600132",
+        "stock_name": "重庆啤酒",
+        "market_value_wan": 48.97
+      },
+      {
+        "stock_code": "600845",
+        "stock_name": "宝信软件",
+        "market_value_wan": 47.91
+      }
+    ]
+  }
+}

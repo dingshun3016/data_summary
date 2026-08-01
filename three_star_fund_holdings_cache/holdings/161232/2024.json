@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "161232",
+    "name": "国投瑞银瑞盛混合(LOF)A",
+    "base_name": "国投瑞银瑞盛混合(LOF)"
+  },
+  "fetched_at": "2026-06-14 23:52:25",
+  "quarters": {
+    "2024-Q4": [
+      {
+        "stock_code": "601398",
+        "stock_name": "工商银行",
+        "market_value_wan": 5199.48
+      },
+      {
+        "stock_code": "601169",
+        "stock_name": "北京银行",
+        "market_value_wan": 4424.13
+      },
+      {
+        "stock_code": "601328",
+        "stock_name": "交通银行",
+        "market_value_wan": 3368.92
+      },
+      {
+        "stock_code": "601898",
+        "stock_name": "中煤能源",
+        "market_value_wan": 3298.22
+      },
+      {
+        "stock_code": "600765",
+        "stock_name": "中航重机",
+        "market_value_wan": 1997.34
+      },
+      {
+        "stock_code": "600600",
+        "stock_name": "青岛啤酒",
+        "market_value_wan": 1880.58
+      },
+      {
+        "stock_code": "300408",
+        "stock_name": "三环集团",
+        "market_value_wan": 1844.24
+      },
+      {
+        "stock_code": "000425",
+        "stock_name": "徐工机械",
+        "market_value_wan": 1843.8
+      },
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 1818.07
+      },
+      {
+        "stock_code": "002831",
+        "stock_name": "裕同科技",
+        "market_value_wan": 1766.92
+      }
+    ],
+    "2024-Q3": [
+      {
+        "stock_code": "002532",
+        "stock_name": "天山铝业",
+        "market_value_wan": 968.48
+      },
+      {
+        "stock_code": "601898",
+        "stock_name": "中煤能源",
+        "market_value_wan": 957.13
+      },
+      {
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "market_value_wan": 944.01
+      },
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 939.34
+      },
+      {
+        "stock_code": "000933",
+        "stock_name": "神火股份",
+        "market_value_wan": 914.04
+      },
+      {
+        "stock_code": "601628",
+        "stock_name": "中国人寿",
+        "market_value_wan": 906.84
+      },
+      {
+        "stock_code": "000063",
+        "stock_name": "中兴通讯",
+        "market_value_wan": 837.62
+      },
+      {
+        "stock_code": "000425",
+        "stock_name": "徐工机械",
+        "market_value_wan": 787.57
+      },
+      {
+        "stock_code": "600765",
+        "stock_name": "中航重机",
+        "market_value_wan": 770.97
+      },
+      {
+        "stock_code": "002332",
+        "stock_name": "仙琚制药",
+        "market_value_wan": 719.82
+      }
+    ],
+    "2024-Q2": [
+      {
+        "stock_code": "600795",
+        "stock_name": "国电电力",
+        "market_value_wan": 729.7
+      },
+      {
+        "stock_code": "003816",
+        "stock_name": "中国广核",
+        "market_value_wan": 727.56
+      },
+      {
+        "stock_code": "601328",
+        "stock_name": "交通银行",
+        "market_value_wan": 691.12
+      },
+      {
+        "stock_code": "002831",
+        "stock_name": "裕同科技",
+        "market_value_wan": 663.04
+      },
+      {
+        "stock_code": "300433",
+        "stock_name": "蓝思科技",
+        "market_value_wan": 475.78
+      },
+      {
+        "stock_code": "600875",
+        "stock_name": "东方电气",
+        "market_value_wan": 469.37
+      },
+      {
+        "stock_code": "601939",
+        "stock_name": "建设银行",
+        "market_value_wan": 448.37
+      },
+      {
+        "stock_code": "000039",
+        "stock_name": "中集集团",
+        "market_value_wan": 441.42
+      },
+      {
+        "stock_code": "000425",
+        "stock_name": "徐工机械",
+        "market_value_wan": 440.01
+      },
+      {
+        "stock_code": "002128",
+        "stock_name": "电投能源",
+        "market_value_wan": 246.66
+      }
+    ],
+    "2024-Q1": [
+      {
+        "stock_code": "601939",
+        "stock_name": "建设银行",
+        "market_value_wan": 651.89
+      },
+      {
+        "stock_code": "000100",
+        "stock_name": "TCL科技",
+        "market_value_wan": 640.77
+      },
+      {
+        "stock_code": "003816",
+        "stock_name": "中国广核",
+        "market_value_wan": 600.47
+      },
+      {
+        "stock_code": "603558",
+        "stock_name": "健盛集团",
+        "market_value_wan": 491.91
+      },
+      {
+        "stock_code": "000883",
+        "stock_name": "湖北能源",
+        "market_value_wan": 489.42
+      },
+      {
+        "stock_code": "605368",
+        "stock_name": "蓝天燃气",
+        "market_value_wan": 464.49
+      },
+      {
+        "stock_code": "600900",
+        "stock_name": "长江电力",
+        "market_value_wan": 462.7
+      },
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 453.39
+      },
+      {
+        "stock_code": "601077",
+        "stock_name": "渝农商行",
+        "market_value_wan": 452.95
+      },
+      {
+        "stock_code": "002727",
+        "stock_name": "一心堂",
+        "market_value_wan": 431.78
+      }
+    ]
+  }
+}

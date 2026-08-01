@@ -1,0 +1,115 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "210002",
+    "name": "金鹰红利价值混合A",
+    "base_name": "金鹰红利价值混合"
+  },
+  "fetched_at": "2026-08-01 20:48:47",
+  "quarters": {
+    "2026-Q2": [
+      {
+        "stock_code": "603002",
+        "stock_name": "宏昌电子",
+        "market_value_wan": 10465.61
+      },
+      {
+        "stock_code": "000776",
+        "stock_name": "广发证券",
+        "market_value_wan": 5475.4
+      },
+      {
+        "stock_code": "688536",
+        "stock_name": "思瑞浦",
+        "market_value_wan": 4842.4
+      },
+      {
+        "stock_code": "603355",
+        "stock_name": "莱克电气",
+        "market_value_wan": 4511.24
+      },
+      {
+        "stock_code": "002517",
+        "stock_name": "恺英网络",
+        "market_value_wan": 4501.25
+      },
+      {
+        "stock_code": "601688",
+        "stock_name": "华泰证券",
+        "market_value_wan": 4474.54
+      },
+      {
+        "stock_code": "601377",
+        "stock_name": "兴业证券",
+        "market_value_wan": 4433.32
+      },
+      {
+        "stock_code": "600460",
+        "stock_name": "士兰微",
+        "market_value_wan": 4372.71
+      },
+      {
+        "stock_code": "688088",
+        "stock_name": "虹软科技",
+        "market_value_wan": 4159.66
+      },
+      {
+        "stock_code": "600131",
+        "stock_name": "国网信通",
+        "market_value_wan": 3898.2
+      }
+    ],
+    "2026-Q1": [
+      {
+        "stock_code": "600547",
+        "stock_name": "山东黄金",
+        "market_value_wan": 11180.38
+      },
+      {
+        "stock_code": "002517",
+        "stock_name": "恺英网络",
+        "market_value_wan": 5894.1
+      },
+      {
+        "stock_code": "600131",
+        "stock_name": "国网信通",
+        "market_value_wan": 4907.46
+      },
+      {
+        "stock_code": "603002",
+        "stock_name": "宏昌电子",
+        "market_value_wan": 4896.58
+      },
+      {
+        "stock_code": "601020",
+        "stock_name": "华钰矿业",
+        "market_value_wan": 4848.45
+      },
+      {
+        "stock_code": "603355",
+        "stock_name": "莱克电气",
+        "market_value_wan": 4678.83
+      },
+      {
+        "stock_code": "688088",
+        "stock_name": "虹软科技",
+        "market_value_wan": 4491.97
+      },
+      {
+        "stock_code": "000776",
+        "stock_name": "广发证券",
+        "market_value_wan": 4310.29
+      },
+      {
+        "stock_code": "688536",
+        "stock_name": "思瑞浦",
+        "market_value_wan": 4005.97
+      },
+      {
+        "stock_code": "301381",
+        "stock_name": "赛维时代",
+        "market_value_wan": 3813.29
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "160226",
+    "name": "国泰民益混合(LOF)C",
+    "base_name": "国泰民益混合(LOF)"
+  },
+  "fetched_at": "2026-06-14 23:51:37",
+  "quarters": {
+    "2023-Q4": [
+      {
+        "stock_code": "000603",
+        "stock_name": "盛达资源",
+        "market_value_wan": 259.68
+      },
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 247.47
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 224.38
+      },
+      {
+        "stock_code": "301035",
+        "stock_name": "润丰股份",
+        "market_value_wan": 196.43
+      },
+      {
+        "stock_code": "601058",
+        "stock_name": "赛轮轮胎",
+        "market_value_wan": 183.3
+      },
+      {
+        "stock_code": "600988",
+        "stock_name": "赤峰黄金",
+        "market_value_wan": 179.33
+      },
+      {
+        "stock_code": "002607",
+        "stock_name": "中公教育",
+        "market_value_wan": 168.26
+      },
+      {
+        "stock_code": "605377",
+        "stock_name": "华旺科技",
+        "market_value_wan": 154.25
+      },
+      {
+        "stock_code": "688531",
+        "stock_name": "日联科技",
+        "market_value_wan": 154.08
+      },
+      {
+        "stock_code": "601233",
+        "stock_name": "桐昆股份",
+        "market_value_wan": 149.64
+      }
+    ],
+    "2023-Q3": [
+      {
+        "stock_code": "000603",
+        "stock_name": "盛达资源",
+        "market_value_wan": 338.64
+      },
+      {
+        "stock_code": "688036",
+        "stock_name": "传音控股",
+        "market_value_wan": 251.81
+      },
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 251.32
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 233.81
+      },
+      {
+        "stock_code": "688531",
+        "stock_name": "日联科技",
+        "market_value_wan": 231.78
+      },
+      {
+        "stock_code": "301035",
+        "stock_name": "润丰股份",
+        "market_value_wan": 200.64
+      },
+      {
+        "stock_code": "601058",
+        "stock_name": "赛轮轮胎",
+        "market_value_wan": 196.72
+      },
+      {
+        "stock_code": "600988",
+        "stock_name": "赤峰黄金",
+        "market_value_wan": 186.11
+      },
+      {
+        "stock_code": "605377",
+        "stock_name": "华旺科技",
+        "market_value_wan": 180.51
+      },
+      {
+        "stock_code": "601233",
+        "stock_name": "桐昆股份",
+        "market_value_wan": 145.88
+      }
+    ],
+    "2023-Q2": [
+      {
+        "stock_code": "000603",
+        "stock_name": "盛达资源",
+        "market_value_wan": 528.21
+      },
+      {
+        "stock_code": "688531",
+        "stock_name": "日联科技",
+        "market_value_wan": 343.55
+      },
+      {
+        "stock_code": "301035",
+        "stock_name": "润丰股份",
+        "market_value_wan": 336.77
+      },
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 309.33
+      },
+      {
+        "stock_code": "688036",
+        "stock_name": "传音控股",
+        "market_value_wan": 273.73
+      },
+      {
+        "stock_code": "688121",
+        "stock_name": "卓然股份",
+        "market_value_wan": 257.68
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 236.74
+      },
+      {
+        "stock_code": "688503",
+        "stock_name": "聚和材料",
+        "market_value_wan": 219.91
+      },
+      {
+        "stock_code": "601058",
+        "stock_name": "赛轮轮胎",
+        "market_value_wan": 205.82
+      },
+      {
+        "stock_code": "300274",
+        "stock_name": "阳光电源",
+        "market_value_wan": 187.77
+      }
+    ],
+    "2023-Q1": [
+      {
+        "stock_code": "000603",
+        "stock_name": "盛达资源",
+        "market_value_wan": 636.99
+      },
+      {
+        "stock_code": "003002",
+        "stock_name": "壶化股份",
+        "market_value_wan": 545.0
+      },
+      {
+        "stock_code": "301035",
+        "stock_name": "润丰股份",
+        "market_value_wan": 518.21
+      },
+      {
+        "stock_code": "600988",
+        "stock_name": "赤峰黄金",
+        "market_value_wan": 493.68
+      },
+      {
+        "stock_code": "688518",
+        "stock_name": "联赢激光",
+        "market_value_wan": 455.74
+      },
+      {
+        "stock_code": "002940",
+        "stock_name": "昂利康",
+        "market_value_wan": 450.45
+      },
+      {
+        "stock_code": "600276",
+        "stock_name": "恒瑞医药",
+        "market_value_wan": 323.27
+      },
+      {
+        "stock_code": "600511",
+        "stock_name": "国药股份",
+        "market_value_wan": 313.69
+      },
+      {
+        "stock_code": "000938",
+        "stock_name": "紫光股份",
+        "market_value_wan": 309.89
+      },
+      {
+        "stock_code": "603688",
+        "stock_name": "石英股份",
+        "market_value_wan": 291.41
+      }
+    ]
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "008515",
+    "name": "国富基本面优选混合A",
+    "base_name": "国富基本面优选混合"
+  },
+  "fetched_at": "2026-06-14 23:28:38",
+  "quarters": {
+    "2025-Q4": [
+      {
+        "stock_code": "601577",
+        "stock_name": "长沙银行",
+        "market_value_wan": 27266.75
+      },
+      {
+        "stock_code": "600016",
+        "stock_name": "民生银行",
+        "market_value_wan": 22547.96
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 17627.9
+      },
+      {
+        "stock_code": "002142",
+        "stock_name": "宁波银行",
+        "market_value_wan": 10876.37
+      }
+    ],
+    "2025-Q3": [
+      {
+        "stock_code": "601577",
+        "stock_name": "长沙银行",
+        "market_value_wan": 26587.18
+      },
+      {
+        "stock_code": "600016",
+        "stock_name": "民生银行",
+        "market_value_wan": 23431.04
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 22815.04
+      }
+    ],
+    "2025-Q2": [
+      {
+        "stock_code": "601577",
+        "stock_name": "长沙银行",
+        "market_value_wan": 27941.48
+      },
+      {
+        "stock_code": "600016",
+        "stock_name": "民生银行",
+        "market_value_wan": 18939.2
+      },
+      {
+        "stock_code": "000651",
+        "stock_name": "格力电器",
+        "market_value_wan": 17198.87
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 16632.34
+      },
+      {
+        "stock_code": "000858",
+        "stock_name": "五粮液",
+        "market_value_wan": 16408.2
+      }
+    ],
+    "2025-Q1": [
+      {
+        "stock_code": "601577",
+        "stock_name": "长沙银行",
+        "market_value_wan": 20388.91
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 16858.8
+      },
+      {
+        "stock_code": "002568",
+        "stock_name": "百润股份",
+        "market_value_wan": 13623.4
+      },
+      {
+        "stock_code": "000651",
+        "stock_name": "格力电器",
+        "market_value_wan": 12859.62
+      }
+    ]
+  }
+}

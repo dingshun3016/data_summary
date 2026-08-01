@@ -1,0 +1,88 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "002860",
+    "name": "前海开源沪港深新机遇混合A",
+    "base_name": "前海开源沪港深新机遇混合"
+  },
+  "fetched_at": "2026-06-14 23:07:52",
+  "quarters": {
+    "2022-Q4": [
+      {
+        "stock_code": "688385",
+        "stock_name": "复旦微电",
+        "market_value_wan": 9.08
+      },
+      {
+        "stock_code": "601699",
+        "stock_name": "潞安环能",
+        "market_value_wan": 8.43
+      },
+      {
+        "stock_code": "000983",
+        "stock_name": "山西焦煤",
+        "market_value_wan": 8.16
+      },
+      {
+        "stock_code": "600188",
+        "stock_name": "兖矿能源",
+        "market_value_wan": 7.39
+      },
+      {
+        "stock_code": "600546",
+        "stock_name": "山煤国际",
+        "market_value_wan": 7.25
+      },
+      {
+        "stock_code": "600256",
+        "stock_name": "广汇能源",
+        "market_value_wan": 6.31
+      },
+      {
+        "stock_code": "601666",
+        "stock_name": "平煤股份",
+        "market_value_wan": 6.16
+      }
+    ],
+    "2022-Q3": [
+      {
+        "stock_code": "600188",
+        "stock_name": "兖矿能源",
+        "market_value_wan": 8.03
+      },
+      {
+        "stock_code": "600938",
+        "stock_name": "中国海油",
+        "market_value_wan": 7.92
+      },
+      {
+        "stock_code": "600546",
+        "stock_name": "山煤国际",
+        "market_value_wan": 7.24
+      },
+      {
+        "stock_code": "688385",
+        "stock_name": "复旦微电",
+        "market_value_wan": 6.77
+      },
+      {
+        "stock_code": "601888",
+        "stock_name": "中国中免",
+        "market_value_wan": 5.95
+      }
+    ],
+    "2022-Q2": [
+      {
+        "stock_code": "600938",
+        "stock_name": "中国海油",
+        "market_value_wan": 8.73
+      },
+      {
+        "stock_code": "601666",
+        "stock_name": "平煤股份",
+        "market_value_wan": 0.95
+      }
+    ],
+    "2022-Q1": []
+  }
+}

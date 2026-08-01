@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "160921",
+    "name": "大成多策略混合(LOF)A",
+    "base_name": "大成多策略混合(LOF)"
+  },
+  "fetched_at": "2026-06-14 23:52:13",
+  "quarters": {
+    "2024-Q4": [
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 5060.8
+      },
+      {
+        "stock_code": "605183",
+        "stock_name": "确成股份",
+        "market_value_wan": 4690.87
+      },
+      {
+        "stock_code": "000538",
+        "stock_name": "云南白药",
+        "market_value_wan": 4093.9
+      },
+      {
+        "stock_code": "600664",
+        "stock_name": "哈药股份",
+        "market_value_wan": 3974.51
+      },
+      {
+        "stock_code": "605507",
+        "stock_name": "国邦医药",
+        "market_value_wan": 3935.2
+      },
+      {
+        "stock_code": "000739",
+        "stock_name": "普洛药业",
+        "market_value_wan": 3929.55
+      },
+      {
+        "stock_code": "603112",
+        "stock_name": "华翔股份",
+        "market_value_wan": 3851.63
+      },
+      {
+        "stock_code": "301039",
+        "stock_name": "中集车辆",
+        "market_value_wan": 3684.53
+      },
+      {
+        "stock_code": "002332",
+        "stock_name": "仙琚制药",
+        "market_value_wan": 3162.31
+      },
+      {
+        "stock_code": "600276",
+        "stock_name": "恒瑞医药",
+        "market_value_wan": 2544.51
+      }
+    ],
+    "2024-Q3": [
+      {
+        "stock_code": "688029",
+        "stock_name": "南微医学",
+        "market_value_wan": 6385.13
+      },
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 5790.45
+      },
+      {
+        "stock_code": "688278",
+        "stock_name": "特宝生物",
+        "market_value_wan": 4693.82
+      },
+      {
+        "stock_code": "605183",
+        "stock_name": "确成股份",
+        "market_value_wan": 4220.98
+      },
+      {
+        "stock_code": "301039",
+        "stock_name": "中集车辆",
+        "market_value_wan": 4215.82
+      },
+      {
+        "stock_code": "600276",
+        "stock_name": "恒瑞医药",
+        "market_value_wan": 3735.58
+      },
+      {
+        "stock_code": "000739",
+        "stock_name": "普洛药业",
+        "market_value_wan": 3713.15
+      },
+      {
+        "stock_code": "600062",
+        "stock_name": "华润双鹤",
+        "market_value_wan": 3640.65
+      },
+      {
+        "stock_code": "002332",
+        "stock_name": "仙琚制药",
+        "market_value_wan": 2916.0
+      },
+      {
+        "stock_code": "600664",
+        "stock_name": "哈药股份",
+        "market_value_wan": 2915.96
+      }
+    ],
+    "2024-Q2": [
+      {
+        "stock_code": "688278",
+        "stock_name": "特宝生物",
+        "market_value_wan": 9092.46
+      },
+      {
+        "stock_code": "300856",
+        "stock_name": "科思股份",
+        "market_value_wan": 8611.33
+      },
+      {
+        "stock_code": "300760",
+        "stock_name": "迈瑞医疗",
+        "market_value_wan": 8386.94
+      },
+      {
+        "stock_code": "688029",
+        "stock_name": "南微医学",
+        "market_value_wan": 6369.99
+      },
+      {
+        "stock_code": "600276",
+        "stock_name": "恒瑞医药",
+        "market_value_wan": 4667.74
+      },
+      {
+        "stock_code": "000680",
+        "stock_name": "山推股份",
+        "market_value_wan": 4252.24
+      },
+      {
+        "stock_code": "688677",
+        "stock_name": "海泰新光",
+        "market_value_wan": 3986.76
+      },
+      {
+        "stock_code": "300677",
+        "stock_name": "英科医疗",
+        "market_value_wan": 3707.39
+      },
+      {
+        "stock_code": "605183",
+        "stock_name": "确成股份",
+        "market_value_wan": 2527.56
+      },
+      {
+        "stock_code": "300908",
+        "stock_name": "仲景食品",
+        "market_value_wan": 2519.35
+      }
+    ],
+    "2024-Q1": [
+      {
+        "stock_code": "300856",
+        "stock_name": "科思股份",
+        "market_value_wan": 10817.16
+      },
+      {
+        "stock_code": "688278",
+        "stock_name": "特宝生物",
+        "market_value_wan": 10471.5
+      },
+      {
+        "stock_code": "300760",
+        "stock_name": "迈瑞医疗",
+        "market_value_wan": 8567.64
+      },
+      {
+        "stock_code": "600276",
+        "stock_name": "恒瑞医药",
+        "market_value_wan": 7729.67
+      },
+      {
+        "stock_code": "300677",
+        "stock_name": "英科医疗",
+        "market_value_wan": 7243.43
+      },
+      {
+        "stock_code": "688029",
+        "stock_name": "南微医学",
+        "market_value_wan": 6028.24
+      },
+      {
+        "stock_code": "301093",
+        "stock_name": "华兰股份",
+        "market_value_wan": 4651.88
+      },
+      {
+        "stock_code": "688677",
+        "stock_name": "海泰新光",
+        "market_value_wan": 4254.89
+      },
+      {
+        "stock_code": "000680",
+        "stock_name": "山推股份",
+        "market_value_wan": 4238.21
+      },
+      {
+        "stock_code": "002540",
+        "stock_name": "亚太科技",
+        "market_value_wan": 3988.86
+      }
+    ]
+  }
+}

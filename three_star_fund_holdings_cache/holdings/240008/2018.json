@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "240008",
+    "name": "华宝收益增长混合A",
+    "base_name": "华宝收益增长混合"
+  },
+  "fetched_at": "2026-06-14 23:56:47",
+  "quarters": {
+    "2018-Q4": [
+      {
+        "stock_code": "600266",
+        "stock_name": "城建发展",
+        "market_value_wan": 4485.13
+      },
+      {
+        "stock_code": "601398",
+        "stock_name": "工商银行",
+        "market_value_wan": 4313.65
+      },
+      {
+        "stock_code": "000581",
+        "stock_name": "威孚高科",
+        "market_value_wan": 4176.1
+      },
+      {
+        "stock_code": "601328",
+        "stock_name": "交通银行",
+        "market_value_wan": 3841.14
+      },
+      {
+        "stock_code": "600388",
+        "stock_name": "龙净环保",
+        "market_value_wan": 3564.72
+      },
+      {
+        "stock_code": "600048",
+        "stock_name": "保利发展",
+        "market_value_wan": 2663.83
+      },
+      {
+        "stock_code": "600060",
+        "stock_name": "海信视像",
+        "market_value_wan": 2599.74
+      },
+      {
+        "stock_code": "002384",
+        "stock_name": "东山精密",
+        "market_value_wan": 2336.69
+      },
+      {
+        "stock_code": "000002",
+        "stock_name": "万科A",
+        "market_value_wan": 2223.12
+      },
+      {
+        "stock_code": "002396",
+        "stock_name": "星网锐捷",
+        "market_value_wan": 2034.2
+      }
+    ],
+    "2018-Q3": [
+      {
+        "stock_code": "601398",
+        "stock_name": "工商银行",
+        "market_value_wan": 5856.01
+      },
+      {
+        "stock_code": "000581",
+        "stock_name": "威孚高科",
+        "market_value_wan": 4623.03
+      },
+      {
+        "stock_code": "600266",
+        "stock_name": "城建发展",
+        "market_value_wan": 4058.75
+      },
+      {
+        "stock_code": "601328",
+        "stock_name": "交通银行",
+        "market_value_wan": 3874.31
+      },
+      {
+        "stock_code": "600388",
+        "stock_name": "龙净环保",
+        "market_value_wan": 3462.87
+      },
+      {
+        "stock_code": "600060",
+        "stock_name": "海信视像",
+        "market_value_wan": 3040.02
+      },
+      {
+        "stock_code": "000050",
+        "stock_name": "深天马A",
+        "market_value_wan": 2971.16
+      },
+      {
+        "stock_code": "002384",
+        "stock_name": "东山精密",
+        "market_value_wan": 2535.38
+      },
+      {
+        "stock_code": "601666",
+        "stock_name": "平煤股份",
+        "market_value_wan": 2154.03
+      },
+      {
+        "stock_code": "002396",
+        "stock_name": "星网锐捷",
+        "market_value_wan": 2095.63
+      }
+    ],
+    "2018-Q2": [
+      {
+        "stock_code": "000581",
+        "stock_name": "威孚高科",
+        "market_value_wan": 5228.4
+      },
+      {
+        "stock_code": "600388",
+        "stock_name": "龙净环保",
+        "market_value_wan": 4488.39
+      },
+      {
+        "stock_code": "600060",
+        "stock_name": "海信视像",
+        "market_value_wan": 4421.91
+      },
+      {
+        "stock_code": "600266",
+        "stock_name": "城建发展",
+        "market_value_wan": 4278.92
+      },
+      {
+        "stock_code": "601398",
+        "stock_name": "工商银行",
+        "market_value_wan": 4067.51
+      },
+      {
+        "stock_code": "601328",
+        "stock_name": "交通银行",
+        "market_value_wan": 3807.97
+      },
+      {
+        "stock_code": "000050",
+        "stock_name": "深天马A",
+        "market_value_wan": 3477.36
+      },
+      {
+        "stock_code": "002384",
+        "stock_name": "东山精密",
+        "market_value_wan": 3311.52
+      },
+      {
+        "stock_code": "002456",
+        "stock_name": "欧菲光",
+        "market_value_wan": 2369.66
+      },
+      {
+        "stock_code": "000423",
+        "stock_name": "东阿阿胶",
+        "market_value_wan": 2273.39
+      }
+    ],
+    "2018-Q1": [
+      {
+        "stock_code": "600060",
+        "stock_name": "海信视像",
+        "market_value_wan": 4682.15
+      },
+      {
+        "stock_code": "600266",
+        "stock_name": "城建发展",
+        "market_value_wan": 4407.57
+      },
+      {
+        "stock_code": "600388",
+        "stock_name": "龙净环保",
+        "market_value_wan": 4382.37
+      },
+      {
+        "stock_code": "601328",
+        "stock_name": "交通银行",
+        "market_value_wan": 4099.87
+      },
+      {
+        "stock_code": "000581",
+        "stock_name": "威孚高科",
+        "market_value_wan": 3982.97
+      },
+      {
+        "stock_code": "601398",
+        "stock_name": "工商银行",
+        "market_value_wan": 3623.73
+      },
+      {
+        "stock_code": "600754",
+        "stock_name": "锦江酒店",
+        "market_value_wan": 3274.56
+      },
+      {
+        "stock_code": "000050",
+        "stock_name": "深天马A",
+        "market_value_wan": 3039.21
+      },
+      {
+        "stock_code": "002236",
+        "stock_name": "大华股份",
+        "market_value_wan": 3009.67
+      },
+      {
+        "stock_code": "002384",
+        "stock_name": "东山精密",
+        "market_value_wan": 2901.11
+      }
+    ]
+  }
+}

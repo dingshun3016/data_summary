@@ -1,0 +1,117 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "010713",
+    "name": "中欧瑾利混合C",
+    "base_name": "中欧瑾利混合"
+  },
+  "fetched_at": "2026-06-14 23:42:25",
+  "quarters": {
+    "2025-Q4": [],
+    "2025-Q3": [],
+    "2025-Q2": [
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 14.44
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 14.1
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 12.61
+      },
+      {
+        "stock_code": "002594",
+        "stock_name": "比亚迪",
+        "market_value_wan": 9.96
+      },
+      {
+        "stock_code": "000651",
+        "stock_name": "格力电器",
+        "market_value_wan": 8.98
+      },
+      {
+        "stock_code": "000858",
+        "stock_name": "五粮液",
+        "market_value_wan": 8.32
+      },
+      {
+        "stock_code": "603379",
+        "stock_name": "三美股份",
+        "market_value_wan": 7.7
+      },
+      {
+        "stock_code": "600582",
+        "stock_name": "天地科技",
+        "market_value_wan": 6.95
+      },
+      {
+        "stock_code": "600276",
+        "stock_name": "恒瑞医药",
+        "market_value_wan": 6.75
+      },
+      {
+        "stock_code": "002415",
+        "stock_name": "海康威视",
+        "market_value_wan": 6.66
+      }
+    ],
+    "2025-Q1": [
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 15.61
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 12.65
+      },
+      {
+        "stock_code": "000858",
+        "stock_name": "五粮液",
+        "market_value_wan": 11.82
+      },
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 11.78
+      },
+      {
+        "stock_code": "601919",
+        "stock_name": "中远海控",
+        "market_value_wan": 8.58
+      },
+      {
+        "stock_code": "601665",
+        "stock_name": "齐鲁银行",
+        "market_value_wan": 8.42
+      },
+      {
+        "stock_code": "603299",
+        "stock_name": "苏盐井神",
+        "market_value_wan": 8.34
+      },
+      {
+        "stock_code": "601222",
+        "stock_name": "林洋能源",
+        "market_value_wan": 8.09
+      },
+      {
+        "stock_code": "002594",
+        "stock_name": "比亚迪",
+        "market_value_wan": 7.5
+      },
+      {
+        "stock_code": "300760",
+        "stock_name": "迈瑞医疗",
+        "market_value_wan": 7.02
+      }
+    ]
+  }
+}

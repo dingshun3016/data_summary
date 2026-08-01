@@ -1,0 +1,214 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "005661",
+    "name": "嘉实资源精选股票C",
+    "base_name": "嘉实资源精选股票"
+  },
+  "fetched_at": "2026-06-14 23:18:50",
+  "quarters": {
+    "2023-Q4": [
+      {
+        "stock_code": "600426",
+        "stock_name": "华鲁恒升",
+        "market_value_wan": 6274.13
+      },
+      {
+        "stock_code": "601899",
+        "stock_name": "紫金矿业",
+        "market_value_wan": 5065.94
+      },
+      {
+        "stock_code": "603979",
+        "stock_name": "金诚信",
+        "market_value_wan": 4659.32
+      },
+      {
+        "stock_code": "603993",
+        "stock_name": "洛阳钼业",
+        "market_value_wan": 4628.1
+      },
+      {
+        "stock_code": "000630",
+        "stock_name": "铜陵有色",
+        "market_value_wan": 3860.76
+      },
+      {
+        "stock_code": "000923",
+        "stock_name": "河钢资源",
+        "market_value_wan": 3666.26
+      },
+      {
+        "stock_code": "000060",
+        "stock_name": "中金岭南",
+        "market_value_wan": 3458.25
+      },
+      {
+        "stock_code": "600489",
+        "stock_name": "中金黄金",
+        "market_value_wan": 3189.79
+      },
+      {
+        "stock_code": "002182",
+        "stock_name": "宝武镁业",
+        "market_value_wan": 2865.36
+      }
+    ],
+    "2023-Q3": [
+      {
+        "stock_code": "600426",
+        "stock_name": "华鲁恒升",
+        "market_value_wan": 8347.8
+      },
+      {
+        "stock_code": "601899",
+        "stock_name": "紫金矿业",
+        "market_value_wan": 5104.87
+      },
+      {
+        "stock_code": "601958",
+        "stock_name": "金钼股份",
+        "market_value_wan": 4820.29
+      },
+      {
+        "stock_code": "002182",
+        "stock_name": "宝武镁业",
+        "market_value_wan": 4633.47
+      },
+      {
+        "stock_code": "000060",
+        "stock_name": "中金岭南",
+        "market_value_wan": 4624.1
+      },
+      {
+        "stock_code": "603979",
+        "stock_name": "金诚信",
+        "market_value_wan": 4574.18
+      },
+      {
+        "stock_code": "603993",
+        "stock_name": "洛阳钼业",
+        "market_value_wan": 4544.44
+      },
+      {
+        "stock_code": "000630",
+        "stock_name": "铜陵有色",
+        "market_value_wan": 4401.94
+      },
+      {
+        "stock_code": "000923",
+        "stock_name": "河钢资源",
+        "market_value_wan": 4397.33
+      },
+      {
+        "stock_code": "600362",
+        "stock_name": "江西铜业",
+        "market_value_wan": 2242.44
+      }
+    ],
+    "2023-Q2": [
+      {
+        "stock_code": "600426",
+        "stock_name": "华鲁恒升",
+        "market_value_wan": 5856.64
+      },
+      {
+        "stock_code": "300395",
+        "stock_name": "菲利华",
+        "market_value_wan": 3658.51
+      },
+      {
+        "stock_code": "601899",
+        "stock_name": "紫金矿业",
+        "market_value_wan": 3629.04
+      },
+      {
+        "stock_code": "603993",
+        "stock_name": "洛阳钼业",
+        "market_value_wan": 3458.1
+      },
+      {
+        "stock_code": "603979",
+        "stock_name": "金诚信",
+        "market_value_wan": 3370.4
+      },
+      {
+        "stock_code": "002768",
+        "stock_name": "国恩股份",
+        "market_value_wan": 3274.6
+      },
+      {
+        "stock_code": "000630",
+        "stock_name": "铜陵有色",
+        "market_value_wan": 3128.92
+      },
+      {
+        "stock_code": "000923",
+        "stock_name": "河钢资源",
+        "market_value_wan": 2948.13
+      },
+      {
+        "stock_code": "002182",
+        "stock_name": "宝武镁业",
+        "market_value_wan": 2933.69
+      },
+      {
+        "stock_code": "002155",
+        "stock_name": "湖南黄金",
+        "market_value_wan": 2703.89
+      }
+    ],
+    "2023-Q1": [
+      {
+        "stock_code": "600426",
+        "stock_name": "华鲁恒升",
+        "market_value_wan": 5581.34
+      },
+      {
+        "stock_code": "000975",
+        "stock_name": "山金国际",
+        "market_value_wan": 3407.19
+      },
+      {
+        "stock_code": "603993",
+        "stock_name": "洛阳钼业",
+        "market_value_wan": 3037.05
+      },
+      {
+        "stock_code": "600988",
+        "stock_name": "赤峰黄金",
+        "market_value_wan": 2974.42
+      },
+      {
+        "stock_code": "002768",
+        "stock_name": "国恩股份",
+        "market_value_wan": 2928.27
+      },
+      {
+        "stock_code": "603979",
+        "stock_name": "金诚信",
+        "market_value_wan": 2868.14
+      },
+      {
+        "stock_code": "000059",
+        "stock_name": "华锦股份",
+        "market_value_wan": 2862.23
+      },
+      {
+        "stock_code": "002182",
+        "stock_name": "宝武镁业",
+        "market_value_wan": 2803.94
+      },
+      {
+        "stock_code": "300395",
+        "stock_name": "菲利华",
+        "market_value_wan": 2756.48
+      },
+      {
+        "stock_code": "000923",
+        "stock_name": "河钢资源",
+        "market_value_wan": 2528.95
+      }
+    ]
+  }
+}

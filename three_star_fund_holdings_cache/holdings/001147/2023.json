@@ -1,0 +1,63 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "001147",
+    "name": "中欧瑾源灵活配置混合C",
+    "base_name": "中欧瑾源灵活配置混合"
+  },
+  "fetched_at": "2026-06-14 22:54:12",
+  "quarters": {
+    "2023-Q1": [
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 109.2
+      },
+      {
+        "stock_code": "601939",
+        "stock_name": "建设银行",
+        "market_value_wan": 102.58
+      },
+      {
+        "stock_code": "600900",
+        "stock_name": "长江电力",
+        "market_value_wan": 102.0
+      },
+      {
+        "stock_code": "601088",
+        "stock_name": "中国神华",
+        "market_value_wan": 99.72
+      },
+      {
+        "stock_code": "600350",
+        "stock_name": "山东高速",
+        "market_value_wan": 98.78
+      },
+      {
+        "stock_code": "601668",
+        "stock_name": "中国建筑",
+        "market_value_wan": 66.99
+      },
+      {
+        "stock_code": "601111",
+        "stock_name": "中国国航",
+        "market_value_wan": 66.45
+      },
+      {
+        "stock_code": "601899",
+        "stock_name": "紫金矿业",
+        "market_value_wan": 62.69
+      },
+      {
+        "stock_code": "603477",
+        "stock_name": "巨星农牧",
+        "market_value_wan": 53.99
+      },
+      {
+        "stock_code": "600011",
+        "stock_name": "华能国际",
+        "market_value_wan": 47.22
+      }
+    ]
+  }
+}

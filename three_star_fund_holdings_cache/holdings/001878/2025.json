@@ -1,0 +1,64 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "001878",
+    "name": "嘉实沪港深精选股票",
+    "base_name": "嘉实沪港深精选股票"
+  },
+  "fetched_at": "2026-06-14 23:01:47",
+  "quarters": {
+    "2025-Q4": [
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 14744.6
+      },
+      {
+        "stock_code": "000528",
+        "stock_name": "柳工",
+        "market_value_wan": 12660.19
+      },
+      {
+        "stock_code": "000630",
+        "stock_name": "铜陵有色",
+        "market_value_wan": 10217.0
+      }
+    ],
+    "2025-Q3": [
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 19395.71
+      },
+      {
+        "stock_code": "000528",
+        "stock_name": "柳工",
+        "market_value_wan": 11796.26
+      }
+    ],
+    "2025-Q2": [
+      {
+        "stock_code": "000528",
+        "stock_name": "柳工",
+        "market_value_wan": 10249.74
+      },
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 9908.35
+      }
+    ],
+    "2025-Q1": [
+      {
+        "stock_code": "000528",
+        "stock_name": "柳工",
+        "market_value_wan": 10475.88
+      },
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 10036.27
+      }
+    ]
+  }
+}

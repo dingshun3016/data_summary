@@ -1,0 +1,115 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "001338",
+    "name": "安信稳健增值混合C",
+    "base_name": "安信稳健增值混合"
+  },
+  "fetched_at": "2026-08-01 20:54:03",
+  "quarters": {
+    "2026-Q2": [
+      {
+        "stock_code": "600938",
+        "stock_name": "中国海油",
+        "market_value_wan": 13281.24
+      },
+      {
+        "stock_code": "600050",
+        "stock_name": "中国联通",
+        "market_value_wan": 8899.32
+      },
+      {
+        "stock_code": "600690",
+        "stock_name": "海尔智家",
+        "market_value_wan": 8767.88
+      },
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 8612.84
+      },
+      {
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "market_value_wan": 8591.36
+      },
+      {
+        "stock_code": "002078",
+        "stock_name": "太阳纸业",
+        "market_value_wan": 7401.57
+      },
+      {
+        "stock_code": "601166",
+        "stock_name": "兴业银行",
+        "market_value_wan": 6668.88
+      },
+      {
+        "stock_code": "002142",
+        "stock_name": "宁波银行",
+        "market_value_wan": 6541.64
+      },
+      {
+        "stock_code": "600048",
+        "stock_name": "保利发展",
+        "market_value_wan": 5584.9
+      },
+      {
+        "stock_code": "601001",
+        "stock_name": "晋控煤业",
+        "market_value_wan": 5360.87
+      }
+    ],
+    "2026-Q1": [
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 9714.17
+      },
+      {
+        "stock_code": "601001",
+        "stock_name": "晋控煤业",
+        "market_value_wan": 8679.85
+      },
+      {
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "market_value_wan": 8631.92
+      },
+      {
+        "stock_code": "002142",
+        "stock_name": "宁波银行",
+        "market_value_wan": 7747.74
+      },
+      {
+        "stock_code": "600690",
+        "stock_name": "海尔智家",
+        "market_value_wan": 7716.42
+      },
+      {
+        "stock_code": "600050",
+        "stock_name": "中国联通",
+        "market_value_wan": 7030.91
+      },
+      {
+        "stock_code": "600048",
+        "stock_name": "保利发展",
+        "market_value_wan": 7020.33
+      },
+      {
+        "stock_code": "601898",
+        "stock_name": "中煤能源",
+        "market_value_wan": 6073.41
+      },
+      {
+        "stock_code": "600985",
+        "stock_name": "淮北矿业",
+        "market_value_wan": 5640.95
+      },
+      {
+        "stock_code": "601166",
+        "stock_name": "兴业银行",
+        "market_value_wan": 4956.81
+      }
+    ]
+  }
+}

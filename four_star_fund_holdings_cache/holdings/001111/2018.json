@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "001111",
+    "name": "中欧瑾泉灵活配置混合C",
+    "base_name": "中欧瑾泉灵活配置混合"
+  },
+  "fetched_at": "2026-06-14 22:27:33",
+  "quarters": {
+    "2018-Q4": [
+      {
+        "stock_code": "600900",
+        "stock_name": "长江电力",
+        "market_value_wan": 447.82
+      },
+      {
+        "stock_code": "000429",
+        "stock_name": "粤高速A",
+        "market_value_wan": 275.61
+      },
+      {
+        "stock_code": "600406",
+        "stock_name": "国电南瑞",
+        "market_value_wan": 234.03
+      },
+      {
+        "stock_code": "600498",
+        "stock_name": "烽火通信",
+        "market_value_wan": 231.75
+      },
+      {
+        "stock_code": "601668",
+        "stock_name": "中国建筑",
+        "market_value_wan": 209.13
+      },
+      {
+        "stock_code": "300059",
+        "stock_name": "东方财富",
+        "market_value_wan": 208.36
+      },
+      {
+        "stock_code": "601186",
+        "stock_name": "中国铁建",
+        "market_value_wan": 195.99
+      },
+      {
+        "stock_code": "300170",
+        "stock_name": "汉得信息",
+        "market_value_wan": 161.27
+      },
+      {
+        "stock_code": "600845",
+        "stock_name": "宝信软件",
+        "market_value_wan": 160.34
+      },
+      {
+        "stock_code": "000977",
+        "stock_name": "浪潮信息",
+        "market_value_wan": 156.49
+      }
+    ],
+    "2018-Q3": [
+      {
+        "stock_code": "600900",
+        "stock_name": "长江电力",
+        "market_value_wan": 461.92
+      },
+      {
+        "stock_code": "601233",
+        "stock_name": "桐昆股份",
+        "market_value_wan": 306.51
+      },
+      {
+        "stock_code": "600104",
+        "stock_name": "上汽集团",
+        "market_value_wan": 292.86
+      },
+      {
+        "stock_code": "000429",
+        "stock_name": "粤高速A",
+        "market_value_wan": 253.93
+      },
+      {
+        "stock_code": "600498",
+        "stock_name": "烽火通信",
+        "market_value_wan": 242.9
+      },
+      {
+        "stock_code": "000977",
+        "stock_name": "浪潮信息",
+        "market_value_wan": 236.71
+      },
+      {
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "market_value_wan": 226.49
+      },
+      {
+        "stock_code": "600406",
+        "stock_name": "国电南瑞",
+        "market_value_wan": 222.92
+      },
+      {
+        "stock_code": "600196",
+        "stock_name": "复星医药",
+        "market_value_wan": 211.39
+      },
+      {
+        "stock_code": "600016",
+        "stock_name": "民生银行",
+        "market_value_wan": 197.91
+      }
+    ],
+    "2018-Q2": [
+      {
+        "stock_code": "601006",
+        "stock_name": "大秦铁路",
+        "market_value_wan": 413.87
+      },
+      {
+        "stock_code": "600900",
+        "stock_name": "长江电力",
+        "market_value_wan": 277.61
+      },
+      {
+        "stock_code": "600023",
+        "stock_name": "浙能电力",
+        "market_value_wan": 268.74
+      },
+      {
+        "stock_code": "600409",
+        "stock_name": "三友化工",
+        "market_value_wan": 259.07
+      },
+      {
+        "stock_code": "601233",
+        "stock_name": "桐昆股份",
+        "market_value_wan": 232.88
+      },
+      {
+        "stock_code": "600690",
+        "stock_name": "海尔智家",
+        "market_value_wan": 211.47
+      },
+      {
+        "stock_code": "601336",
+        "stock_name": "新华保险",
+        "market_value_wan": 184.81
+      },
+      {
+        "stock_code": "601398",
+        "stock_name": "工商银行",
+        "market_value_wan": 175.88
+      },
+      {
+        "stock_code": "002624",
+        "stock_name": "完美世界",
+        "market_value_wan": 163.73
+      },
+      {
+        "stock_code": "002202",
+        "stock_name": "金风科技",
+        "market_value_wan": 156.99
+      }
+    ],
+    "2018-Q1": [
+      {
+        "stock_code": "601006",
+        "stock_name": "大秦铁路",
+        "market_value_wan": 417.39
+      },
+      {
+        "stock_code": "600104",
+        "stock_name": "上汽集团",
+        "market_value_wan": 382.27
+      },
+      {
+        "stock_code": "000830",
+        "stock_name": "鲁西化工",
+        "market_value_wan": 376.31
+      },
+      {
+        "stock_code": "002440",
+        "stock_name": "闰土股份",
+        "market_value_wan": 338.72
+      },
+      {
+        "stock_code": "601328",
+        "stock_name": "交通银行",
+        "market_value_wan": 278.35
+      },
+      {
+        "stock_code": "600028",
+        "stock_name": "中国石化",
+        "market_value_wan": 236.56
+      },
+      {
+        "stock_code": "600196",
+        "stock_name": "复星医药",
+        "market_value_wan": 226.45
+      },
+      {
+        "stock_code": "601233",
+        "stock_name": "桐昆股份",
+        "market_value_wan": 213.0
+      },
+      {
+        "stock_code": "600033",
+        "stock_name": "福建高速",
+        "market_value_wan": 209.89
+      },
+      {
+        "stock_code": "601857",
+        "stock_name": "中国石油",
+        "market_value_wan": 202.46
+      }
+    ]
+  }
+}

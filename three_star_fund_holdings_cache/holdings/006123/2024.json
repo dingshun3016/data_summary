@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "006123",
+    "name": "国联高股息混合A",
+    "base_name": "国联高股息混合"
+  },
+  "fetched_at": "2026-06-14 23:20:36",
+  "quarters": {
+    "2024-Q4": [
+      {
+        "stock_code": "601988",
+        "stock_name": "中国银行",
+        "market_value_wan": 3123.67
+      },
+      {
+        "stock_code": "600548",
+        "stock_name": "深高速",
+        "market_value_wan": 3009.56
+      },
+      {
+        "stock_code": "002818",
+        "stock_name": "富森美",
+        "market_value_wan": 2718.02
+      },
+      {
+        "stock_code": "600803",
+        "stock_name": "新奥股份",
+        "market_value_wan": 2632.1
+      },
+      {
+        "stock_code": "002911",
+        "stock_name": "佛燃能源",
+        "market_value_wan": 2627.28
+      },
+      {
+        "stock_code": "002831",
+        "stock_name": "裕同科技",
+        "market_value_wan": 2575.58
+      },
+      {
+        "stock_code": "600028",
+        "stock_name": "中国石化",
+        "market_value_wan": 2561.31
+      },
+      {
+        "stock_code": "601088",
+        "stock_name": "中国神华",
+        "market_value_wan": 2546.19
+      },
+      {
+        "stock_code": "600018",
+        "stock_name": "上港集团",
+        "market_value_wan": 2517.95
+      },
+      {
+        "stock_code": "000429",
+        "stock_name": "粤高速A",
+        "market_value_wan": 2504.88
+      }
+    ],
+    "2024-Q3": [
+      {
+        "stock_code": "601988",
+        "stock_name": "中国银行",
+        "market_value_wan": 2759.8
+      },
+      {
+        "stock_code": "601963",
+        "stock_name": "重庆银行",
+        "market_value_wan": 2647.63
+      },
+      {
+        "stock_code": "601319",
+        "stock_name": "中国人保",
+        "market_value_wan": 2627.58
+      },
+      {
+        "stock_code": "002818",
+        "stock_name": "富森美",
+        "market_value_wan": 2592.26
+      },
+      {
+        "stock_code": "601668",
+        "stock_name": "中国建筑",
+        "market_value_wan": 2507.78
+      },
+      {
+        "stock_code": "600104",
+        "stock_name": "上汽集团",
+        "market_value_wan": 2468.37
+      },
+      {
+        "stock_code": "000088",
+        "stock_name": "盐田港",
+        "market_value_wan": 2432.56
+      },
+      {
+        "stock_code": "002911",
+        "stock_name": "佛燃能源",
+        "market_value_wan": 2430.4
+      },
+      {
+        "stock_code": "600019",
+        "stock_name": "宝钢股份",
+        "market_value_wan": 2430.15
+      },
+      {
+        "stock_code": "600741",
+        "stock_name": "华域汽车",
+        "market_value_wan": 2425.21
+      }
+    ],
+    "2024-Q2": [
+      {
+        "stock_code": "601988",
+        "stock_name": "中国银行",
+        "market_value_wan": 2708.38
+      },
+      {
+        "stock_code": "601298",
+        "stock_name": "青岛港",
+        "market_value_wan": 2375.09
+      },
+      {
+        "stock_code": "600803",
+        "stock_name": "新奥股份",
+        "market_value_wan": 2193.5
+      },
+      {
+        "stock_code": "600018",
+        "stock_name": "上港集团",
+        "market_value_wan": 2188.71
+      },
+      {
+        "stock_code": "600028",
+        "stock_name": "中国石化",
+        "market_value_wan": 2171.8
+      },
+      {
+        "stock_code": "601963",
+        "stock_name": "重庆银行",
+        "market_value_wan": 2136.11
+      },
+      {
+        "stock_code": "601328",
+        "stock_name": "交通银行",
+        "market_value_wan": 2015.93
+      },
+      {
+        "stock_code": "002818",
+        "stock_name": "富森美",
+        "market_value_wan": 2001.81
+      },
+      {
+        "stock_code": "601319",
+        "stock_name": "中国人保",
+        "market_value_wan": 2001.29
+      },
+      {
+        "stock_code": "600039",
+        "stock_name": "四川路桥",
+        "market_value_wan": 1984.93
+      }
+    ],
+    "2024-Q1": [
+      {
+        "stock_code": "600028",
+        "stock_name": "中国石化",
+        "market_value_wan": 749.74
+      },
+      {
+        "stock_code": "001872",
+        "stock_name": "招商港口",
+        "market_value_wan": 727.88
+      },
+      {
+        "stock_code": "000708",
+        "stock_name": "中信特钢",
+        "market_value_wan": 725.15
+      },
+      {
+        "stock_code": "002818",
+        "stock_name": "富森美",
+        "market_value_wan": 724.97
+      },
+      {
+        "stock_code": "600690",
+        "stock_name": "海尔智家",
+        "market_value_wan": 713.82
+      },
+      {
+        "stock_code": "600741",
+        "stock_name": "华域汽车",
+        "market_value_wan": 701.65
+      },
+      {
+        "stock_code": "600332",
+        "stock_name": "白云山",
+        "market_value_wan": 697.02
+      },
+      {
+        "stock_code": "601298",
+        "stock_name": "青岛港",
+        "market_value_wan": 685.42
+      },
+      {
+        "stock_code": "600803",
+        "stock_name": "新奥股份",
+        "market_value_wan": 683.21
+      },
+      {
+        "stock_code": "600089",
+        "stock_name": "特变电工",
+        "market_value_wan": 681.62
+      }
+    ]
+  }
+}

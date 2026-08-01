@@ -1,0 +1,63 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "011785",
+    "name": "天弘招添利混合发起C",
+    "base_name": "天弘招添利混合发起"
+  },
+  "fetched_at": "2026-06-14 23:48:12",
+  "quarters": {
+    "2025-Q4": [
+      {
+        "stock_code": "601857",
+        "stock_name": "中国石油",
+        "market_value_wan": 83.28
+      },
+      {
+        "stock_code": "601899",
+        "stock_name": "紫金矿业",
+        "market_value_wan": 68.94
+      },
+      {
+        "stock_code": "300308",
+        "stock_name": "中际旭创",
+        "market_value_wan": 61.0
+      },
+      {
+        "stock_code": "688041",
+        "stock_name": "海光信息",
+        "market_value_wan": 56.1
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 44.07
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 41.32
+      },
+      {
+        "stock_code": "603530",
+        "stock_name": "神马电力",
+        "market_value_wan": 41.08
+      },
+      {
+        "stock_code": "600549",
+        "stock_name": "厦门钨业",
+        "market_value_wan": 41.06
+      },
+      {
+        "stock_code": "600029",
+        "stock_name": "南方航空",
+        "market_value_wan": 40.05
+      },
+      {
+        "stock_code": "688208",
+        "stock_name": "道通科技",
+        "market_value_wan": 36.8
+      }
+    ]
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "009741",
+    "name": "博时研究臻选持有期混合C",
+    "base_name": "博时研究臻选持有期混合"
+  },
+  "fetched_at": "2026-08-01 20:58:40",
+  "quarters": {
+    "2026-Q2": [
+      {
+        "stock_code": "603268",
+        "stock_name": "松发股份",
+        "market_value_wan": 1435.14
+      },
+      {
+        "stock_code": "002142",
+        "stock_name": "宁波银行",
+        "market_value_wan": 1341.69
+      },
+      {
+        "stock_code": "601077",
+        "stock_name": "渝农商行",
+        "market_value_wan": 1186.91
+      },
+      {
+        "stock_code": "603187",
+        "stock_name": "海容冷链",
+        "market_value_wan": 886.87
+      },
+      {
+        "stock_code": "002001",
+        "stock_name": "新和成",
+        "market_value_wan": 672.99
+      },
+      {
+        "stock_code": "601918",
+        "stock_name": "新集能源",
+        "market_value_wan": 467.04
+      },
+      {
+        "stock_code": "002539",
+        "stock_name": "云图控股",
+        "market_value_wan": 465.03
+      },
+      {
+        "stock_code": "601899",
+        "stock_name": "紫金矿业",
+        "market_value_wan": 390.68
+      }
+    ],
+    "2026-Q1": [
+      {
+        "stock_code": "603268",
+        "stock_name": "松发股份",
+        "market_value_wan": 1822.58
+      },
+      {
+        "stock_code": "601077",
+        "stock_name": "渝农商行",
+        "market_value_wan": 1698.54
+      },
+      {
+        "stock_code": "002142",
+        "stock_name": "宁波银行",
+        "market_value_wan": 1603.19
+      },
+      {
+        "stock_code": "603187",
+        "stock_name": "海容冷链",
+        "market_value_wan": 1383.31
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 688.39
+      }
+    ]
+  }
+}

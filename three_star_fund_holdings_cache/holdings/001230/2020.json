@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "001230",
+    "name": "鹏华医药科技股票A",
+    "base_name": "鹏华医药科技股票"
+  },
+  "fetched_at": "2026-06-14 22:54:56",
+  "quarters": {
+    "2020-Q4": [
+      {
+        "stock_code": "603259",
+        "stock_name": "药明康德",
+        "market_value_wan": 16228.09
+      },
+      {
+        "stock_code": "300760",
+        "stock_name": "迈瑞医疗",
+        "market_value_wan": 15584.49
+      },
+      {
+        "stock_code": "000661",
+        "stock_name": "长春高新",
+        "market_value_wan": 15210.46
+      },
+      {
+        "stock_code": "600276",
+        "stock_name": "恒瑞医药",
+        "market_value_wan": 15202.61
+      },
+      {
+        "stock_code": "300015",
+        "stock_name": "爱尔眼科",
+        "market_value_wan": 15098.52
+      },
+      {
+        "stock_code": "300347",
+        "stock_name": "泰格医药",
+        "market_value_wan": 12240.71
+      },
+      {
+        "stock_code": "300357",
+        "stock_name": "我武生物",
+        "market_value_wan": 8416.29
+      },
+      {
+        "stock_code": "300759",
+        "stock_name": "康龙化成",
+        "market_value_wan": 8106.68
+      },
+      {
+        "stock_code": "300651",
+        "stock_name": "金陵体育",
+        "market_value_wan": 7936.81
+      },
+      {
+        "stock_code": "600436",
+        "stock_name": "片仔癀",
+        "market_value_wan": 7913.61
+      }
+    ],
+    "2020-Q3": [
+      {
+        "stock_code": "300015",
+        "stock_name": "爱尔眼科",
+        "market_value_wan": 16051.97
+      },
+      {
+        "stock_code": "600276",
+        "stock_name": "恒瑞医药",
+        "market_value_wan": 15291.38
+      },
+      {
+        "stock_code": "603259",
+        "stock_name": "药明康德",
+        "market_value_wan": 15161.86
+      },
+      {
+        "stock_code": "300760",
+        "stock_name": "迈瑞医疗",
+        "market_value_wan": 15010.39
+      },
+      {
+        "stock_code": "000661",
+        "stock_name": "长春高新",
+        "market_value_wan": 13160.33
+      },
+      {
+        "stock_code": "300347",
+        "stock_name": "泰格医药",
+        "market_value_wan": 9195.73
+      },
+      {
+        "stock_code": "002821",
+        "stock_name": "凯莱英",
+        "market_value_wan": 8986.75
+      },
+      {
+        "stock_code": "600763",
+        "stock_name": "通策医疗",
+        "market_value_wan": 8092.43
+      },
+      {
+        "stock_code": "300651",
+        "stock_name": "金陵体育",
+        "market_value_wan": 7842.23
+      },
+      {
+        "stock_code": "300759",
+        "stock_name": "康龙化成",
+        "market_value_wan": 7775.16
+      }
+    ],
+    "2020-Q2": [
+      {
+        "stock_code": "000661",
+        "stock_name": "长春高新",
+        "market_value_wan": 20222.04
+      },
+      {
+        "stock_code": "603259",
+        "stock_name": "药明康德",
+        "market_value_wan": 17644.75
+      },
+      {
+        "stock_code": "300015",
+        "stock_name": "爱尔眼科",
+        "market_value_wan": 16758.65
+      },
+      {
+        "stock_code": "600276",
+        "stock_name": "恒瑞医药",
+        "market_value_wan": 16685.87
+      },
+      {
+        "stock_code": "300760",
+        "stock_name": "迈瑞医疗",
+        "market_value_wan": 16111.4
+      },
+      {
+        "stock_code": "300347",
+        "stock_name": "泰格医药",
+        "market_value_wan": 9923.35
+      },
+      {
+        "stock_code": "300601",
+        "stock_name": "康泰生物",
+        "market_value_wan": 8836.34
+      },
+      {
+        "stock_code": "600763",
+        "stock_name": "通策医疗",
+        "market_value_wan": 8136.41
+      },
+      {
+        "stock_code": "300759",
+        "stock_name": "康龙化成",
+        "market_value_wan": 8069.9
+      },
+      {
+        "stock_code": "300651",
+        "stock_name": "金陵体育",
+        "market_value_wan": 7913.74
+      }
+    ],
+    "2020-Q1": [
+      {
+        "stock_code": "000661",
+        "stock_name": "长春高新",
+        "market_value_wan": 14685.14
+      },
+      {
+        "stock_code": "300760",
+        "stock_name": "迈瑞医疗",
+        "market_value_wan": 13946.86
+      },
+      {
+        "stock_code": "600276",
+        "stock_name": "恒瑞医药",
+        "market_value_wan": 13864.22
+      },
+      {
+        "stock_code": "603259",
+        "stock_name": "药明康德",
+        "market_value_wan": 11937.18
+      },
+      {
+        "stock_code": "300015",
+        "stock_name": "爱尔眼科",
+        "market_value_wan": 11683.73
+      },
+      {
+        "stock_code": "300601",
+        "stock_name": "康泰生物",
+        "market_value_wan": 6244.73
+      },
+      {
+        "stock_code": "300347",
+        "stock_name": "泰格医药",
+        "market_value_wan": 6238.62
+      },
+      {
+        "stock_code": "300651",
+        "stock_name": "金陵体育",
+        "market_value_wan": 5978.21
+      },
+      {
+        "stock_code": "600763",
+        "stock_name": "通策医疗",
+        "market_value_wan": 5383.42
+      },
+      {
+        "stock_code": "600436",
+        "stock_name": "片仔癀",
+        "market_value_wan": 4923.83
+      }
+    ]
+  }
+}

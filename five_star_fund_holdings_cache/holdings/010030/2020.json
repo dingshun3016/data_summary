@@ -1,0 +1,58 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "010030",
+    "name": "富国稳进回报12个月持有期混合C",
+    "base_name": "富国稳进回报12个月持有期混合"
+  },
+  "fetched_at": "2026-06-14 22:12:15",
+  "quarters": {
+    "2020-Q4": [
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 4375.62
+      },
+      {
+        "stock_code": "002352",
+        "stock_name": "顺丰控股",
+        "market_value_wan": 2489.87
+      },
+      {
+        "stock_code": "601636",
+        "stock_name": "旗滨集团",
+        "market_value_wan": 1650.69
+      },
+      {
+        "stock_code": "300059",
+        "stock_name": "东方财富",
+        "market_value_wan": 1636.18
+      },
+      {
+        "stock_code": "002675",
+        "stock_name": "东诚药业",
+        "market_value_wan": 1096.64
+      },
+      {
+        "stock_code": "600760",
+        "stock_name": "中航沈飞",
+        "market_value_wan": 957.84
+      },
+      {
+        "stock_code": "300294",
+        "stock_name": "博雅生物",
+        "market_value_wan": 648.66
+      },
+      {
+        "stock_code": "000157",
+        "stock_name": "中联重科",
+        "market_value_wan": 327.29
+      },
+      {
+        "stock_code": "601995",
+        "stock_name": "中金公司",
+        "market_value_wan": 171.44
+      }
+    ]
+  }
+}

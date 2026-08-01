@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "008456",
+    "name": "招商瑞阳混合A",
+    "base_name": "招商瑞阳混合"
+  },
+  "fetched_at": "2026-06-14 23:28:13",
+  "quarters": {
+    "2020-Q4": [
+      {
+        "stock_code": "002415",
+        "stock_name": "海康威视",
+        "market_value_wan": 1738.6
+      },
+      {
+        "stock_code": "603613",
+        "stock_name": "国联股份",
+        "market_value_wan": 1636.86
+      },
+      {
+        "stock_code": "600745",
+        "stock_name": "闻泰科技",
+        "market_value_wan": 1607.76
+      },
+      {
+        "stock_code": "601166",
+        "stock_name": "兴业银行",
+        "market_value_wan": 1595.09
+      },
+      {
+        "stock_code": "002648",
+        "stock_name": "卫星化学",
+        "market_value_wan": 1534.18
+      },
+      {
+        "stock_code": "603096",
+        "stock_name": "新经典",
+        "market_value_wan": 1300.69
+      },
+      {
+        "stock_code": "000651",
+        "stock_name": "格力电器",
+        "market_value_wan": 1078.38
+      },
+      {
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "market_value_wan": 912.42
+      },
+      {
+        "stock_code": "300166",
+        "stock_name": "东方国信",
+        "market_value_wan": 829.24
+      },
+      {
+        "stock_code": "300369",
+        "stock_name": "绿盟科技",
+        "market_value_wan": 785.24
+      }
+    ],
+    "2020-Q3": [
+      {
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "market_value_wan": 2361.77
+      },
+      {
+        "stock_code": "000725",
+        "stock_name": "京东方A",
+        "market_value_wan": 2317.91
+      },
+      {
+        "stock_code": "002415",
+        "stock_name": "海康威视",
+        "market_value_wan": 1809.6
+      },
+      {
+        "stock_code": "000651",
+        "stock_name": "格力电器",
+        "market_value_wan": 1708.8
+      },
+      {
+        "stock_code": "600741",
+        "stock_name": "华域汽车",
+        "market_value_wan": 1481.8
+      },
+      {
+        "stock_code": "002648",
+        "stock_name": "卫星化学",
+        "market_value_wan": 1311.19
+      },
+      {
+        "stock_code": "002601",
+        "stock_name": "龙佰集团",
+        "market_value_wan": 1209.92
+      },
+      {
+        "stock_code": "600027",
+        "stock_name": "华电国际",
+        "market_value_wan": 1175.47
+      },
+      {
+        "stock_code": "300166",
+        "stock_name": "东方国信",
+        "market_value_wan": 1041.56
+      },
+      {
+        "stock_code": "000001",
+        "stock_name": "平安银行",
+        "market_value_wan": 607.71
+      }
+    ],
+    "2020-Q2": [
+      {
+        "stock_code": "000651",
+        "stock_name": "格力电器",
+        "market_value_wan": 4143.75
+      },
+      {
+        "stock_code": "600741",
+        "stock_name": "华域汽车",
+        "market_value_wan": 4040.33
+      },
+      {
+        "stock_code": "600438",
+        "stock_name": "通威股份",
+        "market_value_wan": 3141.16
+      },
+      {
+        "stock_code": "002415",
+        "stock_name": "海康威视",
+        "market_value_wan": 2885.6
+      },
+      {
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "market_value_wan": 2627.52
+      },
+      {
+        "stock_code": "000725",
+        "stock_name": "京东方A",
+        "market_value_wan": 2204.61
+      },
+      {
+        "stock_code": "601328",
+        "stock_name": "交通银行",
+        "market_value_wan": 1616.16
+      },
+      {
+        "stock_code": "601899",
+        "stock_name": "紫金矿业",
+        "market_value_wan": 1553.98
+      },
+      {
+        "stock_code": "600048",
+        "stock_name": "保利发展",
+        "market_value_wan": 1267.39
+      },
+      {
+        "stock_code": "600585",
+        "stock_name": "海螺水泥",
+        "market_value_wan": 1155.84
+      }
+    ],
+    "2020-Q1": [
+      {
+        "stock_code": "603260",
+        "stock_name": "合盛硅业",
+        "market_value_wan": 5092.29
+      },
+      {
+        "stock_code": "601088",
+        "stock_name": "中国神华",
+        "market_value_wan": 4456.26
+      },
+      {
+        "stock_code": "600028",
+        "stock_name": "中国石化",
+        "market_value_wan": 4251.29
+      },
+      {
+        "stock_code": "601601",
+        "stock_name": "中国太保",
+        "market_value_wan": 4127.32
+      },
+      {
+        "stock_code": "600339",
+        "stock_name": "中油工程",
+        "market_value_wan": 4043.66
+      },
+      {
+        "stock_code": "601336",
+        "stock_name": "新华保险",
+        "market_value_wan": 3390.29
+      },
+      {
+        "stock_code": "002422",
+        "stock_name": "科伦药业",
+        "market_value_wan": 3362.54
+      },
+      {
+        "stock_code": "002563",
+        "stock_name": "森马服饰",
+        "market_value_wan": 3261.24
+      },
+      {
+        "stock_code": "600398",
+        "stock_name": "海澜之家",
+        "market_value_wan": 2838.75
+      },
+      {
+        "stock_code": "002831",
+        "stock_name": "裕同科技",
+        "market_value_wan": 2809.84
+      }
+    ]
+  }
+}

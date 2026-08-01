@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "420001",
+    "name": "天弘精选混合A",
+    "base_name": "天弘精选混合"
+  },
+  "fetched_at": "2026-06-15 00:00:07",
+  "quarters": {
+    "2020-Q4": [
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 5618.98
+      },
+      {
+        "stock_code": "600346",
+        "stock_name": "恒力石化",
+        "market_value_wan": 4103.88
+      },
+      {
+        "stock_code": "300374",
+        "stock_name": "中铁装配",
+        "market_value_wan": 3613.05
+      },
+      {
+        "stock_code": "000786",
+        "stock_name": "北新建材",
+        "market_value_wan": 3607.85
+      },
+      {
+        "stock_code": "000858",
+        "stock_name": "五粮液",
+        "market_value_wan": 3584.47
+      },
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 3348.31
+      },
+      {
+        "stock_code": "600882",
+        "stock_name": "妙可蓝多",
+        "market_value_wan": 3270.69
+      },
+      {
+        "stock_code": "600887",
+        "stock_name": "伊利股份",
+        "market_value_wan": 2937.01
+      },
+      {
+        "stock_code": "600690",
+        "stock_name": "海尔智家",
+        "market_value_wan": 2387.95
+      },
+      {
+        "stock_code": "002410",
+        "stock_name": "广联达",
+        "market_value_wan": 2333.07
+      }
+    ],
+    "2020-Q3": [
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 5593.31
+      },
+      {
+        "stock_code": "300374",
+        "stock_name": "中铁装配",
+        "market_value_wan": 4041.74
+      },
+      {
+        "stock_code": "600346",
+        "stock_name": "恒力石化",
+        "market_value_wan": 3890.07
+      },
+      {
+        "stock_code": "000976",
+        "stock_name": "*ST华铁",
+        "market_value_wan": 3280.95
+      },
+      {
+        "stock_code": "002557",
+        "stock_name": "洽洽食品",
+        "market_value_wan": 3254.64
+      },
+      {
+        "stock_code": "000858",
+        "stock_name": "五粮液",
+        "market_value_wan": 2871.21
+      },
+      {
+        "stock_code": "000786",
+        "stock_name": "北新建材",
+        "market_value_wan": 2783.59
+      },
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 2630.57
+      },
+      {
+        "stock_code": "600887",
+        "stock_name": "伊利股份",
+        "market_value_wan": 2548.45
+      },
+      {
+        "stock_code": "002648",
+        "stock_name": "卫星化学",
+        "market_value_wan": 2445.37
+      }
+    ],
+    "2020-Q2": [
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 5767.11
+      },
+      {
+        "stock_code": "603899",
+        "stock_name": "晨光股份",
+        "market_value_wan": 4911.82
+      },
+      {
+        "stock_code": "002557",
+        "stock_name": "洽洽食品",
+        "market_value_wan": 4756.87
+      },
+      {
+        "stock_code": "300374",
+        "stock_name": "中铁装配",
+        "market_value_wan": 4450.58
+      },
+      {
+        "stock_code": "002508",
+        "stock_name": "老板电器",
+        "market_value_wan": 4031.91
+      },
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 3452.5
+      },
+      {
+        "stock_code": "000651",
+        "stock_name": "格力电器",
+        "market_value_wan": 2995.28
+      },
+      {
+        "stock_code": "000976",
+        "stock_name": "*ST华铁",
+        "market_value_wan": 2957.62
+      },
+      {
+        "stock_code": "600346",
+        "stock_name": "恒力石化",
+        "market_value_wan": 2934.32
+      },
+      {
+        "stock_code": "002648",
+        "stock_name": "卫星化学",
+        "market_value_wan": 2929.41
+      }
+    ],
+    "2020-Q1": [
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 4379.9
+      },
+      {
+        "stock_code": "603899",
+        "stock_name": "晨光股份",
+        "market_value_wan": 4165.15
+      },
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 3993.03
+      },
+      {
+        "stock_code": "002557",
+        "stock_name": "洽洽食品",
+        "market_value_wan": 3959.81
+      },
+      {
+        "stock_code": "000651",
+        "stock_name": "格力电器",
+        "market_value_wan": 3945.18
+      },
+      {
+        "stock_code": "002508",
+        "stock_name": "老板电器",
+        "market_value_wan": 3685.87
+      },
+      {
+        "stock_code": "600967",
+        "stock_name": "内蒙一机",
+        "market_value_wan": 2967.22
+      },
+      {
+        "stock_code": "603788",
+        "stock_name": "宁波高发",
+        "market_value_wan": 2845.98
+      },
+      {
+        "stock_code": "300771",
+        "stock_name": "智莱科技",
+        "market_value_wan": 2789.34
+      },
+      {
+        "stock_code": "600729",
+        "stock_name": "重庆百货",
+        "market_value_wan": 2203.31
+      }
+    ]
+  }
+}

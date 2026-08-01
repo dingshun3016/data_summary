@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "001577",
+    "name": "嘉实低价策略股票",
+    "base_name": "嘉实低价策略股票"
+  },
+  "fetched_at": "2026-06-14 22:58:45",
+  "quarters": {
+    "2020-Q4": [
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 1956.0
+      },
+      {
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "market_value_wan": 1938.2
+      },
+      {
+        "stock_code": "000002",
+        "stock_name": "万科A",
+        "market_value_wan": 1870.67
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 1708.29
+      },
+      {
+        "stock_code": "002078",
+        "stock_name": "太阳纸业",
+        "market_value_wan": 1327.87
+      },
+      {
+        "stock_code": "000001",
+        "stock_name": "平安银行",
+        "market_value_wan": 1281.47
+      },
+      {
+        "stock_code": "002311",
+        "stock_name": "海大集团",
+        "market_value_wan": 1280.49
+      },
+      {
+        "stock_code": "600887",
+        "stock_name": "伊利股份",
+        "market_value_wan": 1178.47
+      },
+      {
+        "stock_code": "600486",
+        "stock_name": "扬农化工",
+        "market_value_wan": 1131.24
+      },
+      {
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "market_value_wan": 1043.76
+      }
+    ],
+    "2020-Q3": [
+      {
+        "stock_code": "000002",
+        "stock_name": "万科A",
+        "market_value_wan": 1401.0
+      },
+      {
+        "stock_code": "000030",
+        "stock_name": "富奥股份",
+        "market_value_wan": 1207.77
+      },
+      {
+        "stock_code": "601012",
+        "stock_name": "隆基绿能",
+        "market_value_wan": 1125.15
+      },
+      {
+        "stock_code": "600048",
+        "stock_name": "保利发展",
+        "market_value_wan": 1112.3
+      },
+      {
+        "stock_code": "603659",
+        "stock_name": "璞泰来",
+        "market_value_wan": 1085.9
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 1046.0
+      },
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 980.1
+      },
+      {
+        "stock_code": "600438",
+        "stock_name": "通威股份",
+        "market_value_wan": 956.88
+      },
+      {
+        "stock_code": "603179",
+        "stock_name": "新泉股份",
+        "market_value_wan": 938.04
+      },
+      {
+        "stock_code": "002311",
+        "stock_name": "海大集团",
+        "market_value_wan": 827.92
+      }
+    ],
+    "2020-Q2": [
+      {
+        "stock_code": "600984",
+        "stock_name": "建设机械",
+        "market_value_wan": 1364.62
+      },
+      {
+        "stock_code": "000030",
+        "stock_name": "富奥股份",
+        "market_value_wan": 753.99
+      },
+      {
+        "stock_code": "600048",
+        "stock_name": "保利发展",
+        "market_value_wan": 739.0
+      },
+      {
+        "stock_code": "603659",
+        "stock_name": "璞泰来",
+        "market_value_wan": 721.14
+      },
+      {
+        "stock_code": "002048",
+        "stock_name": "宁波华翔",
+        "market_value_wan": 617.7
+      },
+      {
+        "stock_code": "600438",
+        "stock_name": "通威股份",
+        "market_value_wan": 608.3
+      },
+      {
+        "stock_code": "601012",
+        "stock_name": "隆基绿能",
+        "market_value_wan": 598.73
+      },
+      {
+        "stock_code": "603179",
+        "stock_name": "新泉股份",
+        "market_value_wan": 588.64
+      },
+      {
+        "stock_code": "000002",
+        "stock_name": "万科A",
+        "market_value_wan": 548.94
+      },
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 538.11
+      }
+    ],
+    "2020-Q1": [
+      {
+        "stock_code": "002048",
+        "stock_name": "宁波华翔",
+        "market_value_wan": 992.42
+      },
+      {
+        "stock_code": "000002",
+        "stock_name": "万科A",
+        "market_value_wan": 769.5
+      },
+      {
+        "stock_code": "000030",
+        "stock_name": "富奥股份",
+        "market_value_wan": 637.18
+      },
+      {
+        "stock_code": "600984",
+        "stock_name": "建设机械",
+        "market_value_wan": 619.5
+      },
+      {
+        "stock_code": "600104",
+        "stock_name": "上汽集团",
+        "market_value_wan": 613.98
+      },
+      {
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "market_value_wan": 553.36
+      },
+      {
+        "stock_code": "600048",
+        "stock_name": "保利发展",
+        "market_value_wan": 505.58
+      },
+      {
+        "stock_code": "600438",
+        "stock_name": "通威股份",
+        "market_value_wan": 406.35
+      },
+      {
+        "stock_code": "002311",
+        "stock_name": "海大集团",
+        "market_value_wan": 402.0
+      },
+      {
+        "stock_code": "603179",
+        "stock_name": "新泉股份",
+        "market_value_wan": 396.6
+      }
+    ]
+  }
+}

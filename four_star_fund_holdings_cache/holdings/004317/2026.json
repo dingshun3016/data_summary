@@ -1,0 +1,30 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "004317",
+    "name": "前海开源沪港深裕鑫C",
+    "base_name": "前海开源沪港深裕鑫"
+  },
+  "fetched_at": "2026-08-01 20:47:42",
+  "quarters": {
+    "2026-Q2": [
+      {
+        "stock_code": "000975",
+        "stock_name": "山金国际",
+        "market_value_wan": 1138.66
+      }
+    ],
+    "2026-Q1": [
+      {
+        "stock_code": "000933",
+        "stock_name": "神火股份",
+        "market_value_wan": 2553.01
+      },
+      {
+        "stock_code": "000975",
+        "stock_name": "山金国际",
+        "market_value_wan": 2499.35
+      }
+    ]
+  }
+}

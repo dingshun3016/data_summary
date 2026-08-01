@@ -1,0 +1,115 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "007853",
+    "name": "华商计算机行业量化股票发起式A",
+    "base_name": "华商计算机行业量化股票发起式"
+  },
+  "fetched_at": "2026-08-01 20:57:29",
+  "quarters": {
+    "2026-Q2": [
+      {
+        "stock_code": "601138",
+        "stock_name": "工业富联",
+        "market_value_wan": 2106.06
+      },
+      {
+        "stock_code": "688256",
+        "stock_name": "寒武纪",
+        "market_value_wan": 1481.79
+      },
+      {
+        "stock_code": "300442",
+        "stock_name": "润泽科技",
+        "market_value_wan": 1377.3
+      },
+      {
+        "stock_code": "301308",
+        "stock_name": "江波龙",
+        "market_value_wan": 1203.5
+      },
+      {
+        "stock_code": "688041",
+        "stock_name": "海光信息",
+        "market_value_wan": 1084.57
+      },
+      {
+        "stock_code": "600673",
+        "stock_name": "东阳光",
+        "market_value_wan": 900.62
+      },
+      {
+        "stock_code": "300454",
+        "stock_name": "深信服",
+        "market_value_wan": 852.33
+      },
+      {
+        "stock_code": "002230",
+        "stock_name": "科大讯飞",
+        "market_value_wan": 836.81
+      },
+      {
+        "stock_code": "300378",
+        "stock_name": "鼎捷数智",
+        "market_value_wan": 751.6
+      },
+      {
+        "stock_code": "000977",
+        "stock_name": "浪潮信息",
+        "market_value_wan": 721.0
+      }
+    ],
+    "2026-Q1": [
+      {
+        "stock_code": "601138",
+        "stock_name": "工业富联",
+        "market_value_wan": 1759.42
+      },
+      {
+        "stock_code": "300442",
+        "stock_name": "润泽科技",
+        "market_value_wan": 1410.77
+      },
+      {
+        "stock_code": "300454",
+        "stock_name": "深信服",
+        "market_value_wan": 901.24
+      },
+      {
+        "stock_code": "002230",
+        "stock_name": "科大讯飞",
+        "market_value_wan": 877.07
+      },
+      {
+        "stock_code": "300378",
+        "stock_name": "鼎捷数智",
+        "market_value_wan": 873.94
+      },
+      {
+        "stock_code": "688256",
+        "stock_name": "寒武纪",
+        "market_value_wan": 833.39
+      },
+      {
+        "stock_code": "301308",
+        "stock_name": "江波龙",
+        "market_value_wan": 822.91
+      },
+      {
+        "stock_code": "600602",
+        "stock_name": "云赛智联",
+        "market_value_wan": 788.43
+      },
+      {
+        "stock_code": "600673",
+        "stock_name": "东阳光",
+        "market_value_wan": 752.65
+      },
+      {
+        "stock_code": "603881",
+        "stock_name": "数据港",
+        "market_value_wan": 714.47
+      }
+    ]
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "005732",
+    "name": "富国臻选成长灵活配置混合A",
+    "base_name": "富国臻选成长灵活配置混合"
+  },
+  "fetched_at": "2026-08-01 20:56:37",
+  "quarters": {
+    "2026-Q2": [
+      {
+        "stock_code": "688012",
+        "stock_name": "中微公司",
+        "market_value_wan": 2263.6
+      },
+      {
+        "stock_code": "002384",
+        "stock_name": "东山精密",
+        "market_value_wan": 1555.74
+      },
+      {
+        "stock_code": "300502",
+        "stock_name": "新易盛",
+        "market_value_wan": 1385.17
+      },
+      {
+        "stock_code": "002138",
+        "stock_name": "顺络电子",
+        "market_value_wan": 1033.63
+      },
+      {
+        "stock_code": "300661",
+        "stock_name": "圣邦股份",
+        "market_value_wan": 903.92
+      },
+      {
+        "stock_code": "688531",
+        "stock_name": "日联科技",
+        "market_value_wan": 898.89
+      },
+      {
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "market_value_wan": 856.46
+      }
+    ],
+    "2026-Q1": [
+      {
+        "stock_code": "600489",
+        "stock_name": "中金黄金",
+        "market_value_wan": 3170.75
+      },
+      {
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "market_value_wan": 1454.7
+      },
+      {
+        "stock_code": "600547",
+        "stock_name": "山东黄金",
+        "market_value_wan": 1215.15
+      },
+      {
+        "stock_code": "002384",
+        "stock_name": "东山精密",
+        "market_value_wan": 814.0
+      },
+      {
+        "stock_code": "600499",
+        "stock_name": "科达制造",
+        "market_value_wan": 780.83
+      },
+      {
+        "stock_code": "000933",
+        "stock_name": "神火股份",
+        "market_value_wan": 712.4
+      }
+    ]
+  }
+}

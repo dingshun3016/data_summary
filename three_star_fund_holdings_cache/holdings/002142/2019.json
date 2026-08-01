@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "002142",
+    "name": "博时外延增长混合A",
+    "base_name": "博时外延增长混合"
+  },
+  "fetched_at": "2026-06-14 23:04:00",
+  "quarters": {
+    "2019-Q4": [
+      {
+        "stock_code": "600309",
+        "stock_name": "万华化学",
+        "market_value_wan": 2360.19
+      },
+      {
+        "stock_code": "300207",
+        "stock_name": "欣旺达",
+        "market_value_wan": 2171.4
+      },
+      {
+        "stock_code": "600426",
+        "stock_name": "华鲁恒升",
+        "market_value_wan": 1727.3
+      },
+      {
+        "stock_code": "300450",
+        "stock_name": "先导智能",
+        "market_value_wan": 1442.12
+      },
+      {
+        "stock_code": "600031",
+        "stock_name": "三一重工",
+        "market_value_wan": 1374.61
+      },
+      {
+        "stock_code": "600438",
+        "stock_name": "通威股份",
+        "market_value_wan": 1171.59
+      },
+      {
+        "stock_code": "000708",
+        "stock_name": "中信特钢",
+        "market_value_wan": 1141.68
+      },
+      {
+        "stock_code": "601211",
+        "stock_name": "国泰君安",
+        "market_value_wan": 947.8
+      },
+      {
+        "stock_code": "002600",
+        "stock_name": "领益智造",
+        "market_value_wan": 904.78
+      },
+      {
+        "stock_code": "002460",
+        "stock_name": "赣锋锂业",
+        "market_value_wan": 869.36
+      }
+    ],
+    "2019-Q3": [
+      {
+        "stock_code": "600340",
+        "stock_name": "华夏幸福",
+        "market_value_wan": 998.43
+      },
+      {
+        "stock_code": "300207",
+        "stock_name": "欣旺达",
+        "market_value_wan": 997.82
+      },
+      {
+        "stock_code": "600380",
+        "stock_name": "健康元",
+        "market_value_wan": 967.36
+      },
+      {
+        "stock_code": "300450",
+        "stock_name": "先导智能",
+        "market_value_wan": 938.55
+      },
+      {
+        "stock_code": "601211",
+        "stock_name": "国泰君安",
+        "market_value_wan": 914.69
+      },
+      {
+        "stock_code": "600426",
+        "stock_name": "华鲁恒升",
+        "market_value_wan": 789.3
+      },
+      {
+        "stock_code": "002419",
+        "stock_name": "天虹股份",
+        "market_value_wan": 592.17
+      },
+      {
+        "stock_code": "002410",
+        "stock_name": "广联达",
+        "market_value_wan": 584.52
+      },
+      {
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "market_value_wan": 555.32
+      },
+      {
+        "stock_code": "600323",
+        "stock_name": "瀚蓝环境",
+        "market_value_wan": 554.28
+      }
+    ],
+    "2019-Q2": [
+      {
+        "stock_code": "600340",
+        "stock_name": "华夏幸福",
+        "market_value_wan": 1205.74
+      },
+      {
+        "stock_code": "600690",
+        "stock_name": "海尔智家",
+        "market_value_wan": 1081.14
+      },
+      {
+        "stock_code": "601211",
+        "stock_name": "国泰君安",
+        "market_value_wan": 955.3
+      },
+      {
+        "stock_code": "600837",
+        "stock_name": "海通证券",
+        "market_value_wan": 921.07
+      },
+      {
+        "stock_code": "601939",
+        "stock_name": "建设银行",
+        "market_value_wan": 893.4
+      },
+      {
+        "stock_code": "600380",
+        "stock_name": "健康元",
+        "market_value_wan": 852.97
+      },
+      {
+        "stock_code": "601899",
+        "stock_name": "紫金矿业",
+        "market_value_wan": 644.6
+      },
+      {
+        "stock_code": "600993",
+        "stock_name": "马应龙",
+        "market_value_wan": 612.65
+      },
+      {
+        "stock_code": "002049",
+        "stock_name": "紫光国微",
+        "market_value_wan": 550.56
+      },
+      {
+        "stock_code": "300118",
+        "stock_name": "东方日升",
+        "market_value_wan": 471.44
+      }
+    ],
+    "2019-Q1": [
+      {
+        "stock_code": "600031",
+        "stock_name": "三一重工",
+        "market_value_wan": 1208.6
+      },
+      {
+        "stock_code": "300438",
+        "stock_name": "鹏辉能源",
+        "market_value_wan": 1048.54
+      },
+      {
+        "stock_code": "300498",
+        "stock_name": "温氏股份",
+        "market_value_wan": 908.22
+      },
+      {
+        "stock_code": "000708",
+        "stock_name": "中信特钢",
+        "market_value_wan": 722.58
+      },
+      {
+        "stock_code": "002044",
+        "stock_name": "美年健康",
+        "market_value_wan": 718.17
+      },
+      {
+        "stock_code": "300118",
+        "stock_name": "东方日升",
+        "market_value_wan": 702.33
+      },
+      {
+        "stock_code": "600380",
+        "stock_name": "健康元",
+        "market_value_wan": 672.76
+      },
+      {
+        "stock_code": "601688",
+        "stock_name": "华泰证券",
+        "market_value_wan": 646.98
+      },
+      {
+        "stock_code": "603337",
+        "stock_name": "杰克股份",
+        "market_value_wan": 631.38
+      },
+      {
+        "stock_code": "600352",
+        "stock_name": "浙江龙盛",
+        "market_value_wan": 630.72
+      }
+    ]
+  }
+}

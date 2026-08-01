@@ -1,0 +1,43 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "010013",
+    "name": "易方达信息行业精选股票A",
+    "base_name": "易方达信息行业精选股票"
+  },
+  "fetched_at": "2026-06-14 23:37:24",
+  "quarters": {
+    "2020-Q4": [
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 33334.88
+      },
+      {
+        "stock_code": "300782",
+        "stock_name": "卓胜微",
+        "market_value_wan": 29778.37
+      },
+      {
+        "stock_code": "002415",
+        "stock_name": "海康威视",
+        "market_value_wan": 24938.05
+      },
+      {
+        "stock_code": "300037",
+        "stock_name": "新宙邦",
+        "market_value_wan": 24274.38
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 22517.28
+      },
+      {
+        "stock_code": "300059",
+        "stock_name": "东方财富",
+        "market_value_wan": 20149.74
+      }
+    ]
+  }
+}

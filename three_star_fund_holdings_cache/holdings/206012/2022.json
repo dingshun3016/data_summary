@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "206012",
+    "name": "鹏华价值精选股票",
+    "base_name": "鹏华价值精选股票"
+  },
+  "fetched_at": "2026-06-14 23:56:01",
+  "quarters": {
+    "2022-Q4": [
+      {
+        "stock_code": "603596",
+        "stock_name": "伯特利",
+        "market_value_wan": 1258.45
+      },
+      {
+        "stock_code": "002648",
+        "stock_name": "卫星化学",
+        "market_value_wan": 1226.0
+      },
+      {
+        "stock_code": "002459",
+        "stock_name": "晶澳科技",
+        "market_value_wan": 1023.57
+      },
+      {
+        "stock_code": "002011",
+        "stock_name": "盾安环境",
+        "market_value_wan": 990.66
+      },
+      {
+        "stock_code": "002371",
+        "stock_name": "北方华创",
+        "market_value_wan": 941.75
+      },
+      {
+        "stock_code": "300014",
+        "stock_name": "亿纬锂能",
+        "market_value_wan": 793.74
+      },
+      {
+        "stock_code": "688279",
+        "stock_name": "峰岹科技",
+        "market_value_wan": 465.43
+      },
+      {
+        "stock_code": "300760",
+        "stock_name": "迈瑞医疗",
+        "market_value_wan": 461.32
+      },
+      {
+        "stock_code": "603348",
+        "stock_name": "文灿股份",
+        "market_value_wan": 444.44
+      },
+      {
+        "stock_code": "000733",
+        "stock_name": "振华科技",
+        "market_value_wan": 428.37
+      }
+    ],
+    "2022-Q3": [
+      {
+        "stock_code": "603596",
+        "stock_name": "伯特利",
+        "market_value_wan": 1366.51
+      },
+      {
+        "stock_code": "002648",
+        "stock_name": "卫星化学",
+        "market_value_wan": 1083.05
+      },
+      {
+        "stock_code": "002371",
+        "stock_name": "北方华创",
+        "market_value_wan": 1038.43
+      },
+      {
+        "stock_code": "002459",
+        "stock_name": "晶澳科技",
+        "market_value_wan": 860.31
+      },
+      {
+        "stock_code": "002011",
+        "stock_name": "盾安环境",
+        "market_value_wan": 851.44
+      },
+      {
+        "stock_code": "300014",
+        "stock_name": "亿纬锂能",
+        "market_value_wan": 785.93
+      },
+      {
+        "stock_code": "000733",
+        "stock_name": "振华科技",
+        "market_value_wan": 726.05
+      },
+      {
+        "stock_code": "002738",
+        "stock_name": "中矿资源",
+        "market_value_wan": 703.8
+      },
+      {
+        "stock_code": "603348",
+        "stock_name": "文灿股份",
+        "market_value_wan": 639.65
+      },
+      {
+        "stock_code": "600765",
+        "stock_name": "中航重机",
+        "market_value_wan": 624.55
+      }
+    ],
+    "2022-Q2": [
+      {
+        "stock_code": "603596",
+        "stock_name": "伯特利",
+        "market_value_wan": 1509.79
+      },
+      {
+        "stock_code": "002648",
+        "stock_name": "卫星化学",
+        "market_value_wan": 1282.91
+      },
+      {
+        "stock_code": "600765",
+        "stock_name": "中航重机",
+        "market_value_wan": 1085.24
+      },
+      {
+        "stock_code": "002371",
+        "stock_name": "北方华创",
+        "market_value_wan": 981.0
+      },
+      {
+        "stock_code": "000733",
+        "stock_name": "振华科技",
+        "market_value_wan": 791.36
+      },
+      {
+        "stock_code": "603806",
+        "stock_name": "福斯特",
+        "market_value_wan": 765.62
+      },
+      {
+        "stock_code": "002100",
+        "stock_name": "天康生物",
+        "market_value_wan": 689.13
+      },
+      {
+        "stock_code": "300498",
+        "stock_name": "温氏股份",
+        "market_value_wan": 637.72
+      },
+      {
+        "stock_code": "600660",
+        "stock_name": "福耀玻璃",
+        "market_value_wan": 522.21
+      },
+      {
+        "stock_code": "002415",
+        "stock_name": "海康威视",
+        "market_value_wan": 482.55
+      }
+    ],
+    "2022-Q1": [
+      {
+        "stock_code": "603596",
+        "stock_name": "伯特利",
+        "market_value_wan": 1164.98
+      },
+      {
+        "stock_code": "002648",
+        "stock_name": "卫星化学",
+        "market_value_wan": 1135.51
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 1034.85
+      },
+      {
+        "stock_code": "002049",
+        "stock_name": "紫光国微",
+        "market_value_wan": 872.69
+      },
+      {
+        "stock_code": "002100",
+        "stock_name": "天康生物",
+        "market_value_wan": 852.52
+      },
+      {
+        "stock_code": "603806",
+        "stock_name": "福斯特",
+        "market_value_wan": 812.69
+      },
+      {
+        "stock_code": "300498",
+        "stock_name": "温氏股份",
+        "market_value_wan": 809.98
+      },
+      {
+        "stock_code": "300661",
+        "stock_name": "圣邦股份",
+        "market_value_wan": 698.75
+      },
+      {
+        "stock_code": "600765",
+        "stock_name": "中航重机",
+        "market_value_wan": 669.94
+      },
+      {
+        "stock_code": "000733",
+        "stock_name": "振华科技",
+        "market_value_wan": 552.27
+      }
+    ]
+  }
+}

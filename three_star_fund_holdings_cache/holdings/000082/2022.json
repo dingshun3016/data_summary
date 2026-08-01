@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "000082",
+    "name": "嘉实研究阿尔法股票A",
+    "base_name": "嘉实研究阿尔法股票"
+  },
+  "fetched_at": "2026-06-14 22:48:46",
+  "quarters": {
+    "2022-Q4": [
+      {
+        "stock_code": "600702",
+        "stock_name": "舍得酒业",
+        "market_value_wan": 2731.53
+      },
+      {
+        "stock_code": "601601",
+        "stock_name": "中国太保",
+        "market_value_wan": 1630.58
+      },
+      {
+        "stock_code": "300059",
+        "stock_name": "东方财富",
+        "market_value_wan": 1568.97
+      },
+      {
+        "stock_code": "603517",
+        "stock_name": "绝味食品",
+        "market_value_wan": 1522.58
+      },
+      {
+        "stock_code": "000935",
+        "stock_name": "四川双马",
+        "market_value_wan": 1143.45
+      },
+      {
+        "stock_code": "000568",
+        "stock_name": "泸州老窖",
+        "market_value_wan": 1105.7
+      },
+      {
+        "stock_code": "603606",
+        "stock_name": "东方电缆",
+        "market_value_wan": 1095.16
+      },
+      {
+        "stock_code": "601456",
+        "stock_name": "国联证券",
+        "market_value_wan": 954.34
+      },
+      {
+        "stock_code": "002142",
+        "stock_name": "宁波银行",
+        "market_value_wan": 917.28
+      },
+      {
+        "stock_code": "300759",
+        "stock_name": "康龙化成",
+        "market_value_wan": 912.56
+      }
+    ],
+    "2022-Q3": [
+      {
+        "stock_code": "600702",
+        "stock_name": "舍得酒业",
+        "market_value_wan": 1671.55
+      },
+      {
+        "stock_code": "000935",
+        "stock_name": "四川双马",
+        "market_value_wan": 1600.63
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 1521.22
+      },
+      {
+        "stock_code": "601838",
+        "stock_name": "成都银行",
+        "market_value_wan": 1385.86
+      },
+      {
+        "stock_code": "300059",
+        "stock_name": "东方财富",
+        "market_value_wan": 1293.57
+      },
+      {
+        "stock_code": "601601",
+        "stock_name": "中国太保",
+        "market_value_wan": 1240.74
+      },
+      {
+        "stock_code": "603517",
+        "stock_name": "绝味食品",
+        "market_value_wan": 1223.12
+      },
+      {
+        "stock_code": "688559",
+        "stock_name": "海目星",
+        "market_value_wan": 1164.57
+      },
+      {
+        "stock_code": "603606",
+        "stock_name": "东方电缆",
+        "market_value_wan": 1066.56
+      },
+      {
+        "stock_code": "603259",
+        "stock_name": "药明康德",
+        "market_value_wan": 850.1
+      }
+    ],
+    "2022-Q2": [
+      {
+        "stock_code": "000935",
+        "stock_name": "四川双马",
+        "market_value_wan": 2591.06
+      },
+      {
+        "stock_code": "600702",
+        "stock_name": "舍得酒业",
+        "market_value_wan": 2421.36
+      },
+      {
+        "stock_code": "300059",
+        "stock_name": "东方财富",
+        "market_value_wan": 1951.35
+      },
+      {
+        "stock_code": "002142",
+        "stock_name": "宁波银行",
+        "market_value_wan": 1809.39
+      },
+      {
+        "stock_code": "603517",
+        "stock_name": "绝味食品",
+        "market_value_wan": 1606.45
+      },
+      {
+        "stock_code": "601838",
+        "stock_name": "成都银行",
+        "market_value_wan": 1530.33
+      },
+      {
+        "stock_code": "603606",
+        "stock_name": "东方电缆",
+        "market_value_wan": 1314.12
+      },
+      {
+        "stock_code": "603259",
+        "stock_name": "药明康德",
+        "market_value_wan": 1154.08
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 1088.76
+      },
+      {
+        "stock_code": "601012",
+        "stock_name": "隆基绿能",
+        "market_value_wan": 1072.2
+      }
+    ],
+    "2022-Q1": [
+      {
+        "stock_code": "000935",
+        "stock_name": "四川双马",
+        "market_value_wan": 2096.48
+      },
+      {
+        "stock_code": "002142",
+        "stock_name": "宁波银行",
+        "market_value_wan": 1910.16
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 1663.59
+      },
+      {
+        "stock_code": "300059",
+        "stock_name": "东方财富",
+        "market_value_wan": 1663.38
+      },
+      {
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "market_value_wan": 1614.95
+      },
+      {
+        "stock_code": "600702",
+        "stock_name": "舍得酒业",
+        "market_value_wan": 1207.64
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 1207.43
+      },
+      {
+        "stock_code": "300122",
+        "stock_name": "智飞生物",
+        "market_value_wan": 1058.46
+      },
+      {
+        "stock_code": "601838",
+        "stock_name": "成都银行",
+        "market_value_wan": 942.96
+      },
+      {
+        "stock_code": "688138",
+        "stock_name": "清溢光电",
+        "market_value_wan": 918.96
+      }
+    ]
+  }
+}

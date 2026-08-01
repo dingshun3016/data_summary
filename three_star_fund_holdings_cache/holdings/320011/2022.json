@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "320011",
+    "name": "诺安中小盘精选混合A",
+    "base_name": "诺安中小盘精选混合"
+  },
+  "fetched_at": "2026-06-14 23:58:48",
+  "quarters": {
+    "2022-Q4": [
+      {
+        "stock_code": "600050",
+        "stock_name": "中国联通",
+        "market_value_wan": 2535.7
+      },
+      {
+        "stock_code": "601728",
+        "stock_name": "中国电信",
+        "market_value_wan": 2375.47
+      },
+      {
+        "stock_code": "002966",
+        "stock_name": "苏州银行",
+        "market_value_wan": 1762.95
+      },
+      {
+        "stock_code": "601138",
+        "stock_name": "工业富联",
+        "market_value_wan": 1725.84
+      },
+      {
+        "stock_code": "300662",
+        "stock_name": "科锐国际",
+        "market_value_wan": 1470.19
+      },
+      {
+        "stock_code": "002236",
+        "stock_name": "大华股份",
+        "market_value_wan": 1302.45
+      },
+      {
+        "stock_code": "600905",
+        "stock_name": "三峡能源",
+        "market_value_wan": 1276.9
+      },
+      {
+        "stock_code": "000089",
+        "stock_name": "深圳机场",
+        "market_value_wan": 1241.88
+      },
+      {
+        "stock_code": "300037",
+        "stock_name": "新宙邦",
+        "market_value_wan": 1130.22
+      },
+      {
+        "stock_code": "002439",
+        "stock_name": "启明星辰",
+        "market_value_wan": 1017.12
+      }
+    ],
+    "2022-Q3": [
+      {
+        "stock_code": "601728",
+        "stock_name": "中国电信",
+        "market_value_wan": 2171.38
+      },
+      {
+        "stock_code": "600050",
+        "stock_name": "中国联通",
+        "market_value_wan": 1701.82
+      },
+      {
+        "stock_code": "002966",
+        "stock_name": "苏州银行",
+        "market_value_wan": 1511.42
+      },
+      {
+        "stock_code": "600887",
+        "stock_name": "伊利股份",
+        "market_value_wan": 1510.78
+      },
+      {
+        "stock_code": "600905",
+        "stock_name": "三峡能源",
+        "market_value_wan": 1272.38
+      },
+      {
+        "stock_code": "603899",
+        "stock_name": "晨光股份",
+        "market_value_wan": 1217.05
+      },
+      {
+        "stock_code": "002439",
+        "stock_name": "启明星辰",
+        "market_value_wan": 1172.18
+      },
+      {
+        "stock_code": "002236",
+        "stock_name": "大华股份",
+        "market_value_wan": 1130.91
+      },
+      {
+        "stock_code": "300662",
+        "stock_name": "科锐国际",
+        "market_value_wan": 1122.46
+      },
+      {
+        "stock_code": "600941",
+        "stock_name": "中国移动",
+        "market_value_wan": 1093.28
+      }
+    ],
+    "2022-Q2": [
+      {
+        "stock_code": "601615",
+        "stock_name": "明阳智能",
+        "market_value_wan": 2095.81
+      },
+      {
+        "stock_code": "601169",
+        "stock_name": "北京银行",
+        "market_value_wan": 1811.47
+      },
+      {
+        "stock_code": "600887",
+        "stock_name": "伊利股份",
+        "market_value_wan": 1784.26
+      },
+      {
+        "stock_code": "000089",
+        "stock_name": "深圳机场",
+        "market_value_wan": 1744.72
+      },
+      {
+        "stock_code": "601877",
+        "stock_name": "正泰电器",
+        "market_value_wan": 1531.38
+      },
+      {
+        "stock_code": "002236",
+        "stock_name": "大华股份",
+        "market_value_wan": 1445.11
+      },
+      {
+        "stock_code": "002966",
+        "stock_name": "苏州银行",
+        "market_value_wan": 1382.26
+      },
+      {
+        "stock_code": "300037",
+        "stock_name": "新宙邦",
+        "market_value_wan": 1258.29
+      },
+      {
+        "stock_code": "300007",
+        "stock_name": "汉威科技",
+        "market_value_wan": 1187.34
+      },
+      {
+        "stock_code": "688981",
+        "stock_name": "中芯国际",
+        "market_value_wan": 1174.42
+      }
+    ],
+    "2022-Q1": [
+      {
+        "stock_code": "002236",
+        "stock_name": "大华股份",
+        "market_value_wan": 2979.15
+      },
+      {
+        "stock_code": "000157",
+        "stock_name": "中联重科",
+        "market_value_wan": 1912.32
+      },
+      {
+        "stock_code": "600050",
+        "stock_name": "中国联通",
+        "market_value_wan": 1880.19
+      },
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 1744.74
+      },
+      {
+        "stock_code": "600887",
+        "stock_name": "伊利股份",
+        "market_value_wan": 1689.89
+      },
+      {
+        "stock_code": "000338",
+        "stock_name": "潍柴动力",
+        "market_value_wan": 1615.88
+      },
+      {
+        "stock_code": "603385",
+        "stock_name": "惠达卫浴",
+        "market_value_wan": 1529.7
+      },
+      {
+        "stock_code": "688981",
+        "stock_name": "中芯国际",
+        "market_value_wan": 1382.7
+      },
+      {
+        "stock_code": "601615",
+        "stock_name": "明阳智能",
+        "market_value_wan": 1374.68
+      },
+      {
+        "stock_code": "601877",
+        "stock_name": "正泰电器",
+        "market_value_wan": 1306.14
+      }
+    ]
+  }
+}

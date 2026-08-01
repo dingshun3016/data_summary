@@ -1,0 +1,80 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "009870",
+    "name": "嘉实产业先锋混合C",
+    "base_name": "嘉实产业先锋混合"
+  },
+  "fetched_at": "2026-08-01 20:58:49",
+  "quarters": {
+    "2026-Q2": [
+      {
+        "stock_code": "301358",
+        "stock_name": "湖南裕能",
+        "market_value_wan": 6815.29
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 5760.98
+      },
+      {
+        "stock_code": "603259",
+        "stock_name": "药明康德",
+        "market_value_wan": 3912.78
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 3627.36
+      },
+      {
+        "stock_code": "002497",
+        "stock_name": "雅化集团",
+        "market_value_wan": 3563.32
+      },
+      {
+        "stock_code": "002812",
+        "stock_name": "恩捷股份",
+        "market_value_wan": 3216.95
+      },
+      {
+        "stock_code": "002311",
+        "stock_name": "海大集团",
+        "market_value_wan": 2922.06
+      }
+    ],
+    "2026-Q1": [
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 10149.59
+      },
+      {
+        "stock_code": "301358",
+        "stock_name": "湖南裕能",
+        "market_value_wan": 7093.83
+      },
+      {
+        "stock_code": "002812",
+        "stock_name": "恩捷股份",
+        "market_value_wan": 4688.93
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 4610.71
+      },
+      {
+        "stock_code": "002497",
+        "stock_name": "雅化集团",
+        "market_value_wan": 4058.38
+      },
+      {
+        "stock_code": "603659",
+        "stock_name": "璞泰来",
+        "market_value_wan": 3844.15
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "000011",
+    "name": "华夏大盘精选混合A",
+    "base_name": "华夏大盘精选混合"
+  },
+  "fetched_at": "2026-06-14 22:48:22",
+  "quarters": {
+    "2023-Q4": [
+      {
+        "stock_code": "603606",
+        "stock_name": "东方电缆",
+        "market_value_wan": 21611.65
+      },
+      {
+        "stock_code": "300487",
+        "stock_name": "蓝晓科技",
+        "market_value_wan": 19083.1
+      },
+      {
+        "stock_code": "300285",
+        "stock_name": "国瓷材料",
+        "market_value_wan": 16679.61
+      },
+      {
+        "stock_code": "601966",
+        "stock_name": "玲珑轮胎",
+        "market_value_wan": 15344.47
+      },
+      {
+        "stock_code": "601021",
+        "stock_name": "春秋航空",
+        "market_value_wan": 10937.45
+      },
+      {
+        "stock_code": "601877",
+        "stock_name": "正泰电器",
+        "market_value_wan": 10876.8
+      },
+      {
+        "stock_code": "002415",
+        "stock_name": "海康威视",
+        "market_value_wan": 10605.73
+      },
+      {
+        "stock_code": "603916",
+        "stock_name": "苏博特",
+        "market_value_wan": 10277.39
+      },
+      {
+        "stock_code": "601058",
+        "stock_name": "赛轮轮胎",
+        "market_value_wan": 9824.65
+      },
+      {
+        "stock_code": "300395",
+        "stock_name": "菲利华",
+        "market_value_wan": 9158.81
+      }
+    ],
+    "2023-Q3": [
+      {
+        "stock_code": "300285",
+        "stock_name": "国瓷材料",
+        "market_value_wan": 21219.46
+      },
+      {
+        "stock_code": "300487",
+        "stock_name": "蓝晓科技",
+        "market_value_wan": 21003.64
+      },
+      {
+        "stock_code": "603606",
+        "stock_name": "东方电缆",
+        "market_value_wan": 20125.37
+      },
+      {
+        "stock_code": "600309",
+        "stock_name": "万华化学",
+        "market_value_wan": 17010.54
+      },
+      {
+        "stock_code": "600754",
+        "stock_name": "锦江酒店",
+        "market_value_wan": 16434.08
+      },
+      {
+        "stock_code": "601966",
+        "stock_name": "玲珑轮胎",
+        "market_value_wan": 16214.22
+      },
+      {
+        "stock_code": "600690",
+        "stock_name": "海尔智家",
+        "market_value_wan": 15858.84
+      },
+      {
+        "stock_code": "601668",
+        "stock_name": "中国建筑",
+        "market_value_wan": 15593.16
+      },
+      {
+        "stock_code": "601618",
+        "stock_name": "中国中冶",
+        "market_value_wan": 15046.97
+      },
+      {
+        "stock_code": "600019",
+        "stock_name": "宝钢股份",
+        "market_value_wan": 14616.0
+      }
+    ],
+    "2023-Q2": [
+      {
+        "stock_code": "601966",
+        "stock_name": "玲珑轮胎",
+        "market_value_wan": 22174.32
+      },
+      {
+        "stock_code": "600309",
+        "stock_name": "万华化学",
+        "market_value_wan": 20958.73
+      },
+      {
+        "stock_code": "300487",
+        "stock_name": "蓝晓科技",
+        "market_value_wan": 20576.84
+      },
+      {
+        "stock_code": "002179",
+        "stock_name": "中航光电",
+        "market_value_wan": 20256.94
+      },
+      {
+        "stock_code": "600754",
+        "stock_name": "锦江酒店",
+        "market_value_wan": 19776.03
+      },
+      {
+        "stock_code": "300285",
+        "stock_name": "国瓷材料",
+        "market_value_wan": 19629.81
+      },
+      {
+        "stock_code": "603606",
+        "stock_name": "东方电缆",
+        "market_value_wan": 19279.85
+      },
+      {
+        "stock_code": "600690",
+        "stock_name": "海尔智家",
+        "market_value_wan": 19184.21
+      },
+      {
+        "stock_code": "601668",
+        "stock_name": "中国建筑",
+        "market_value_wan": 18368.0
+      },
+      {
+        "stock_code": "000729",
+        "stock_name": "燕京啤酒",
+        "market_value_wan": 16834.4
+      }
+    ],
+    "2023-Q1": [
+      {
+        "stock_code": "600754",
+        "stock_name": "锦江酒店",
+        "market_value_wan": 25995.46
+      },
+      {
+        "stock_code": "600309",
+        "stock_name": "万华化学",
+        "market_value_wan": 20959.48
+      },
+      {
+        "stock_code": "300487",
+        "stock_name": "蓝晓科技",
+        "market_value_wan": 20902.1
+      },
+      {
+        "stock_code": "300285",
+        "stock_name": "国瓷材料",
+        "market_value_wan": 20303.24
+      },
+      {
+        "stock_code": "000729",
+        "stock_name": "燕京啤酒",
+        "market_value_wan": 18913.38
+      },
+      {
+        "stock_code": "603916",
+        "stock_name": "苏博特",
+        "market_value_wan": 18833.55
+      },
+      {
+        "stock_code": "002179",
+        "stock_name": "中航光电",
+        "market_value_wan": 18581.89
+      },
+      {
+        "stock_code": "601668",
+        "stock_name": "中国建筑",
+        "market_value_wan": 18560.0
+      },
+      {
+        "stock_code": "600690",
+        "stock_name": "海尔智家",
+        "market_value_wan": 18530.58
+      },
+      {
+        "stock_code": "601966",
+        "stock_name": "玲珑轮胎",
+        "market_value_wan": 18522.83
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "519702",
+    "name": "交银趋势混合A",
+    "base_name": "交银趋势混合"
+  },
+  "fetched_at": "2026-06-15 00:04:05",
+  "quarters": {
+    "2024-Q4": [
+      {
+        "stock_code": "301035",
+        "stock_name": "润丰股份",
+        "market_value_wan": 37991.63
+      },
+      {
+        "stock_code": "600027",
+        "stock_name": "华电国际",
+        "market_value_wan": 27109.71
+      },
+      {
+        "stock_code": "600011",
+        "stock_name": "华能国际",
+        "market_value_wan": 23314.06
+      },
+      {
+        "stock_code": "000543",
+        "stock_name": "皖能电力",
+        "market_value_wan": 15997.48
+      },
+      {
+        "stock_code": "002311",
+        "stock_name": "海大集团",
+        "market_value_wan": 15857.09
+      },
+      {
+        "stock_code": "601991",
+        "stock_name": "大唐发电",
+        "market_value_wan": 15332.94
+      },
+      {
+        "stock_code": "003038",
+        "stock_name": "鑫铂股份",
+        "market_value_wan": 13347.9
+      },
+      {
+        "stock_code": "605166",
+        "stock_name": "聚合顺",
+        "market_value_wan": 13292.14
+      },
+      {
+        "stock_code": "300910",
+        "stock_name": "瑞丰新材",
+        "market_value_wan": 8984.36
+      },
+      {
+        "stock_code": "002749",
+        "stock_name": "国光股份",
+        "market_value_wan": 8664.22
+      }
+    ],
+    "2024-Q3": [
+      {
+        "stock_code": "301035",
+        "stock_name": "润丰股份",
+        "market_value_wan": 41438.33
+      },
+      {
+        "stock_code": "600027",
+        "stock_name": "华电国际",
+        "market_value_wan": 29509.02
+      },
+      {
+        "stock_code": "600011",
+        "stock_name": "华能国际",
+        "market_value_wan": 27692.55
+      },
+      {
+        "stock_code": "002311",
+        "stock_name": "海大集团",
+        "market_value_wan": 21021.82
+      },
+      {
+        "stock_code": "601991",
+        "stock_name": "大唐发电",
+        "market_value_wan": 20359.85
+      },
+      {
+        "stock_code": "000543",
+        "stock_name": "皖能电力",
+        "market_value_wan": 18650.76
+      },
+      {
+        "stock_code": "000975",
+        "stock_name": "山金国际",
+        "market_value_wan": 13853.02
+      },
+      {
+        "stock_code": "605166",
+        "stock_name": "聚合顺",
+        "market_value_wan": 12181.68
+      },
+      {
+        "stock_code": "600489",
+        "stock_name": "中金黄金",
+        "market_value_wan": 11497.71
+      },
+      {
+        "stock_code": "600029",
+        "stock_name": "南方航空",
+        "market_value_wan": 11336.27
+      }
+    ],
+    "2024-Q2": [
+      {
+        "stock_code": "600011",
+        "stock_name": "华能国际",
+        "market_value_wan": 34437.01
+      },
+      {
+        "stock_code": "301035",
+        "stock_name": "润丰股份",
+        "market_value_wan": 33085.44
+      },
+      {
+        "stock_code": "600027",
+        "stock_name": "华电国际",
+        "market_value_wan": 30663.84
+      },
+      {
+        "stock_code": "000543",
+        "stock_name": "皖能电力",
+        "market_value_wan": 24512.99
+      },
+      {
+        "stock_code": "002311",
+        "stock_name": "海大集团",
+        "market_value_wan": 20675.28
+      },
+      {
+        "stock_code": "601991",
+        "stock_name": "大唐发电",
+        "market_value_wan": 18954.21
+      },
+      {
+        "stock_code": "601111",
+        "stock_name": "中国国航",
+        "market_value_wan": 14158.34
+      },
+      {
+        "stock_code": "000975",
+        "stock_name": "山金国际",
+        "market_value_wan": 13842.03
+      },
+      {
+        "stock_code": "600489",
+        "stock_name": "中金黄金",
+        "market_value_wan": 12858.66
+      },
+      {
+        "stock_code": "600029",
+        "stock_name": "南方航空",
+        "market_value_wan": 12250.17
+      }
+    ],
+    "2024-Q1": [
+      {
+        "stock_code": "301035",
+        "stock_name": "润丰股份",
+        "market_value_wan": 49472.17
+      },
+      {
+        "stock_code": "600011",
+        "stock_name": "华能国际",
+        "market_value_wan": 34866.41
+      },
+      {
+        "stock_code": "600027",
+        "stock_name": "华电国际",
+        "market_value_wan": 31925.32
+      },
+      {
+        "stock_code": "000543",
+        "stock_name": "皖能电力",
+        "market_value_wan": 23959.93
+      },
+      {
+        "stock_code": "000975",
+        "stock_name": "山金国际",
+        "market_value_wan": 19545.99
+      },
+      {
+        "stock_code": "601991",
+        "stock_name": "大唐发电",
+        "market_value_wan": 18450.44
+      },
+      {
+        "stock_code": "002311",
+        "stock_name": "海大集团",
+        "market_value_wan": 17000.55
+      },
+      {
+        "stock_code": "600489",
+        "stock_name": "中金黄金",
+        "market_value_wan": 16887.64
+      },
+      {
+        "stock_code": "601111",
+        "stock_name": "中国国航",
+        "market_value_wan": 15471.87
+      },
+      {
+        "stock_code": "002353",
+        "stock_name": "杰瑞股份",
+        "market_value_wan": 15205.4
+      }
+    ]
+  }
+}

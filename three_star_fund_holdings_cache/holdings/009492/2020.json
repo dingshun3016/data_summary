@@ -1,0 +1,48 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "009492",
+    "name": "宝盈创新驱动股票C",
+    "base_name": "宝盈创新驱动股票"
+  },
+  "fetched_at": "2026-06-14 23:33:53",
+  "quarters": {
+    "2020-Q4": [
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 38506.23
+      },
+      {
+        "stock_code": "688111",
+        "stock_name": "金山办公",
+        "market_value_wan": 34947.12
+      },
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 31189.38
+      },
+      {
+        "stock_code": "002371",
+        "stock_name": "北方华创",
+        "market_value_wan": 27246.68
+      },
+      {
+        "stock_code": "002709",
+        "stock_name": "天赐材料",
+        "market_value_wan": 25172.54
+      },
+      {
+        "stock_code": "300496",
+        "stock_name": "中科创达",
+        "market_value_wan": 23169.47
+      },
+      {
+        "stock_code": "601689",
+        "stock_name": "拓普集团",
+        "market_value_wan": 22530.64
+      }
+    ]
+  }
+}

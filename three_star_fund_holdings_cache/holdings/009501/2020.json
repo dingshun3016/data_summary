@@ -1,0 +1,63 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "009501",
+    "name": "国寿安保高股息混合C",
+    "base_name": "国寿安保高股息混合"
+  },
+  "fetched_at": "2026-06-14 23:33:57",
+  "quarters": {
+    "2020-Q4": [
+      {
+        "stock_code": "600409",
+        "stock_name": "三友化工",
+        "market_value_wan": 1276.23
+      },
+      {
+        "stock_code": "600066",
+        "stock_name": "宇通客车",
+        "market_value_wan": 1104.9
+      },
+      {
+        "stock_code": "600985",
+        "stock_name": "淮北矿业",
+        "market_value_wan": 1011.94
+      },
+      {
+        "stock_code": "601398",
+        "stock_name": "工商银行",
+        "market_value_wan": 929.19
+      },
+      {
+        "stock_code": "601939",
+        "stock_name": "建设银行",
+        "market_value_wan": 921.9
+      },
+      {
+        "stock_code": "603788",
+        "stock_name": "宁波高发",
+        "market_value_wan": 891.72
+      },
+      {
+        "stock_code": "601225",
+        "stock_name": "陕西煤业",
+        "market_value_wan": 625.69
+      },
+      {
+        "stock_code": "000723",
+        "stock_name": "美锦能源",
+        "market_value_wan": 624.45
+      },
+      {
+        "stock_code": "600346",
+        "stock_name": "恒力石化",
+        "market_value_wan": 597.44
+      },
+      {
+        "stock_code": "600900",
+        "stock_name": "长江电力",
+        "market_value_wan": 585.72
+      }
+    ]
+  }
+}

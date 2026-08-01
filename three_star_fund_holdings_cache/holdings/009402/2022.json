@@ -1,0 +1,214 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "009402",
+    "name": "交银启明混合A",
+    "base_name": "交银启明混合"
+  },
+  "fetched_at": "2026-06-14 23:33:27",
+  "quarters": {
+    "2022-Q4": [
+      {
+        "stock_code": "000733",
+        "stock_name": "振华科技",
+        "market_value_wan": 60030.37
+      },
+      {
+        "stock_code": "002049",
+        "stock_name": "紫光国微",
+        "market_value_wan": 57685.71
+      },
+      {
+        "stock_code": "002928",
+        "stock_name": "华夏航空",
+        "market_value_wan": 28002.38
+      },
+      {
+        "stock_code": "300408",
+        "stock_name": "三环集团",
+        "market_value_wan": 21136.11
+      },
+      {
+        "stock_code": "688033",
+        "stock_name": "天宜上佳",
+        "market_value_wan": 20581.39
+      },
+      {
+        "stock_code": "600048",
+        "stock_name": "保利发展",
+        "market_value_wan": 18329.04
+      },
+      {
+        "stock_code": "600258",
+        "stock_name": "首旅酒店",
+        "market_value_wan": 17744.53
+      },
+      {
+        "stock_code": "002410",
+        "stock_name": "广联达",
+        "market_value_wan": 15552.73
+      },
+      {
+        "stock_code": "688639",
+        "stock_name": "华恒生物",
+        "market_value_wan": 15332.24
+      }
+    ],
+    "2022-Q3": [
+      {
+        "stock_code": "002049",
+        "stock_name": "紫光国微",
+        "market_value_wan": 51489.42
+      },
+      {
+        "stock_code": "000733",
+        "stock_name": "振华科技",
+        "market_value_wan": 47376.74
+      },
+      {
+        "stock_code": "002928",
+        "stock_name": "华夏航空",
+        "market_value_wan": 20512.93
+      },
+      {
+        "stock_code": "300408",
+        "stock_name": "三环集团",
+        "market_value_wan": 19254.46
+      },
+      {
+        "stock_code": "688033",
+        "stock_name": "天宜上佳",
+        "market_value_wan": 17671.79
+      },
+      {
+        "stock_code": "600048",
+        "stock_name": "保利发展",
+        "market_value_wan": 17173.75
+      },
+      {
+        "stock_code": "600258",
+        "stock_name": "首旅酒店",
+        "market_value_wan": 16122.82
+      },
+      {
+        "stock_code": "002120",
+        "stock_name": "韵达股份",
+        "market_value_wan": 14222.57
+      },
+      {
+        "stock_code": "688639",
+        "stock_name": "华恒生物",
+        "market_value_wan": 14006.9
+      },
+      {
+        "stock_code": "300217",
+        "stock_name": "东方电热",
+        "market_value_wan": 13913.09
+      }
+    ],
+    "2022-Q2": [
+      {
+        "stock_code": "000733",
+        "stock_name": "振华科技",
+        "market_value_wan": 50451.21
+      },
+      {
+        "stock_code": "002049",
+        "stock_name": "紫光国微",
+        "market_value_wan": 45811.42
+      },
+      {
+        "stock_code": "300408",
+        "stock_name": "三环集团",
+        "market_value_wan": 22939.17
+      },
+      {
+        "stock_code": "002928",
+        "stock_name": "华夏航空",
+        "market_value_wan": 21726.79
+      },
+      {
+        "stock_code": "002223",
+        "stock_name": "鱼跃医疗",
+        "market_value_wan": 18469.16
+      },
+      {
+        "stock_code": "600258",
+        "stock_name": "首旅酒店",
+        "market_value_wan": 16896.37
+      },
+      {
+        "stock_code": "688033",
+        "stock_name": "天宜上佳",
+        "market_value_wan": 15741.75
+      },
+      {
+        "stock_code": "300217",
+        "stock_name": "东方电热",
+        "market_value_wan": 15214.32
+      },
+      {
+        "stock_code": "603799",
+        "stock_name": "华友钴业",
+        "market_value_wan": 13283.5
+      },
+      {
+        "stock_code": "688639",
+        "stock_name": "华恒生物",
+        "market_value_wan": 12885.85
+      }
+    ],
+    "2022-Q1": [
+      {
+        "stock_code": "000733",
+        "stock_name": "振华科技",
+        "market_value_wan": 40186.15
+      },
+      {
+        "stock_code": "002049",
+        "stock_name": "紫光国微",
+        "market_value_wan": 25035.55
+      },
+      {
+        "stock_code": "002223",
+        "stock_name": "鱼跃医疗",
+        "market_value_wan": 23304.98
+      },
+      {
+        "stock_code": "300408",
+        "stock_name": "三环集团",
+        "market_value_wan": 22016.89
+      },
+      {
+        "stock_code": "603799",
+        "stock_name": "华友钴业",
+        "market_value_wan": 21594.87
+      },
+      {
+        "stock_code": "002928",
+        "stock_name": "华夏航空",
+        "market_value_wan": 17721.4
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 17044.27
+      },
+      {
+        "stock_code": "688033",
+        "stock_name": "天宜上佳",
+        "market_value_wan": 15290.88
+      },
+      {
+        "stock_code": "300217",
+        "stock_name": "东方电热",
+        "market_value_wan": 14029.03
+      },
+      {
+        "stock_code": "600876",
+        "stock_name": "凯盛新能",
+        "market_value_wan": 13348.97
+      }
+    ]
+  }
+}

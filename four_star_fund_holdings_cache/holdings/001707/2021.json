@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "001707",
+    "name": "诺安高端制造股票A",
+    "base_name": "诺安高端制造股票"
+  },
+  "fetched_at": "2026-06-14 22:29:02",
+  "quarters": {
+    "2021-Q4": [
+      {
+        "stock_code": "300073",
+        "stock_name": "当升科技",
+        "market_value_wan": 781.83
+      },
+      {
+        "stock_code": "002353",
+        "stock_name": "杰瑞股份",
+        "market_value_wan": 480.0
+      },
+      {
+        "stock_code": "300308",
+        "stock_name": "中际旭创",
+        "market_value_wan": 382.5
+      },
+      {
+        "stock_code": "688200",
+        "stock_name": "华峰测控",
+        "market_value_wan": 358.33
+      },
+      {
+        "stock_code": "603338",
+        "stock_name": "浙江鼎力",
+        "market_value_wan": 345.12
+      },
+      {
+        "stock_code": "603501",
+        "stock_name": "韦尔股份",
+        "market_value_wan": 341.85
+      },
+      {
+        "stock_code": "002415",
+        "stock_name": "海康威视",
+        "market_value_wan": 340.08
+      },
+      {
+        "stock_code": "688300",
+        "stock_name": "联瑞新材",
+        "market_value_wan": 332.61
+      },
+      {
+        "stock_code": "600588",
+        "stock_name": "用友网络",
+        "market_value_wan": 322.92
+      },
+      {
+        "stock_code": "002179",
+        "stock_name": "中航光电",
+        "market_value_wan": 321.79
+      }
+    ],
+    "2021-Q3": [
+      {
+        "stock_code": "300073",
+        "stock_name": "当升科技",
+        "market_value_wan": 697.85
+      },
+      {
+        "stock_code": "600905",
+        "stock_name": "三峡能源",
+        "market_value_wan": 629.99
+      },
+      {
+        "stock_code": "002415",
+        "stock_name": "海康威视",
+        "market_value_wan": 550.0
+      },
+      {
+        "stock_code": "002353",
+        "stock_name": "杰瑞股份",
+        "market_value_wan": 532.62
+      },
+      {
+        "stock_code": "002230",
+        "stock_name": "科大讯飞",
+        "market_value_wan": 529.0
+      },
+      {
+        "stock_code": "601808",
+        "stock_name": "中海油服",
+        "market_value_wan": 483.0
+      },
+      {
+        "stock_code": "003021",
+        "stock_name": "兆威机电",
+        "market_value_wan": 480.72
+      },
+      {
+        "stock_code": "002929",
+        "stock_name": "润建股份",
+        "market_value_wan": 459.36
+      },
+      {
+        "stock_code": "688700",
+        "stock_name": "东威科技",
+        "market_value_wan": 457.6
+      },
+      {
+        "stock_code": "688300",
+        "stock_name": "联瑞新材",
+        "market_value_wan": 427.0
+      }
+    ],
+    "2021-Q2": [
+      {
+        "stock_code": "000063",
+        "stock_name": "中兴通讯",
+        "market_value_wan": 830.75
+      },
+      {
+        "stock_code": "002353",
+        "stock_name": "杰瑞股份",
+        "market_value_wan": 785.83
+      },
+      {
+        "stock_code": "002230",
+        "stock_name": "科大讯飞",
+        "market_value_wan": 712.97
+      },
+      {
+        "stock_code": "003021",
+        "stock_name": "兆威机电",
+        "market_value_wan": 684.1
+      },
+      {
+        "stock_code": "002415",
+        "stock_name": "海康威视",
+        "market_value_wan": 646.94
+      },
+      {
+        "stock_code": "688093",
+        "stock_name": "世华科技",
+        "market_value_wan": 639.6
+      },
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 618.24
+      },
+      {
+        "stock_code": "601808",
+        "stock_name": "中海油服",
+        "market_value_wan": 600.1
+      },
+      {
+        "stock_code": "300394",
+        "stock_name": "天孚通信",
+        "market_value_wan": 594.86
+      },
+      {
+        "stock_code": "300790",
+        "stock_name": "宇瞳光学",
+        "market_value_wan": 594.11
+      }
+    ],
+    "2021-Q1": [
+      {
+        "stock_code": "603337",
+        "stock_name": "杰克股份",
+        "market_value_wan": 1023.3
+      },
+      {
+        "stock_code": "002833",
+        "stock_name": "弘亚数控",
+        "market_value_wan": 700.44
+      },
+      {
+        "stock_code": "002353",
+        "stock_name": "杰瑞股份",
+        "market_value_wan": 699.0
+      },
+      {
+        "stock_code": "601808",
+        "stock_name": "中海油服",
+        "market_value_wan": 608.03
+      },
+      {
+        "stock_code": "002960",
+        "stock_name": "青鸟消防",
+        "market_value_wan": 508.68
+      },
+      {
+        "stock_code": "603338",
+        "stock_name": "浙江鼎力",
+        "market_value_wan": 481.5
+      },
+      {
+        "stock_code": "603666",
+        "stock_name": "亿嘉和",
+        "market_value_wan": 449.5
+      },
+      {
+        "stock_code": "002008",
+        "stock_name": "大族激光",
+        "market_value_wan": 440.54
+      },
+      {
+        "stock_code": "300607",
+        "stock_name": "拓斯达",
+        "market_value_wan": 431.16
+      },
+      {
+        "stock_code": "003021",
+        "stock_name": "兆威机电",
+        "market_value_wan": 405.05
+      }
+    ]
+  }
+}

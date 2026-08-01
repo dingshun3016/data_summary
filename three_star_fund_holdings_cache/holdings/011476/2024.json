@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "011476",
+    "name": "工银新蓝筹股票C",
+    "base_name": "工银新蓝筹股票"
+  },
+  "fetched_at": "2026-06-14 23:47:06",
+  "quarters": {
+    "2024-Q4": [
+      {
+        "stock_code": "600900",
+        "stock_name": "长江电力",
+        "market_value_wan": 6501.0
+      },
+      {
+        "stock_code": "600547",
+        "stock_name": "山东黄金",
+        "market_value_wan": 5657.64
+      },
+      {
+        "stock_code": "000975",
+        "stock_name": "山金国际",
+        "market_value_wan": 3842.5
+      },
+      {
+        "stock_code": "600886",
+        "stock_name": "国投电力",
+        "market_value_wan": 2991.6
+      },
+      {
+        "stock_code": "601098",
+        "stock_name": "中南传媒",
+        "market_value_wan": 2251.5
+      },
+      {
+        "stock_code": "001965",
+        "stock_name": "招商公路",
+        "market_value_wan": 2092.54
+      },
+      {
+        "stock_code": "601111",
+        "stock_name": "中国国航",
+        "market_value_wan": 2044.42
+      },
+      {
+        "stock_code": "600029",
+        "stock_name": "南方航空",
+        "market_value_wan": 1817.2
+      },
+      {
+        "stock_code": "601857",
+        "stock_name": "中国石油",
+        "market_value_wan": 1788.0
+      },
+      {
+        "stock_code": "600938",
+        "stock_name": "中国海油",
+        "market_value_wan": 1779.16
+      }
+    ],
+    "2024-Q3": [
+      {
+        "stock_code": "600547",
+        "stock_name": "山东黄金",
+        "market_value_wan": 6737.17
+      },
+      {
+        "stock_code": "601088",
+        "stock_name": "中国神华",
+        "market_value_wan": 5668.0
+      },
+      {
+        "stock_code": "600938",
+        "stock_name": "中国海油",
+        "market_value_wan": 5151.17
+      },
+      {
+        "stock_code": "601816",
+        "stock_name": "京沪高铁",
+        "market_value_wan": 4765.56
+      },
+      {
+        "stock_code": "000975",
+        "stock_name": "山金国际",
+        "market_value_wan": 4652.5
+      },
+      {
+        "stock_code": "601857",
+        "stock_name": "中国石油",
+        "market_value_wan": 4510.0
+      },
+      {
+        "stock_code": "600900",
+        "stock_name": "长江电力",
+        "market_value_wan": 4507.5
+      },
+      {
+        "stock_code": "001965",
+        "stock_name": "招商公路",
+        "market_value_wan": 3160.0
+      },
+      {
+        "stock_code": "600757",
+        "stock_name": "长江传媒",
+        "market_value_wan": 2814.0
+      },
+      {
+        "stock_code": "601098",
+        "stock_name": "中南传媒",
+        "market_value_wan": 2789.15
+      }
+    ],
+    "2024-Q2": [
+      {
+        "stock_code": "600900",
+        "stock_name": "长江电力",
+        "market_value_wan": 7230.0
+      },
+      {
+        "stock_code": "601088",
+        "stock_name": "中国神华",
+        "market_value_wan": 6655.5
+      },
+      {
+        "stock_code": "600938",
+        "stock_name": "中国海油",
+        "market_value_wan": 6600.0
+      },
+      {
+        "stock_code": "600886",
+        "stock_name": "国投电力",
+        "market_value_wan": 4012.8
+      },
+      {
+        "stock_code": "601857",
+        "stock_name": "中国石油",
+        "market_value_wan": 3818.4
+      },
+      {
+        "stock_code": "600547",
+        "stock_name": "山东黄金",
+        "market_value_wan": 3470.33
+      },
+      {
+        "stock_code": "000975",
+        "stock_name": "山金国际",
+        "market_value_wan": 3257.84
+      },
+      {
+        "stock_code": "600795",
+        "stock_name": "国电电力",
+        "market_value_wan": 3018.96
+      },
+      {
+        "stock_code": "605599",
+        "stock_name": "菜百股份",
+        "market_value_wan": 2927.77
+      },
+      {
+        "stock_code": "600612",
+        "stock_name": "老凤祥",
+        "market_value_wan": 2327.27
+      }
+    ],
+    "2024-Q1": [
+      {
+        "stock_code": "600900",
+        "stock_name": "长江电力",
+        "market_value_wan": 5983.2
+      },
+      {
+        "stock_code": "600938",
+        "stock_name": "中国海油",
+        "market_value_wan": 5846.0
+      },
+      {
+        "stock_code": "601088",
+        "stock_name": "中国神华",
+        "market_value_wan": 3909.0
+      },
+      {
+        "stock_code": "601857",
+        "stock_name": "中国石油",
+        "market_value_wan": 3655.6
+      },
+      {
+        "stock_code": "600886",
+        "stock_name": "国投电力",
+        "market_value_wan": 3010.0
+      },
+      {
+        "stock_code": "605599",
+        "stock_name": "菜百股份",
+        "market_value_wan": 2915.97
+      },
+      {
+        "stock_code": "600547",
+        "stock_name": "山东黄金",
+        "market_value_wan": 2822.91
+      },
+      {
+        "stock_code": "600795",
+        "stock_name": "国电电力",
+        "market_value_wan": 2525.0
+      },
+      {
+        "stock_code": "600612",
+        "stock_name": "老凤祥",
+        "market_value_wan": 1701.37
+      },
+      {
+        "stock_code": "601021",
+        "stock_name": "春秋航空",
+        "market_value_wan": 1660.2
+      }
+    ]
+  }
+}

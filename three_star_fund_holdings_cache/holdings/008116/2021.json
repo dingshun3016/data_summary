@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "008116",
+    "name": "银华沪深股通精选混合A",
+    "base_name": "银华沪深股通精选混合"
+  },
+  "fetched_at": "2026-06-14 23:26:09",
+  "quarters": {
+    "2021-Q4": [
+      {
+        "stock_code": "601688",
+        "stock_name": "华泰证券",
+        "market_value_wan": 308.85
+      },
+      {
+        "stock_code": "000933",
+        "stock_name": "神火股份",
+        "market_value_wan": 282.25
+      },
+      {
+        "stock_code": "603612",
+        "stock_name": "索通发展",
+        "market_value_wan": 280.1
+      },
+      {
+        "stock_code": "000807",
+        "stock_name": "云铝股份",
+        "market_value_wan": 279.25
+      },
+      {
+        "stock_code": "601377",
+        "stock_name": "兴业证券",
+        "market_value_wan": 256.39
+      },
+      {
+        "stock_code": "000728",
+        "stock_name": "国元证券",
+        "market_value_wan": 240.39
+      },
+      {
+        "stock_code": "300379",
+        "stock_name": "东方通",
+        "market_value_wan": 220.59
+      },
+      {
+        "stock_code": "000983",
+        "stock_name": "山西焦煤",
+        "market_value_wan": 199.72
+      },
+      {
+        "stock_code": "600163",
+        "stock_name": "中闽能源",
+        "market_value_wan": 192.85
+      },
+      {
+        "stock_code": "600383",
+        "stock_name": "金地集团",
+        "market_value_wan": 179.56
+      }
+    ],
+    "2021-Q3": [
+      {
+        "stock_code": "600048",
+        "stock_name": "保利发展",
+        "market_value_wan": 444.13
+      },
+      {
+        "stock_code": "600383",
+        "stock_name": "金地集团",
+        "market_value_wan": 400.22
+      },
+      {
+        "stock_code": "000671",
+        "stock_name": "ST阳光城",
+        "market_value_wan": 390.4
+      },
+      {
+        "stock_code": "600988",
+        "stock_name": "赤峰黄金",
+        "market_value_wan": 234.85
+      },
+      {
+        "stock_code": "601995",
+        "stock_name": "中金公司",
+        "market_value_wan": 229.45
+      },
+      {
+        "stock_code": "300379",
+        "stock_name": "东方通",
+        "market_value_wan": 228.51
+      },
+      {
+        "stock_code": "601377",
+        "stock_name": "兴业证券",
+        "market_value_wan": 223.66
+      },
+      {
+        "stock_code": "000728",
+        "stock_name": "国元证券",
+        "market_value_wan": 216.38
+      },
+      {
+        "stock_code": "600999",
+        "stock_name": "招商证券",
+        "market_value_wan": 164.33
+      },
+      {
+        "stock_code": "600958",
+        "stock_name": "东方证券",
+        "market_value_wan": 139.5
+      }
+    ],
+    "2021-Q2": [
+      {
+        "stock_code": "600048",
+        "stock_name": "保利发展",
+        "market_value_wan": 588.86
+      },
+      {
+        "stock_code": "600383",
+        "stock_name": "金地集团",
+        "market_value_wan": 588.74
+      },
+      {
+        "stock_code": "000002",
+        "stock_name": "万科A",
+        "market_value_wan": 499.71
+      },
+      {
+        "stock_code": "000671",
+        "stock_name": "ST阳光城",
+        "market_value_wan": 486.83
+      },
+      {
+        "stock_code": "601601",
+        "stock_name": "中国太保",
+        "market_value_wan": 448.92
+      },
+      {
+        "stock_code": "601225",
+        "stock_name": "陕西煤业",
+        "market_value_wan": 299.45
+      },
+      {
+        "stock_code": "000656",
+        "stock_name": "*ST金科",
+        "market_value_wan": 286.8
+      },
+      {
+        "stock_code": "600151",
+        "stock_name": "航天机电",
+        "market_value_wan": 272.73
+      },
+      {
+        "stock_code": "600030",
+        "stock_name": "中信证券",
+        "market_value_wan": 250.58
+      },
+      {
+        "stock_code": "601658",
+        "stock_name": "邮储银行",
+        "market_value_wan": 238.68
+      }
+    ],
+    "2021-Q1": [
+      {
+        "stock_code": "600048",
+        "stock_name": "保利发展",
+        "market_value_wan": 741.81
+      },
+      {
+        "stock_code": "600383",
+        "stock_name": "金地集团",
+        "market_value_wan": 740.87
+      },
+      {
+        "stock_code": "000002",
+        "stock_name": "万科A",
+        "market_value_wan": 736.21
+      },
+      {
+        "stock_code": "000671",
+        "stock_name": "ST阳光城",
+        "market_value_wan": 633.67
+      },
+      {
+        "stock_code": "600030",
+        "stock_name": "中信证券",
+        "market_value_wan": 337.81
+      },
+      {
+        "stock_code": "000656",
+        "stock_name": "*ST金科",
+        "market_value_wan": 326.43
+      },
+      {
+        "stock_code": "601688",
+        "stock_name": "华泰证券",
+        "market_value_wan": 225.0
+      },
+      {
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "market_value_wan": 217.69
+      },
+      {
+        "stock_code": "600989",
+        "stock_name": "宝丰能源",
+        "market_value_wan": 214.54
+      },
+      {
+        "stock_code": "600438",
+        "stock_name": "通威股份",
+        "market_value_wan": 211.5
+      }
+    ]
+  }
+}

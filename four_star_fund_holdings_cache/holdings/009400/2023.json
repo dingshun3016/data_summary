@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "009400",
+    "name": "华安添瑞6个月混合A",
+    "base_name": "华安添瑞6个月混合"
+  },
+  "fetched_at": "2026-06-14 22:37:53",
+  "quarters": {
+    "2023-Q4": [
+      {
+        "stock_code": "601567",
+        "stock_name": "三星医疗",
+        "market_value_wan": 2653.52
+      },
+      {
+        "stock_code": "300733",
+        "stock_name": "西菱动力",
+        "market_value_wan": 1135.61
+      },
+      {
+        "stock_code": "600398",
+        "stock_name": "海澜之家",
+        "market_value_wan": 791.29
+      },
+      {
+        "stock_code": "603338",
+        "stock_name": "浙江鼎力",
+        "market_value_wan": 760.9
+      },
+      {
+        "stock_code": "300320",
+        "stock_name": "海达股份",
+        "market_value_wan": 570.27
+      },
+      {
+        "stock_code": "000768",
+        "stock_name": "中航西飞",
+        "market_value_wan": 556.79
+      },
+      {
+        "stock_code": "002444",
+        "stock_name": "巨星科技",
+        "market_value_wan": 511.88
+      },
+      {
+        "stock_code": "002180",
+        "stock_name": "纳思达",
+        "market_value_wan": 452.15
+      },
+      {
+        "stock_code": "688636",
+        "stock_name": "智明达",
+        "market_value_wan": 437.5
+      },
+      {
+        "stock_code": "688023",
+        "stock_name": "安恒信息",
+        "market_value_wan": 332.49
+      }
+    ],
+    "2023-Q3": [
+      {
+        "stock_code": "601567",
+        "stock_name": "三星医疗",
+        "market_value_wan": 2404.71
+      },
+      {
+        "stock_code": "300733",
+        "stock_name": "西菱动力",
+        "market_value_wan": 1121.46
+      },
+      {
+        "stock_code": "600398",
+        "stock_name": "海澜之家",
+        "market_value_wan": 1015.78
+      },
+      {
+        "stock_code": "603338",
+        "stock_name": "浙江鼎力",
+        "market_value_wan": 840.84
+      },
+      {
+        "stock_code": "000768",
+        "stock_name": "中航西飞",
+        "market_value_wan": 573.43
+      },
+      {
+        "stock_code": "002180",
+        "stock_name": "纳思达",
+        "market_value_wan": 566.33
+      },
+      {
+        "stock_code": "000999",
+        "stock_name": "华润三九",
+        "market_value_wan": 553.83
+      },
+      {
+        "stock_code": "002444",
+        "stock_name": "巨星科技",
+        "market_value_wan": 485.5
+      },
+      {
+        "stock_code": "688023",
+        "stock_name": "安恒信息",
+        "market_value_wan": 463.44
+      },
+      {
+        "stock_code": "603239",
+        "stock_name": "浙江仙通",
+        "market_value_wan": 459.57
+      }
+    ],
+    "2023-Q2": [
+      {
+        "stock_code": "601567",
+        "stock_name": "三星医疗",
+        "market_value_wan": 1764.28
+      },
+      {
+        "stock_code": "300733",
+        "stock_name": "西菱动力",
+        "market_value_wan": 1423.29
+      },
+      {
+        "stock_code": "600398",
+        "stock_name": "海澜之家",
+        "market_value_wan": 1197.27
+      },
+      {
+        "stock_code": "000768",
+        "stock_name": "中航西飞",
+        "market_value_wan": 710.75
+      },
+      {
+        "stock_code": "000999",
+        "stock_name": "华润三九",
+        "market_value_wan": 681.21
+      },
+      {
+        "stock_code": "002180",
+        "stock_name": "纳思达",
+        "market_value_wan": 646.3
+      },
+      {
+        "stock_code": "603338",
+        "stock_name": "浙江鼎力",
+        "market_value_wan": 617.79
+      },
+      {
+        "stock_code": "603239",
+        "stock_name": "浙江仙通",
+        "market_value_wan": 592.07
+      },
+      {
+        "stock_code": "688023",
+        "stock_name": "安恒信息",
+        "market_value_wan": 587.85
+      },
+      {
+        "stock_code": "002444",
+        "stock_name": "巨星科技",
+        "market_value_wan": 573.69
+      }
+    ],
+    "2023-Q1": [
+      {
+        "stock_code": "601567",
+        "stock_name": "三星医疗",
+        "market_value_wan": 1778.25
+      },
+      {
+        "stock_code": "300733",
+        "stock_name": "西菱动力",
+        "market_value_wan": 1370.0
+      },
+      {
+        "stock_code": "600398",
+        "stock_name": "海澜之家",
+        "market_value_wan": 1085.9
+      },
+      {
+        "stock_code": "300413",
+        "stock_name": "芒果超媒",
+        "market_value_wan": 713.15
+      },
+      {
+        "stock_code": "000768",
+        "stock_name": "中航西飞",
+        "market_value_wan": 683.65
+      },
+      {
+        "stock_code": "688023",
+        "stock_name": "安恒信息",
+        "market_value_wan": 675.9
+      },
+      {
+        "stock_code": "000999",
+        "stock_name": "华润三九",
+        "market_value_wan": 645.16
+      },
+      {
+        "stock_code": "000069",
+        "stock_name": "华侨城A",
+        "market_value_wan": 620.08
+      },
+      {
+        "stock_code": "603338",
+        "stock_name": "浙江鼎力",
+        "market_value_wan": 604.33
+      },
+      {
+        "stock_code": "603239",
+        "stock_name": "浙江仙通",
+        "market_value_wan": 572.78
+      }
+    ]
+  }
+}

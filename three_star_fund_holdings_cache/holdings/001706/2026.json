@@ -1,0 +1,115 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "001706",
+    "name": "诺安积极回报混合A",
+    "base_name": "诺安积极回报混合"
+  },
+  "fetched_at": "2026-08-01 20:54:23",
+  "quarters": {
+    "2026-Q2": [
+      {
+        "stock_code": "300364",
+        "stock_name": "中文在线",
+        "market_value_wan": 4943.28
+      },
+      {
+        "stock_code": "688692",
+        "stock_name": "达梦数据",
+        "market_value_wan": 4905.49
+      },
+      {
+        "stock_code": "688787",
+        "stock_name": "海天瑞声",
+        "market_value_wan": 4489.35
+      },
+      {
+        "stock_code": "688111",
+        "stock_name": "金山办公",
+        "market_value_wan": 3941.77
+      },
+      {
+        "stock_code": "688036",
+        "stock_name": "传音控股",
+        "market_value_wan": 3900.77
+      },
+      {
+        "stock_code": "300418",
+        "stock_name": "昆仑万维",
+        "market_value_wan": 3800.88
+      },
+      {
+        "stock_code": "688777",
+        "stock_name": "中控技术",
+        "market_value_wan": 3520.42
+      },
+      {
+        "stock_code": "002594",
+        "stock_name": "比亚迪",
+        "market_value_wan": 3248.6
+      },
+      {
+        "stock_code": "600588",
+        "stock_name": "用友网络",
+        "market_value_wan": 3032.1
+      },
+      {
+        "stock_code": "300454",
+        "stock_name": "深信服",
+        "market_value_wan": 2953.34
+      }
+    ],
+    "2026-Q1": [
+      {
+        "stock_code": "002594",
+        "stock_name": "比亚迪",
+        "market_value_wan": 9841.42
+      },
+      {
+        "stock_code": "688692",
+        "stock_name": "达梦数据",
+        "market_value_wan": 9448.58
+      },
+      {
+        "stock_code": "688036",
+        "stock_name": "传音控股",
+        "market_value_wan": 8596.46
+      },
+      {
+        "stock_code": "301162",
+        "stock_name": "国能日新",
+        "market_value_wan": 7484.33
+      },
+      {
+        "stock_code": "600588",
+        "stock_name": "用友网络",
+        "market_value_wan": 6923.29
+      },
+      {
+        "stock_code": "002415",
+        "stock_name": "海康威视",
+        "market_value_wan": 6717.95
+      },
+      {
+        "stock_code": "688111",
+        "stock_name": "金山办公",
+        "market_value_wan": 6609.0
+      },
+      {
+        "stock_code": "002230",
+        "stock_name": "科大讯飞",
+        "market_value_wan": 5933.12
+      },
+      {
+        "stock_code": "600570",
+        "stock_name": "恒生电子",
+        "market_value_wan": 4955.4
+      },
+      {
+        "stock_code": "002410",
+        "stock_name": "广联达",
+        "market_value_wan": 4691.02
+      }
+    ]
+  }
+}

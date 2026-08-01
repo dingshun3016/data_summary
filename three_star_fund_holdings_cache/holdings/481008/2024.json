@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "481008",
+    "name": "工银大盘蓝筹混合",
+    "base_name": "工银大盘蓝筹混合"
+  },
+  "fetched_at": "2026-06-15 00:01:08",
+  "quarters": {
+    "2024-Q4": [
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 1456.26
+      },
+      {
+        "stock_code": "603195",
+        "stock_name": "公牛集团",
+        "market_value_wan": 1140.58
+      },
+      {
+        "stock_code": "600900",
+        "stock_name": "长江电力",
+        "market_value_wan": 854.29
+      },
+      {
+        "stock_code": "688169",
+        "stock_name": "石头科技",
+        "market_value_wan": 811.29
+      },
+      {
+        "stock_code": "301061",
+        "stock_name": "匠心家居",
+        "market_value_wan": 783.91
+      },
+      {
+        "stock_code": "601058",
+        "stock_name": "赛轮轮胎",
+        "market_value_wan": 739.43
+      },
+      {
+        "stock_code": "600066",
+        "stock_name": "宇通客车",
+        "market_value_wan": 593.29
+      },
+      {
+        "stock_code": "002833",
+        "stock_name": "弘亚数控",
+        "market_value_wan": 593.09
+      },
+      {
+        "stock_code": "601021",
+        "stock_name": "春秋航空",
+        "market_value_wan": 545.56
+      },
+      {
+        "stock_code": "002202",
+        "stock_name": "金风科技",
+        "market_value_wan": 526.11
+      }
+    ],
+    "2024-Q3": [
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 1472.52
+      },
+      {
+        "stock_code": "603195",
+        "stock_name": "公牛集团",
+        "market_value_wan": 1352.0
+      },
+      {
+        "stock_code": "688169",
+        "stock_name": "石头科技",
+        "market_value_wan": 1028.19
+      },
+      {
+        "stock_code": "600900",
+        "stock_name": "长江电力",
+        "market_value_wan": 868.75
+      },
+      {
+        "stock_code": "601058",
+        "stock_name": "赛轮轮胎",
+        "market_value_wan": 827.66
+      },
+      {
+        "stock_code": "600150",
+        "stock_name": "中国船舶",
+        "market_value_wan": 825.38
+      },
+      {
+        "stock_code": "301061",
+        "stock_name": "匠心家居",
+        "market_value_wan": 725.69
+      },
+      {
+        "stock_code": "002833",
+        "stock_name": "弘亚数控",
+        "market_value_wan": 648.06
+      },
+      {
+        "stock_code": "601601",
+        "stock_name": "中国太保",
+        "market_value_wan": 636.55
+      },
+      {
+        "stock_code": "000921",
+        "stock_name": "海信家电",
+        "market_value_wan": 595.34
+      }
+    ],
+    "2024-Q2": [
+      {
+        "stock_code": "603195",
+        "stock_name": "公牛集团",
+        "market_value_wan": 1252.3
+      },
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 1174.55
+      },
+      {
+        "stock_code": "688169",
+        "stock_name": "石头科技",
+        "market_value_wan": 1010.12
+      },
+      {
+        "stock_code": "600900",
+        "stock_name": "长江电力",
+        "market_value_wan": 836.08
+      },
+      {
+        "stock_code": "600150",
+        "stock_name": "中国船舶",
+        "market_value_wan": 804.43
+      },
+      {
+        "stock_code": "301061",
+        "stock_name": "匠心家居",
+        "market_value_wan": 704.62
+      },
+      {
+        "stock_code": "601058",
+        "stock_name": "赛轮轮胎",
+        "market_value_wan": 617.26
+      },
+      {
+        "stock_code": "000921",
+        "stock_name": "海信家电",
+        "market_value_wan": 598.37
+      },
+      {
+        "stock_code": "002154",
+        "stock_name": "报喜鸟",
+        "market_value_wan": 567.83
+      },
+      {
+        "stock_code": "600160",
+        "stock_name": "巨化股份",
+        "market_value_wan": 534.96
+      }
+    ],
+    "2024-Q1": [
+      {
+        "stock_code": "603195",
+        "stock_name": "公牛集团",
+        "market_value_wan": 1156.28
+      },
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 1037.8
+      },
+      {
+        "stock_code": "688169",
+        "stock_name": "石头科技",
+        "market_value_wan": 881.4
+      },
+      {
+        "stock_code": "301061",
+        "stock_name": "匠心家居",
+        "market_value_wan": 799.27
+      },
+      {
+        "stock_code": "600150",
+        "stock_name": "中国船舶",
+        "market_value_wan": 731.12
+      },
+      {
+        "stock_code": "600900",
+        "stock_name": "长江电力",
+        "market_value_wan": 720.73
+      },
+      {
+        "stock_code": "000921",
+        "stock_name": "海信家电",
+        "market_value_wan": 705.44
+      },
+      {
+        "stock_code": "601058",
+        "stock_name": "赛轮轮胎",
+        "market_value_wan": 647.24
+      },
+      {
+        "stock_code": "002327",
+        "stock_name": "富安娜",
+        "market_value_wan": 572.63
+      },
+      {
+        "stock_code": "002833",
+        "stock_name": "弘亚数控",
+        "market_value_wan": 549.71
+      }
+    ]
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "200010",
+    "name": "长城双动力混合A",
+    "base_name": "长城双动力混合"
+  },
+  "fetched_at": "2026-08-01 21:00:36",
+  "quarters": {
+    "2026-Q2": [
+      {
+        "stock_code": "300502",
+        "stock_name": "新易盛",
+        "market_value_wan": 3237.74
+      },
+      {
+        "stock_code": "688981",
+        "stock_name": "中芯国际",
+        "market_value_wan": 3188.28
+      },
+      {
+        "stock_code": "300308",
+        "stock_name": "中际旭创",
+        "market_value_wan": 2806.7
+      },
+      {
+        "stock_code": "601899",
+        "stock_name": "紫金矿业",
+        "market_value_wan": 2096.68
+      },
+      {
+        "stock_code": "603379",
+        "stock_name": "三美股份",
+        "market_value_wan": 2063.68
+      },
+      {
+        "stock_code": "002602",
+        "stock_name": "世纪华通",
+        "market_value_wan": 1872.76
+      },
+      {
+        "stock_code": "002025",
+        "stock_name": "航天电器",
+        "market_value_wan": 1802.6
+      },
+      {
+        "stock_code": "002484",
+        "stock_name": "江海股份",
+        "market_value_wan": 1778.7
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 1711.95
+      },
+      {
+        "stock_code": "002371",
+        "stock_name": "北方华创",
+        "market_value_wan": 1662.97
+      }
+    ],
+    "2026-Q1": [
+      {
+        "stock_code": "603379",
+        "stock_name": "三美股份",
+        "market_value_wan": 2261.82
+      },
+      {
+        "stock_code": "002602",
+        "stock_name": "世纪华通",
+        "market_value_wan": 1927.49
+      },
+      {
+        "stock_code": "601211",
+        "stock_name": "国泰海通",
+        "market_value_wan": 1899.49
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 1826.13
+      },
+      {
+        "stock_code": "301362",
+        "stock_name": "民爆光电",
+        "market_value_wan": 1764.23
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 1754.5
+      },
+      {
+        "stock_code": "600926",
+        "stock_name": "杭州银行",
+        "market_value_wan": 1720.56
+      },
+      {
+        "stock_code": "002532",
+        "stock_name": "天山铝业",
+        "market_value_wan": 1569.97
+      },
+      {
+        "stock_code": "000807",
+        "stock_name": "云铝股份",
+        "market_value_wan": 1530.16
+      },
+      {
+        "stock_code": "000688",
+        "stock_name": "国城矿业",
+        "market_value_wan": 1505.05
+      }
+    ]
+  }
+}

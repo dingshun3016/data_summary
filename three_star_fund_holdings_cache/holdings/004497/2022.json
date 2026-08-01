@@ -1,0 +1,114 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "004497",
+    "name": "前海开源多元策略混合C",
+    "base_name": "前海开源多元策略混合"
+  },
+  "fetched_at": "2026-06-14 23:14:07",
+  "quarters": {
+    "2022-Q4": [
+      {
+        "stock_code": "601186",
+        "stock_name": "中国铁建",
+        "market_value_wan": 1318.27
+      },
+      {
+        "stock_code": "601766",
+        "stock_name": "中国中车",
+        "market_value_wan": 1307.13
+      },
+      {
+        "stock_code": "600988",
+        "stock_name": "赤峰黄金",
+        "market_value_wan": 1151.05
+      },
+      {
+        "stock_code": "600528",
+        "stock_name": "中铁工业",
+        "market_value_wan": 1066.27
+      }
+    ],
+    "2022-Q3": [
+      {
+        "stock_code": "600988",
+        "stock_name": "赤峰黄金",
+        "market_value_wan": 1362.21
+      },
+      {
+        "stock_code": "601766",
+        "stock_name": "中国中车",
+        "market_value_wan": 1265.36
+      },
+      {
+        "stock_code": "601186",
+        "stock_name": "中国铁建",
+        "market_value_wan": 1251.39
+      },
+      {
+        "stock_code": "600528",
+        "stock_name": "中铁工业",
+        "market_value_wan": 1085.2
+      }
+    ],
+    "2022-Q2": [
+      {
+        "stock_code": "601186",
+        "stock_name": "中国铁建",
+        "market_value_wan": 1418.37
+      },
+      {
+        "stock_code": "601766",
+        "stock_name": "中国中车",
+        "market_value_wan": 1402.95
+      },
+      {
+        "stock_code": "300059",
+        "stock_name": "东方财富",
+        "market_value_wan": 1228.24
+      },
+      {
+        "stock_code": "600528",
+        "stock_name": "中铁工业",
+        "market_value_wan": 1183.73
+      },
+      {
+        "stock_code": "600489",
+        "stock_name": "中金黄金",
+        "market_value_wan": 1092.39
+      }
+    ],
+    "2022-Q1": [
+      {
+        "stock_code": "600489",
+        "stock_name": "中金黄金",
+        "market_value_wan": 2792.82
+      },
+      {
+        "stock_code": "600988",
+        "stock_name": "赤峰黄金",
+        "market_value_wan": 2596.22
+      },
+      {
+        "stock_code": "601377",
+        "stock_name": "兴业证券",
+        "market_value_wan": 2360.14
+      },
+      {
+        "stock_code": "300059",
+        "stock_name": "东方财富",
+        "market_value_wan": 2352.31
+      },
+      {
+        "stock_code": "000776",
+        "stock_name": "广发证券",
+        "market_value_wan": 1738.13
+      },
+      {
+        "stock_code": "601688",
+        "stock_name": "华泰证券",
+        "market_value_wan": 1051.42
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "400003",
+    "name": "东方精选混合",
+    "base_name": "东方精选混合"
+  },
+  "fetched_at": "2026-06-14 23:59:44",
+  "quarters": {
+    "2020-Q4": [
+      {
+        "stock_code": "300699",
+        "stock_name": "光威复材",
+        "market_value_wan": 14604.11
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 14486.7
+      },
+      {
+        "stock_code": "002372",
+        "stock_name": "伟星新材",
+        "market_value_wan": 11538.3
+      },
+      {
+        "stock_code": "603288",
+        "stock_name": "海天味业",
+        "market_value_wan": 10228.26
+      },
+      {
+        "stock_code": "002594",
+        "stock_name": "比亚迪",
+        "market_value_wan": 10105.04
+      },
+      {
+        "stock_code": "600436",
+        "stock_name": "片仔癀",
+        "market_value_wan": 9898.22
+      },
+      {
+        "stock_code": "000858",
+        "stock_name": "五粮液",
+        "market_value_wan": 9631.05
+      },
+      {
+        "stock_code": "300124",
+        "stock_name": "汇川技术",
+        "market_value_wan": 7930.5
+      },
+      {
+        "stock_code": "688169",
+        "stock_name": "石头科技",
+        "market_value_wan": 7253.76
+      },
+      {
+        "stock_code": "002001",
+        "stock_name": "新和成",
+        "market_value_wan": 6062.38
+      }
+    ],
+    "2020-Q3": [
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 12881.82
+      },
+      {
+        "stock_code": "300699",
+        "stock_name": "光威复材",
+        "market_value_wan": 11126.7
+      },
+      {
+        "stock_code": "600436",
+        "stock_name": "片仔癀",
+        "market_value_wan": 9733.12
+      },
+      {
+        "stock_code": "002372",
+        "stock_name": "伟星新材",
+        "market_value_wan": 9658.3
+      },
+      {
+        "stock_code": "603288",
+        "stock_name": "海天味业",
+        "market_value_wan": 8267.68
+      },
+      {
+        "stock_code": "000858",
+        "stock_name": "五粮液",
+        "market_value_wan": 6630.0
+      },
+      {
+        "stock_code": "002594",
+        "stock_name": "比亚迪",
+        "market_value_wan": 5811.42
+      },
+      {
+        "stock_code": "300124",
+        "stock_name": "汇川技术",
+        "market_value_wan": 5211.0
+      },
+      {
+        "stock_code": "300033",
+        "stock_name": "同花顺",
+        "market_value_wan": 5115.84
+      },
+      {
+        "stock_code": "688169",
+        "stock_name": "石头科技",
+        "market_value_wan": 5093.22
+      }
+    ],
+    "2020-Q2": [
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 13020.22
+      },
+      {
+        "stock_code": "300699",
+        "stock_name": "光威复材",
+        "market_value_wan": 9722.11
+      },
+      {
+        "stock_code": "600436",
+        "stock_name": "片仔癀",
+        "market_value_wan": 6810.22
+      },
+      {
+        "stock_code": "002372",
+        "stock_name": "伟星新材",
+        "market_value_wan": 6513.05
+      },
+      {
+        "stock_code": "603288",
+        "stock_name": "海天味业",
+        "market_value_wan": 6344.85
+      },
+      {
+        "stock_code": "002555",
+        "stock_name": "三七互娱",
+        "market_value_wan": 6083.81
+      },
+      {
+        "stock_code": "002959",
+        "stock_name": "小熊电器",
+        "market_value_wan": 5276.7
+      },
+      {
+        "stock_code": "000858",
+        "stock_name": "五粮液",
+        "market_value_wan": 5133.6
+      },
+      {
+        "stock_code": "002001",
+        "stock_name": "新和成",
+        "market_value_wan": 4656.07
+      },
+      {
+        "stock_code": "000895",
+        "stock_name": "双汇发展",
+        "market_value_wan": 4609.0
+      }
+    ],
+    "2020-Q1": [
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 10554.94
+      },
+      {
+        "stock_code": "000895",
+        "stock_name": "双汇发展",
+        "market_value_wan": 6288.0
+      },
+      {
+        "stock_code": "300699",
+        "stock_name": "光威复材",
+        "market_value_wan": 5947.87
+      },
+      {
+        "stock_code": "002372",
+        "stock_name": "伟星新材",
+        "market_value_wan": 5364.34
+      },
+      {
+        "stock_code": "600436",
+        "stock_name": "片仔癀",
+        "market_value_wan": 4972.16
+      },
+      {
+        "stock_code": "002555",
+        "stock_name": "三七互娱",
+        "market_value_wan": 4898.87
+      },
+      {
+        "stock_code": "603288",
+        "stock_name": "海天味业",
+        "market_value_wan": 4632.72
+      },
+      {
+        "stock_code": "002032",
+        "stock_name": "苏泊尔",
+        "market_value_wan": 4424.85
+      },
+      {
+        "stock_code": "300760",
+        "stock_name": "迈瑞医疗",
+        "market_value_wan": 3926.15
+      },
+      {
+        "stock_code": "002001",
+        "stock_name": "新和成",
+        "market_value_wan": 3276.07
+      }
+    ]
+  }
+}

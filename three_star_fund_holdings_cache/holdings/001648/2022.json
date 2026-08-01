@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "001648",
+    "name": "工银新价值灵活配置混合A",
+    "base_name": "工银新价值灵活配置混合"
+  },
+  "fetched_at": "2026-06-14 22:59:15",
+  "quarters": {
+    "2022-Q4": [
+      {
+        "stock_code": "601899",
+        "stock_name": "紫金矿业",
+        "market_value_wan": 112.3
+      },
+      {
+        "stock_code": "002027",
+        "stock_name": "分众传媒",
+        "market_value_wan": 110.82
+      },
+      {
+        "stock_code": "601225",
+        "stock_name": "陕西煤业",
+        "market_value_wan": 110.55
+      },
+      {
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "market_value_wan": 108.8
+      },
+      {
+        "stock_code": "600887",
+        "stock_name": "伊利股份",
+        "market_value_wan": 108.5
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 103.62
+      },
+      {
+        "stock_code": "601601",
+        "stock_name": "中国太保",
+        "market_value_wan": 88.03
+      },
+      {
+        "stock_code": "002003",
+        "stock_name": "伟星股份",
+        "market_value_wan": 85.92
+      },
+      {
+        "stock_code": "002311",
+        "stock_name": "海大集团",
+        "market_value_wan": 82.72
+      },
+      {
+        "stock_code": "300413",
+        "stock_name": "芒果超媒",
+        "market_value_wan": 82.56
+      }
+    ],
+    "2022-Q3": [
+      {
+        "stock_code": "688197",
+        "stock_name": "首药控股",
+        "market_value_wan": 11.71
+      },
+      {
+        "stock_code": "300661",
+        "stock_name": "圣邦股份",
+        "market_value_wan": 8.45
+      },
+      {
+        "stock_code": "301215",
+        "stock_name": "中汽股份",
+        "market_value_wan": 1.16
+      },
+      {
+        "stock_code": "301212",
+        "stock_name": "联盛化学",
+        "market_value_wan": 0.7
+      },
+      {
+        "stock_code": "301256",
+        "stock_name": "华融化学",
+        "market_value_wan": 0.65
+      },
+      {
+        "stock_code": "301263",
+        "stock_name": "泰恩康",
+        "market_value_wan": 0.63
+      },
+      {
+        "stock_code": "301097",
+        "stock_name": "天益医疗",
+        "market_value_wan": 0.63
+      },
+      {
+        "stock_code": "301137",
+        "stock_name": "哈焊华通",
+        "market_value_wan": 0.62
+      },
+      {
+        "stock_code": "301236",
+        "stock_name": "软通动力",
+        "market_value_wan": 0.52
+      },
+      {
+        "stock_code": "301103",
+        "stock_name": "何氏眼科",
+        "market_value_wan": 0.51
+      }
+    ],
+    "2022-Q2": [
+      {
+        "stock_code": "300661",
+        "stock_name": "圣邦股份",
+        "market_value_wan": 173.55
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 113.7
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 85.44
+      },
+      {
+        "stock_code": "002003",
+        "stock_name": "伟星股份",
+        "market_value_wan": 74.2
+      },
+      {
+        "stock_code": "002460",
+        "stock_name": "赣锋锂业",
+        "market_value_wan": 69.89
+      },
+      {
+        "stock_code": "300059",
+        "stock_name": "东方财富",
+        "market_value_wan": 63.28
+      },
+      {
+        "stock_code": "600900",
+        "stock_name": "长江电力",
+        "market_value_wan": 61.96
+      },
+      {
+        "stock_code": "600745",
+        "stock_name": "闻泰科技",
+        "market_value_wan": 61.42
+      },
+      {
+        "stock_code": "601668",
+        "stock_name": "中国建筑",
+        "market_value_wan": 60.17
+      },
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 55.56
+      }
+    ],
+    "2022-Q1": [
+      {
+        "stock_code": "002810",
+        "stock_name": "山东赫达",
+        "market_value_wan": 271.16
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 266.4
+      },
+      {
+        "stock_code": "002003",
+        "stock_name": "伟星股份",
+        "market_value_wan": 259.7
+      },
+      {
+        "stock_code": "002430",
+        "stock_name": "杭氧股份",
+        "market_value_wan": 223.83
+      },
+      {
+        "stock_code": "601668",
+        "stock_name": "中国建筑",
+        "market_value_wan": 221.79
+      },
+      {
+        "stock_code": "600570",
+        "stock_name": "恒生电子",
+        "market_value_wan": 212.83
+      },
+      {
+        "stock_code": "300661",
+        "stock_name": "圣邦股份",
+        "market_value_wan": 207.29
+      },
+      {
+        "stock_code": "000630",
+        "stock_name": "铜陵有色",
+        "market_value_wan": 205.31
+      },
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 171.57
+      },
+      {
+        "stock_code": "603538",
+        "stock_name": "美诺华",
+        "market_value_wan": 150.79
+      }
+    ]
+  }
+}

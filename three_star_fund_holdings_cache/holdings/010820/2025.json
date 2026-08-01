@@ -1,0 +1,114 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "010820",
+    "name": "安信稳健回报6个月混合C",
+    "base_name": "安信稳健回报6个月混合"
+  },
+  "fetched_at": "2026-06-14 23:43:12",
+  "quarters": {
+    "2025-Q4": [
+      {
+        "stock_code": "002508",
+        "stock_name": "老板电器",
+        "market_value_wan": 29.03
+      },
+      {
+        "stock_code": "601668",
+        "stock_name": "中国建筑",
+        "market_value_wan": 27.19
+      },
+      {
+        "stock_code": "600273",
+        "stock_name": "嘉化能源",
+        "market_value_wan": 26.22
+      },
+      {
+        "stock_code": "002867",
+        "stock_name": "周大生",
+        "market_value_wan": 24.36
+      },
+      {
+        "stock_code": "600585",
+        "stock_name": "海螺水泥",
+        "market_value_wan": 24.05
+      },
+      {
+        "stock_code": "600729",
+        "stock_name": "重庆百货",
+        "market_value_wan": 23.4
+      }
+    ],
+    "2025-Q3": [
+      {
+        "stock_code": "601668",
+        "stock_name": "中国建筑",
+        "market_value_wan": 28.89
+      },
+      {
+        "stock_code": "002508",
+        "stock_name": "老板电器",
+        "market_value_wan": 28.62
+      },
+      {
+        "stock_code": "002867",
+        "stock_name": "周大生",
+        "market_value_wan": 25.65
+      },
+      {
+        "stock_code": "600585",
+        "stock_name": "海螺水泥",
+        "market_value_wan": 13.93
+      }
+    ],
+    "2025-Q2": [
+      {
+        "stock_code": "601668",
+        "stock_name": "中国建筑",
+        "market_value_wan": 23.08
+      },
+      {
+        "stock_code": "002508",
+        "stock_name": "老板电器",
+        "market_value_wan": 20.91
+      },
+      {
+        "stock_code": "600985",
+        "stock_name": "淮北矿业",
+        "market_value_wan": 20.41
+      },
+      {
+        "stock_code": "002867",
+        "stock_name": "周大生",
+        "market_value_wan": 18.45
+      }
+    ],
+    "2025-Q1": [
+      {
+        "stock_code": "600985",
+        "stock_name": "淮北矿业",
+        "market_value_wan": 23.49
+      },
+      {
+        "stock_code": "601668",
+        "stock_name": "中国建筑",
+        "market_value_wan": 21.04
+      },
+      {
+        "stock_code": "002867",
+        "stock_name": "周大生",
+        "market_value_wan": 18.4
+      },
+      {
+        "stock_code": "601000",
+        "stock_name": "唐山港",
+        "market_value_wan": 16.88
+      },
+      {
+        "stock_code": "601919",
+        "stock_name": "中远海控",
+        "market_value_wan": 16.01
+      }
+    ]
+  }
+}

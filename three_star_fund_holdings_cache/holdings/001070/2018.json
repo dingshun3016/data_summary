@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "001070",
+    "name": "建信信息产业股票A",
+    "base_name": "建信信息产业股票"
+  },
+  "fetched_at": "2026-06-14 22:52:59",
+  "quarters": {
+    "2018-Q4": [
+      {
+        "stock_code": "300628",
+        "stock_name": "亿联网络",
+        "market_value_wan": 2126.73
+      },
+      {
+        "stock_code": "600011",
+        "stock_name": "华能国际",
+        "market_value_wan": 1956.73
+      },
+      {
+        "stock_code": "600548",
+        "stock_name": "深高速",
+        "market_value_wan": 1548.26
+      },
+      {
+        "stock_code": "600900",
+        "stock_name": "长江电力",
+        "market_value_wan": 1272.62
+      },
+      {
+        "stock_code": "002230",
+        "stock_name": "科大讯飞",
+        "market_value_wan": 1226.58
+      },
+      {
+        "stock_code": "600406",
+        "stock_name": "国电南瑞",
+        "market_value_wan": 1122.55
+      },
+      {
+        "stock_code": "002396",
+        "stock_name": "星网锐捷",
+        "market_value_wan": 1072.46
+      },
+      {
+        "stock_code": "002415",
+        "stock_name": "海康威视",
+        "market_value_wan": 1037.17
+      },
+      {
+        "stock_code": "300207",
+        "stock_name": "欣旺达",
+        "market_value_wan": 900.32
+      },
+      {
+        "stock_code": "002236",
+        "stock_name": "大华股份",
+        "market_value_wan": 895.94
+      }
+    ],
+    "2018-Q3": [
+      {
+        "stock_code": "601888",
+        "stock_name": "中国中免",
+        "market_value_wan": 2629.44
+      },
+      {
+        "stock_code": "002415",
+        "stock_name": "海康威视",
+        "market_value_wan": 2166.0
+      },
+      {
+        "stock_code": "600050",
+        "stock_name": "中国联通",
+        "market_value_wan": 1491.92
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 1295.97
+      },
+      {
+        "stock_code": "600312",
+        "stock_name": "平高电气",
+        "market_value_wan": 1295.94
+      },
+      {
+        "stock_code": "600406",
+        "stock_name": "国电南瑞",
+        "market_value_wan": 1279.98
+      },
+      {
+        "stock_code": "300628",
+        "stock_name": "亿联网络",
+        "market_value_wan": 1273.63
+      },
+      {
+        "stock_code": "600585",
+        "stock_name": "海螺水泥",
+        "market_value_wan": 1143.8
+      },
+      {
+        "stock_code": "600498",
+        "stock_name": "烽火通信",
+        "market_value_wan": 1052.76
+      },
+      {
+        "stock_code": "002179",
+        "stock_name": "中航光电",
+        "market_value_wan": 991.32
+      }
+    ],
+    "2018-Q2": [
+      {
+        "stock_code": "601888",
+        "stock_name": "中国中免",
+        "market_value_wan": 2489.89
+      },
+      {
+        "stock_code": "002212",
+        "stock_name": "天融信",
+        "market_value_wan": 1823.33
+      },
+      {
+        "stock_code": "300628",
+        "stock_name": "亿联网络",
+        "market_value_wan": 1650.73
+      },
+      {
+        "stock_code": "000858",
+        "stock_name": "五粮液",
+        "market_value_wan": 1610.74
+      },
+      {
+        "stock_code": "300138",
+        "stock_name": "晨光生物",
+        "market_value_wan": 1557.26
+      },
+      {
+        "stock_code": "002127",
+        "stock_name": "南极电商",
+        "market_value_wan": 1500.83
+      },
+      {
+        "stock_code": "002236",
+        "stock_name": "大华股份",
+        "market_value_wan": 1304.97
+      },
+      {
+        "stock_code": "300296",
+        "stock_name": "利亚德",
+        "market_value_wan": 1203.33
+      },
+      {
+        "stock_code": "002396",
+        "stock_name": "星网锐捷",
+        "market_value_wan": 1111.35
+      },
+      {
+        "stock_code": "002373",
+        "stock_name": "千方科技",
+        "market_value_wan": 907.24
+      }
+    ],
+    "2018-Q1": [
+      {
+        "stock_code": "000661",
+        "stock_name": "长春高新",
+        "market_value_wan": 2988.68
+      },
+      {
+        "stock_code": "600487",
+        "stock_name": "亨通光电",
+        "market_value_wan": 2782.09
+      },
+      {
+        "stock_code": "600703",
+        "stock_name": "三安光电",
+        "market_value_wan": 2777.9
+      },
+      {
+        "stock_code": "002127",
+        "stock_name": "南极电商",
+        "market_value_wan": 2710.31
+      },
+      {
+        "stock_code": "300138",
+        "stock_name": "晨光生物",
+        "market_value_wan": 2279.37
+      },
+      {
+        "stock_code": "600048",
+        "stock_name": "保利发展",
+        "market_value_wan": 2124.05
+      },
+      {
+        "stock_code": "300296",
+        "stock_name": "利亚德",
+        "market_value_wan": 1759.91
+      },
+      {
+        "stock_code": "002310",
+        "stock_name": "*ST东园",
+        "market_value_wan": 1704.63
+      },
+      {
+        "stock_code": "300308",
+        "stock_name": "中际旭创",
+        "market_value_wan": 1559.07
+      },
+      {
+        "stock_code": "601699",
+        "stock_name": "潞安环能",
+        "market_value_wan": 1542.13
+      }
+    ]
+  }
+}

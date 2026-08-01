@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "121010",
+    "name": "国投瑞银瑞源灵活配置混合A",
+    "base_name": "国投瑞银瑞源灵活配置混合"
+  },
+  "fetched_at": "2026-06-14 22:41:48",
+  "quarters": {
+    "2023-Q4": [
+      {
+        "stock_code": "002128",
+        "stock_name": "电投能源",
+        "market_value_wan": 3780.41
+      },
+      {
+        "stock_code": "600325",
+        "stock_name": "华发股份",
+        "market_value_wan": 3081.69
+      },
+      {
+        "stock_code": "601898",
+        "stock_name": "中煤能源",
+        "market_value_wan": 2891.93
+      },
+      {
+        "stock_code": "002727",
+        "stock_name": "一心堂",
+        "market_value_wan": 2675.21
+      },
+      {
+        "stock_code": "600985",
+        "stock_name": "淮北矿业",
+        "market_value_wan": 2599.19
+      },
+      {
+        "stock_code": "603816",
+        "stock_name": "顾家家居",
+        "market_value_wan": 2508.14
+      },
+      {
+        "stock_code": "601966",
+        "stock_name": "玲珑轮胎",
+        "market_value_wan": 2366.44
+      },
+      {
+        "stock_code": "002831",
+        "stock_name": "裕同科技",
+        "market_value_wan": 2309.23
+      },
+      {
+        "stock_code": "002311",
+        "stock_name": "海大集团",
+        "market_value_wan": 2219.0
+      },
+      {
+        "stock_code": "601872",
+        "stock_name": "招商轮船",
+        "market_value_wan": 1991.09
+      }
+    ],
+    "2023-Q3": [
+      {
+        "stock_code": "002128",
+        "stock_name": "电投能源",
+        "market_value_wan": 3645.3
+      },
+      {
+        "stock_code": "600985",
+        "stock_name": "淮北矿业",
+        "market_value_wan": 3502.5
+      },
+      {
+        "stock_code": "603816",
+        "stock_name": "顾家家居",
+        "market_value_wan": 2901.55
+      },
+      {
+        "stock_code": "600325",
+        "stock_name": "华发股份",
+        "market_value_wan": 2852.92
+      },
+      {
+        "stock_code": "002727",
+        "stock_name": "一心堂",
+        "market_value_wan": 2620.7
+      },
+      {
+        "stock_code": "601898",
+        "stock_name": "中煤能源",
+        "market_value_wan": 2608.41
+      },
+      {
+        "stock_code": "601966",
+        "stock_name": "玲珑轮胎",
+        "market_value_wan": 2295.75
+      },
+      {
+        "stock_code": "001979",
+        "stock_name": "招商蛇口",
+        "market_value_wan": 2168.5
+      },
+      {
+        "stock_code": "002078",
+        "stock_name": "太阳纸业",
+        "market_value_wan": 2107.65
+      },
+      {
+        "stock_code": "601872",
+        "stock_name": "招商轮船",
+        "market_value_wan": 2004.42
+      }
+    ],
+    "2023-Q2": [
+      {
+        "stock_code": "002128",
+        "stock_name": "电投能源",
+        "market_value_wan": 3502.24
+      },
+      {
+        "stock_code": "600325",
+        "stock_name": "华发股份",
+        "market_value_wan": 3356.19
+      },
+      {
+        "stock_code": "601966",
+        "stock_name": "玲珑轮胎",
+        "market_value_wan": 3140.13
+      },
+      {
+        "stock_code": "600985",
+        "stock_name": "淮北矿业",
+        "market_value_wan": 3138.8
+      },
+      {
+        "stock_code": "603816",
+        "stock_name": "顾家家居",
+        "market_value_wan": 2997.87
+      },
+      {
+        "stock_code": "002727",
+        "stock_name": "一心堂",
+        "market_value_wan": 2983.46
+      },
+      {
+        "stock_code": "600004",
+        "stock_name": "白云机场",
+        "market_value_wan": 2840.19
+      },
+      {
+        "stock_code": "002384",
+        "stock_name": "东山精密",
+        "market_value_wan": 2756.54
+      },
+      {
+        "stock_code": "601898",
+        "stock_name": "中煤能源",
+        "market_value_wan": 2072.06
+      },
+      {
+        "stock_code": "001979",
+        "stock_name": "招商蛇口",
+        "market_value_wan": 2037.11
+      }
+    ],
+    "2023-Q1": [
+      {
+        "stock_code": "601088",
+        "stock_name": "中国神华",
+        "market_value_wan": 3900.42
+      },
+      {
+        "stock_code": "600985",
+        "stock_name": "淮北矿业",
+        "market_value_wan": 3532.72
+      },
+      {
+        "stock_code": "600325",
+        "stock_name": "华发股份",
+        "market_value_wan": 3375.0
+      },
+      {
+        "stock_code": "603816",
+        "stock_name": "顾家家居",
+        "market_value_wan": 3188.82
+      },
+      {
+        "stock_code": "601966",
+        "stock_name": "玲珑轮胎",
+        "market_value_wan": 3183.65
+      },
+      {
+        "stock_code": "000933",
+        "stock_name": "神火股份",
+        "market_value_wan": 3165.32
+      },
+      {
+        "stock_code": "600004",
+        "stock_name": "白云机场",
+        "market_value_wan": 2592.4
+      },
+      {
+        "stock_code": "002311",
+        "stock_name": "海大集团",
+        "market_value_wan": 2463.28
+      },
+      {
+        "stock_code": "001979",
+        "stock_name": "招商蛇口",
+        "market_value_wan": 2262.28
+      },
+      {
+        "stock_code": "002727",
+        "stock_name": "一心堂",
+        "market_value_wan": 2205.79
+      }
+    ]
+  }
+}

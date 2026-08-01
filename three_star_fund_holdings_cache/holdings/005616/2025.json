@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "005616",
+    "name": "东方量化成长灵活配置混合A",
+    "base_name": "东方量化成长灵活配置混合"
+  },
+  "fetched_at": "2026-06-14 23:18:24",
+  "quarters": {
+    "2025-Q4": [
+      {
+        "stock_code": "000570",
+        "stock_name": "苏常柴A",
+        "market_value_wan": 105.81
+      },
+      {
+        "stock_code": "600386",
+        "stock_name": "北巴传媒",
+        "market_value_wan": 73.31
+      },
+      {
+        "stock_code": "002412",
+        "stock_name": "汉森制药",
+        "market_value_wan": 66.54
+      },
+      {
+        "stock_code": "002546",
+        "stock_name": "新联电子",
+        "market_value_wan": 63.33
+      },
+      {
+        "stock_code": "603319",
+        "stock_name": "美湖股份",
+        "market_value_wan": 62.55
+      },
+      {
+        "stock_code": "300053",
+        "stock_name": "航宇微",
+        "market_value_wan": 58.01
+      },
+      {
+        "stock_code": "688636",
+        "stock_name": "智明达",
+        "market_value_wan": 54.74
+      },
+      {
+        "stock_code": "600429",
+        "stock_name": "三元股份",
+        "market_value_wan": 52.84
+      },
+      {
+        "stock_code": "002322",
+        "stock_name": "理工能科",
+        "market_value_wan": 52.6
+      },
+      {
+        "stock_code": "300680",
+        "stock_name": "隆盛科技",
+        "market_value_wan": 49.72
+      }
+    ],
+    "2025-Q3": [
+      {
+        "stock_code": "605255",
+        "stock_name": "天普股份",
+        "market_value_wan": 199.19
+      },
+      {
+        "stock_code": "301662",
+        "stock_name": "宏工科技",
+        "market_value_wan": 138.08
+      },
+      {
+        "stock_code": "000570",
+        "stock_name": "苏常柴A",
+        "market_value_wan": 108.73
+      },
+      {
+        "stock_code": "301282",
+        "stock_name": "金禄电子",
+        "market_value_wan": 102.11
+      },
+      {
+        "stock_code": "300707",
+        "stock_name": "威唐工业",
+        "market_value_wan": 83.67
+      },
+      {
+        "stock_code": "688247",
+        "stock_name": "宣泰医药",
+        "market_value_wan": 78.32
+      },
+      {
+        "stock_code": "600386",
+        "stock_name": "北巴传媒",
+        "market_value_wan": 74.82
+      },
+      {
+        "stock_code": "688435",
+        "stock_name": "英方软件",
+        "market_value_wan": 73.42
+      },
+      {
+        "stock_code": "688181",
+        "stock_name": "八亿时空",
+        "market_value_wan": 71.89
+      },
+      {
+        "stock_code": "002322",
+        "stock_name": "理工能科",
+        "market_value_wan": 71.12
+      }
+    ],
+    "2025-Q2": [
+      {
+        "stock_code": "600330",
+        "stock_name": "天通股份",
+        "market_value_wan": 41.73
+      },
+      {
+        "stock_code": "300279",
+        "stock_name": "和晶科技",
+        "market_value_wan": 36.31
+      },
+      {
+        "stock_code": "000905",
+        "stock_name": "厦门港务",
+        "market_value_wan": 34.37
+      },
+      {
+        "stock_code": "688252",
+        "stock_name": "天德钰",
+        "market_value_wan": 33.89
+      },
+      {
+        "stock_code": "300219",
+        "stock_name": "鸿利智汇",
+        "market_value_wan": 33.13
+      },
+      {
+        "stock_code": "002649",
+        "stock_name": "博彦科技",
+        "market_value_wan": 30.22
+      },
+      {
+        "stock_code": "301263",
+        "stock_name": "泰恩康",
+        "market_value_wan": 28.67
+      },
+      {
+        "stock_code": "300872",
+        "stock_name": "天阳科技",
+        "market_value_wan": 28.59
+      },
+      {
+        "stock_code": "002988",
+        "stock_name": "豪美新材",
+        "market_value_wan": 26.98
+      },
+      {
+        "stock_code": "002935",
+        "stock_name": "天奥电子",
+        "market_value_wan": 26.56
+      }
+    ],
+    "2025-Q1": [
+      {
+        "stock_code": "002491",
+        "stock_name": "通鼎互联",
+        "market_value_wan": 60.32
+      },
+      {
+        "stock_code": "002546",
+        "stock_name": "新联电子",
+        "market_value_wan": 44.79
+      },
+      {
+        "stock_code": "603855",
+        "stock_name": "华荣股份",
+        "market_value_wan": 42.41
+      },
+      {
+        "stock_code": "002017",
+        "stock_name": "东信和平",
+        "market_value_wan": 38.23
+      },
+      {
+        "stock_code": "300279",
+        "stock_name": "和晶科技",
+        "market_value_wan": 34.66
+      },
+      {
+        "stock_code": "603738",
+        "stock_name": "泰晶科技",
+        "market_value_wan": 34.4
+      },
+      {
+        "stock_code": "600330",
+        "stock_name": "天通股份",
+        "market_value_wan": 28.36
+      },
+      {
+        "stock_code": "300531",
+        "stock_name": "优博讯",
+        "market_value_wan": 27.01
+      },
+      {
+        "stock_code": "300725",
+        "stock_name": "药石科技",
+        "market_value_wan": 26.85
+      },
+      {
+        "stock_code": "002174",
+        "stock_name": "游族网络",
+        "market_value_wan": 26.51
+      }
+    ]
+  }
+}

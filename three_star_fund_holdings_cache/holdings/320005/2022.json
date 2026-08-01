@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "320005",
+    "name": "诺安价值增长混合A",
+    "base_name": "诺安价值增长混合"
+  },
+  "fetched_at": "2026-06-14 23:58:45",
+  "quarters": {
+    "2022-Q4": [
+      {
+        "stock_code": "600057",
+        "stock_name": "厦门象屿",
+        "market_value_wan": 8960.3
+      },
+      {
+        "stock_code": "600809",
+        "stock_name": "山西汾酒",
+        "market_value_wan": 8931.96
+      },
+      {
+        "stock_code": "601058",
+        "stock_name": "赛轮轮胎",
+        "market_value_wan": 8636.14
+      },
+      {
+        "stock_code": "603369",
+        "stock_name": "今世缘",
+        "market_value_wan": 7732.97
+      },
+      {
+        "stock_code": "000568",
+        "stock_name": "泸州老窖",
+        "market_value_wan": 7448.23
+      },
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 6186.67
+      },
+      {
+        "stock_code": "000858",
+        "stock_name": "五粮液",
+        "market_value_wan": 4635.95
+      },
+      {
+        "stock_code": "002605",
+        "stock_name": "姚记科技",
+        "market_value_wan": 4064.25
+      },
+      {
+        "stock_code": "600256",
+        "stock_name": "广汇能源",
+        "market_value_wan": 2779.69
+      },
+      {
+        "stock_code": "002517",
+        "stock_name": "恺英网络",
+        "market_value_wan": 2417.95
+      }
+    ],
+    "2022-Q3": [
+      {
+        "stock_code": "600809",
+        "stock_name": "山西汾酒",
+        "market_value_wan": 9492.97
+      },
+      {
+        "stock_code": "601058",
+        "stock_name": "赛轮轮胎",
+        "market_value_wan": 8722.33
+      },
+      {
+        "stock_code": "600057",
+        "stock_name": "厦门象屿",
+        "market_value_wan": 8415.78
+      },
+      {
+        "stock_code": "000568",
+        "stock_name": "泸州老窖",
+        "market_value_wan": 7660.1
+      },
+      {
+        "stock_code": "603369",
+        "stock_name": "今世缘",
+        "market_value_wan": 6970.31
+      },
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 5728.76
+      },
+      {
+        "stock_code": "000858",
+        "stock_name": "五粮液",
+        "market_value_wan": 4341.92
+      },
+      {
+        "stock_code": "002605",
+        "stock_name": "姚记科技",
+        "market_value_wan": 3610.09
+      },
+      {
+        "stock_code": "600256",
+        "stock_name": "广汇能源",
+        "market_value_wan": 3173.27
+      },
+      {
+        "stock_code": "601677",
+        "stock_name": "明泰铝业",
+        "market_value_wan": 2737.22
+      }
+    ],
+    "2022-Q2": [
+      {
+        "stock_code": "600809",
+        "stock_name": "山西汾酒",
+        "market_value_wan": 10179.65
+      },
+      {
+        "stock_code": "601058",
+        "stock_name": "赛轮轮胎",
+        "market_value_wan": 9713.51
+      },
+      {
+        "stock_code": "600057",
+        "stock_name": "厦门象屿",
+        "market_value_wan": 8869.87
+      },
+      {
+        "stock_code": "000568",
+        "stock_name": "泸州老窖",
+        "market_value_wan": 8187.47
+      },
+      {
+        "stock_code": "603369",
+        "stock_name": "今世缘",
+        "market_value_wan": 7748.16
+      },
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 6584.18
+      },
+      {
+        "stock_code": "002605",
+        "stock_name": "姚记科技",
+        "market_value_wan": 6505.4
+      },
+      {
+        "stock_code": "000858",
+        "stock_name": "五粮液",
+        "market_value_wan": 5180.9
+      },
+      {
+        "stock_code": "601677",
+        "stock_name": "明泰铝业",
+        "market_value_wan": 3583.38
+      },
+      {
+        "stock_code": "600256",
+        "stock_name": "广汇能源",
+        "market_value_wan": 2723.64
+      }
+    ],
+    "2022-Q1": [
+      {
+        "stock_code": "600809",
+        "stock_name": "山西汾酒",
+        "market_value_wan": 8529.29
+      },
+      {
+        "stock_code": "601058",
+        "stock_name": "赛轮轮胎",
+        "market_value_wan": 8498.24
+      },
+      {
+        "stock_code": "600057",
+        "stock_name": "厦门象屿",
+        "market_value_wan": 8359.79
+      },
+      {
+        "stock_code": "002605",
+        "stock_name": "姚记科技",
+        "market_value_wan": 7368.88
+      },
+      {
+        "stock_code": "603369",
+        "stock_name": "今世缘",
+        "market_value_wan": 6396.03
+      },
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 6176.93
+      },
+      {
+        "stock_code": "000568",
+        "stock_name": "泸州老窖",
+        "market_value_wan": 6172.98
+      },
+      {
+        "stock_code": "601677",
+        "stock_name": "明泰铝业",
+        "market_value_wan": 4441.58
+      },
+      {
+        "stock_code": "000858",
+        "stock_name": "五粮液",
+        "market_value_wan": 3978.36
+      },
+      {
+        "stock_code": "002353",
+        "stock_name": "杰瑞股份",
+        "market_value_wan": 2761.67
+      }
+    ]
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "002667",
+    "name": "前海开源沪港深创新成长混合C",
+    "base_name": "前海开源沪港深创新成长混合"
+  },
+  "fetched_at": "2026-06-14 23:07:15",
+  "quarters": {
+    "2024-Q4": [
+      {
+        "stock_code": "600674",
+        "stock_name": "川投能源",
+        "market_value_wan": 3463.28
+      },
+      {
+        "stock_code": "600025",
+        "stock_name": "华能水电",
+        "market_value_wan": 1923.59
+      },
+      {
+        "stock_code": "300207",
+        "stock_name": "欣旺达",
+        "market_value_wan": 1662.1
+      },
+      {
+        "stock_code": "601799",
+        "stock_name": "星宇股份",
+        "market_value_wan": 851.6
+      },
+      {
+        "stock_code": "603728",
+        "stock_name": "鸣志电器",
+        "market_value_wan": 851.58
+      }
+    ],
+    "2024-Q3": [
+      {
+        "stock_code": "688190",
+        "stock_name": "云路股份",
+        "market_value_wan": 1434.02
+      }
+    ],
+    "2024-Q2": [
+      {
+        "stock_code": "002271",
+        "stock_name": "东方雨虹",
+        "market_value_wan": 1879.14
+      }
+    ],
+    "2024-Q1": [
+      {
+        "stock_code": "002271",
+        "stock_name": "东方雨虹",
+        "market_value_wan": 2409.07
+      },
+      {
+        "stock_code": "603737",
+        "stock_name": "三棵树",
+        "market_value_wan": 1894.53
+      },
+      {
+        "stock_code": "688190",
+        "stock_name": "云路股份",
+        "market_value_wan": 1422.1
+      }
+    ]
+  }
+}

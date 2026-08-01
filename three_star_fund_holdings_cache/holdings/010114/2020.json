@@ -1,0 +1,48 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "010114",
+    "name": "华宝新兴成长混合A",
+    "base_name": "华宝新兴成长混合"
+  },
+  "fetched_at": "2026-06-14 23:38:00",
+  "quarters": {
+    "2020-Q4": [
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 12363.07
+      },
+      {
+        "stock_code": "002384",
+        "stock_name": "东山精密",
+        "market_value_wan": 11317.28
+      },
+      {
+        "stock_code": "601888",
+        "stock_name": "中国中免",
+        "market_value_wan": 11140.28
+      },
+      {
+        "stock_code": "300014",
+        "stock_name": "亿纬锂能",
+        "market_value_wan": 10355.98
+      },
+      {
+        "stock_code": "601689",
+        "stock_name": "拓普集团",
+        "market_value_wan": 5334.51
+      },
+      {
+        "stock_code": "002555",
+        "stock_name": "三七互娱",
+        "market_value_wan": 5253.84
+      },
+      {
+        "stock_code": "603678",
+        "stock_name": "火炬电子",
+        "market_value_wan": 4492.3
+      }
+    ]
+  }
+}

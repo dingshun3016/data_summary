@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "519700",
+    "name": "交银主题优选混合A",
+    "base_name": "交银主题优选混合"
+  },
+  "fetched_at": "2026-06-15 00:04:00",
+  "quarters": {
+    "2018-Q4": [
+      {
+        "stock_code": "601100",
+        "stock_name": "恒立液压",
+        "market_value_wan": 2816.03
+      },
+      {
+        "stock_code": "600115",
+        "stock_name": "中国东航",
+        "market_value_wan": 1720.78
+      },
+      {
+        "stock_code": "300271",
+        "stock_name": "华宇软件",
+        "market_value_wan": 1404.66
+      },
+      {
+        "stock_code": "600038",
+        "stock_name": "中直股份",
+        "market_value_wan": 1344.45
+      },
+      {
+        "stock_code": "300529",
+        "stock_name": "健帆生物",
+        "market_value_wan": 1327.48
+      },
+      {
+        "stock_code": "002191",
+        "stock_name": "劲嘉股份",
+        "market_value_wan": 1171.38
+      },
+      {
+        "stock_code": "601877",
+        "stock_name": "正泰电器",
+        "market_value_wan": 969.43
+      },
+      {
+        "stock_code": "300003",
+        "stock_name": "乐普医疗",
+        "market_value_wan": 949.98
+      },
+      {
+        "stock_code": "300454",
+        "stock_name": "深信服",
+        "market_value_wan": 930.71
+      },
+      {
+        "stock_code": "002271",
+        "stock_name": "东方雨虹",
+        "market_value_wan": 776.94
+      }
+    ],
+    "2018-Q3": [
+      {
+        "stock_code": "601100",
+        "stock_name": "恒立液压",
+        "market_value_wan": 2950.95
+      },
+      {
+        "stock_code": "600256",
+        "stock_name": "广汇能源",
+        "market_value_wan": 2903.3
+      },
+      {
+        "stock_code": "000001",
+        "stock_name": "平安银行",
+        "market_value_wan": 1595.39
+      },
+      {
+        "stock_code": "002236",
+        "stock_name": "大华股份",
+        "market_value_wan": 1521.46
+      },
+      {
+        "stock_code": "002044",
+        "stock_name": "美年健康",
+        "market_value_wan": 1516.1
+      },
+      {
+        "stock_code": "600115",
+        "stock_name": "中国东航",
+        "market_value_wan": 1468.71
+      },
+      {
+        "stock_code": "300170",
+        "stock_name": "汉得信息",
+        "market_value_wan": 1382.5
+      },
+      {
+        "stock_code": "300529",
+        "stock_name": "健帆生物",
+        "market_value_wan": 1309.5
+      },
+      {
+        "stock_code": "002717",
+        "stock_name": "岭南股份",
+        "market_value_wan": 1256.23
+      },
+      {
+        "stock_code": "600029",
+        "stock_name": "南方航空",
+        "market_value_wan": 1201.08
+      }
+    ],
+    "2018-Q2": [
+      {
+        "stock_code": "601100",
+        "stock_name": "恒立液压",
+        "market_value_wan": 2759.33
+      },
+      {
+        "stock_code": "603686",
+        "stock_name": "福龙马",
+        "market_value_wan": 2515.94
+      },
+      {
+        "stock_code": "600029",
+        "stock_name": "南方航空",
+        "market_value_wan": 2132.91
+      },
+      {
+        "stock_code": "600031",
+        "stock_name": "三一重工",
+        "market_value_wan": 1704.3
+      },
+      {
+        "stock_code": "000768",
+        "stock_name": "中航西飞",
+        "market_value_wan": 1667.22
+      },
+      {
+        "stock_code": "603108",
+        "stock_name": "润达医疗",
+        "market_value_wan": 1635.76
+      },
+      {
+        "stock_code": "300188",
+        "stock_name": "国投智能",
+        "market_value_wan": 1602.93
+      },
+      {
+        "stock_code": "300166",
+        "stock_name": "东方国信",
+        "market_value_wan": 1546.62
+      },
+      {
+        "stock_code": "002234",
+        "stock_name": "民和股份",
+        "market_value_wan": 1523.85
+      },
+      {
+        "stock_code": "300078",
+        "stock_name": "思创医惠",
+        "market_value_wan": 1501.54
+      }
+    ],
+    "2018-Q1": [
+      {
+        "stock_code": "601100",
+        "stock_name": "恒立液压",
+        "market_value_wan": 3265.91
+      },
+      {
+        "stock_code": "600029",
+        "stock_name": "南方航空",
+        "market_value_wan": 2046.56
+      },
+      {
+        "stock_code": "601111",
+        "stock_name": "中国国航",
+        "market_value_wan": 1665.99
+      },
+      {
+        "stock_code": "300145",
+        "stock_name": "中金环境",
+        "market_value_wan": 1507.54
+      },
+      {
+        "stock_code": "603638",
+        "stock_name": "艾迪精密",
+        "market_value_wan": 1416.68
+      },
+      {
+        "stock_code": "002343",
+        "stock_name": "慈文传媒",
+        "market_value_wan": 1380.87
+      },
+      {
+        "stock_code": "601009",
+        "stock_name": "南京银行",
+        "market_value_wan": 1345.88
+      },
+      {
+        "stock_code": "603368",
+        "stock_name": "柳药集团",
+        "market_value_wan": 1264.35
+      },
+      {
+        "stock_code": "300170",
+        "stock_name": "汉得信息",
+        "market_value_wan": 1261.06
+      },
+      {
+        "stock_code": "000031",
+        "stock_name": "大悦城",
+        "market_value_wan": 1228.54
+      }
+    ]
+  }
+}

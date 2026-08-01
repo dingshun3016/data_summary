@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "006564",
+    "name": "圆信永丰精选回报混合",
+    "base_name": "圆信永丰精选回报混合"
+  },
+  "fetched_at": "2026-06-14 23:22:18",
+  "quarters": {
+    "2022-Q4": [
+      {
+        "stock_code": "002179",
+        "stock_name": "中航光电",
+        "market_value_wan": 55.45
+      },
+      {
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "market_value_wan": 40.99
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 39.34
+      },
+      {
+        "stock_code": "300054",
+        "stock_name": "鼎龙股份",
+        "market_value_wan": 35.72
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 34.54
+      },
+      {
+        "stock_code": "601677",
+        "stock_name": "明泰铝业",
+        "market_value_wan": 31.45
+      },
+      {
+        "stock_code": "600048",
+        "stock_name": "保利发展",
+        "market_value_wan": 31.32
+      },
+      {
+        "stock_code": "600309",
+        "stock_name": "万华化学",
+        "market_value_wan": 27.8
+      },
+      {
+        "stock_code": "603338",
+        "stock_name": "浙江鼎力",
+        "market_value_wan": 26.84
+      },
+      {
+        "stock_code": "600399",
+        "stock_name": "抚顺特钢",
+        "market_value_wan": 23.04
+      }
+    ],
+    "2022-Q3": [
+      {
+        "stock_code": "002179",
+        "stock_name": "中航光电",
+        "market_value_wan": 58.0
+      },
+      {
+        "stock_code": "300054",
+        "stock_name": "鼎龙股份",
+        "market_value_wan": 42.02
+      },
+      {
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "market_value_wan": 41.39
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 40.09
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 37.45
+      },
+      {
+        "stock_code": "600048",
+        "stock_name": "保利发展",
+        "market_value_wan": 37.26
+      },
+      {
+        "stock_code": "601677",
+        "stock_name": "明泰铝业",
+        "market_value_wan": 36.8
+      },
+      {
+        "stock_code": "600309",
+        "stock_name": "万华化学",
+        "market_value_wan": 32.24
+      },
+      {
+        "stock_code": "601012",
+        "stock_name": "隆基绿能",
+        "market_value_wan": 27.4
+      },
+      {
+        "stock_code": "601689",
+        "stock_name": "拓普集团",
+        "market_value_wan": 27.31
+      }
+    ],
+    "2022-Q2": [
+      {
+        "stock_code": "002179",
+        "stock_name": "中航光电",
+        "market_value_wan": 68.39
+      },
+      {
+        "stock_code": "601677",
+        "stock_name": "明泰铝业",
+        "market_value_wan": 55.55
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 53.4
+      },
+      {
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "market_value_wan": 51.91
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 40.9
+      },
+      {
+        "stock_code": "601012",
+        "stock_name": "隆基绿能",
+        "market_value_wan": 40.11
+      },
+      {
+        "stock_code": "300054",
+        "stock_name": "鼎龙股份",
+        "market_value_wan": 39.12
+      },
+      {
+        "stock_code": "600048",
+        "stock_name": "保利发展",
+        "market_value_wan": 36.14
+      },
+      {
+        "stock_code": "600309",
+        "stock_name": "万华化学",
+        "market_value_wan": 33.95
+      },
+      {
+        "stock_code": "000001",
+        "stock_name": "平安银行",
+        "market_value_wan": 29.06
+      }
+    ],
+    "2022-Q1": [
+      {
+        "stock_code": "601677",
+        "stock_name": "明泰铝业",
+        "market_value_wan": 72.69
+      },
+      {
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "market_value_wan": 68.8
+      },
+      {
+        "stock_code": "002179",
+        "stock_name": "中航光电",
+        "market_value_wan": 67.59
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 51.23
+      },
+      {
+        "stock_code": "000001",
+        "stock_name": "平安银行",
+        "market_value_wan": 42.3
+      },
+      {
+        "stock_code": "600309",
+        "stock_name": "万华化学",
+        "market_value_wan": 38.83
+      },
+      {
+        "stock_code": "300054",
+        "stock_name": "鼎龙股份",
+        "market_value_wan": 36.83
+      },
+      {
+        "stock_code": "600048",
+        "stock_name": "保利发展",
+        "market_value_wan": 36.64
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 34.38
+      },
+      {
+        "stock_code": "601012",
+        "stock_name": "隆基绿能",
+        "market_value_wan": 31.04
+      }
+    ]
+  }
+}

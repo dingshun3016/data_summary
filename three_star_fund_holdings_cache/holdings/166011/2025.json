@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "166011",
+    "name": "中欧盛世成长混合(LOF)A",
+    "base_name": "中欧盛世成长混合(LOF)"
+  },
+  "fetched_at": "2026-06-14 23:54:51",
+  "quarters": {
+    "2025-Q4": [
+      {
+        "stock_code": "603179",
+        "stock_name": "新泉股份",
+        "market_value_wan": 5093.75
+      },
+      {
+        "stock_code": "300115",
+        "stock_name": "长盈精密",
+        "market_value_wan": 4409.13
+      },
+      {
+        "stock_code": "920978",
+        "stock_name": "开特股份",
+        "market_value_wan": 3068.55
+      },
+      {
+        "stock_code": "000559",
+        "stock_name": "万向钱潮",
+        "market_value_wan": 3045.97
+      },
+      {
+        "stock_code": "601100",
+        "stock_name": "恒立液压",
+        "market_value_wan": 3032.42
+      },
+      {
+        "stock_code": "603286",
+        "stock_name": "日盈电子",
+        "market_value_wan": 2784.38
+      },
+      {
+        "stock_code": "300969",
+        "stock_name": "恒帅股份",
+        "market_value_wan": 2712.99
+      },
+      {
+        "stock_code": "002048",
+        "stock_name": "宁波华翔",
+        "market_value_wan": 2540.4
+      },
+      {
+        "stock_code": "000700",
+        "stock_name": "模塑科技",
+        "market_value_wan": 2513.46
+      },
+      {
+        "stock_code": "603119",
+        "stock_name": "浙江荣泰",
+        "market_value_wan": 2464.51
+      }
+    ],
+    "2025-Q3": [
+      {
+        "stock_code": "603179",
+        "stock_name": "新泉股份",
+        "market_value_wan": 5380.68
+      },
+      {
+        "stock_code": "300115",
+        "stock_name": "长盈精密",
+        "market_value_wan": 4390.15
+      },
+      {
+        "stock_code": "603319",
+        "stock_name": "美湖股份",
+        "market_value_wan": 4249.26
+      },
+      {
+        "stock_code": "603786",
+        "stock_name": "科博达",
+        "market_value_wan": 3579.03
+      },
+      {
+        "stock_code": "920978",
+        "stock_name": "开特股份",
+        "market_value_wan": 3444.15
+      },
+      {
+        "stock_code": "600699",
+        "stock_name": "均胜电子",
+        "market_value_wan": 3244.18
+      },
+      {
+        "stock_code": "605133",
+        "stock_name": "嵘泰股份",
+        "market_value_wan": 2800.97
+      },
+      {
+        "stock_code": "002048",
+        "stock_name": "宁波华翔",
+        "market_value_wan": 2792.21
+      },
+      {
+        "stock_code": "603119",
+        "stock_name": "浙江荣泰",
+        "market_value_wan": 2774.69
+      },
+      {
+        "stock_code": "603579",
+        "stock_name": "荣泰健康",
+        "market_value_wan": 2439.5
+      }
+    ],
+    "2025-Q2": [
+      {
+        "stock_code": "300100",
+        "stock_name": "双林股份",
+        "market_value_wan": 3571.11
+      },
+      {
+        "stock_code": "603809",
+        "stock_name": "豪能股份",
+        "market_value_wan": 3513.98
+      },
+      {
+        "stock_code": "600592",
+        "stock_name": "龙溪股份",
+        "market_value_wan": 2446.64
+      },
+      {
+        "stock_code": "002801",
+        "stock_name": "微光股份",
+        "market_value_wan": 2252.3
+      },
+      {
+        "stock_code": "603583",
+        "stock_name": "捷昌驱动",
+        "market_value_wan": 2191.93
+      },
+      {
+        "stock_code": "002860",
+        "stock_name": "星帅尔",
+        "market_value_wan": 1993.53
+      },
+      {
+        "stock_code": "605133",
+        "stock_name": "嵘泰股份",
+        "market_value_wan": 1939.96
+      },
+      {
+        "stock_code": "301196",
+        "stock_name": "唯科科技",
+        "market_value_wan": 1872.43
+      },
+      {
+        "stock_code": "603166",
+        "stock_name": "福达股份",
+        "market_value_wan": 1871.41
+      },
+      {
+        "stock_code": "605319",
+        "stock_name": "无锡振华",
+        "market_value_wan": 1770.85
+      }
+    ],
+    "2025-Q1": [
+      {
+        "stock_code": "300100",
+        "stock_name": "双林股份",
+        "market_value_wan": 4016.58
+      },
+      {
+        "stock_code": "603583",
+        "stock_name": "捷昌驱动",
+        "market_value_wan": 2620.03
+      },
+      {
+        "stock_code": "002801",
+        "stock_name": "微光股份",
+        "market_value_wan": 2246.71
+      },
+      {
+        "stock_code": "603119",
+        "stock_name": "浙江荣泰",
+        "market_value_wan": 1778.14
+      },
+      {
+        "stock_code": "603166",
+        "stock_name": "福达股份",
+        "market_value_wan": 1493.95
+      },
+      {
+        "stock_code": "600592",
+        "stock_name": "龙溪股份",
+        "market_value_wan": 1461.38
+      },
+      {
+        "stock_code": "920978",
+        "stock_name": "开特股份",
+        "market_value_wan": 1457.98
+      },
+      {
+        "stock_code": "002126",
+        "stock_name": "银轮股份",
+        "market_value_wan": 1457.44
+      },
+      {
+        "stock_code": "603915",
+        "stock_name": "国茂股份",
+        "market_value_wan": 1454.51
+      },
+      {
+        "stock_code": "301000",
+        "stock_name": "肇民科技",
+        "market_value_wan": 1436.2
+      }
+    ]
+  }
+}

@@ -1,0 +1,260 @@
+{
+  "month": "2025-05",
+  "query": "2025年5月涨幅大于20%的股票，2025年5月涨跌幅，市值，行业板块，上市时间，非北交，非新股，非ST，市值大于200亿，上市时间在2024年之前",
+  "fetched_at": "2026-06-13 21:54:05",
+  "records": [
+    {
+      "code": "300502",
+      "name": "新易盛",
+      "gain": "38.93",
+      "mktcap": "7,061.35亿",
+      "industry": "通信-通信设备-通信网络设备及器件",
+      "listing_date": "20160303",
+      "gain_pct": 38.93,
+      "market_cap_yi": 7061.35,
+      "listing_date_parsed": "2016-03-03"
+    },
+    {
+      "code": "603256",
+      "name": "宏和科技",
+      "gain": "24.02",
+      "mktcap": "1,880.54亿",
+      "industry": "电子-电子化学品-电子化学品Ⅲ",
+      "listing_date": "20190719",
+      "gain_pct": 24.02,
+      "market_cap_yi": 1880.54,
+      "listing_date_parsed": "2019-07-19"
+    },
+    {
+      "code": "302132",
+      "name": "中航成飞",
+      "gain": "30.96",
+      "mktcap": "1,705.06亿",
+      "industry": "国防军工-军工装备-航空装备",
+      "listing_date": "20100827",
+      "gain_pct": 30.96,
+      "market_cap_yi": 1705.06,
+      "listing_date_parsed": "2010-08-27"
+    },
+    {
+      "code": "002602",
+      "name": "世纪华通",
+      "gain": "23.74",
+      "mktcap": "1,059.17亿",
+      "industry": "传媒-游戏-游戏Ⅲ",
+      "listing_date": "20110728",
+      "gain_pct": 23.74,
+      "market_cap_yi": 1059.17,
+      "listing_date_parsed": "2011-07-28"
+    },
+    {
+      "code": "002080",
+      "name": "中材科技",
+      "gain": "25.10",
+      "mktcap": "1,039.09亿",
+      "industry": "建筑材料-建筑材料-玻璃玻纤",
+      "listing_date": "20061120",
+      "gain_pct": 25.1,
+      "market_cap_yi": 1039.09,
+      "listing_date_parsed": "2006-11-20"
+    },
+    {
+      "code": "600105",
+      "name": "永鼎股份",
+      "gain": "31.09",
+      "mktcap": "750.00亿",
+      "industry": "通信-通信设备-通信线缆及配套",
+      "listing_date": "19970929",
+      "gain_pct": 31.09,
+      "market_cap_yi": 750.0,
+      "listing_date_parsed": "1997-09-29"
+    },
+    {
+      "code": "000559",
+      "name": "万向钱潮",
+      "gain": "20.92",
+      "mktcap": "445.25亿",
+      "industry": "汽车-汽车零部件-底盘与发动机系统",
+      "listing_date": "19940110",
+      "gain_pct": 20.92,
+      "market_cap_yi": 445.25,
+      "listing_date_parsed": "1994-01-10"
+    },
+    {
+      "code": "002378",
+      "name": "章源钨业",
+      "gain": "24.70",
+      "mktcap": "416.17亿",
+      "industry": "有色金属-小金属-钨",
+      "listing_date": "20100331",
+      "gain_pct": 24.7,
+      "market_cap_yi": 416.17,
+      "listing_date_parsed": "2010-03-31"
+    },
+    {
+      "code": "002831",
+      "name": "裕同科技",
+      "gain": "20.30",
+      "mktcap": "382.12亿",
+      "industry": "轻工制造-包装印刷-包装",
+      "listing_date": "20161216",
+      "gain_pct": 20.3,
+      "market_cap_yi": 382.12,
+      "listing_date_parsed": "2016-12-16"
+    },
+    {
+      "code": "688336",
+      "name": "三生国健",
+      "gain": "99.86",
+      "mktcap": "351.26亿",
+      "industry": "医药生物-生物制品-其他生物制品",
+      "listing_date": "20200722",
+      "gain_pct": 99.86,
+      "market_cap_yi": 351.26,
+      "listing_date_parsed": "2020-07-22"
+    },
+    {
+      "code": "688205",
+      "name": "德科立",
+      "gain": "21.98",
+      "mktcap": "350.32亿",
+      "industry": "通信-通信设备-通信网络设备及器件",
+      "listing_date": "20220809",
+      "gain_pct": 21.98,
+      "market_cap_yi": 350.32,
+      "listing_date_parsed": "2022-08-09"
+    },
+    {
+      "code": "000539",
+      "name": "粤电力A",
+      "gain": "21.31",
+      "mktcap": "341.90亿",
+      "industry": "公用事业-电力-火电",
+      "listing_date": "19931126",
+      "gain_pct": 21.31,
+      "market_cap_yi": 341.9,
+      "listing_date_parsed": "1993-11-26"
+    },
+    {
+      "code": "002465",
+      "name": "海格通信",
+      "gain": "32.36",
+      "mktcap": "339.51亿",
+      "industry": "国防军工-军工电子-军工电子Ⅲ",
+      "listing_date": "20100831",
+      "gain_pct": 32.36,
+      "market_cap_yi": 339.51,
+      "listing_date_parsed": "2010-08-31"
+    },
+    {
+      "code": "603306",
+      "name": "华懋科技",
+      "gain": "20.26",
+      "mktcap": "332.72亿",
+      "industry": "汽车-汽车零部件-车身附件及饰件",
+      "listing_date": "20140926",
+      "gain_pct": 20.26,
+      "market_cap_yi": 332.72,
+      "listing_date_parsed": "2014-09-26"
+    },
+    {
+      "code": "000967",
+      "name": "盈峰环境",
+      "gain": "23.39",
+      "mktcap": "330.88亿",
+      "industry": "环保-环保设备-环保设备Ⅲ",
+      "listing_date": "20000330",
+      "gain_pct": 23.39,
+      "market_cap_yi": 330.88,
+      "listing_date_parsed": "2000-03-30"
+    },
+    {
+      "code": "300765",
+      "name": "新诺威",
+      "gain": "23.92",
+      "mktcap": "326.29亿",
+      "industry": "医药生物-化学制药-原料药",
+      "listing_date": "20190322",
+      "gain_pct": 23.92,
+      "market_cap_yi": 326.29,
+      "listing_date_parsed": "2019-03-22"
+    },
+    {
+      "code": "300255",
+      "name": "常山药业",
+      "gain": "77.79",
+      "mktcap": "324.34亿",
+      "industry": "医药生物-化学制药-化学制剂",
+      "listing_date": "20110819",
+      "gain_pct": 77.79,
+      "market_cap_yi": 324.34,
+      "listing_date_parsed": "2011-08-19"
+    },
+    {
+      "code": "301550",
+      "name": "斯菱智驱",
+      "gain": "32.41",
+      "mktcap": "318.45亿",
+      "industry": "汽车-汽车零部件-底盘与发动机系统",
+      "listing_date": "20230915",
+      "gain_pct": 32.41,
+      "market_cap_yi": 318.45,
+      "listing_date_parsed": "2023-09-15"
+    },
+    {
+      "code": "600562",
+      "name": "国睿科技",
+      "gain": "24.15",
+      "mktcap": "267.50亿",
+      "industry": "国防军工-军工电子-军工电子Ⅲ",
+      "listing_date": "20030128",
+      "gain_pct": 24.15,
+      "market_cap_yi": 267.5,
+      "listing_date_parsed": "2003-01-28"
+    },
+    {
+      "code": "600353",
+      "name": "旭光电子",
+      "gain": "24.23",
+      "mktcap": "237.79亿",
+      "industry": "电子-其他电子-其他电子Ⅲ",
+      "listing_date": "20021120",
+      "gain_pct": 24.23,
+      "market_cap_yi": 237.79,
+      "listing_date_parsed": "2002-11-20"
+    },
+    {
+      "code": "000029",
+      "name": "深深房A",
+      "gain": "23.82",
+      "mktcap": "230.27亿",
+      "industry": "房地产-房地产-住宅开发",
+      "listing_date": "19930915",
+      "gain_pct": 23.82,
+      "market_cap_yi": 230.27,
+      "listing_date_parsed": "1993-09-15"
+    },
+    {
+      "code": "603127",
+      "name": "昭衍新药",
+      "gain": "22.56",
+      "mktcap": "221.98亿",
+      "industry": "医药生物-医疗服务-医疗研发外包",
+      "listing_date": "20170825",
+      "gain_pct": 22.56,
+      "market_cap_yi": 221.98,
+      "listing_date_parsed": "2017-08-25"
+    },
+    {
+      "code": "600521",
+      "name": "华海药业",
+      "gain": "20.85",
+      "mktcap": "216.35亿",
+      "industry": "医药生物-化学制药-化学制剂",
+      "listing_date": "20030304",
+      "gain_pct": 20.85,
+      "market_cap_yi": 216.35,
+      "listing_date_parsed": "2003-03-04"
+    }
+  ]
+}

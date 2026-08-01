@@ -1,0 +1,115 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "481008",
+    "name": "工银大盘蓝筹混合",
+    "base_name": "工银大盘蓝筹混合"
+  },
+  "fetched_at": "2026-08-01 21:01:04",
+  "quarters": {
+    "2026-Q2": [
+      {
+        "stock_code": "300308",
+        "stock_name": "中际旭创",
+        "market_value_wan": 2095.5
+      },
+      {
+        "stock_code": "688652",
+        "stock_name": "京仪装备",
+        "market_value_wan": 1406.01
+      },
+      {
+        "stock_code": "300408",
+        "stock_name": "三环集团",
+        "market_value_wan": 1230.05
+      },
+      {
+        "stock_code": "002602",
+        "stock_name": "世纪华通",
+        "market_value_wan": 1216.83
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 1104.36
+      },
+      {
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "market_value_wan": 1103.75
+      },
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 1080.08
+      },
+      {
+        "stock_code": "603605",
+        "stock_name": "珀莱雅",
+        "market_value_wan": 917.97
+      },
+      {
+        "stock_code": "601899",
+        "stock_name": "紫金矿业",
+        "market_value_wan": 847.47
+      },
+      {
+        "stock_code": "600176",
+        "stock_name": "中国巨石",
+        "market_value_wan": 832.29
+      }
+    ],
+    "2026-Q1": [
+      {
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "market_value_wan": 1312.75
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 1265.36
+      },
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 1091.81
+      },
+      {
+        "stock_code": "002602",
+        "stock_name": "世纪华通",
+        "market_value_wan": 1078.74
+      },
+      {
+        "stock_code": "601899",
+        "stock_name": "紫金矿业",
+        "market_value_wan": 942.99
+      },
+      {
+        "stock_code": "688498",
+        "stock_name": "源杰科技",
+        "market_value_wan": 784.65
+      },
+      {
+        "stock_code": "688025",
+        "stock_name": "杰普特",
+        "market_value_wan": 774.94
+      },
+      {
+        "stock_code": "300408",
+        "stock_name": "三环集团",
+        "market_value_wan": 774.78
+      },
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 665.01
+      },
+      {
+        "stock_code": "300308",
+        "stock_name": "中际旭创",
+        "market_value_wan": 614.96
+      }
+    ]
+  }
+}

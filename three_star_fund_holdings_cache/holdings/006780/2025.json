@@ -1,0 +1,104 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "006780",
+    "name": "广发稳健策略混合A",
+    "base_name": "广发稳健策略混合"
+  },
+  "fetched_at": "2026-06-14 23:22:52",
+  "quarters": {
+    "2025-Q4": [
+      {
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "market_value_wan": 8563.0
+      },
+      {
+        "stock_code": "601166",
+        "stock_name": "兴业银行",
+        "market_value_wan": 4332.04
+      },
+      {
+        "stock_code": "002315",
+        "stock_name": "焦点科技",
+        "market_value_wan": 2883.34
+      },
+      {
+        "stock_code": "600064",
+        "stock_name": "南京高科",
+        "market_value_wan": 2510.48
+      }
+    ],
+    "2025-Q3": [
+      {
+        "stock_code": "603167",
+        "stock_name": "渤海轮渡",
+        "market_value_wan": 4611.0
+      },
+      {
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "market_value_wan": 2991.92
+      },
+      {
+        "stock_code": "600064",
+        "stock_name": "南京高科",
+        "market_value_wan": 2688.4
+      },
+      {
+        "stock_code": "600704",
+        "stock_name": "物产中大",
+        "market_value_wan": 2671.99
+      }
+    ],
+    "2025-Q2": [
+      {
+        "stock_code": "603167",
+        "stock_name": "渤海轮渡",
+        "market_value_wan": 3139.22
+      },
+      {
+        "stock_code": "002422",
+        "stock_name": "科伦药业",
+        "market_value_wan": 2462.32
+      },
+      {
+        "stock_code": "600064",
+        "stock_name": "南京高科",
+        "market_value_wan": 1567.6
+      },
+      {
+        "stock_code": "000960",
+        "stock_name": "锡业股份",
+        "market_value_wan": 1535.97
+      }
+    ],
+    "2025-Q1": [
+      {
+        "stock_code": "002422",
+        "stock_name": "科伦药业",
+        "market_value_wan": 1565.41
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 1013.78
+      },
+      {
+        "stock_code": "000423",
+        "stock_name": "东阿阿胶",
+        "market_value_wan": 813.05
+      },
+      {
+        "stock_code": "001914",
+        "stock_name": "招商积余",
+        "market_value_wan": 623.06
+      },
+      {
+        "stock_code": "600323",
+        "stock_name": "瀚蓝环境",
+        "market_value_wan": 479.71
+      }
+    ]
+  }
+}

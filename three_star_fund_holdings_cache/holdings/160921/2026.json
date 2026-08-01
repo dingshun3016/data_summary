@@ -1,0 +1,115 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "160921",
+    "name": "大成多策略混合(LOF)A",
+    "base_name": "大成多策略混合(LOF)"
+  },
+  "fetched_at": "2026-08-01 21:00:18",
+  "quarters": {
+    "2026-Q2": [
+      {
+        "stock_code": "300677",
+        "stock_name": "英科医疗",
+        "market_value_wan": 169.53
+      },
+      {
+        "stock_code": "688029",
+        "stock_name": "南微医学",
+        "market_value_wan": 154.82
+      },
+      {
+        "stock_code": "603087",
+        "stock_name": "甘李药业",
+        "market_value_wan": 99.33
+      },
+      {
+        "stock_code": "600993",
+        "stock_name": "马应龙",
+        "market_value_wan": 92.32
+      },
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 80.82
+      },
+      {
+        "stock_code": "600298",
+        "stock_name": "安琪酵母",
+        "market_value_wan": 77.47
+      },
+      {
+        "stock_code": "000429",
+        "stock_name": "粤高速A",
+        "market_value_wan": 73.57
+      },
+      {
+        "stock_code": "000739",
+        "stock_name": "普洛药业",
+        "market_value_wan": 63.97
+      },
+      {
+        "stock_code": "600941",
+        "stock_name": "中国移动",
+        "market_value_wan": 55.12
+      },
+      {
+        "stock_code": "601939",
+        "stock_name": "建设银行",
+        "market_value_wan": 53.64
+      }
+    ],
+    "2026-Q1": [
+      {
+        "stock_code": "300677",
+        "stock_name": "英科医疗",
+        "market_value_wan": 607.81
+      },
+      {
+        "stock_code": "603087",
+        "stock_name": "甘李药业",
+        "market_value_wan": 467.2
+      },
+      {
+        "stock_code": "600298",
+        "stock_name": "安琪酵母",
+        "market_value_wan": 433.2
+      },
+      {
+        "stock_code": "600176",
+        "stock_name": "中国巨石",
+        "market_value_wan": 347.63
+      },
+      {
+        "stock_code": "688029",
+        "stock_name": "南微医学",
+        "market_value_wan": 319.35
+      },
+      {
+        "stock_code": "000739",
+        "stock_name": "普洛药业",
+        "market_value_wan": 266.92
+      },
+      {
+        "stock_code": "300357",
+        "stock_name": "我武生物",
+        "market_value_wan": 254.49
+      },
+      {
+        "stock_code": "002262",
+        "stock_name": "恩华药业",
+        "market_value_wan": 245.73
+      },
+      {
+        "stock_code": "600988",
+        "stock_name": "赤峰黄金",
+        "market_value_wan": 226.11
+      },
+      {
+        "stock_code": "688278",
+        "stock_name": "特宝生物",
+        "market_value_wan": 224.33
+      }
+    ]
+  }
+}

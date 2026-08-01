@@ -1,0 +1,115 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "373010",
+    "name": "摩根双息平衡混合A",
+    "base_name": "摩根双息平衡混合"
+  },
+  "fetched_at": "2026-08-01 21:00:55",
+  "quarters": {
+    "2026-Q2": [
+      {
+        "stock_code": "601233",
+        "stock_name": "桐昆股份",
+        "market_value_wan": 2126.46
+      },
+      {
+        "stock_code": "601088",
+        "stock_name": "中国神华",
+        "market_value_wan": 1952.0
+      },
+      {
+        "stock_code": "600919",
+        "stock_name": "江苏银行",
+        "market_value_wan": 1939.86
+      },
+      {
+        "stock_code": "601328",
+        "stock_name": "交通银行",
+        "market_value_wan": 1929.0
+      },
+      {
+        "stock_code": "600285",
+        "stock_name": "羚锐制药",
+        "market_value_wan": 1822.11
+      },
+      {
+        "stock_code": "603225",
+        "stock_name": "新凤鸣",
+        "market_value_wan": 1730.77
+      },
+      {
+        "stock_code": "600309",
+        "stock_name": "万华化学",
+        "market_value_wan": 1702.04
+      },
+      {
+        "stock_code": "601288",
+        "stock_name": "农业银行",
+        "market_value_wan": 1699.6
+      },
+      {
+        "stock_code": "601006",
+        "stock_name": "大秦铁路",
+        "market_value_wan": 1630.23
+      },
+      {
+        "stock_code": "600019",
+        "stock_name": "宝钢股份",
+        "market_value_wan": 1629.0
+      }
+    ],
+    "2026-Q1": [
+      {
+        "stock_code": "601088",
+        "stock_name": "中国神华",
+        "market_value_wan": 2491.78
+      },
+      {
+        "stock_code": "000683",
+        "stock_name": "博源化工",
+        "market_value_wan": 2214.35
+      },
+      {
+        "stock_code": "600801",
+        "stock_name": "华新建材",
+        "market_value_wan": 2120.0
+      },
+      {
+        "stock_code": "601233",
+        "stock_name": "桐昆股份",
+        "market_value_wan": 2104.63
+      },
+      {
+        "stock_code": "601328",
+        "stock_name": "交通银行",
+        "market_value_wan": 2100.0
+      },
+      {
+        "stock_code": "600919",
+        "stock_name": "江苏银行",
+        "market_value_wan": 1965.05
+      },
+      {
+        "stock_code": "600585",
+        "stock_name": "海螺水泥",
+        "market_value_wan": 1929.23
+      },
+      {
+        "stock_code": "600019",
+        "stock_name": "宝钢股份",
+        "market_value_wan": 1923.0
+      },
+      {
+        "stock_code": "601288",
+        "stock_name": "农业银行",
+        "market_value_wan": 1876.0
+      },
+      {
+        "stock_code": "601857",
+        "stock_name": "中国石油",
+        "market_value_wan": 1828.5
+      }
+    ]
+  }
+}

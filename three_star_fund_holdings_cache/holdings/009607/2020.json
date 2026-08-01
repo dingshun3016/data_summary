@@ -1,0 +1,80 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "009607",
+    "name": "长信稳健精选混合C",
+    "base_name": "长信稳健精选混合"
+  },
+  "fetched_at": "2026-06-14 23:34:34",
+  "quarters": {
+    "2020-Q4": [
+      {
+        "stock_code": "300054",
+        "stock_name": "鼎龙股份",
+        "market_value_wan": 2042.28
+      },
+      {
+        "stock_code": "002415",
+        "stock_name": "海康威视",
+        "market_value_wan": 1588.7
+      },
+      {
+        "stock_code": "601233",
+        "stock_name": "桐昆股份",
+        "market_value_wan": 1282.93
+      },
+      {
+        "stock_code": "600309",
+        "stock_name": "万华化学",
+        "market_value_wan": 819.36
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 779.22
+      },
+      {
+        "stock_code": "600887",
+        "stock_name": "伊利股份",
+        "market_value_wan": 754.29
+      }
+    ],
+    "2020-Q3": [
+      {
+        "stock_code": "300054",
+        "stock_name": "鼎龙股份",
+        "market_value_wan": 1725.43
+      },
+      {
+        "stock_code": "601233",
+        "stock_name": "桐昆股份",
+        "market_value_wan": 1383.15
+      },
+      {
+        "stock_code": "601336",
+        "stock_name": "新华保险",
+        "market_value_wan": 1055.35
+      },
+      {
+        "stock_code": "000002",
+        "stock_name": "万科A",
+        "market_value_wan": 1036.74
+      },
+      {
+        "stock_code": "002415",
+        "stock_name": "海康威视",
+        "market_value_wan": 895.59
+      },
+      {
+        "stock_code": "600887",
+        "stock_name": "伊利股份",
+        "market_value_wan": 885.5
+      },
+      {
+        "stock_code": "600309",
+        "stock_name": "万华化学",
+        "market_value_wan": 831.6
+      }
+    ]
+  }
+}

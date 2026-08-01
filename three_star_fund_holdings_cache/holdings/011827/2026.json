@@ -1,0 +1,75 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "011827",
+    "name": "汇添富健康生活一年持有混合C",
+    "base_name": "汇添富健康生活一年持有混合"
+  },
+  "fetched_at": "2026-08-01 20:59:52",
+  "quarters": {
+    "2026-Q2": [
+      {
+        "stock_code": "688506",
+        "stock_name": "百利天恒",
+        "market_value_wan": 5221.94
+      },
+      {
+        "stock_code": "002653",
+        "stock_name": "海思科",
+        "market_value_wan": 5107.4
+      },
+      {
+        "stock_code": "600276",
+        "stock_name": "恒瑞医药",
+        "market_value_wan": 5083.33
+      },
+      {
+        "stock_code": "688266",
+        "stock_name": "泽璟制药",
+        "market_value_wan": 4209.97
+      },
+      {
+        "stock_code": "300765",
+        "stock_name": "石药创新",
+        "market_value_wan": 1914.79
+      },
+      {
+        "stock_code": "688068",
+        "stock_name": "热景生物",
+        "market_value_wan": 1616.45
+      }
+    ],
+    "2026-Q1": [
+      {
+        "stock_code": "600276",
+        "stock_name": "恒瑞医药",
+        "market_value_wan": 6273.61
+      },
+      {
+        "stock_code": "002653",
+        "stock_name": "海思科",
+        "market_value_wan": 6071.12
+      },
+      {
+        "stock_code": "688506",
+        "stock_name": "百利天恒",
+        "market_value_wan": 5418.64
+      },
+      {
+        "stock_code": "688266",
+        "stock_name": "泽璟制药",
+        "market_value_wan": 4108.42
+      },
+      {
+        "stock_code": "688068",
+        "stock_name": "热景生物",
+        "market_value_wan": 2886.51
+      },
+      {
+        "stock_code": "002294",
+        "stock_name": "信立泰",
+        "market_value_wan": 1668.78
+      }
+    ]
+  }
+}

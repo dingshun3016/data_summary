@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "001048",
+    "name": "富国新兴产业股票A",
+    "base_name": "富国新兴产业股票"
+  },
+  "fetched_at": "2026-06-14 22:27:14",
+  "quarters": {
+    "2018-Q4": [
+      {
+        "stock_code": "002127",
+        "stock_name": "南极电商",
+        "market_value_wan": 14853.16
+      },
+      {
+        "stock_code": "002120",
+        "stock_name": "韵达股份",
+        "market_value_wan": 14683.44
+      },
+      {
+        "stock_code": "300498",
+        "stock_name": "温氏股份",
+        "market_value_wan": 10308.22
+      },
+      {
+        "stock_code": "600900",
+        "stock_name": "长江电力",
+        "market_value_wan": 9517.68
+      },
+      {
+        "stock_code": "002142",
+        "stock_name": "宁波银行",
+        "market_value_wan": 9276.71
+      },
+      {
+        "stock_code": "601006",
+        "stock_name": "大秦铁路",
+        "market_value_wan": 9039.09
+      },
+      {
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "market_value_wan": 8965.64
+      },
+      {
+        "stock_code": "000002",
+        "stock_name": "万科A",
+        "market_value_wan": 7667.73
+      },
+      {
+        "stock_code": "002271",
+        "stock_name": "东方雨虹",
+        "market_value_wan": 7143.92
+      },
+      {
+        "stock_code": "601288",
+        "stock_name": "农业银行",
+        "market_value_wan": 5708.99
+      }
+    ],
+    "2018-Q3": [
+      {
+        "stock_code": "002120",
+        "stock_name": "韵达股份",
+        "market_value_wan": 17686.33
+      },
+      {
+        "stock_code": "002127",
+        "stock_name": "南极电商",
+        "market_value_wan": 17261.61
+      },
+      {
+        "stock_code": "300136",
+        "stock_name": "信维通信",
+        "market_value_wan": 15480.69
+      },
+      {
+        "stock_code": "002027",
+        "stock_name": "分众传媒",
+        "market_value_wan": 15425.19
+      },
+      {
+        "stock_code": "002271",
+        "stock_name": "东方雨虹",
+        "market_value_wan": 13750.07
+      },
+      {
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "market_value_wan": 11982.87
+      },
+      {
+        "stock_code": "600487",
+        "stock_name": "亨通光电",
+        "market_value_wan": 11014.35
+      },
+      {
+        "stock_code": "002035",
+        "stock_name": "华帝股份",
+        "market_value_wan": 10397.26
+      },
+      {
+        "stock_code": "000002",
+        "stock_name": "万科A",
+        "market_value_wan": 7822.24
+      },
+      {
+        "stock_code": "300498",
+        "stock_name": "温氏股份",
+        "market_value_wan": 6670.13
+      }
+    ],
+    "2018-Q2": [
+      {
+        "stock_code": "002127",
+        "stock_name": "南极电商",
+        "market_value_wan": 22142.96
+      },
+      {
+        "stock_code": "002120",
+        "stock_name": "韵达股份",
+        "market_value_wan": 21909.38
+      },
+      {
+        "stock_code": "002027",
+        "stock_name": "分众传媒",
+        "market_value_wan": 19625.99
+      },
+      {
+        "stock_code": "002035",
+        "stock_name": "华帝股份",
+        "market_value_wan": 19104.08
+      },
+      {
+        "stock_code": "300136",
+        "stock_name": "信维通信",
+        "market_value_wan": 18298.88
+      },
+      {
+        "stock_code": "002271",
+        "stock_name": "东方雨虹",
+        "market_value_wan": 16250.55
+      },
+      {
+        "stock_code": "600487",
+        "stock_name": "亨通光电",
+        "market_value_wan": 12713.77
+      },
+      {
+        "stock_code": "600703",
+        "stock_name": "三安光电",
+        "market_value_wan": 11135.41
+      },
+      {
+        "stock_code": "000651",
+        "stock_name": "格力电器",
+        "market_value_wan": 10385.93
+      },
+      {
+        "stock_code": "002146",
+        "stock_name": "荣盛发展",
+        "market_value_wan": 9333.24
+      }
+    ],
+    "2018-Q1": [
+      {
+        "stock_code": "002120",
+        "stock_name": "韵达股份",
+        "market_value_wan": 26952.85
+      },
+      {
+        "stock_code": "002127",
+        "stock_name": "南极电商",
+        "market_value_wan": 26891.6
+      },
+      {
+        "stock_code": "002271",
+        "stock_name": "东方雨虹",
+        "market_value_wan": 24006.17
+      },
+      {
+        "stock_code": "300136",
+        "stock_name": "信维通信",
+        "market_value_wan": 22814.89
+      },
+      {
+        "stock_code": "002027",
+        "stock_name": "分众传媒",
+        "market_value_wan": 22424.54
+      },
+      {
+        "stock_code": "002035",
+        "stock_name": "华帝股份",
+        "market_value_wan": 21223.24
+      },
+      {
+        "stock_code": "600487",
+        "stock_name": "亨通光电",
+        "market_value_wan": 16570.39
+      },
+      {
+        "stock_code": "601012",
+        "stock_name": "隆基绿能",
+        "market_value_wan": 14863.36
+      },
+      {
+        "stock_code": "002572",
+        "stock_name": "索菲亚",
+        "market_value_wan": 14633.97
+      },
+      {
+        "stock_code": "600703",
+        "stock_name": "三安光电",
+        "market_value_wan": 14096.22
+      }
+    ]
+  }
+}

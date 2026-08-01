@@ -1,0 +1,115 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "420001",
+    "name": "天弘精选混合A",
+    "base_name": "天弘精选混合"
+  },
+  "fetched_at": "2026-08-01 21:00:59",
+  "quarters": {
+    "2026-Q2": [
+      {
+        "stock_code": "605305",
+        "stock_name": "中际联合",
+        "market_value_wan": 8384.0
+      },
+      {
+        "stock_code": "002142",
+        "stock_name": "宁波银行",
+        "market_value_wan": 8313.41
+      },
+      {
+        "stock_code": "688377",
+        "stock_name": "迪威尔",
+        "market_value_wan": 7074.14
+      },
+      {
+        "stock_code": "000951",
+        "stock_name": "中国重汽",
+        "market_value_wan": 6828.65
+      },
+      {
+        "stock_code": "688052",
+        "stock_name": "纳芯微",
+        "market_value_wan": 5766.2
+      },
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 5632.0
+      },
+      {
+        "stock_code": "600141",
+        "stock_name": "兴发集团",
+        "market_value_wan": 4697.0
+      },
+      {
+        "stock_code": "300138",
+        "stock_name": "晨光生物",
+        "market_value_wan": 4500.06
+      },
+      {
+        "stock_code": "600153",
+        "stock_name": "建发股份",
+        "market_value_wan": 3965.0
+      },
+      {
+        "stock_code": "002595",
+        "stock_name": "豪迈科技",
+        "market_value_wan": 3728.62
+      }
+    ],
+    "2026-Q1": [
+      {
+        "stock_code": "002142",
+        "stock_name": "宁波银行",
+        "market_value_wan": 6851.4
+      },
+      {
+        "stock_code": "605305",
+        "stock_name": "中际联合",
+        "market_value_wan": 6548.8
+      },
+      {
+        "stock_code": "000951",
+        "stock_name": "中国重汽",
+        "market_value_wan": 5562.68
+      },
+      {
+        "stock_code": "688377",
+        "stock_name": "迪威尔",
+        "market_value_wan": 5457.54
+      },
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 4926.0
+      },
+      {
+        "stock_code": "688052",
+        "stock_name": "纳芯微",
+        "market_value_wan": 4436.4
+      },
+      {
+        "stock_code": "603203",
+        "stock_name": "快克智能",
+        "market_value_wan": 4210.8
+      },
+      {
+        "stock_code": "600141",
+        "stock_name": "兴发集团",
+        "market_value_wan": 4005.6
+      },
+      {
+        "stock_code": "002352",
+        "stock_name": "顺丰控股",
+        "market_value_wan": 3804.0
+      },
+      {
+        "stock_code": "600153",
+        "stock_name": "建发股份",
+        "market_value_wan": 3552.0
+      }
+    ]
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "007592",
+    "name": "华夏价值精选混合A",
+    "base_name": "华夏价值精选混合"
+  },
+  "fetched_at": "2026-06-14 23:25:04",
+  "quarters": {
+    "2022-Q4": [
+      {
+        "stock_code": "002126",
+        "stock_name": "银轮股份",
+        "market_value_wan": 2947.25
+      },
+      {
+        "stock_code": "000935",
+        "stock_name": "四川双马",
+        "market_value_wan": 2464.13
+      },
+      {
+        "stock_code": "688191",
+        "stock_name": "智洋创新",
+        "market_value_wan": 1264.74
+      },
+      {
+        "stock_code": "603909",
+        "stock_name": "建发合诚",
+        "market_value_wan": 1241.03
+      },
+      {
+        "stock_code": "600887",
+        "stock_name": "伊利股份",
+        "market_value_wan": 1205.9
+      }
+    ],
+    "2022-Q3": [
+      {
+        "stock_code": "002126",
+        "stock_name": "银轮股份",
+        "market_value_wan": 2174.27
+      },
+      {
+        "stock_code": "000935",
+        "stock_name": "四川双马",
+        "market_value_wan": 1482.42
+      },
+      {
+        "stock_code": "688191",
+        "stock_name": "智洋创新",
+        "market_value_wan": 1076.92
+      },
+      {
+        "stock_code": "600887",
+        "stock_name": "伊利股份",
+        "market_value_wan": 950.81
+      },
+      {
+        "stock_code": "600690",
+        "stock_name": "海尔智家",
+        "market_value_wan": 744.59
+      }
+    ],
+    "2022-Q2": [
+      {
+        "stock_code": "002126",
+        "stock_name": "银轮股份",
+        "market_value_wan": 2497.13
+      },
+      {
+        "stock_code": "000935",
+        "stock_name": "四川双马",
+        "market_value_wan": 1517.38
+      },
+      {
+        "stock_code": "600887",
+        "stock_name": "伊利股份",
+        "market_value_wan": 1122.93
+      },
+      {
+        "stock_code": "002782",
+        "stock_name": "可立克",
+        "market_value_wan": 1044.04
+      }
+    ],
+    "2022-Q1": [
+      {
+        "stock_code": "002126",
+        "stock_name": "银轮股份",
+        "market_value_wan": 2462.84
+      },
+      {
+        "stock_code": "600116",
+        "stock_name": "三峡水利",
+        "market_value_wan": 1160.27
+      },
+      {
+        "stock_code": "600887",
+        "stock_name": "伊利股份",
+        "market_value_wan": 1063.54
+      },
+      {
+        "stock_code": "600352",
+        "stock_name": "浙江龙盛",
+        "market_value_wan": 1055.0
+      }
+    ]
+  }
+}

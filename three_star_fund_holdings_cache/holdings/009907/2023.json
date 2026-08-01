@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "009907",
+    "name": "湘财长泽灵活配置混合A",
+    "base_name": "湘财长泽灵活配置混合"
+  },
+  "fetched_at": "2026-06-14 23:36:44",
+  "quarters": {
+    "2023-Q4": [
+      {
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "market_value_wan": 4772.79
+      },
+      {
+        "stock_code": "002415",
+        "stock_name": "海康威视",
+        "market_value_wan": 4333.58
+      },
+      {
+        "stock_code": "601601",
+        "stock_name": "中国太保",
+        "market_value_wan": 3740.93
+      },
+      {
+        "stock_code": "601668",
+        "stock_name": "中国建筑",
+        "market_value_wan": 3648.34
+      },
+      {
+        "stock_code": "601628",
+        "stock_name": "中国人寿",
+        "market_value_wan": 3588.26
+      },
+      {
+        "stock_code": "000725",
+        "stock_name": "京东方A",
+        "market_value_wan": 3120.47
+      },
+      {
+        "stock_code": "000063",
+        "stock_name": "中兴通讯",
+        "market_value_wan": 2739.09
+      },
+      {
+        "stock_code": "600048",
+        "stock_name": "保利发展",
+        "market_value_wan": 2691.32
+      },
+      {
+        "stock_code": "300408",
+        "stock_name": "三环集团",
+        "market_value_wan": 2648.14
+      },
+      {
+        "stock_code": "600741",
+        "stock_name": "华域汽车",
+        "market_value_wan": 2531.96
+      }
+    ],
+    "2023-Q3": [
+      {
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "market_value_wan": 6391.13
+      },
+      {
+        "stock_code": "601601",
+        "stock_name": "中国太保",
+        "market_value_wan": 5913.11
+      },
+      {
+        "stock_code": "601628",
+        "stock_name": "中国人寿",
+        "market_value_wan": 5904.22
+      },
+      {
+        "stock_code": "601668",
+        "stock_name": "中国建筑",
+        "market_value_wan": 5673.45
+      },
+      {
+        "stock_code": "000002",
+        "stock_name": "万科A",
+        "market_value_wan": 5621.39
+      },
+      {
+        "stock_code": "002415",
+        "stock_name": "海康威视",
+        "market_value_wan": 4865.68
+      },
+      {
+        "stock_code": "300408",
+        "stock_name": "三环集团",
+        "market_value_wan": 4731.22
+      },
+      {
+        "stock_code": "002594",
+        "stock_name": "比亚迪",
+        "market_value_wan": 4431.02
+      },
+      {
+        "stock_code": "000725",
+        "stock_name": "京东方A",
+        "market_value_wan": 3992.82
+      },
+      {
+        "stock_code": "600741",
+        "stock_name": "华域汽车",
+        "market_value_wan": 3784.9
+      }
+    ],
+    "2023-Q2": [
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 3929.05
+      },
+      {
+        "stock_code": "002415",
+        "stock_name": "海康威视",
+        "market_value_wan": 3621.9
+      },
+      {
+        "stock_code": "688777",
+        "stock_name": "中控技术",
+        "market_value_wan": 3116.68
+      },
+      {
+        "stock_code": "000733",
+        "stock_name": "振华科技",
+        "market_value_wan": 2702.97
+      },
+      {
+        "stock_code": "300408",
+        "stock_name": "三环集团",
+        "market_value_wan": 2670.26
+      },
+      {
+        "stock_code": "002903",
+        "stock_name": "宇环数控",
+        "market_value_wan": 2621.95
+      },
+      {
+        "stock_code": "000725",
+        "stock_name": "京东方A",
+        "market_value_wan": 2461.24
+      },
+      {
+        "stock_code": "002371",
+        "stock_name": "北方华创",
+        "market_value_wan": 2337.9
+      },
+      {
+        "stock_code": "002049",
+        "stock_name": "紫光国微",
+        "market_value_wan": 2258.52
+      },
+      {
+        "stock_code": "000938",
+        "stock_name": "紫光股份",
+        "market_value_wan": 2129.17
+      }
+    ],
+    "2023-Q1": [
+      {
+        "stock_code": "002415",
+        "stock_name": "海康威视",
+        "market_value_wan": 627.1
+      },
+      {
+        "stock_code": "688777",
+        "stock_name": "中控技术",
+        "market_value_wan": 606.21
+      },
+      {
+        "stock_code": "002624",
+        "stock_name": "完美世界",
+        "market_value_wan": 521.32
+      },
+      {
+        "stock_code": "002903",
+        "stock_name": "宇环数控",
+        "market_value_wan": 494.21
+      },
+      {
+        "stock_code": "000725",
+        "stock_name": "京东方A",
+        "market_value_wan": 491.24
+      },
+      {
+        "stock_code": "300502",
+        "stock_name": "新易盛",
+        "market_value_wan": 485.97
+      },
+      {
+        "stock_code": "688111",
+        "stock_name": "金山办公",
+        "market_value_wan": 484.92
+      },
+      {
+        "stock_code": "300996",
+        "stock_name": "普联软件",
+        "market_value_wan": 473.39
+      },
+      {
+        "stock_code": "603927",
+        "stock_name": "中科软",
+        "market_value_wan": 473.2
+      },
+      {
+        "stock_code": "000938",
+        "stock_name": "紫光股份",
+        "market_value_wan": 454.87
+      }
+    ]
+  }
+}

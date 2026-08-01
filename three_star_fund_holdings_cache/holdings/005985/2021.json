@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "005985",
+    "name": "兴业聚华混合C",
+    "base_name": "兴业聚华混合"
+  },
+  "fetched_at": "2026-06-14 23:20:10",
+  "quarters": {
+    "2021-Q4": [
+      {
+        "stock_code": "601607",
+        "stock_name": "上海医药",
+        "market_value_wan": 7332.03
+      },
+      {
+        "stock_code": "600522",
+        "stock_name": "中天科技",
+        "market_value_wan": 4181.86
+      },
+      {
+        "stock_code": "601985",
+        "stock_name": "中国核电",
+        "market_value_wan": 3950.8
+      },
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 3328.83
+      },
+      {
+        "stock_code": "002727",
+        "stock_name": "一心堂",
+        "market_value_wan": 2637.94
+      },
+      {
+        "stock_code": "002376",
+        "stock_name": "新北洋",
+        "market_value_wan": 2508.44
+      },
+      {
+        "stock_code": "600028",
+        "stock_name": "中国石化",
+        "market_value_wan": 2495.7
+      },
+      {
+        "stock_code": "601311",
+        "stock_name": "骆驼股份",
+        "market_value_wan": 1962.24
+      },
+      {
+        "stock_code": "002236",
+        "stock_name": "大华股份",
+        "market_value_wan": 1878.4
+      },
+      {
+        "stock_code": "600536",
+        "stock_name": "中国软件",
+        "market_value_wan": 1757.64
+      }
+    ],
+    "2021-Q3": [
+      {
+        "stock_code": "601607",
+        "stock_name": "上海医药",
+        "market_value_wan": 3864.26
+      },
+      {
+        "stock_code": "600522",
+        "stock_name": "中天科技",
+        "market_value_wan": 3276.0
+      },
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 2853.6
+      },
+      {
+        "stock_code": "600028",
+        "stock_name": "中国石化",
+        "market_value_wan": 2207.7
+      },
+      {
+        "stock_code": "601009",
+        "stock_name": "南京银行",
+        "market_value_wan": 2018.15
+      },
+      {
+        "stock_code": "601985",
+        "stock_name": "中国核电",
+        "market_value_wan": 1889.02
+      },
+      {
+        "stock_code": "002727",
+        "stock_name": "一心堂",
+        "market_value_wan": 1867.44
+      },
+      {
+        "stock_code": "600919",
+        "stock_name": "江苏银行",
+        "market_value_wan": 1449.18
+      },
+      {
+        "stock_code": "601877",
+        "stock_name": "正泰电器",
+        "market_value_wan": 1426.32
+      },
+      {
+        "stock_code": "002236",
+        "stock_name": "大华股份",
+        "market_value_wan": 1340.18
+      }
+    ],
+    "2021-Q2": [
+      {
+        "stock_code": "601607",
+        "stock_name": "上海医药",
+        "market_value_wan": 3380.8
+      },
+      {
+        "stock_code": "601009",
+        "stock_name": "南京银行",
+        "market_value_wan": 2987.68
+      },
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 2962.45
+      },
+      {
+        "stock_code": "600919",
+        "stock_name": "江苏银行",
+        "market_value_wan": 1775.0
+      },
+      {
+        "stock_code": "600522",
+        "stock_name": "中天科技",
+        "market_value_wan": 1700.0
+      },
+      {
+        "stock_code": "002727",
+        "stock_name": "一心堂",
+        "market_value_wan": 1655.5
+      },
+      {
+        "stock_code": "600183",
+        "stock_name": "生益科技",
+        "market_value_wan": 1428.01
+      },
+      {
+        "stock_code": "002236",
+        "stock_name": "大华股份",
+        "market_value_wan": 1181.6
+      },
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 920.0
+      },
+      {
+        "stock_code": "601311",
+        "stock_name": "骆驼股份",
+        "market_value_wan": 682.63
+      }
+    ],
+    "2021-Q1": [
+      {
+        "stock_code": "601607",
+        "stock_name": "上海医药",
+        "market_value_wan": 3372.76
+      },
+      {
+        "stock_code": "600919",
+        "stock_name": "江苏银行",
+        "market_value_wan": 2976.2
+      },
+      {
+        "stock_code": "002727",
+        "stock_name": "一心堂",
+        "market_value_wan": 2318.0
+      },
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 2277.77
+      },
+      {
+        "stock_code": "601009",
+        "stock_name": "南京银行",
+        "market_value_wan": 1912.68
+      },
+      {
+        "stock_code": "600522",
+        "stock_name": "中天科技",
+        "market_value_wan": 1866.35
+      },
+      {
+        "stock_code": "600196",
+        "stock_name": "复星医药",
+        "market_value_wan": 1822.38
+      },
+      {
+        "stock_code": "600183",
+        "stock_name": "生益科技",
+        "market_value_wan": 1204.16
+      },
+      {
+        "stock_code": "002236",
+        "stock_name": "大华股份",
+        "market_value_wan": 1134.82
+      },
+      {
+        "stock_code": "601677",
+        "stock_name": "明泰铝业",
+        "market_value_wan": 965.0
+      }
+    ]
+  }
+}

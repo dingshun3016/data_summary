@@ -1,0 +1,115 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "000462",
+    "name": "农银主题轮动混合A",
+    "base_name": "农银主题轮动混合"
+  },
+  "fetched_at": "2026-08-01 20:53:30",
+  "quarters": {
+    "2026-Q2": [
+      {
+        "stock_code": "002371",
+        "stock_name": "北方华创",
+        "market_value_wan": 4483.39
+      },
+      {
+        "stock_code": "688012",
+        "stock_name": "中微公司",
+        "market_value_wan": 4297.55
+      },
+      {
+        "stock_code": "688256",
+        "stock_name": "寒武纪",
+        "market_value_wan": 4211.61
+      },
+      {
+        "stock_code": "688347",
+        "stock_name": "华虹宏力",
+        "market_value_wan": 4193.59
+      },
+      {
+        "stock_code": "688072",
+        "stock_name": "拓荆科技",
+        "market_value_wan": 4133.62
+      },
+      {
+        "stock_code": "688981",
+        "stock_name": "中芯国际",
+        "market_value_wan": 4083.09
+      },
+      {
+        "stock_code": "300502",
+        "stock_name": "新易盛",
+        "market_value_wan": 3841.1
+      },
+      {
+        "stock_code": "688041",
+        "stock_name": "海光信息",
+        "market_value_wan": 3833.6
+      },
+      {
+        "stock_code": "300308",
+        "stock_name": "中际旭创",
+        "market_value_wan": 3810.0
+      },
+      {
+        "stock_code": "688403",
+        "stock_name": "汇成股份",
+        "market_value_wan": 3521.92
+      }
+    ],
+    "2026-Q1": [
+      {
+        "stock_code": "002371",
+        "stock_name": "北方华创",
+        "market_value_wan": 2757.32
+      },
+      {
+        "stock_code": "300502",
+        "stock_name": "新易盛",
+        "market_value_wan": 2648.18
+      },
+      {
+        "stock_code": "300308",
+        "stock_name": "中际旭创",
+        "market_value_wan": 2630.67
+      },
+      {
+        "stock_code": "688256",
+        "stock_name": "寒武纪",
+        "market_value_wan": 2620.38
+      },
+      {
+        "stock_code": "688041",
+        "stock_name": "海光信息",
+        "market_value_wan": 2504.11
+      },
+      {
+        "stock_code": "688072",
+        "stock_name": "拓荆科技",
+        "market_value_wan": 1738.93
+      },
+      {
+        "stock_code": "002008",
+        "stock_name": "大族激光",
+        "market_value_wan": 1666.2
+      },
+      {
+        "stock_code": "688012",
+        "stock_name": "中微公司",
+        "market_value_wan": 1635.92
+      },
+      {
+        "stock_code": "300394",
+        "stock_name": "天孚通信",
+        "market_value_wan": 1571.34
+      },
+      {
+        "stock_code": "688981",
+        "stock_name": "中芯国际",
+        "market_value_wan": 1315.39
+      }
+    ]
+  }
+}

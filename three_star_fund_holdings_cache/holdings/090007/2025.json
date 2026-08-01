@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "090007",
+    "name": "大成策略回报混合A",
+    "base_name": "大成策略回报混合"
+  },
+  "fetched_at": "2026-06-14 23:49:59",
+  "quarters": {
+    "2025-Q4": [
+      {
+        "stock_code": "600938",
+        "stock_name": "中国海油",
+        "market_value_wan": 26213.45
+      },
+      {
+        "stock_code": "600941",
+        "stock_name": "中国移动",
+        "market_value_wan": 25278.46
+      },
+      {
+        "stock_code": "002773",
+        "stock_name": "康弘药业",
+        "market_value_wan": 25151.88
+      },
+      {
+        "stock_code": "000739",
+        "stock_name": "普洛药业",
+        "market_value_wan": 21644.99
+      },
+      {
+        "stock_code": "601333",
+        "stock_name": "广深铁路",
+        "market_value_wan": 14721.91
+      },
+      {
+        "stock_code": "000063",
+        "stock_name": "中兴通讯",
+        "market_value_wan": 14610.02
+      },
+      {
+        "stock_code": "002318",
+        "stock_name": "久立特材",
+        "market_value_wan": 14575.25
+      },
+      {
+        "stock_code": "000661",
+        "stock_name": "长春高新",
+        "market_value_wan": 9287.71
+      },
+      {
+        "stock_code": "601949",
+        "stock_name": "中国出版",
+        "market_value_wan": 7973.75
+      },
+      {
+        "stock_code": "603296",
+        "stock_name": "华勤技术",
+        "market_value_wan": 7961.54
+      }
+    ],
+    "2025-Q3": [
+      {
+        "stock_code": "002773",
+        "stock_name": "康弘药业",
+        "market_value_wan": 33690.45
+      },
+      {
+        "stock_code": "600938",
+        "stock_name": "中国海油",
+        "market_value_wan": 26415.61
+      },
+      {
+        "stock_code": "000063",
+        "stock_name": "中兴通讯",
+        "market_value_wan": 25052.04
+      },
+      {
+        "stock_code": "600941",
+        "stock_name": "中国移动",
+        "market_value_wan": 24797.43
+      },
+      {
+        "stock_code": "601333",
+        "stock_name": "广深铁路",
+        "market_value_wan": 17789.59
+      },
+      {
+        "stock_code": "000739",
+        "stock_name": "普洛药业",
+        "market_value_wan": 15885.03
+      },
+      {
+        "stock_code": "002318",
+        "stock_name": "久立特材",
+        "market_value_wan": 15433.1
+      },
+      {
+        "stock_code": "603296",
+        "stock_name": "华勤技术",
+        "market_value_wan": 13247.98
+      },
+      {
+        "stock_code": "000661",
+        "stock_name": "长春高新",
+        "market_value_wan": 13045.94
+      },
+      {
+        "stock_code": "600233",
+        "stock_name": "圆通速递",
+        "market_value_wan": 10149.87
+      }
+    ],
+    "2025-Q2": [
+      {
+        "stock_code": "002773",
+        "stock_name": "康弘药业",
+        "market_value_wan": 29960.13
+      },
+      {
+        "stock_code": "000063",
+        "stock_name": "中兴通讯",
+        "market_value_wan": 22112.73
+      },
+      {
+        "stock_code": "600941",
+        "stock_name": "中国移动",
+        "market_value_wan": 20552.52
+      },
+      {
+        "stock_code": "603296",
+        "stock_name": "华勤技术",
+        "market_value_wan": 16342.18
+      },
+      {
+        "stock_code": "601333",
+        "stock_name": "广深铁路",
+        "market_value_wan": 15104.45
+      },
+      {
+        "stock_code": "600233",
+        "stock_name": "圆通速递",
+        "market_value_wan": 10615.23
+      },
+      {
+        "stock_code": "000739",
+        "stock_name": "普洛药业",
+        "market_value_wan": 9619.71
+      },
+      {
+        "stock_code": "000661",
+        "stock_name": "长春高新",
+        "market_value_wan": 9393.68
+      },
+      {
+        "stock_code": "688002",
+        "stock_name": "睿创微纳",
+        "market_value_wan": 8712.92
+      },
+      {
+        "stock_code": "601311",
+        "stock_name": "骆驼股份",
+        "market_value_wan": 7902.31
+      }
+    ],
+    "2025-Q1": [
+      {
+        "stock_code": "002773",
+        "stock_name": "康弘药业",
+        "market_value_wan": 30287.24
+      },
+      {
+        "stock_code": "000063",
+        "stock_name": "中兴通讯",
+        "market_value_wan": 23290.17
+      },
+      {
+        "stock_code": "600941",
+        "stock_name": "中国移动",
+        "market_value_wan": 20255.39
+      },
+      {
+        "stock_code": "603296",
+        "stock_name": "华勤技术",
+        "market_value_wan": 15539.16
+      },
+      {
+        "stock_code": "601333",
+        "stock_name": "广深铁路",
+        "market_value_wan": 14134.38
+      },
+      {
+        "stock_code": "688002",
+        "stock_name": "睿创微纳",
+        "market_value_wan": 9788.55
+      },
+      {
+        "stock_code": "000661",
+        "stock_name": "长春高新",
+        "market_value_wan": 9262.97
+      },
+      {
+        "stock_code": "000739",
+        "stock_name": "普洛药业",
+        "market_value_wan": 8921.01
+      },
+      {
+        "stock_code": "601311",
+        "stock_name": "骆驼股份",
+        "market_value_wan": 8452.63
+      },
+      {
+        "stock_code": "601919",
+        "stock_name": "中远海控",
+        "market_value_wan": 7593.81
+      }
+    ]
+  }
+}

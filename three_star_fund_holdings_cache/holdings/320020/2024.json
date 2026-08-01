@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "320020",
+    "name": "诺安策略精选股票A",
+    "base_name": "诺安策略精选股票"
+  },
+  "fetched_at": "2026-06-14 23:58:58",
+  "quarters": {
+    "2024-Q4": [
+      {
+        "stock_code": "601117",
+        "stock_name": "中国化学",
+        "market_value_wan": 504.61
+      },
+      {
+        "stock_code": "300818",
+        "stock_name": "耐普矿机",
+        "market_value_wan": 403.87
+      },
+      {
+        "stock_code": "300859",
+        "stock_name": "西域旅游",
+        "market_value_wan": 378.89
+      },
+      {
+        "stock_code": "300662",
+        "stock_name": "科锐国际",
+        "market_value_wan": 370.23
+      },
+      {
+        "stock_code": "689009",
+        "stock_name": "九号公司",
+        "market_value_wan": 351.59
+      },
+      {
+        "stock_code": "601058",
+        "stock_name": "赛轮轮胎",
+        "market_value_wan": 333.6
+      },
+      {
+        "stock_code": "603979",
+        "stock_name": "金诚信",
+        "market_value_wan": 255.92
+      },
+      {
+        "stock_code": "000059",
+        "stock_name": "华锦股份",
+        "market_value_wan": 244.77
+      },
+      {
+        "stock_code": "601137",
+        "stock_name": "博威合金",
+        "market_value_wan": 223.3
+      },
+      {
+        "stock_code": "688700",
+        "stock_name": "东威科技",
+        "market_value_wan": 220.62
+      }
+    ],
+    "2024-Q3": [
+      {
+        "stock_code": "601899",
+        "stock_name": "紫金矿业",
+        "market_value_wan": 626.37
+      },
+      {
+        "stock_code": "601702",
+        "stock_name": "华峰铝业",
+        "market_value_wan": 451.23
+      },
+      {
+        "stock_code": "601058",
+        "stock_name": "赛轮轮胎",
+        "market_value_wan": 443.67
+      },
+      {
+        "stock_code": "000932",
+        "stock_name": "华菱钢铁",
+        "market_value_wan": 428.69
+      },
+      {
+        "stock_code": "600150",
+        "stock_name": "中国船舶",
+        "market_value_wan": 417.7
+      },
+      {
+        "stock_code": "689009",
+        "stock_name": "九号公司",
+        "market_value_wan": 415.84
+      },
+      {
+        "stock_code": "601021",
+        "stock_name": "春秋航空",
+        "market_value_wan": 372.1
+      },
+      {
+        "stock_code": "601117",
+        "stock_name": "中国化学",
+        "market_value_wan": 355.39
+      },
+      {
+        "stock_code": "601137",
+        "stock_name": "博威合金",
+        "market_value_wan": 345.17
+      },
+      {
+        "stock_code": "300818",
+        "stock_name": "耐普矿机",
+        "market_value_wan": 294.73
+      }
+    ],
+    "2024-Q2": [
+      {
+        "stock_code": "600489",
+        "stock_name": "中金黄金",
+        "market_value_wan": 762.35
+      },
+      {
+        "stock_code": "600547",
+        "stock_name": "山东黄金",
+        "market_value_wan": 662.6
+      },
+      {
+        "stock_code": "601021",
+        "stock_name": "春秋航空",
+        "market_value_wan": 505.28
+      },
+      {
+        "stock_code": "600150",
+        "stock_name": "中国船舶",
+        "market_value_wan": 464.5
+      },
+      {
+        "stock_code": "601600",
+        "stock_name": "中国铝业",
+        "market_value_wan": 447.73
+      },
+      {
+        "stock_code": "601766",
+        "stock_name": "中国中车",
+        "market_value_wan": 441.06
+      },
+      {
+        "stock_code": "601117",
+        "stock_name": "中国化学",
+        "market_value_wan": 415.87
+      },
+      {
+        "stock_code": "600988",
+        "stock_name": "赤峰黄金",
+        "market_value_wan": 414.22
+      },
+      {
+        "stock_code": "000932",
+        "stock_name": "华菱钢铁",
+        "market_value_wan": 403.0
+      },
+      {
+        "stock_code": "002601",
+        "stock_name": "龙佰集团",
+        "market_value_wan": 213.56
+      }
+    ],
+    "2024-Q1": [
+      {
+        "stock_code": "601021",
+        "stock_name": "春秋航空",
+        "market_value_wan": 591.58
+      },
+      {
+        "stock_code": "600547",
+        "stock_name": "山东黄金",
+        "market_value_wan": 509.83
+      },
+      {
+        "stock_code": "601985",
+        "stock_name": "中国核电",
+        "market_value_wan": 498.65
+      },
+      {
+        "stock_code": "002155",
+        "stock_name": "湖南黄金",
+        "market_value_wan": 379.62
+      },
+      {
+        "stock_code": "000603",
+        "stock_name": "盛达资源",
+        "market_value_wan": 375.13
+      },
+      {
+        "stock_code": "002111",
+        "stock_name": "威海广泰",
+        "market_value_wan": 318.97
+      },
+      {
+        "stock_code": "002906",
+        "stock_name": "华阳集团",
+        "market_value_wan": 311.82
+      },
+      {
+        "stock_code": "600489",
+        "stock_name": "中金黄金",
+        "market_value_wan": 301.32
+      },
+      {
+        "stock_code": "600938",
+        "stock_name": "中国海油",
+        "market_value_wan": 289.08
+      },
+      {
+        "stock_code": "689009",
+        "stock_name": "九号公司",
+        "market_value_wan": 287.1
+      }
+    ]
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "011066",
+    "name": "大成高鑫股票C",
+    "base_name": "大成高鑫股票"
+  },
+  "fetched_at": "2026-08-01 20:59:37",
+  "quarters": {
+    "2026-Q2": [
+      {
+        "stock_code": "600660",
+        "stock_name": "福耀玻璃",
+        "market_value_wan": 120590.89
+      },
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 117901.64
+      },
+      {
+        "stock_code": "002595",
+        "stock_name": "豪迈科技",
+        "market_value_wan": 103893.39
+      },
+      {
+        "stock_code": "600885",
+        "stock_name": "宏发股份",
+        "market_value_wan": 81321.11
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 59527.73
+      },
+      {
+        "stock_code": "600690",
+        "stock_name": "海尔智家",
+        "market_value_wan": 57172.88
+      },
+      {
+        "stock_code": "600352",
+        "stock_name": "浙江龙盛",
+        "market_value_wan": 46340.68
+      },
+      {
+        "stock_code": "600298",
+        "stock_name": "安琪酵母",
+        "market_value_wan": 32571.66
+      }
+    ],
+    "2026-Q1": [
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 159663.34
+      },
+      {
+        "stock_code": "002595",
+        "stock_name": "豪迈科技",
+        "market_value_wan": 107584.79
+      },
+      {
+        "stock_code": "600660",
+        "stock_name": "福耀玻璃",
+        "market_value_wan": 99366.83
+      },
+      {
+        "stock_code": "600690",
+        "stock_name": "海尔智家",
+        "market_value_wan": 96961.06
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 60843.97
+      },
+      {
+        "stock_code": "600885",
+        "stock_name": "宏发股份",
+        "market_value_wan": 56336.26
+      },
+      {
+        "stock_code": "600352",
+        "stock_name": "浙江龙盛",
+        "market_value_wan": 55681.29
+      },
+      {
+        "stock_code": "600741",
+        "stock_name": "华域汽车",
+        "market_value_wan": 54922.25
+      }
+    ]
+  }
+}

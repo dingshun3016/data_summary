@@ -1,0 +1,115 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "160323",
+    "name": "华夏磐泰混合(LOF)A",
+    "base_name": "华夏磐泰混合(LOF)"
+  },
+  "fetched_at": "2026-08-01 20:33:19",
+  "quarters": {
+    "2026-Q2": [
+      {
+        "stock_code": "688012",
+        "stock_name": "中微公司",
+        "market_value_wan": 2461.31
+      },
+      {
+        "stock_code": "688535",
+        "stock_name": "华海诚科",
+        "market_value_wan": 2362.61
+      },
+      {
+        "stock_code": "688347",
+        "stock_name": "华虹宏力",
+        "market_value_wan": 1858.43
+      },
+      {
+        "stock_code": "688981",
+        "stock_name": "中芯国际",
+        "market_value_wan": 1803.0
+      },
+      {
+        "stock_code": "688008",
+        "stock_name": "澜起科技",
+        "market_value_wan": 1651.71
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 1414.84
+      },
+      {
+        "stock_code": "300308",
+        "stock_name": "中际旭创",
+        "market_value_wan": 1206.5
+      },
+      {
+        "stock_code": "688041",
+        "stock_name": "海光信息",
+        "market_value_wan": 1146.97
+      },
+      {
+        "stock_code": "300502",
+        "stock_name": "新易盛",
+        "market_value_wan": 1138.73
+      },
+      {
+        "stock_code": "301273",
+        "stock_name": "瑞晨环保",
+        "market_value_wan": 1087.47
+      }
+    ],
+    "2026-Q1": [
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 1446.12
+      },
+      {
+        "stock_code": "302132",
+        "stock_name": "中航成飞",
+        "market_value_wan": 1152.54
+      },
+      {
+        "stock_code": "002594",
+        "stock_name": "比亚迪",
+        "market_value_wan": 1101.97
+      },
+      {
+        "stock_code": "600585",
+        "stock_name": "海螺水泥",
+        "market_value_wan": 1094.08
+      },
+      {
+        "stock_code": "600900",
+        "stock_name": "长江电力",
+        "market_value_wan": 1081.06
+      },
+      {
+        "stock_code": "688012",
+        "stock_name": "中微公司",
+        "market_value_wan": 1080.27
+      },
+      {
+        "stock_code": "601088",
+        "stock_name": "中国神华",
+        "market_value_wan": 1078.06
+      },
+      {
+        "stock_code": "601857",
+        "stock_name": "中国石油",
+        "market_value_wan": 1074.98
+      },
+      {
+        "stock_code": "688981",
+        "stock_name": "中芯国际",
+        "market_value_wan": 1067.7
+      },
+      {
+        "stock_code": "600309",
+        "stock_name": "万华化学",
+        "market_value_wan": 1067.01
+      }
+    ]
+  }
+}

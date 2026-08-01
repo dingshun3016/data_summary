@@ -1,0 +1,59 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "010761",
+    "name": "华商甄选回报混合A",
+    "base_name": "华商甄选回报混合"
+  },
+  "fetched_at": "2026-06-14 22:12:23",
+  "quarters": {
+    "2025-Q4": [
+      {
+        "stock_code": "601231",
+        "stock_name": "环旭电子",
+        "market_value_wan": 33439.55
+      }
+    ],
+    "2025-Q3": [
+      {
+        "stock_code": "601231",
+        "stock_name": "环旭电子",
+        "market_value_wan": 31583.29
+      },
+      {
+        "stock_code": "688390",
+        "stock_name": "固德威",
+        "market_value_wan": 11064.87
+      },
+      {
+        "stock_code": "002129",
+        "stock_name": "TCL中环",
+        "market_value_wan": 10009.26
+      }
+    ],
+    "2025-Q2": [
+      {
+        "stock_code": "601231",
+        "stock_name": "环旭电子",
+        "market_value_wan": 11076.18
+      },
+      {
+        "stock_code": "601699",
+        "stock_name": "潞安环能",
+        "market_value_wan": 8732.55
+      },
+      {
+        "stock_code": "688390",
+        "stock_name": "固德威",
+        "market_value_wan": 8229.33
+      }
+    ],
+    "2025-Q1": [
+      {
+        "stock_code": "601899",
+        "stock_name": "紫金矿业",
+        "market_value_wan": 16244.13
+      }
+    ]
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "010901",
+    "name": "中欧生益稳健一年混合C",
+    "base_name": "中欧生益稳健一年混合"
+  },
+  "fetched_at": "2026-08-01 20:48:31",
+  "quarters": {
+    "2026-Q2": [
+      {
+        "stock_code": "000100",
+        "stock_name": "TCL科技",
+        "market_value_wan": 359.44
+      },
+      {
+        "stock_code": "002415",
+        "stock_name": "海康威视",
+        "market_value_wan": 332.08
+      },
+      {
+        "stock_code": "688652",
+        "stock_name": "京仪装备",
+        "market_value_wan": 212.38
+      },
+      {
+        "stock_code": "300558",
+        "stock_name": "贝达药业",
+        "market_value_wan": 210.83
+      },
+      {
+        "stock_code": "002371",
+        "stock_name": "北方华创",
+        "market_value_wan": 203.45
+      },
+      {
+        "stock_code": "002179",
+        "stock_name": "中航光电",
+        "market_value_wan": 200.05
+      },
+      {
+        "stock_code": "688256",
+        "stock_name": "寒武纪",
+        "market_value_wan": 165.94
+      },
+      {
+        "stock_code": "002850",
+        "stock_name": "科达利",
+        "market_value_wan": 157.12
+      },
+      {
+        "stock_code": "601628",
+        "stock_name": "中国人寿",
+        "market_value_wan": 153.77
+      }
+    ],
+    "2026-Q1": [
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 366.48
+      },
+      {
+        "stock_code": "000100",
+        "stock_name": "TCL科技",
+        "market_value_wan": 206.5
+      },
+      {
+        "stock_code": "000157",
+        "stock_name": "中联重科",
+        "market_value_wan": 190.49
+      },
+      {
+        "stock_code": "600763",
+        "stock_name": "通策医疗",
+        "market_value_wan": 170.38
+      },
+      {
+        "stock_code": "002415",
+        "stock_name": "海康威视",
+        "market_value_wan": 168.22
+      },
+      {
+        "stock_code": "603882",
+        "stock_name": "金域医学",
+        "market_value_wan": 162.02
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 145.0
+      },
+      {
+        "stock_code": "688308",
+        "stock_name": "欧科亿",
+        "market_value_wan": 108.51
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 108.46
+      }
+    ]
+  }
+}

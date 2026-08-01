@@ -1,0 +1,115 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "720001",
+    "name": "财通价值动量混合A",
+    "base_name": "财通价值动量混合"
+  },
+  "fetched_at": "2026-08-01 21:01:36",
+  "quarters": {
+    "2026-Q2": [
+      {
+        "stock_code": "300502",
+        "stock_name": "新易盛",
+        "market_value_wan": 103135.98
+      },
+      {
+        "stock_code": "688519",
+        "stock_name": "南亚新材",
+        "market_value_wan": 96813.29
+      },
+      {
+        "stock_code": "688498",
+        "stock_name": "源杰科技",
+        "market_value_wan": 88539.02
+      },
+      {
+        "stock_code": "300408",
+        "stock_name": "三环集团",
+        "market_value_wan": 85542.36
+      },
+      {
+        "stock_code": "301377",
+        "stock_name": "鼎泰高科",
+        "market_value_wan": 85377.82
+      },
+      {
+        "stock_code": "301200",
+        "stock_name": "大族数控",
+        "market_value_wan": 83596.36
+      },
+      {
+        "stock_code": "301511",
+        "stock_name": "德福科技",
+        "market_value_wan": 81837.73
+      },
+      {
+        "stock_code": "000636",
+        "stock_name": "风华高科",
+        "market_value_wan": 61551.01
+      },
+      {
+        "stock_code": "605376",
+        "stock_name": "博迁新材",
+        "market_value_wan": 58621.74
+      },
+      {
+        "stock_code": "300308",
+        "stock_name": "中际旭创",
+        "market_value_wan": 33665.16
+      }
+    ],
+    "2026-Q1": [
+      {
+        "stock_code": "301377",
+        "stock_name": "鼎泰高科",
+        "market_value_wan": 30861.75
+      },
+      {
+        "stock_code": "300502",
+        "stock_name": "新易盛",
+        "market_value_wan": 30757.14
+      },
+      {
+        "stock_code": "688183",
+        "stock_name": "生益电子",
+        "market_value_wan": 30287.16
+      },
+      {
+        "stock_code": "300308",
+        "stock_name": "中际旭创",
+        "market_value_wan": 30103.57
+      },
+      {
+        "stock_code": "301200",
+        "stock_name": "大族数控",
+        "market_value_wan": 28945.17
+      },
+      {
+        "stock_code": "688498",
+        "stock_name": "源杰科技",
+        "market_value_wan": 28553.79
+      },
+      {
+        "stock_code": "600105",
+        "stock_name": "永鼎股份",
+        "market_value_wan": 25248.12
+      },
+      {
+        "stock_code": "600183",
+        "stock_name": "生益科技",
+        "market_value_wan": 16829.41
+      },
+      {
+        "stock_code": "600498",
+        "stock_name": "烽火通信",
+        "market_value_wan": 15692.61
+      },
+      {
+        "stock_code": "688195",
+        "stock_name": "腾景科技",
+        "market_value_wan": 12232.5
+      }
+    ]
+  }
+}

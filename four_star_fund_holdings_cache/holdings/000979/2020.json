@@ -1,0 +1,114 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "000979",
+    "name": "景顺长城沪港深精选股票A",
+    "base_name": "景顺长城沪港深精选股票"
+  },
+  "fetched_at": "2026-06-14 22:27:11",
+  "quarters": {
+    "2020-Q4": [
+      {
+        "stock_code": "600674",
+        "stock_name": "川投能源",
+        "market_value_wan": 16701.01
+      },
+      {
+        "stock_code": "601098",
+        "stock_name": "中南传媒",
+        "market_value_wan": 16394.32
+      },
+      {
+        "stock_code": "002727",
+        "stock_name": "一心堂",
+        "market_value_wan": 14404.42
+      },
+      {
+        "stock_code": "601928",
+        "stock_name": "凤凰传媒",
+        "market_value_wan": 14253.28
+      },
+      {
+        "stock_code": "600887",
+        "stock_name": "伊利股份",
+        "market_value_wan": 10205.69
+      }
+    ],
+    "2020-Q3": [
+      {
+        "stock_code": "600887",
+        "stock_name": "伊利股份",
+        "market_value_wan": 19814.67
+      },
+      {
+        "stock_code": "601098",
+        "stock_name": "中南传媒",
+        "market_value_wan": 18682.3
+      },
+      {
+        "stock_code": "002938",
+        "stock_name": "鹏鼎控股",
+        "market_value_wan": 18205.44
+      },
+      {
+        "stock_code": "002727",
+        "stock_name": "一心堂",
+        "market_value_wan": 16460.19
+      },
+      {
+        "stock_code": "600674",
+        "stock_name": "川投能源",
+        "market_value_wan": 16302.18
+      },
+      {
+        "stock_code": "601928",
+        "stock_name": "凤凰传媒",
+        "market_value_wan": 15194.47
+      }
+    ],
+    "2020-Q2": [
+      {
+        "stock_code": "002727",
+        "stock_name": "一心堂",
+        "market_value_wan": 16513.27
+      },
+      {
+        "stock_code": "600887",
+        "stock_name": "伊利股份",
+        "market_value_wan": 16021.58
+      },
+      {
+        "stock_code": "600674",
+        "stock_name": "川投能源",
+        "market_value_wan": 15404.81
+      },
+      {
+        "stock_code": "601098",
+        "stock_name": "中南传媒",
+        "market_value_wan": 14802.01
+      },
+      {
+        "stock_code": "002938",
+        "stock_name": "鹏鼎控股",
+        "market_value_wan": 13907.29
+      }
+    ],
+    "2020-Q1": [
+      {
+        "stock_code": "600674",
+        "stock_name": "川投能源",
+        "market_value_wan": 13880.25
+      },
+      {
+        "stock_code": "002727",
+        "stock_name": "一心堂",
+        "market_value_wan": 13427.69
+      },
+      {
+        "stock_code": "601098",
+        "stock_name": "中南传媒",
+        "market_value_wan": 12463.8
+      }
+    ]
+  }
+}

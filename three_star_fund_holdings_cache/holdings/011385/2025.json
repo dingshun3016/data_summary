@@ -1,0 +1,119 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "011385",
+    "name": "南方远见回报股票C",
+    "base_name": "南方远见回报股票"
+  },
+  "fetched_at": "2026-06-14 23:46:48",
+  "quarters": {
+    "2025-Q4": [
+      {
+        "stock_code": "000651",
+        "stock_name": "格力电器",
+        "market_value_wan": 292.8
+      },
+      {
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "market_value_wan": 287.96
+      },
+      {
+        "stock_code": "000786",
+        "stock_name": "北新建材",
+        "market_value_wan": 225.98
+      },
+      {
+        "stock_code": "600690",
+        "stock_name": "海尔智家",
+        "market_value_wan": 222.03
+      },
+      {
+        "stock_code": "601077",
+        "stock_name": "渝农商行",
+        "market_value_wan": 215.83
+      }
+    ],
+    "2025-Q3": [
+      {
+        "stock_code": "000651",
+        "stock_name": "格力电器",
+        "market_value_wan": 363.84
+      },
+      {
+        "stock_code": "603279",
+        "stock_name": "景津装备",
+        "market_value_wan": 294.08
+      },
+      {
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "market_value_wan": 284.08
+      },
+      {
+        "stock_code": "601668",
+        "stock_name": "中国建筑",
+        "market_value_wan": 258.06
+      },
+      {
+        "stock_code": "600690",
+        "stock_name": "海尔智家",
+        "market_value_wan": 219.1
+      }
+    ],
+    "2025-Q2": [
+      {
+        "stock_code": "000651",
+        "stock_name": "格力电器",
+        "market_value_wan": 653.59
+      },
+      {
+        "stock_code": "603279",
+        "stock_name": "景津装备",
+        "market_value_wan": 490.96
+      },
+      {
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "market_value_wan": 410.79
+      },
+      {
+        "stock_code": "601668",
+        "stock_name": "中国建筑",
+        "market_value_wan": 349.32
+      },
+      {
+        "stock_code": "000786",
+        "stock_name": "北新建材",
+        "market_value_wan": 310.88
+      }
+    ],
+    "2025-Q1": [
+      {
+        "stock_code": "000651",
+        "stock_name": "格力电器",
+        "market_value_wan": 899.65
+      },
+      {
+        "stock_code": "603279",
+        "stock_name": "景津装备",
+        "market_value_wan": 762.81
+      },
+      {
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "market_value_wan": 584.85
+      },
+      {
+        "stock_code": "600985",
+        "stock_name": "淮北矿业",
+        "market_value_wan": 519.39
+      },
+      {
+        "stock_code": "000786",
+        "stock_name": "北新建材",
+        "market_value_wan": 472.29
+      }
+    ]
+  }
+}

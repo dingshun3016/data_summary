@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "001364",
+    "name": "大成景润灵活配置混合A",
+    "base_name": "大成景润灵活配置混合"
+  },
+  "fetched_at": "2026-06-14 22:56:11",
+  "quarters": {
+    "2025-Q4": [
+      {
+        "stock_code": "601077",
+        "stock_name": "渝农商行",
+        "market_value_wan": 269.71
+      },
+      {
+        "stock_code": "601665",
+        "stock_name": "齐鲁银行",
+        "market_value_wan": 255.66
+      },
+      {
+        "stock_code": "600176",
+        "stock_name": "中国巨石",
+        "market_value_wan": 166.55
+      },
+      {
+        "stock_code": "601857",
+        "stock_name": "中国石油",
+        "market_value_wan": 142.51
+      },
+      {
+        "stock_code": "002262",
+        "stock_name": "恩华药业",
+        "market_value_wan": 120.17
+      },
+      {
+        "stock_code": "000338",
+        "stock_name": "潍柴动力",
+        "market_value_wan": 99.07
+      },
+      {
+        "stock_code": "300677",
+        "stock_name": "英科医疗",
+        "market_value_wan": 98.03
+      },
+      {
+        "stock_code": "603619",
+        "stock_name": "中曼石油",
+        "market_value_wan": 97.5
+      },
+      {
+        "stock_code": "000100",
+        "stock_name": "TCL科技",
+        "market_value_wan": 93.67
+      },
+      {
+        "stock_code": "603995",
+        "stock_name": "甬金股份",
+        "market_value_wan": 92.21
+      }
+    ],
+    "2025-Q3": [
+      {
+        "stock_code": "601077",
+        "stock_name": "渝农商行",
+        "market_value_wan": 275.13
+      },
+      {
+        "stock_code": "601665",
+        "stock_name": "齐鲁银行",
+        "market_value_wan": 255.66
+      },
+      {
+        "stock_code": "603619",
+        "stock_name": "中曼石油",
+        "market_value_wan": 137.79
+      },
+      {
+        "stock_code": "601872",
+        "stock_name": "招商轮船",
+        "market_value_wan": 135.69
+      },
+      {
+        "stock_code": "600176",
+        "stock_name": "中国巨石",
+        "market_value_wan": 126.24
+      },
+      {
+        "stock_code": "300677",
+        "stock_name": "英科医疗",
+        "market_value_wan": 121.61
+      },
+      {
+        "stock_code": "603995",
+        "stock_name": "甬金股份",
+        "market_value_wan": 121.37
+      },
+      {
+        "stock_code": "002262",
+        "stock_name": "恩华药业",
+        "market_value_wan": 119.68
+      },
+      {
+        "stock_code": "601857",
+        "stock_name": "中国石油",
+        "market_value_wan": 110.34
+      },
+      {
+        "stock_code": "002948",
+        "stock_name": "青岛银行",
+        "market_value_wan": 92.53
+      }
+    ],
+    "2025-Q2": [
+      {
+        "stock_code": "601077",
+        "stock_name": "渝农商行",
+        "market_value_wan": 298.1
+      },
+      {
+        "stock_code": "601665",
+        "stock_name": "齐鲁银行",
+        "market_value_wan": 281.49
+      },
+      {
+        "stock_code": "000725",
+        "stock_name": "京东方A",
+        "market_value_wan": 273.16
+      },
+      {
+        "stock_code": "000338",
+        "stock_name": "潍柴动力",
+        "market_value_wan": 149.96
+      },
+      {
+        "stock_code": "000100",
+        "stock_name": "TCL科技",
+        "market_value_wan": 148.32
+      },
+      {
+        "stock_code": "603995",
+        "stock_name": "甬金股份",
+        "market_value_wan": 138.08
+      },
+      {
+        "stock_code": "601872",
+        "stock_name": "招商轮船",
+        "market_value_wan": 137.09
+      },
+      {
+        "stock_code": "600707",
+        "stock_name": "彩虹股份",
+        "market_value_wan": 133.46
+      },
+      {
+        "stock_code": "002948",
+        "stock_name": "青岛银行",
+        "market_value_wan": 96.81
+      },
+      {
+        "stock_code": "600000",
+        "stock_name": "浦发银行",
+        "market_value_wan": 68.43
+      }
+    ],
+    "2025-Q1": [
+      {
+        "stock_code": "601665",
+        "stock_name": "齐鲁银行",
+        "market_value_wan": 286.4
+      },
+      {
+        "stock_code": "601077",
+        "stock_name": "渝农商行",
+        "market_value_wan": 253.84
+      },
+      {
+        "stock_code": "000725",
+        "stock_name": "京东方A",
+        "market_value_wan": 229.08
+      },
+      {
+        "stock_code": "000338",
+        "stock_name": "潍柴动力",
+        "market_value_wan": 192.82
+      },
+      {
+        "stock_code": "601872",
+        "stock_name": "招商轮船",
+        "market_value_wan": 146.11
+      },
+      {
+        "stock_code": "603995",
+        "stock_name": "甬金股份",
+        "market_value_wan": 141.47
+      },
+      {
+        "stock_code": "002948",
+        "stock_name": "青岛银行",
+        "market_value_wan": 91.32
+      },
+      {
+        "stock_code": "000100",
+        "stock_name": "TCL科技",
+        "market_value_wan": 90.53
+      },
+      {
+        "stock_code": "300373",
+        "stock_name": "扬杰科技",
+        "market_value_wan": 84.47
+      },
+      {
+        "stock_code": "601825",
+        "stock_name": "沪农商行",
+        "market_value_wan": 72.56
+      }
+    ]
+  }
+}

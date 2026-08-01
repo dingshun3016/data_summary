@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "000173",
+    "name": "汇添富美丽30混合A",
+    "base_name": "汇添富美丽30混合"
+  },
+  "fetched_at": "2026-06-14 22:48:55",
+  "quarters": {
+    "2023-Q4": [
+      {
+        "stock_code": "000568",
+        "stock_name": "泸州老窖",
+        "market_value_wan": 7549.99
+      },
+      {
+        "stock_code": "600256",
+        "stock_name": "广汇能源",
+        "market_value_wan": 7521.05
+      },
+      {
+        "stock_code": "600702",
+        "stock_name": "舍得酒业",
+        "market_value_wan": 5473.22
+      },
+      {
+        "stock_code": "601001",
+        "stock_name": "晋控煤业",
+        "market_value_wan": 4706.26
+      },
+      {
+        "stock_code": "600188",
+        "stock_name": "兖矿能源",
+        "market_value_wan": 4536.49
+      },
+      {
+        "stock_code": "000651",
+        "stock_name": "格力电器",
+        "market_value_wan": 4407.29
+      },
+      {
+        "stock_code": "000063",
+        "stock_name": "中兴通讯",
+        "market_value_wan": 3442.4
+      },
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 2840.76
+      },
+      {
+        "stock_code": "600060",
+        "stock_name": "海信视像",
+        "market_value_wan": 2717.0
+      },
+      {
+        "stock_code": "603198",
+        "stock_name": "迎驾贡酒",
+        "market_value_wan": 2651.6
+      }
+    ],
+    "2023-Q3": [
+      {
+        "stock_code": "000568",
+        "stock_name": "泸州老窖",
+        "market_value_wan": 9116.63
+      },
+      {
+        "stock_code": "000651",
+        "stock_name": "格力电器",
+        "market_value_wan": 8385.21
+      },
+      {
+        "stock_code": "600256",
+        "stock_name": "广汇能源",
+        "market_value_wan": 8047.73
+      },
+      {
+        "stock_code": "600702",
+        "stock_name": "舍得酒业",
+        "market_value_wan": 7575.0
+      },
+      {
+        "stock_code": "603198",
+        "stock_name": "迎驾贡酒",
+        "market_value_wan": 5589.8
+      },
+      {
+        "stock_code": "000063",
+        "stock_name": "中兴通讯",
+        "market_value_wan": 5555.6
+      },
+      {
+        "stock_code": "600188",
+        "stock_name": "兖矿能源",
+        "market_value_wan": 4637.25
+      },
+      {
+        "stock_code": "601001",
+        "stock_name": "晋控煤业",
+        "market_value_wan": 3419.62
+      },
+      {
+        "stock_code": "688363",
+        "stock_name": "华熙生物",
+        "market_value_wan": 3123.6
+      },
+      {
+        "stock_code": "300759",
+        "stock_name": "康龙化成",
+        "market_value_wan": 2798.53
+      }
+    ],
+    "2023-Q2": [
+      {
+        "stock_code": "000568",
+        "stock_name": "泸州老窖",
+        "market_value_wan": 10495.27
+      },
+      {
+        "stock_code": "688111",
+        "stock_name": "金山办公",
+        "market_value_wan": 7564.59
+      },
+      {
+        "stock_code": "000063",
+        "stock_name": "中兴通讯",
+        "market_value_wan": 7286.4
+      },
+      {
+        "stock_code": "600702",
+        "stock_name": "舍得酒业",
+        "market_value_wan": 6891.62
+      },
+      {
+        "stock_code": "600188",
+        "stock_name": "兖矿能源",
+        "market_value_wan": 6462.72
+      },
+      {
+        "stock_code": "603198",
+        "stock_name": "迎驾贡酒",
+        "market_value_wan": 6380.0
+      },
+      {
+        "stock_code": "000651",
+        "stock_name": "格力电器",
+        "market_value_wan": 5476.5
+      },
+      {
+        "stock_code": "600256",
+        "stock_name": "广汇能源",
+        "market_value_wan": 5373.9
+      },
+      {
+        "stock_code": "000860",
+        "stock_name": "顺鑫农业",
+        "market_value_wan": 3537.45
+      },
+      {
+        "stock_code": "300395",
+        "stock_name": "菲利华",
+        "market_value_wan": 3444.0
+      }
+    ],
+    "2023-Q1": [
+      {
+        "stock_code": "000568",
+        "stock_name": "泸州老窖",
+        "market_value_wan": 13142.07
+      },
+      {
+        "stock_code": "600702",
+        "stock_name": "舍得酒业",
+        "market_value_wan": 10953.2
+      },
+      {
+        "stock_code": "600188",
+        "stock_name": "兖矿能源",
+        "market_value_wan": 8181.1
+      },
+      {
+        "stock_code": "600256",
+        "stock_name": "广汇能源",
+        "market_value_wan": 7431.15
+      },
+      {
+        "stock_code": "688111",
+        "stock_name": "金山办公",
+        "market_value_wan": 7095.0
+      },
+      {
+        "stock_code": "603198",
+        "stock_name": "迎驾贡酒",
+        "market_value_wan": 7060.66
+      },
+      {
+        "stock_code": "688363",
+        "stock_name": "华熙生物",
+        "market_value_wan": 5103.0
+      },
+      {
+        "stock_code": "000651",
+        "stock_name": "格力电器",
+        "market_value_wan": 4630.5
+      },
+      {
+        "stock_code": "605089",
+        "stock_name": "味知香",
+        "market_value_wan": 4497.0
+      },
+      {
+        "stock_code": "000063",
+        "stock_name": "中兴通讯",
+        "market_value_wan": 4232.8
+      }
+    ]
+  }
+}

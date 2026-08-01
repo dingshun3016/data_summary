@@ -1,0 +1,80 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "009891",
+    "name": "融通产业趋势臻选股票A",
+    "base_name": "融通产业趋势臻选股票"
+  },
+  "fetched_at": "2026-08-01 20:58:51",
+  "quarters": {
+    "2026-Q2": [
+      {
+        "stock_code": "300502",
+        "stock_name": "新易盛",
+        "market_value_wan": 84396.19
+      },
+      {
+        "stock_code": "300308",
+        "stock_name": "中际旭创",
+        "market_value_wan": 78621.76
+      },
+      {
+        "stock_code": "002636",
+        "stock_name": "金安国纪",
+        "market_value_wan": 74835.37
+      },
+      {
+        "stock_code": "002384",
+        "stock_name": "东山精密",
+        "market_value_wan": 71945.84
+      },
+      {
+        "stock_code": "688498",
+        "stock_name": "源杰科技",
+        "market_value_wan": 50919.74
+      },
+      {
+        "stock_code": "600105",
+        "stock_name": "永鼎股份",
+        "market_value_wan": 41510.98
+      }
+    ],
+    "2026-Q1": [
+      {
+        "stock_code": "002384",
+        "stock_name": "东山精密",
+        "market_value_wan": 38411.51
+      },
+      {
+        "stock_code": "300308",
+        "stock_name": "中际旭创",
+        "market_value_wan": 38053.56
+      },
+      {
+        "stock_code": "300502",
+        "stock_name": "新易盛",
+        "market_value_wan": 35579.09
+      },
+      {
+        "stock_code": "688498",
+        "stock_name": "源杰科技",
+        "market_value_wan": 24494.43
+      },
+      {
+        "stock_code": "600105",
+        "stock_name": "永鼎股份",
+        "market_value_wan": 19430.01
+      },
+      {
+        "stock_code": "002080",
+        "stock_name": "中材科技",
+        "market_value_wan": 19307.88
+      },
+      {
+        "stock_code": "600875",
+        "stock_name": "东方电气",
+        "market_value_wan": 17980.65
+      }
+    ]
+  }
+}

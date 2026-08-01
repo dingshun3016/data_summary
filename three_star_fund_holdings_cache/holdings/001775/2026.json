@@ -1,0 +1,35 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "001775",
+    "name": "鹏华弘泰C",
+    "base_name": "鹏华弘泰"
+  },
+  "fetched_at": "2026-08-01 20:54:29",
+  "quarters": {
+    "2026-Q2": [
+      {
+        "stock_code": "600900",
+        "stock_name": "长江电力",
+        "market_value_wan": 599.81
+      }
+    ],
+    "2026-Q1": [
+      {
+        "stock_code": "601088",
+        "stock_name": "中国神华",
+        "market_value_wan": 250.58
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 245.04
+      },
+      {
+        "stock_code": "600900",
+        "stock_name": "长江电力",
+        "market_value_wan": 232.54
+      }
+    ]
+  }
+}

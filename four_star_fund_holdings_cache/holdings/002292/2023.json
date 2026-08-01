@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "002292",
+    "name": "诺安益鑫灵活配置混合A",
+    "base_name": "诺安益鑫灵活配置混合"
+  },
+  "fetched_at": "2026-06-14 22:30:18",
+  "quarters": {
+    "2023-Q4": [
+      {
+        "stock_code": "002230",
+        "stock_name": "科大讯飞",
+        "market_value_wan": 334.86
+      },
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 324.86
+      },
+      {
+        "stock_code": "002463",
+        "stock_name": "沪电股份",
+        "market_value_wan": 307.25
+      },
+      {
+        "stock_code": "688981",
+        "stock_name": "中芯国际",
+        "market_value_wan": 303.15
+      },
+      {
+        "stock_code": "002315",
+        "stock_name": "焦点科技",
+        "market_value_wan": 277.63
+      },
+      {
+        "stock_code": "688361",
+        "stock_name": "中科飞测",
+        "market_value_wan": 270.26
+      },
+      {
+        "stock_code": "300418",
+        "stock_name": "昆仑万维",
+        "market_value_wan": 255.44
+      },
+      {
+        "stock_code": "688256",
+        "stock_name": "寒武纪",
+        "market_value_wan": 239.34
+      },
+      {
+        "stock_code": "002036",
+        "stock_name": "联创电子",
+        "market_value_wan": 233.91
+      },
+      {
+        "stock_code": "002156",
+        "stock_name": "通富微电",
+        "market_value_wan": 232.82
+      }
+    ],
+    "2023-Q3": [
+      {
+        "stock_code": "300418",
+        "stock_name": "昆仑万维",
+        "market_value_wan": 473.5
+      },
+      {
+        "stock_code": "603496",
+        "stock_name": "恒为科技",
+        "market_value_wan": 445.51
+      },
+      {
+        "stock_code": "002236",
+        "stock_name": "大华股份",
+        "market_value_wan": 355.43
+      },
+      {
+        "stock_code": "688041",
+        "stock_name": "海光信息",
+        "market_value_wan": 343.46
+      },
+      {
+        "stock_code": "002261",
+        "stock_name": "拓维信息",
+        "market_value_wan": 317.02
+      },
+      {
+        "stock_code": "002463",
+        "stock_name": "沪电股份",
+        "market_value_wan": 312.66
+      },
+      {
+        "stock_code": "000021",
+        "stock_name": "深科技",
+        "market_value_wan": 298.94
+      },
+      {
+        "stock_code": "688981",
+        "stock_name": "中芯国际",
+        "market_value_wan": 292.46
+      },
+      {
+        "stock_code": "688361",
+        "stock_name": "中科飞测",
+        "market_value_wan": 289.75
+      },
+      {
+        "stock_code": "688256",
+        "stock_name": "寒武纪",
+        "market_value_wan": 285.58
+      }
+    ],
+    "2023-Q2": [
+      {
+        "stock_code": "000063",
+        "stock_name": "中兴通讯",
+        "market_value_wan": 372.06
+      },
+      {
+        "stock_code": "688036",
+        "stock_name": "传音控股",
+        "market_value_wan": 341.16
+      },
+      {
+        "stock_code": "300223",
+        "stock_name": "北京君正",
+        "market_value_wan": 307.32
+      },
+      {
+        "stock_code": "688361",
+        "stock_name": "中科飞测",
+        "market_value_wan": 301.41
+      },
+      {
+        "stock_code": "002463",
+        "stock_name": "沪电股份",
+        "market_value_wan": 290.86
+      },
+      {
+        "stock_code": "688256",
+        "stock_name": "寒武纪",
+        "market_value_wan": 288.82
+      },
+      {
+        "stock_code": "300058",
+        "stock_name": "蓝色光标",
+        "market_value_wan": 271.53
+      },
+      {
+        "stock_code": "603019",
+        "stock_name": "中科曙光",
+        "market_value_wan": 263.66
+      },
+      {
+        "stock_code": "002436",
+        "stock_name": "兴森科技",
+        "market_value_wan": 261.02
+      },
+      {
+        "stock_code": "002156",
+        "stock_name": "通富微电",
+        "market_value_wan": 227.58
+      }
+    ],
+    "2023-Q1": [
+      {
+        "stock_code": "688256",
+        "stock_name": "寒武纪",
+        "market_value_wan": 408.09
+      },
+      {
+        "stock_code": "603986",
+        "stock_name": "兆易创新",
+        "market_value_wan": 379.42
+      },
+      {
+        "stock_code": "002230",
+        "stock_name": "科大讯飞",
+        "market_value_wan": 250.26
+      },
+      {
+        "stock_code": "300459",
+        "stock_name": "汤姆猫",
+        "market_value_wan": 249.07
+      },
+      {
+        "stock_code": "688107",
+        "stock_name": "安路科技",
+        "market_value_wan": 236.68
+      },
+      {
+        "stock_code": "002156",
+        "stock_name": "通富微电",
+        "market_value_wan": 223.55
+      },
+      {
+        "stock_code": "688152",
+        "stock_name": "麒麟信安",
+        "market_value_wan": 220.37
+      },
+      {
+        "stock_code": "603936",
+        "stock_name": "博敏电子",
+        "market_value_wan": 218.7
+      },
+      {
+        "stock_code": "300613",
+        "stock_name": "富瀚微",
+        "market_value_wan": 216.71
+      },
+      {
+        "stock_code": "688018",
+        "stock_name": "乐鑫科技",
+        "market_value_wan": 205.81
+      }
+    ]
+  }
+}

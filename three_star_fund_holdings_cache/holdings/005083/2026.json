@@ -1,0 +1,115 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "005083",
+    "name": "诺德量化蓝筹增强混合C",
+    "base_name": "诺德量化蓝筹增强混合"
+  },
+  "fetched_at": "2026-08-01 20:56:19",
+  "quarters": {
+    "2026-Q2": [
+      {
+        "stock_code": "600030",
+        "stock_name": "中信证券",
+        "market_value_wan": 62.16
+      },
+      {
+        "stock_code": "601108",
+        "stock_name": "财通证券",
+        "market_value_wan": 60.1
+      },
+      {
+        "stock_code": "300033",
+        "stock_name": "同花顺",
+        "market_value_wan": 59.65
+      },
+      {
+        "stock_code": "601211",
+        "stock_name": "国泰海通",
+        "market_value_wan": 59.01
+      },
+      {
+        "stock_code": "600958",
+        "stock_name": "东方证券",
+        "market_value_wan": 58.06
+      },
+      {
+        "stock_code": "601198",
+        "stock_name": "东兴证券",
+        "market_value_wan": 56.47
+      },
+      {
+        "stock_code": "300059",
+        "stock_name": "东方财富",
+        "market_value_wan": 52.22
+      },
+      {
+        "stock_code": "002967",
+        "stock_name": "广电计量",
+        "market_value_wan": 49.09
+      },
+      {
+        "stock_code": "600570",
+        "stock_name": "恒生电子",
+        "market_value_wan": 45.19
+      },
+      {
+        "stock_code": "688111",
+        "stock_name": "金山办公",
+        "market_value_wan": 40.82
+      }
+    ],
+    "2026-Q1": [
+      {
+        "stock_code": "601211",
+        "stock_name": "国泰海通",
+        "market_value_wan": 56.9
+      },
+      {
+        "stock_code": "600030",
+        "stock_name": "中信证券",
+        "market_value_wan": 56.28
+      },
+      {
+        "stock_code": "603228",
+        "stock_name": "景旺电子",
+        "market_value_wan": 54.12
+      },
+      {
+        "stock_code": "002415",
+        "stock_name": "海康威视",
+        "market_value_wan": 52.28
+      },
+      {
+        "stock_code": "000519",
+        "stock_name": "中兵红箭",
+        "market_value_wan": 46.44
+      },
+      {
+        "stock_code": "300059",
+        "stock_name": "东方财富",
+        "market_value_wan": 42.73
+      },
+      {
+        "stock_code": "600150",
+        "stock_name": "中国船舶",
+        "market_value_wan": 39.47
+      },
+      {
+        "stock_code": "603299",
+        "stock_name": "苏盐井神",
+        "market_value_wan": 39.44
+      },
+      {
+        "stock_code": "688343",
+        "stock_name": "云天励飞",
+        "market_value_wan": 37.16
+      },
+      {
+        "stock_code": "002221",
+        "stock_name": "东华能源",
+        "market_value_wan": 37.06
+      }
+    ]
+  }
+}

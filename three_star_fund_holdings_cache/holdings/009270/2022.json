@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "009270",
+    "name": "融通逆向策略灵活配置混合C",
+    "base_name": "融通逆向策略灵活配置混合"
+  },
+  "fetched_at": "2026-06-14 23:32:36",
+  "quarters": {
+    "2022-Q4": [
+      {
+        "stock_code": "000001",
+        "stock_name": "平安银行",
+        "market_value_wan": 63.04
+      },
+      {
+        "stock_code": "601166",
+        "stock_name": "兴业银行",
+        "market_value_wan": 46.97
+      },
+      {
+        "stock_code": "300416",
+        "stock_name": "苏试试验",
+        "market_value_wan": 43.93
+      },
+      {
+        "stock_code": "601668",
+        "stock_name": "中国建筑",
+        "market_value_wan": 42.03
+      },
+      {
+        "stock_code": "600325",
+        "stock_name": "华发股份",
+        "market_value_wan": 37.96
+      },
+      {
+        "stock_code": "002727",
+        "stock_name": "一心堂",
+        "market_value_wan": 37.81
+      },
+      {
+        "stock_code": "603733",
+        "stock_name": "仙鹤股份",
+        "market_value_wan": 35.95
+      },
+      {
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "market_value_wan": 31.3
+      },
+      {
+        "stock_code": "002142",
+        "stock_name": "宁波银行",
+        "market_value_wan": 29.85
+      },
+      {
+        "stock_code": "603688",
+        "stock_name": "石英股份",
+        "market_value_wan": 28.89
+      }
+    ],
+    "2022-Q3": [
+      {
+        "stock_code": "600026",
+        "stock_name": "中远海能",
+        "market_value_wan": 137.66
+      },
+      {
+        "stock_code": "300416",
+        "stock_name": "苏试试验",
+        "market_value_wan": 126.21
+      },
+      {
+        "stock_code": "600325",
+        "stock_name": "华发股份",
+        "market_value_wan": 117.22
+      },
+      {
+        "stock_code": "601975",
+        "stock_name": "招商南油",
+        "market_value_wan": 113.89
+      },
+      {
+        "stock_code": "600150",
+        "stock_name": "中国船舶",
+        "market_value_wan": 110.53
+      },
+      {
+        "stock_code": "000975",
+        "stock_name": "山金国际",
+        "market_value_wan": 102.75
+      },
+      {
+        "stock_code": "600029",
+        "stock_name": "南方航空",
+        "market_value_wan": 94.09
+      },
+      {
+        "stock_code": "300763",
+        "stock_name": "锦浪科技",
+        "market_value_wan": 72.91
+      },
+      {
+        "stock_code": "301195",
+        "stock_name": "北路智控",
+        "market_value_wan": 72.46
+      },
+      {
+        "stock_code": "600988",
+        "stock_name": "赤峰黄金",
+        "market_value_wan": 70.17
+      }
+    ],
+    "2022-Q2": [
+      {
+        "stock_code": "002142",
+        "stock_name": "宁波银行",
+        "market_value_wan": 139.48
+      },
+      {
+        "stock_code": "002244",
+        "stock_name": "滨江集团",
+        "market_value_wan": 115.56
+      },
+      {
+        "stock_code": "688063",
+        "stock_name": "派能科技",
+        "market_value_wan": 114.05
+      },
+      {
+        "stock_code": "603345",
+        "stock_name": "安井食品",
+        "market_value_wan": 92.33
+      },
+      {
+        "stock_code": "600328",
+        "stock_name": "中盐化工",
+        "market_value_wan": 92.32
+      },
+      {
+        "stock_code": "002179",
+        "stock_name": "中航光电",
+        "market_value_wan": 91.43
+      },
+      {
+        "stock_code": "002372",
+        "stock_name": "伟星新材",
+        "market_value_wan": 89.91
+      },
+      {
+        "stock_code": "601838",
+        "stock_name": "成都银行",
+        "market_value_wan": 89.37
+      },
+      {
+        "stock_code": "300416",
+        "stock_name": "苏试试验",
+        "market_value_wan": 79.57
+      },
+      {
+        "stock_code": "688733",
+        "stock_name": "壹石通",
+        "market_value_wan": 73.13
+      }
+    ],
+    "2022-Q1": [
+      {
+        "stock_code": "600048",
+        "stock_name": "保利发展",
+        "market_value_wan": 410.29
+      },
+      {
+        "stock_code": "002142",
+        "stock_name": "宁波银行",
+        "market_value_wan": 193.87
+      },
+      {
+        "stock_code": "600585",
+        "stock_name": "海螺水泥",
+        "market_value_wan": 168.23
+      },
+      {
+        "stock_code": "000656",
+        "stock_name": "*ST金科",
+        "market_value_wan": 161.49
+      },
+      {
+        "stock_code": "601009",
+        "stock_name": "南京银行",
+        "market_value_wan": 127.72
+      },
+      {
+        "stock_code": "601225",
+        "stock_name": "陕西煤业",
+        "market_value_wan": 127.16
+      },
+      {
+        "stock_code": "601328",
+        "stock_name": "交通银行",
+        "market_value_wan": 122.28
+      },
+      {
+        "stock_code": "002179",
+        "stock_name": "中航光电",
+        "market_value_wan": 116.54
+      },
+      {
+        "stock_code": "000999",
+        "stock_name": "华润三九",
+        "market_value_wan": 88.91
+      },
+      {
+        "stock_code": "601677",
+        "stock_name": "明泰铝业",
+        "market_value_wan": 84.25
+      }
+    ]
+  }
+}

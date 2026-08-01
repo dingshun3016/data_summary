@@ -1,0 +1,94 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "002662",
+    "name": "前海开源沪港深大消费混合A",
+    "base_name": "前海开源沪港深大消费混合"
+  },
+  "fetched_at": "2026-06-14 23:07:10",
+  "quarters": {
+    "2025-Q4": [
+      {
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "market_value_wan": 491.11
+      },
+      {
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "market_value_wan": 483.73
+      },
+      {
+        "stock_code": "002602",
+        "stock_name": "世纪华通",
+        "market_value_wan": 437.48
+      },
+      {
+        "stock_code": "300677",
+        "stock_name": "英科医疗",
+        "market_value_wan": 350.21
+      }
+    ],
+    "2025-Q3": [
+      {
+        "stock_code": "002602",
+        "stock_name": "ST华通",
+        "market_value_wan": 869.06
+      },
+      {
+        "stock_code": "300677",
+        "stock_name": "英科医疗",
+        "market_value_wan": 630.93
+      },
+      {
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "market_value_wan": 570.39
+      },
+      {
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "market_value_wan": 464.31
+      }
+    ],
+    "2025-Q2": [
+      {
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "market_value_wan": 930.95
+      },
+      {
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "market_value_wan": 911.54
+      },
+      {
+        "stock_code": "000651",
+        "stock_name": "格力电器",
+        "market_value_wan": 798.68
+      }
+    ],
+    "2025-Q1": [
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 989.67
+      },
+      {
+        "stock_code": "600674",
+        "stock_name": "川投能源",
+        "market_value_wan": 803.76
+      },
+      {
+        "stock_code": "000651",
+        "stock_name": "格力电器",
+        "market_value_wan": 710.99
+      },
+      {
+        "stock_code": "600809",
+        "stock_name": "山西汾酒",
+        "market_value_wan": 636.41
+      }
+    ]
+  }
+}

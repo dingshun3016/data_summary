@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "006568",
+    "name": "国联安行业领先混合",
+    "base_name": "国联安行业领先混合"
+  },
+  "fetched_at": "2026-06-14 23:22:23",
+  "quarters": {
+    "2019-Q4": [
+      {
+        "stock_code": "000002",
+        "stock_name": "万科A",
+        "market_value_wan": 1169.1
+      },
+      {
+        "stock_code": "002230",
+        "stock_name": "科大讯飞",
+        "market_value_wan": 1148.18
+      },
+      {
+        "stock_code": "002153",
+        "stock_name": "石基信息",
+        "market_value_wan": 1109.94
+      },
+      {
+        "stock_code": "600570",
+        "stock_name": "恒生电子",
+        "market_value_wan": 1055.17
+      },
+      {
+        "stock_code": "000651",
+        "stock_name": "格力电器",
+        "market_value_wan": 1022.39
+      },
+      {
+        "stock_code": "600588",
+        "stock_name": "用友网络",
+        "market_value_wan": 973.19
+      },
+      {
+        "stock_code": "300033",
+        "stock_name": "同花顺",
+        "market_value_wan": 852.15
+      },
+      {
+        "stock_code": "002142",
+        "stock_name": "宁波银行",
+        "market_value_wan": 832.68
+      },
+      {
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "market_value_wan": 828.96
+      },
+      {
+        "stock_code": "002841",
+        "stock_name": "视源股份",
+        "market_value_wan": 809.01
+      }
+    ],
+    "2019-Q3": [
+      {
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "market_value_wan": 2159.46
+      },
+      {
+        "stock_code": "600588",
+        "stock_name": "用友网络",
+        "market_value_wan": 2146.15
+      },
+      {
+        "stock_code": "300059",
+        "stock_name": "东方财富",
+        "market_value_wan": 1975.2
+      },
+      {
+        "stock_code": "002153",
+        "stock_name": "石基信息",
+        "market_value_wan": 1955.93
+      },
+      {
+        "stock_code": "600570",
+        "stock_name": "恒生电子",
+        "market_value_wan": 1950.63
+      },
+      {
+        "stock_code": "002230",
+        "stock_name": "科大讯飞",
+        "market_value_wan": 1629.64
+      },
+      {
+        "stock_code": "002841",
+        "stock_name": "视源股份",
+        "market_value_wan": 1533.51
+      },
+      {
+        "stock_code": "600276",
+        "stock_name": "恒瑞医药",
+        "market_value_wan": 1528.08
+      },
+      {
+        "stock_code": "600837",
+        "stock_name": "海通证券",
+        "market_value_wan": 1507.08
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 1437.5
+      }
+    ],
+    "2019-Q2": [
+      {
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "market_value_wan": 3544.4
+      },
+      {
+        "stock_code": "600588",
+        "stock_name": "用友网络",
+        "market_value_wan": 2866.95
+      },
+      {
+        "stock_code": "000977",
+        "stock_name": "浪潮信息",
+        "market_value_wan": 2570.44
+      },
+      {
+        "stock_code": "600570",
+        "stock_name": "恒生电子",
+        "market_value_wan": 2498.38
+      },
+      {
+        "stock_code": "002230",
+        "stock_name": "科大讯飞",
+        "market_value_wan": 2405.58
+      },
+      {
+        "stock_code": "002153",
+        "stock_name": "石基信息",
+        "market_value_wan": 2091.06
+      },
+      {
+        "stock_code": "600271",
+        "stock_name": "航天信息",
+        "market_value_wan": 2042.46
+      },
+      {
+        "stock_code": "300059",
+        "stock_name": "东方财富",
+        "market_value_wan": 2011.36
+      },
+      {
+        "stock_code": "002841",
+        "stock_name": "视源股份",
+        "market_value_wan": 1892.79
+      },
+      {
+        "stock_code": "300033",
+        "stock_name": "同花顺",
+        "market_value_wan": 1839.37
+      }
+    ],
+    "2019-Q1": [
+      {
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "market_value_wan": 3084.0
+      },
+      {
+        "stock_code": "600588",
+        "stock_name": "用友网络",
+        "market_value_wan": 2781.29
+      },
+      {
+        "stock_code": "000977",
+        "stock_name": "浪潮信息",
+        "market_value_wan": 2693.25
+      },
+      {
+        "stock_code": "002230",
+        "stock_name": "科大讯飞",
+        "market_value_wan": 2626.31
+      },
+      {
+        "stock_code": "600271",
+        "stock_name": "航天信息",
+        "market_value_wan": 2474.88
+      },
+      {
+        "stock_code": "600570",
+        "stock_name": "恒生电子",
+        "market_value_wan": 2469.19
+      },
+      {
+        "stock_code": "300059",
+        "stock_name": "东方财富",
+        "market_value_wan": 2397.31
+      },
+      {
+        "stock_code": "002841",
+        "stock_name": "视源股份",
+        "market_value_wan": 1936.51
+      },
+      {
+        "stock_code": "002153",
+        "stock_name": "石基信息",
+        "market_value_wan": 1886.52
+      },
+      {
+        "stock_code": "300033",
+        "stock_name": "同花顺",
+        "market_value_wan": 1867.23
+      }
+    ]
+  }
+}

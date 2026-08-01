@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "320015",
+    "name": "诺安行业轮动混合A",
+    "base_name": "诺安行业轮动混合"
+  },
+  "fetched_at": "2026-06-14 23:58:54",
+  "quarters": {
+    "2024-Q4": [
+      {
+        "stock_code": "600050",
+        "stock_name": "中国联通",
+        "market_value_wan": 3855.06
+      },
+      {
+        "stock_code": "601728",
+        "stock_name": "中国电信",
+        "market_value_wan": 3797.78
+      },
+      {
+        "stock_code": "601607",
+        "stock_name": "上海医药",
+        "market_value_wan": 1608.6
+      },
+      {
+        "stock_code": "601816",
+        "stock_name": "京沪高铁",
+        "market_value_wan": 1601.6
+      },
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 1549.53
+      },
+      {
+        "stock_code": "601868",
+        "stock_name": "中国能建",
+        "market_value_wan": 1531.55
+      },
+      {
+        "stock_code": "688249",
+        "stock_name": "晶合集成",
+        "market_value_wan": 1467.62
+      },
+      {
+        "stock_code": "688307",
+        "stock_name": "中润光学",
+        "market_value_wan": 1446.81
+      },
+      {
+        "stock_code": "688120",
+        "stock_name": "华海清科",
+        "market_value_wan": 1444.09
+      },
+      {
+        "stock_code": "002371",
+        "stock_name": "北方华创",
+        "market_value_wan": 1407.6
+      }
+    ],
+    "2024-Q3": [
+      {
+        "stock_code": "600050",
+        "stock_name": "中国联通",
+        "market_value_wan": 4280.0
+      },
+      {
+        "stock_code": "601728",
+        "stock_name": "中国电信",
+        "market_value_wan": 4079.74
+      },
+      {
+        "stock_code": "601816",
+        "stock_name": "京沪高铁",
+        "market_value_wan": 3068.32
+      },
+      {
+        "stock_code": "601857",
+        "stock_name": "中国石油",
+        "market_value_wan": 2706.0
+      },
+      {
+        "stock_code": "000858",
+        "stock_name": "五粮液",
+        "market_value_wan": 2044.38
+      },
+      {
+        "stock_code": "601018",
+        "stock_name": "宁波港",
+        "market_value_wan": 1950.72
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 1852.88
+      },
+      {
+        "stock_code": "000538",
+        "stock_name": "云南白药",
+        "market_value_wan": 1586.37
+      },
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 1566.84
+      },
+      {
+        "stock_code": "601607",
+        "stock_name": "上海医药",
+        "market_value_wan": 1535.49
+      }
+    ],
+    "2024-Q2": [
+      {
+        "stock_code": "600050",
+        "stock_name": "中国联通",
+        "market_value_wan": 4822.2
+      },
+      {
+        "stock_code": "601728",
+        "stock_name": "中国电信",
+        "market_value_wan": 4797.06
+      },
+      {
+        "stock_code": "601857",
+        "stock_name": "中国石油",
+        "market_value_wan": 3777.12
+      },
+      {
+        "stock_code": "601607",
+        "stock_name": "上海医药",
+        "market_value_wan": 2407.86
+      },
+      {
+        "stock_code": "601018",
+        "stock_name": "宁波港",
+        "market_value_wan": 1999.2
+      },
+      {
+        "stock_code": "688347",
+        "stock_name": "华虹公司",
+        "market_value_wan": 1802.54
+      },
+      {
+        "stock_code": "002236",
+        "stock_name": "大华股份",
+        "market_value_wan": 1586.2
+      },
+      {
+        "stock_code": "601816",
+        "stock_name": "京沪高铁",
+        "market_value_wan": 1396.2
+      },
+      {
+        "stock_code": "000538",
+        "stock_name": "云南白药",
+        "market_value_wan": 1330.21
+      },
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 1328.7
+      }
+    ],
+    "2024-Q1": [
+      {
+        "stock_code": "600050",
+        "stock_name": "中国联通",
+        "market_value_wan": 5912.22
+      },
+      {
+        "stock_code": "601728",
+        "stock_name": "中国电信",
+        "market_value_wan": 5836.85
+      },
+      {
+        "stock_code": "601857",
+        "stock_name": "中国石油",
+        "market_value_wan": 5809.44
+      },
+      {
+        "stock_code": "002236",
+        "stock_name": "大华股份",
+        "market_value_wan": 2986.2
+      },
+      {
+        "stock_code": "601607",
+        "stock_name": "上海医药",
+        "market_value_wan": 2810.38
+      },
+      {
+        "stock_code": "600166",
+        "stock_name": "福田汽车",
+        "market_value_wan": 2800.98
+      },
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 2504.58
+      },
+      {
+        "stock_code": "600750",
+        "stock_name": "江中药业",
+        "market_value_wan": 2173.6
+      },
+      {
+        "stock_code": "600362",
+        "stock_name": "江西铜业",
+        "market_value_wan": 2048.64
+      },
+      {
+        "stock_code": "600612",
+        "stock_name": "老凤祥",
+        "market_value_wan": 1761.71
+      }
+    ]
+  }
+}

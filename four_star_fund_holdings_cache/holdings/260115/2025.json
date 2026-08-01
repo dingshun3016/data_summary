@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "260115",
+    "name": "景顺长城中小盘混合A",
+    "base_name": "景顺长城中小盘混合"
+  },
+  "fetched_at": "2026-06-14 22:43:48",
+  "quarters": {
+    "2025-Q4": [
+      {
+        "stock_code": "300274",
+        "stock_name": "阳光电源",
+        "market_value_wan": 598.64
+      },
+      {
+        "stock_code": "000933",
+        "stock_name": "神火股份",
+        "market_value_wan": 423.04
+      },
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 400.94
+      },
+      {
+        "stock_code": "603766",
+        "stock_name": "隆鑫通用",
+        "market_value_wan": 361.99
+      },
+      {
+        "stock_code": "300373",
+        "stock_name": "扬杰科技",
+        "market_value_wan": 340.0
+      },
+      {
+        "stock_code": "600989",
+        "stock_name": "宝丰能源",
+        "market_value_wan": 336.46
+      },
+      {
+        "stock_code": "600732",
+        "stock_name": "爱旭股份",
+        "market_value_wan": 336.29
+      },
+      {
+        "stock_code": "300308",
+        "stock_name": "中际旭创",
+        "market_value_wan": 323.3
+      },
+      {
+        "stock_code": "002984",
+        "stock_name": "森麒麟",
+        "market_value_wan": 318.78
+      },
+      {
+        "stock_code": "688676",
+        "stock_name": "金盘科技",
+        "market_value_wan": 318.39
+      }
+    ],
+    "2025-Q3": [
+      {
+        "stock_code": "300274",
+        "stock_name": "阳光电源",
+        "market_value_wan": 1103.08
+      },
+      {
+        "stock_code": "603986",
+        "stock_name": "兆易创新",
+        "market_value_wan": 806.27
+      },
+      {
+        "stock_code": "600732",
+        "stock_name": "爱旭股份",
+        "market_value_wan": 740.48
+      },
+      {
+        "stock_code": "300723",
+        "stock_name": "一品红",
+        "market_value_wan": 575.88
+      },
+      {
+        "stock_code": "000157",
+        "stock_name": "中联重科",
+        "market_value_wan": 571.75
+      },
+      {
+        "stock_code": "300373",
+        "stock_name": "扬杰科技",
+        "market_value_wan": 568.71
+      },
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 566.02
+      },
+      {
+        "stock_code": "600690",
+        "stock_name": "海尔智家",
+        "market_value_wan": 535.65
+      },
+      {
+        "stock_code": "300558",
+        "stock_name": "贝达药业",
+        "market_value_wan": 533.38
+      },
+      {
+        "stock_code": "688506",
+        "stock_name": "百利天恒",
+        "market_value_wan": 477.08
+      }
+    ],
+    "2025-Q2": [
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 1381.91
+      },
+      {
+        "stock_code": "300723",
+        "stock_name": "一品红",
+        "market_value_wan": 1371.78
+      },
+      {
+        "stock_code": "000338",
+        "stock_name": "潍柴动力",
+        "market_value_wan": 1232.71
+      },
+      {
+        "stock_code": "600690",
+        "stock_name": "海尔智家",
+        "market_value_wan": 961.22
+      },
+      {
+        "stock_code": "000157",
+        "stock_name": "中联重科",
+        "market_value_wan": 738.91
+      },
+      {
+        "stock_code": "603986",
+        "stock_name": "兆易创新",
+        "market_value_wan": 721.22
+      },
+      {
+        "stock_code": "002984",
+        "stock_name": "森麒麟",
+        "market_value_wan": 557.78
+      },
+      {
+        "stock_code": "600989",
+        "stock_name": "宝丰能源",
+        "market_value_wan": 531.01
+      },
+      {
+        "stock_code": "300274",
+        "stock_name": "阳光电源",
+        "market_value_wan": 486.59
+      },
+      {
+        "stock_code": "300204",
+        "stock_name": "舒泰神",
+        "market_value_wan": 471.59
+      }
+    ],
+    "2025-Q1": [
+      {
+        "stock_code": "002984",
+        "stock_name": "森麒麟",
+        "market_value_wan": 2881.66
+      },
+      {
+        "stock_code": "603707",
+        "stock_name": "健友股份",
+        "market_value_wan": 2783.05
+      },
+      {
+        "stock_code": "000951",
+        "stock_name": "中国重汽",
+        "market_value_wan": 2736.04
+      },
+      {
+        "stock_code": "000338",
+        "stock_name": "潍柴动力",
+        "market_value_wan": 2714.54
+      },
+      {
+        "stock_code": "002648",
+        "stock_name": "卫星化学",
+        "market_value_wan": 2379.56
+      },
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 2167.39
+      },
+      {
+        "stock_code": "600690",
+        "stock_name": "海尔智家",
+        "market_value_wan": 2042.58
+      },
+      {
+        "stock_code": "002273",
+        "stock_name": "水晶光电",
+        "market_value_wan": 1995.74
+      },
+      {
+        "stock_code": "601126",
+        "stock_name": "四方股份",
+        "market_value_wan": 1553.97
+      },
+      {
+        "stock_code": "600989",
+        "stock_name": "宝丰能源",
+        "market_value_wan": 1480.9
+      }
+    ]
+  }
+}

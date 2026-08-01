@@ -1,0 +1,65 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "007592",
+    "name": "华夏价值精选混合A",
+    "base_name": "华夏价值精选混合"
+  },
+  "fetched_at": "2026-08-01 20:57:25",
+  "quarters": {
+    "2026-Q2": [
+      {
+        "stock_code": "688376",
+        "stock_name": "美埃科技",
+        "market_value_wan": 6788.33
+      },
+      {
+        "stock_code": "002126",
+        "stock_name": "银轮股份",
+        "market_value_wan": 6674.12
+      },
+      {
+        "stock_code": "000725",
+        "stock_name": "京东方A",
+        "market_value_wan": 6001.35
+      },
+      {
+        "stock_code": "603727",
+        "stock_name": "博迈科",
+        "market_value_wan": 3211.2
+      },
+      {
+        "stock_code": "000034",
+        "stock_name": "神州数码",
+        "market_value_wan": 3180.26
+      }
+    ],
+    "2026-Q1": [
+      {
+        "stock_code": "000725",
+        "stock_name": "京东方A",
+        "market_value_wan": 6704.83
+      },
+      {
+        "stock_code": "688376",
+        "stock_name": "美埃科技",
+        "market_value_wan": 6631.51
+      },
+      {
+        "stock_code": "002126",
+        "stock_name": "银轮股份",
+        "market_value_wan": 5900.32
+      },
+      {
+        "stock_code": "002782",
+        "stock_name": "可立克",
+        "market_value_wan": 3782.13
+      },
+      {
+        "stock_code": "000935",
+        "stock_name": "四川双马",
+        "market_value_wan": 3304.27
+      }
+    ]
+  }
+}

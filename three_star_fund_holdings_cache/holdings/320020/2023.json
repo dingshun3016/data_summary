@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "320020",
+    "name": "诺安策略精选股票A",
+    "base_name": "诺安策略精选股票"
+  },
+  "fetched_at": "2026-06-14 23:58:57",
+  "quarters": {
+    "2023-Q4": [
+      {
+        "stock_code": "300910",
+        "stock_name": "瑞丰新材",
+        "market_value_wan": 1005.08
+      },
+      {
+        "stock_code": "300572",
+        "stock_name": "安车检测",
+        "market_value_wan": 750.63
+      },
+      {
+        "stock_code": "300748",
+        "stock_name": "金力永磁",
+        "market_value_wan": 734.43
+      },
+      {
+        "stock_code": "300037",
+        "stock_name": "新宙邦",
+        "market_value_wan": 672.13
+      },
+      {
+        "stock_code": "002810",
+        "stock_name": "山东赫达",
+        "market_value_wan": 631.89
+      },
+      {
+        "stock_code": "002036",
+        "stock_name": "联创电子",
+        "market_value_wan": 588.5
+      },
+      {
+        "stock_code": "605296",
+        "stock_name": "神农集团",
+        "market_value_wan": 507.66
+      },
+      {
+        "stock_code": "601021",
+        "stock_name": "春秋航空",
+        "market_value_wan": 486.94
+      },
+      {
+        "stock_code": "603416",
+        "stock_name": "信捷电气",
+        "market_value_wan": 483.4
+      },
+      {
+        "stock_code": "603583",
+        "stock_name": "捷昌驱动",
+        "market_value_wan": 479.52
+      }
+    ],
+    "2023-Q3": [
+      {
+        "stock_code": "600309",
+        "stock_name": "万华化学",
+        "market_value_wan": 1444.03
+      },
+      {
+        "stock_code": "300910",
+        "stock_name": "瑞丰新材",
+        "market_value_wan": 1177.49
+      },
+      {
+        "stock_code": "300037",
+        "stock_name": "新宙邦",
+        "market_value_wan": 785.69
+      },
+      {
+        "stock_code": "601677",
+        "stock_name": "明泰铝业",
+        "market_value_wan": 757.09
+      },
+      {
+        "stock_code": "002430",
+        "stock_name": "杭氧股份",
+        "market_value_wan": 709.79
+      },
+      {
+        "stock_code": "601021",
+        "stock_name": "春秋航空",
+        "market_value_wan": 574.46
+      },
+      {
+        "stock_code": "603486",
+        "stock_name": "科沃斯",
+        "market_value_wan": 563.57
+      },
+      {
+        "stock_code": "300596",
+        "stock_name": "利安隆",
+        "market_value_wan": 490.68
+      },
+      {
+        "stock_code": "600011",
+        "stock_name": "华能国际",
+        "market_value_wan": 484.87
+      },
+      {
+        "stock_code": "002215",
+        "stock_name": "诺普信",
+        "market_value_wan": 474.66
+      }
+    ],
+    "2023-Q2": [
+      {
+        "stock_code": "600309",
+        "stock_name": "万华化学",
+        "market_value_wan": 1436.18
+      },
+      {
+        "stock_code": "300910",
+        "stock_name": "瑞丰新材",
+        "market_value_wan": 1325.3
+      },
+      {
+        "stock_code": "002271",
+        "stock_name": "东方雨虹",
+        "market_value_wan": 1174.36
+      },
+      {
+        "stock_code": "603486",
+        "stock_name": "科沃斯",
+        "market_value_wan": 1027.34
+      },
+      {
+        "stock_code": "688169",
+        "stock_name": "石头科技",
+        "market_value_wan": 837.1
+      },
+      {
+        "stock_code": "688503",
+        "stock_name": "聚和材料",
+        "market_value_wan": 785.27
+      },
+      {
+        "stock_code": "600426",
+        "stock_name": "华鲁恒升",
+        "market_value_wan": 645.68
+      },
+      {
+        "stock_code": "002318",
+        "stock_name": "久立特材",
+        "market_value_wan": 607.63
+      },
+      {
+        "stock_code": "300037",
+        "stock_name": "新宙邦",
+        "market_value_wan": 582.72
+      },
+      {
+        "stock_code": "601865",
+        "stock_name": "福莱特",
+        "market_value_wan": 554.16
+      }
+    ],
+    "2023-Q1": [
+      {
+        "stock_code": "300910",
+        "stock_name": "瑞丰新材",
+        "market_value_wan": 2176.78
+      },
+      {
+        "stock_code": "603486",
+        "stock_name": "科沃斯",
+        "market_value_wan": 1761.86
+      },
+      {
+        "stock_code": "000059",
+        "stock_name": "华锦股份",
+        "market_value_wan": 1582.41
+      },
+      {
+        "stock_code": "300511",
+        "stock_name": "雪榕生物",
+        "market_value_wan": 1465.63
+      },
+      {
+        "stock_code": "002271",
+        "stock_name": "东方雨虹",
+        "market_value_wan": 1261.86
+      },
+      {
+        "stock_code": "600309",
+        "stock_name": "万华化学",
+        "market_value_wan": 1246.44
+      },
+      {
+        "stock_code": "601677",
+        "stock_name": "明泰铝业",
+        "market_value_wan": 1177.18
+      },
+      {
+        "stock_code": "000425",
+        "stock_name": "徐工机械",
+        "market_value_wan": 1167.84
+      },
+      {
+        "stock_code": "001212",
+        "stock_name": "中旗新材",
+        "market_value_wan": 988.38
+      },
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 932.53
+      }
+    ]
+  }
+}

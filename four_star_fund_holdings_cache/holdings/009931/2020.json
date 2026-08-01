@@ -1,0 +1,53 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "009931",
+    "name": "淳厚欣享一年持有期混合A",
+    "base_name": "淳厚欣享一年持有期混合"
+  },
+  "fetched_at": "2026-06-14 22:38:47",
+  "quarters": {
+    "2020-Q4": [
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 9850.14
+      },
+      {
+        "stock_code": "300298",
+        "stock_name": "三诺生物",
+        "market_value_wan": 6027.65
+      },
+      {
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "market_value_wan": 5694.16
+      },
+      {
+        "stock_code": "000921",
+        "stock_name": "海信家电",
+        "market_value_wan": 5174.78
+      },
+      {
+        "stock_code": "002056",
+        "stock_name": "横店东磁",
+        "market_value_wan": 4800.04
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 4669.76
+      },
+      {
+        "stock_code": "603369",
+        "stock_name": "今世缘",
+        "market_value_wan": 4429.16
+      },
+      {
+        "stock_code": "002756",
+        "stock_name": "永兴材料",
+        "market_value_wan": 4082.77
+      }
+    ]
+  }
+}

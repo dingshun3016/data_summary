@@ -1,0 +1,115 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "161232",
+    "name": "国投瑞银瑞盛混合(LOF)A",
+    "base_name": "国投瑞银瑞盛混合(LOF)"
+  },
+  "fetched_at": "2026-08-01 21:00:19",
+  "quarters": {
+    "2026-Q2": [
+      {
+        "stock_code": "300502",
+        "stock_name": "新易盛",
+        "market_value_wan": 586.36
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 538.42
+      },
+      {
+        "stock_code": "601233",
+        "stock_name": "桐昆股份",
+        "market_value_wan": 503.8
+      },
+      {
+        "stock_code": "300308",
+        "stock_name": "中际旭创",
+        "market_value_wan": 482.6
+      },
+      {
+        "stock_code": "605111",
+        "stock_name": "新洁能",
+        "market_value_wan": 402.51
+      },
+      {
+        "stock_code": "000729",
+        "stock_name": "燕京啤酒",
+        "market_value_wan": 392.54
+      },
+      {
+        "stock_code": "605117",
+        "stock_name": "德业股份",
+        "market_value_wan": 346.15
+      },
+      {
+        "stock_code": "600352",
+        "stock_name": "浙江龙盛",
+        "market_value_wan": 340.05
+      },
+      {
+        "stock_code": "002142",
+        "stock_name": "宁波银行",
+        "market_value_wan": 318.28
+      },
+      {
+        "stock_code": "000725",
+        "stock_name": "京东方A",
+        "market_value_wan": 271.34
+      }
+    ],
+    "2026-Q1": [
+      {
+        "stock_code": "601899",
+        "stock_name": "紫金矿业",
+        "market_value_wan": 385.44
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 369.56
+      },
+      {
+        "stock_code": "002311",
+        "stock_name": "海大集团",
+        "market_value_wan": 362.62
+      },
+      {
+        "stock_code": "600233",
+        "stock_name": "圆通速递",
+        "market_value_wan": 349.8
+      },
+      {
+        "stock_code": "000792",
+        "stock_name": "盐湖股份",
+        "market_value_wan": 339.29
+      },
+      {
+        "stock_code": "601117",
+        "stock_name": "中国化学",
+        "market_value_wan": 301.58
+      },
+      {
+        "stock_code": "003816",
+        "stock_name": "中国广核",
+        "market_value_wan": 298.96
+      },
+      {
+        "stock_code": "002203",
+        "stock_name": "海亮股份",
+        "market_value_wan": 293.15
+      },
+      {
+        "stock_code": "601233",
+        "stock_name": "桐昆股份",
+        "market_value_wan": 284.83
+      },
+      {
+        "stock_code": "000703",
+        "stock_name": "恒逸石化",
+        "market_value_wan": 284.27
+      }
+    ]
+  }
+}

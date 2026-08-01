@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "001272",
+    "name": "兴业聚利灵活配置混合A",
+    "base_name": "兴业聚利灵活配置混合"
+  },
+  "fetched_at": "2026-06-14 22:55:12",
+  "quarters": {
+    "2019-Q4": [
+      {
+        "stock_code": "000538",
+        "stock_name": "云南白药",
+        "market_value_wan": 1739.52
+      },
+      {
+        "stock_code": "600406",
+        "stock_name": "国电南瑞",
+        "market_value_wan": 1216.37
+      },
+      {
+        "stock_code": "300166",
+        "stock_name": "东方国信",
+        "market_value_wan": 1107.99
+      },
+      {
+        "stock_code": "601233",
+        "stock_name": "桐昆股份",
+        "market_value_wan": 1092.62
+      },
+      {
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "market_value_wan": 877.12
+      },
+      {
+        "stock_code": "601688",
+        "stock_name": "华泰证券",
+        "market_value_wan": 845.78
+      },
+      {
+        "stock_code": "002262",
+        "stock_name": "恩华药业",
+        "market_value_wan": 809.37
+      },
+      {
+        "stock_code": "600566",
+        "stock_name": "济川药业",
+        "market_value_wan": 676.07
+      },
+      {
+        "stock_code": "600887",
+        "stock_name": "伊利股份",
+        "market_value_wan": 601.49
+      },
+      {
+        "stock_code": "601933",
+        "stock_name": "永辉超市",
+        "market_value_wan": 576.81
+      }
+    ],
+    "2019-Q3": [
+      {
+        "stock_code": "000538",
+        "stock_name": "云南白药",
+        "market_value_wan": 1394.09
+      },
+      {
+        "stock_code": "601877",
+        "stock_name": "正泰电器",
+        "market_value_wan": 1354.53
+      },
+      {
+        "stock_code": "600406",
+        "stock_name": "国电南瑞",
+        "market_value_wan": 1174.44
+      },
+      {
+        "stock_code": "601288",
+        "stock_name": "农业银行",
+        "market_value_wan": 967.21
+      },
+      {
+        "stock_code": "601398",
+        "stock_name": "工商银行",
+        "market_value_wan": 957.35
+      },
+      {
+        "stock_code": "600885",
+        "stock_name": "宏发股份",
+        "market_value_wan": 889.2
+      },
+      {
+        "stock_code": "601233",
+        "stock_name": "桐昆股份",
+        "market_value_wan": 848.11
+      },
+      {
+        "stock_code": "002050",
+        "stock_name": "三花智控",
+        "market_value_wan": 838.11
+      },
+      {
+        "stock_code": "600566",
+        "stock_name": "济川药业",
+        "market_value_wan": 791.83
+      },
+      {
+        "stock_code": "002262",
+        "stock_name": "恩华药业",
+        "market_value_wan": 755.79
+      }
+    ],
+    "2019-Q2": [
+      {
+        "stock_code": "000538",
+        "stock_name": "云南白药",
+        "market_value_wan": 1152.13
+      },
+      {
+        "stock_code": "600406",
+        "stock_name": "国电南瑞",
+        "market_value_wan": 1057.82
+      },
+      {
+        "stock_code": "002262",
+        "stock_name": "恩华药业",
+        "market_value_wan": 791.05
+      },
+      {
+        "stock_code": "601877",
+        "stock_name": "正泰电器",
+        "market_value_wan": 727.8
+      },
+      {
+        "stock_code": "601233",
+        "stock_name": "桐昆股份",
+        "market_value_wan": 708.81
+      },
+      {
+        "stock_code": "600566",
+        "stock_name": "济川药业",
+        "market_value_wan": 708.49
+      },
+      {
+        "stock_code": "002050",
+        "stock_name": "三花智控",
+        "market_value_wan": 622.73
+      },
+      {
+        "stock_code": "002044",
+        "stock_name": "美年健康",
+        "market_value_wan": 609.65
+      },
+      {
+        "stock_code": "600054",
+        "stock_name": "黄山旅游",
+        "market_value_wan": 558.51
+      },
+      {
+        "stock_code": "002739",
+        "stock_name": "万达电影",
+        "market_value_wan": 517.61
+      }
+    ],
+    "2019-Q1": [
+      {
+        "stock_code": "002027",
+        "stock_name": "分众传媒",
+        "market_value_wan": 920.41
+      },
+      {
+        "stock_code": "002511",
+        "stock_name": "中顺洁柔",
+        "market_value_wan": 747.82
+      },
+      {
+        "stock_code": "002739",
+        "stock_name": "万达电影",
+        "market_value_wan": 665.83
+      },
+      {
+        "stock_code": "601233",
+        "stock_name": "桐昆股份",
+        "market_value_wan": 656.34
+      },
+      {
+        "stock_code": "000538",
+        "stock_name": "云南白药",
+        "market_value_wan": 614.75
+      },
+      {
+        "stock_code": "600054",
+        "stock_name": "黄山旅游",
+        "market_value_wan": 601.84
+      },
+      {
+        "stock_code": "002262",
+        "stock_name": "恩华药业",
+        "market_value_wan": 598.3
+      },
+      {
+        "stock_code": "002051",
+        "stock_name": "中工国际",
+        "market_value_wan": 545.83
+      },
+      {
+        "stock_code": "600566",
+        "stock_name": "济川药业",
+        "market_value_wan": 486.39
+      },
+      {
+        "stock_code": "002050",
+        "stock_name": "三花智控",
+        "market_value_wan": 353.52
+      }
+    ]
+  }
+}

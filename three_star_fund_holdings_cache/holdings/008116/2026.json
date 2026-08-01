@@ -1,0 +1,115 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "008116",
+    "name": "银华沪深股通精选混合A",
+    "base_name": "银华沪深股通精选混合"
+  },
+  "fetched_at": "2026-08-01 20:57:35",
+  "quarters": {
+    "2026-Q2": [
+      {
+        "stock_code": "600030",
+        "stock_name": "中信证券",
+        "market_value_wan": 5667.42
+      },
+      {
+        "stock_code": "601688",
+        "stock_name": "华泰证券",
+        "market_value_wan": 5647.27
+      },
+      {
+        "stock_code": "601211",
+        "stock_name": "国泰海通",
+        "market_value_wan": 4120.12
+      },
+      {
+        "stock_code": "600999",
+        "stock_name": "招商证券",
+        "market_value_wan": 4102.05
+      },
+      {
+        "stock_code": "601377",
+        "stock_name": "兴业证券",
+        "market_value_wan": 3615.42
+      },
+      {
+        "stock_code": "601888",
+        "stock_name": "中国中免",
+        "market_value_wan": 3204.48
+      },
+      {
+        "stock_code": "601198",
+        "stock_name": "东兴证券",
+        "market_value_wan": 2956.5
+      },
+      {
+        "stock_code": "601555",
+        "stock_name": "东吴证券",
+        "market_value_wan": 2628.57
+      },
+      {
+        "stock_code": "000776",
+        "stock_name": "广发证券",
+        "market_value_wan": 2461.08
+      },
+      {
+        "stock_code": "600958",
+        "stock_name": "东方证券",
+        "market_value_wan": 2418.72
+      }
+    ],
+    "2026-Q1": [
+      {
+        "stock_code": "600030",
+        "stock_name": "中信证券",
+        "market_value_wan": 5143.96
+      },
+      {
+        "stock_code": "601688",
+        "stock_name": "华泰证券",
+        "market_value_wan": 4874.94
+      },
+      {
+        "stock_code": "000728",
+        "stock_name": "国元证券",
+        "market_value_wan": 3841.06
+      },
+      {
+        "stock_code": "601211",
+        "stock_name": "国泰海通",
+        "market_value_wan": 3755.64
+      },
+      {
+        "stock_code": "600958",
+        "stock_name": "东方证券",
+        "market_value_wan": 3713.01
+      },
+      {
+        "stock_code": "000776",
+        "stock_name": "广发证券",
+        "market_value_wan": 3656.37
+      },
+      {
+        "stock_code": "601377",
+        "stock_name": "兴业证券",
+        "market_value_wan": 3513.66
+      },
+      {
+        "stock_code": "002027",
+        "stock_name": "分众传媒",
+        "market_value_wan": 2916.58
+      },
+      {
+        "stock_code": "601888",
+        "stock_name": "中国中免",
+        "market_value_wan": 2054.39
+      },
+      {
+        "stock_code": "600547",
+        "stock_name": "山东黄金",
+        "market_value_wan": 2000.74
+      }
+    ]
+  }
+}

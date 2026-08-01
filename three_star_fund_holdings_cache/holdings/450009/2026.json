@@ -1,0 +1,115 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "450009",
+    "name": "国富中小盘股票A",
+    "base_name": "国富中小盘股票"
+  },
+  "fetched_at": "2026-08-01 21:01:01",
+  "quarters": {
+    "2026-Q2": [
+      {
+        "stock_code": "600016",
+        "stock_name": "民生银行",
+        "market_value_wan": 12931.08
+      },
+      {
+        "stock_code": "601665",
+        "stock_name": "齐鲁银行",
+        "market_value_wan": 11545.71
+      },
+      {
+        "stock_code": "601577",
+        "stock_name": "长沙银行",
+        "market_value_wan": 11111.73
+      },
+      {
+        "stock_code": "601128",
+        "stock_name": "常熟银行",
+        "market_value_wan": 8857.84
+      },
+      {
+        "stock_code": "002035",
+        "stock_name": "华帝股份",
+        "market_value_wan": 7785.58
+      },
+      {
+        "stock_code": "002568",
+        "stock_name": "百润股份",
+        "market_value_wan": 7047.35
+      },
+      {
+        "stock_code": "600048",
+        "stock_name": "保利发展",
+        "market_value_wan": 6444.87
+      },
+      {
+        "stock_code": "002244",
+        "stock_name": "滨江集团",
+        "market_value_wan": 5346.81
+      },
+      {
+        "stock_code": "001979",
+        "stock_name": "招商蛇口",
+        "market_value_wan": 5272.63
+      },
+      {
+        "stock_code": "603979",
+        "stock_name": "金诚信",
+        "market_value_wan": 5153.32
+      }
+    ],
+    "2026-Q1": [
+      {
+        "stock_code": "601577",
+        "stock_name": "长沙银行",
+        "market_value_wan": 17386.14
+      },
+      {
+        "stock_code": "600016",
+        "stock_name": "民生银行",
+        "market_value_wan": 16357.12
+      },
+      {
+        "stock_code": "601128",
+        "stock_name": "常熟银行",
+        "market_value_wan": 14836.86
+      },
+      {
+        "stock_code": "002035",
+        "stock_name": "华帝股份",
+        "market_value_wan": 13600.08
+      },
+      {
+        "stock_code": "601665",
+        "stock_name": "齐鲁银行",
+        "market_value_wan": 11525.7
+      },
+      {
+        "stock_code": "002568",
+        "stock_name": "百润股份",
+        "market_value_wan": 10565.1
+      },
+      {
+        "stock_code": "600048",
+        "stock_name": "保利发展",
+        "market_value_wan": 8101.32
+      },
+      {
+        "stock_code": "000683",
+        "stock_name": "博源化工",
+        "market_value_wan": 7653.03
+      },
+      {
+        "stock_code": "601155",
+        "stock_name": "新城控股",
+        "market_value_wan": 6992.75
+      },
+      {
+        "stock_code": "001979",
+        "stock_name": "招商蛇口",
+        "market_value_wan": 6896.23
+      }
+    ]
+  }
+}

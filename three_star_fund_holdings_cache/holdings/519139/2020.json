@@ -1,0 +1,64 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "519139",
+    "name": "海富通沪港深混合A",
+    "base_name": "海富通沪港深混合"
+  },
+  "fetched_at": "2026-06-15 00:02:52",
+  "quarters": {
+    "2020-Q4": [
+      {
+        "stock_code": "600031",
+        "stock_name": "三一重工",
+        "market_value_wan": 1995.26
+      }
+    ],
+    "2020-Q3": [
+      {
+        "stock_code": "600031",
+        "stock_name": "三一重工",
+        "market_value_wan": 1419.73
+      },
+      {
+        "stock_code": "600585",
+        "stock_name": "海螺水泥",
+        "market_value_wan": 964.84
+      }
+    ],
+    "2020-Q2": [
+      {
+        "stock_code": "600585",
+        "stock_name": "海螺水泥",
+        "market_value_wan": 1051.32
+      },
+      {
+        "stock_code": "000651",
+        "stock_name": "格力电器",
+        "market_value_wan": 784.06
+      },
+      {
+        "stock_code": "600031",
+        "stock_name": "三一重工",
+        "market_value_wan": 730.14
+      }
+    ],
+    "2020-Q1": [
+      {
+        "stock_code": "000651",
+        "stock_name": "格力电器",
+        "market_value_wan": 903.06
+      },
+      {
+        "stock_code": "600585",
+        "stock_name": "海螺水泥",
+        "market_value_wan": 754.87
+      },
+      {
+        "stock_code": "600031",
+        "stock_name": "三一重工",
+        "market_value_wan": 656.54
+      }
+    ]
+  }
+}

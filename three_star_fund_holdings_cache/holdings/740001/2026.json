@@ -1,0 +1,115 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "740001",
+    "name": "长安宏观策略混合A",
+    "base_name": "长安宏观策略混合"
+  },
+  "fetched_at": "2026-08-01 21:01:37",
+  "quarters": {
+    "2026-Q2": [
+      {
+        "stock_code": "300502",
+        "stock_name": "新易盛",
+        "market_value_wan": 13993.78
+      },
+      {
+        "stock_code": "688256",
+        "stock_name": "寒武纪",
+        "market_value_wan": 13861.82
+      },
+      {
+        "stock_code": "300308",
+        "stock_name": "中际旭创",
+        "market_value_wan": 13589.0
+      },
+      {
+        "stock_code": "688498",
+        "stock_name": "源杰科技",
+        "market_value_wan": 13416.82
+      },
+      {
+        "stock_code": "002384",
+        "stock_name": "东山精密",
+        "market_value_wan": 12991.57
+      },
+      {
+        "stock_code": "300394",
+        "stock_name": "天孚通信",
+        "market_value_wan": 7657.8
+      },
+      {
+        "stock_code": "603986",
+        "stock_name": "兆易创新",
+        "market_value_wan": 7181.78
+      },
+      {
+        "stock_code": "688313",
+        "stock_name": "仕佳光子",
+        "market_value_wan": 7097.89
+      },
+      {
+        "stock_code": "688702",
+        "stock_name": "盛科通信",
+        "market_value_wan": 6894.52
+      },
+      {
+        "stock_code": "688041",
+        "stock_name": "海光信息",
+        "market_value_wan": 5335.76
+      }
+    ],
+    "2026-Q1": [
+      {
+        "stock_code": "300308",
+        "stock_name": "中际旭创",
+        "market_value_wan": 2402.91
+      },
+      {
+        "stock_code": "300502",
+        "stock_name": "新易盛",
+        "market_value_wan": 2342.62
+      },
+      {
+        "stock_code": "002384",
+        "stock_name": "东山精密",
+        "market_value_wan": 2125.91
+      },
+      {
+        "stock_code": "300394",
+        "stock_name": "天孚通信",
+        "market_value_wan": 1957.38
+      },
+      {
+        "stock_code": "601869",
+        "stock_name": "长飞光纤",
+        "market_value_wan": 1497.93
+      },
+      {
+        "stock_code": "688498",
+        "stock_name": "源杰科技",
+        "market_value_wan": 1419.08
+      },
+      {
+        "stock_code": "603618",
+        "stock_name": "杭电股份",
+        "market_value_wan": 1409.69
+      },
+      {
+        "stock_code": "688072",
+        "stock_name": "拓荆科技",
+        "market_value_wan": 1040.29
+      },
+      {
+        "stock_code": "688702",
+        "stock_name": "盛科通信",
+        "market_value_wan": 900.43
+      },
+      {
+        "stock_code": "600487",
+        "stock_name": "亨通光电",
+        "market_value_wan": 865.2
+      }
+    ]
+  }
+}

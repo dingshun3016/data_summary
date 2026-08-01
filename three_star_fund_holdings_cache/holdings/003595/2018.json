@@ -1,0 +1,40 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "003595",
+    "name": "长盛盛崇灵活配置混合C",
+    "base_name": "长盛盛崇灵活配置混合"
+  },
+  "fetched_at": "2026-06-14 23:11:12",
+  "quarters": {
+    "2018-Q2": [
+      {
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "market_value_wan": 234.32
+      },
+      {
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "market_value_wan": 105.76
+      },
+      {
+        "stock_code": "600221",
+        "stock_name": "海航控股",
+        "market_value_wan": 103.36
+      }
+    ],
+    "2018-Q1": [
+      {
+        "stock_code": "600221",
+        "stock_name": "海航控股",
+        "market_value_wan": 117.22
+      },
+      {
+        "stock_code": "600157",
+        "stock_name": "永泰能源",
+        "market_value_wan": 114.33
+      }
+    ]
+  }
+}

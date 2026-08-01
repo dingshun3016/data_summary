@@ -1,0 +1,63 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "009907",
+    "name": "湘财长泽灵活配置混合A",
+    "base_name": "湘财长泽灵活配置混合"
+  },
+  "fetched_at": "2026-06-14 22:38:35",
+  "quarters": {
+    "2020-Q4": [
+      {
+        "stock_code": "300059",
+        "stock_name": "东方财富",
+        "market_value_wan": 1705.0
+      },
+      {
+        "stock_code": "600030",
+        "stock_name": "中信证券",
+        "market_value_wan": 1388.28
+      },
+      {
+        "stock_code": "600409",
+        "stock_name": "三友化工",
+        "market_value_wan": 1291.5
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 1123.55
+      },
+      {
+        "stock_code": "000100",
+        "stock_name": "TCL科技",
+        "market_value_wan": 1093.65
+      },
+      {
+        "stock_code": "600158",
+        "stock_name": "中体产业",
+        "market_value_wan": 1084.77
+      },
+      {
+        "stock_code": "600893",
+        "stock_name": "航发动力",
+        "market_value_wan": 1043.37
+      },
+      {
+        "stock_code": "603799",
+        "stock_name": "华友钴业",
+        "market_value_wan": 998.39
+      },
+      {
+        "stock_code": "601168",
+        "stock_name": "西部矿业",
+        "market_value_wan": 990.4
+      },
+      {
+        "stock_code": "600395",
+        "stock_name": "盘江股份",
+        "market_value_wan": 976.19
+      }
+    ]
+  }
+}

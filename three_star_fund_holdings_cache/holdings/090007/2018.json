@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "090007",
+    "name": "大成策略回报混合A",
+    "base_name": "大成策略回报混合"
+  },
+  "fetched_at": "2026-06-14 23:49:56",
+  "quarters": {
+    "2018-Q4": [
+      {
+        "stock_code": "600340",
+        "stock_name": "华夏幸福",
+        "market_value_wan": 11658.31
+      },
+      {
+        "stock_code": "002294",
+        "stock_name": "信立泰",
+        "market_value_wan": 9498.47
+      },
+      {
+        "stock_code": "300144",
+        "stock_name": "宋城演艺",
+        "market_value_wan": 8922.89
+      },
+      {
+        "stock_code": "300408",
+        "stock_name": "三环集团",
+        "market_value_wan": 8661.15
+      },
+      {
+        "stock_code": "600887",
+        "stock_name": "伊利股份",
+        "market_value_wan": 8627.5
+      },
+      {
+        "stock_code": "600030",
+        "stock_name": "中信证券",
+        "market_value_wan": 8543.5
+      },
+      {
+        "stock_code": "002202",
+        "stock_name": "金风科技",
+        "market_value_wan": 8091.57
+      },
+      {
+        "stock_code": "601689",
+        "stock_name": "拓普集团",
+        "market_value_wan": 8064.96
+      },
+      {
+        "stock_code": "300298",
+        "stock_name": "三诺生物",
+        "market_value_wan": 7605.55
+      },
+      {
+        "stock_code": "601166",
+        "stock_name": "兴业银行",
+        "market_value_wan": 7117.08
+      }
+    ],
+    "2018-Q3": [
+      {
+        "stock_code": "002294",
+        "stock_name": "信立泰",
+        "market_value_wan": 13595.04
+      },
+      {
+        "stock_code": "002202",
+        "stock_name": "金风科技",
+        "market_value_wan": 10748.8
+      },
+      {
+        "stock_code": "600340",
+        "stock_name": "华夏幸福",
+        "market_value_wan": 9749.91
+      },
+      {
+        "stock_code": "601689",
+        "stock_name": "拓普集团",
+        "market_value_wan": 9003.51
+      },
+      {
+        "stock_code": "002588",
+        "stock_name": "史丹利",
+        "market_value_wan": 8955.42
+      },
+      {
+        "stock_code": "300144",
+        "stock_name": "宋城演艺",
+        "market_value_wan": 8831.33
+      },
+      {
+        "stock_code": "600887",
+        "stock_name": "伊利股份",
+        "market_value_wan": 7975.58
+      },
+      {
+        "stock_code": "600030",
+        "stock_name": "中信证券",
+        "market_value_wan": 7497.9
+      },
+      {
+        "stock_code": "300408",
+        "stock_name": "三环集团",
+        "market_value_wan": 7490.4
+      },
+      {
+        "stock_code": "600987",
+        "stock_name": "航民股份",
+        "market_value_wan": 7240.83
+      }
+    ],
+    "2018-Q2": [
+      {
+        "stock_code": "002294",
+        "stock_name": "信立泰",
+        "market_value_wan": 22411.22
+      },
+      {
+        "stock_code": "600352",
+        "stock_name": "浙江龙盛",
+        "market_value_wan": 15999.42
+      },
+      {
+        "stock_code": "600028",
+        "stock_name": "中国石化",
+        "market_value_wan": 15867.67
+      },
+      {
+        "stock_code": "002202",
+        "stock_name": "金风科技",
+        "market_value_wan": 12366.69
+      },
+      {
+        "stock_code": "600143",
+        "stock_name": "金发科技",
+        "market_value_wan": 11334.71
+      },
+      {
+        "stock_code": "002588",
+        "stock_name": "史丹利",
+        "market_value_wan": 11079.49
+      },
+      {
+        "stock_code": "600987",
+        "stock_name": "航民股份",
+        "market_value_wan": 10680.17
+      },
+      {
+        "stock_code": "601689",
+        "stock_name": "拓普集团",
+        "market_value_wan": 10607.77
+      },
+      {
+        "stock_code": "300607",
+        "stock_name": "拓斯达",
+        "market_value_wan": 10601.49
+      },
+      {
+        "stock_code": "600060",
+        "stock_name": "海信视像",
+        "market_value_wan": 9363.95
+      }
+    ],
+    "2018-Q1": [
+      {
+        "stock_code": "002294",
+        "stock_name": "信立泰",
+        "market_value_wan": 30848.02
+      },
+      {
+        "stock_code": "600028",
+        "stock_name": "中国石化",
+        "market_value_wan": 20388.92
+      },
+      {
+        "stock_code": "002202",
+        "stock_name": "金风科技",
+        "market_value_wan": 19733.17
+      },
+      {
+        "stock_code": "002588",
+        "stock_name": "史丹利",
+        "market_value_wan": 17053.72
+      },
+      {
+        "stock_code": "300607",
+        "stock_name": "拓斯达",
+        "market_value_wan": 14827.67
+      },
+      {
+        "stock_code": "603556",
+        "stock_name": "海兴电力",
+        "market_value_wan": 14459.43
+      },
+      {
+        "stock_code": "601689",
+        "stock_name": "拓普集团",
+        "market_value_wan": 13256.59
+      },
+      {
+        "stock_code": "002042",
+        "stock_name": "华孚时尚",
+        "market_value_wan": 11926.03
+      },
+      {
+        "stock_code": "600987",
+        "stock_name": "航民股份",
+        "market_value_wan": 11378.82
+      },
+      {
+        "stock_code": "300144",
+        "stock_name": "宋城演艺",
+        "market_value_wan": 10313.16
+      }
+    ]
+  }
+}

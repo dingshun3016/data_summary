@@ -1,0 +1,104 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "009870",
+    "name": "嘉实产业先锋混合C",
+    "base_name": "嘉实产业先锋混合"
+  },
+  "fetched_at": "2026-06-14 23:36:29",
+  "quarters": {
+    "2025-Q4": [
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 11806.16
+      },
+      {
+        "stock_code": "301358",
+        "stock_name": "湖南裕能",
+        "market_value_wan": 6068.89
+      },
+      {
+        "stock_code": "603501",
+        "stock_name": "豪威集团",
+        "market_value_wan": 5836.91
+      },
+      {
+        "stock_code": "002497",
+        "stock_name": "雅化集团",
+        "market_value_wan": 5382.88
+      }
+    ],
+    "2025-Q3": [
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 14643.49
+      },
+      {
+        "stock_code": "603259",
+        "stock_name": "药明康德",
+        "market_value_wan": 9388.72
+      },
+      {
+        "stock_code": "301358",
+        "stock_name": "湖南裕能",
+        "market_value_wan": 8551.15
+      },
+      {
+        "stock_code": "603501",
+        "stock_name": "豪威集团",
+        "market_value_wan": 7008.47
+      },
+      {
+        "stock_code": "603659",
+        "stock_name": "璞泰来",
+        "market_value_wan": 4819.64
+      }
+    ],
+    "2025-Q2": [
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 11852.47
+      },
+      {
+        "stock_code": "603501",
+        "stock_name": "豪威集团",
+        "market_value_wan": 5918.05
+      },
+      {
+        "stock_code": "603259",
+        "stock_name": "药明康德",
+        "market_value_wan": 5828.67
+      },
+      {
+        "stock_code": "601799",
+        "stock_name": "星宇股份",
+        "market_value_wan": 5116.16
+      }
+    ],
+    "2025-Q1": [
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 8818.15
+      },
+      {
+        "stock_code": "603501",
+        "stock_name": "韦尔股份",
+        "market_value_wan": 6153.1
+      },
+      {
+        "stock_code": "603259",
+        "stock_name": "药明康德",
+        "market_value_wan": 5641.78
+      },
+      {
+        "stock_code": "601799",
+        "stock_name": "星宇股份",
+        "market_value_wan": 5622.04
+      }
+    ]
+  }
+}

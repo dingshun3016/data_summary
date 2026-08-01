@@ -1,0 +1,115 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "005903",
+    "name": "宏利绩优混合A",
+    "base_name": "宏利绩优混合"
+  },
+  "fetched_at": "2026-08-01 20:56:41",
+  "quarters": {
+    "2026-Q2": [
+      {
+        "stock_code": "300502",
+        "stock_name": "新易盛",
+        "market_value_wan": 19264.72
+      },
+      {
+        "stock_code": "688498",
+        "stock_name": "源杰科技",
+        "market_value_wan": 18304.38
+      },
+      {
+        "stock_code": "300308",
+        "stock_name": "中际旭创",
+        "market_value_wan": 18224.5
+      },
+      {
+        "stock_code": "600183",
+        "stock_name": "生益科技",
+        "market_value_wan": 15389.25
+      },
+      {
+        "stock_code": "603256",
+        "stock_name": "宏和科技",
+        "market_value_wan": 9334.31
+      },
+      {
+        "stock_code": "301377",
+        "stock_name": "鼎泰高科",
+        "market_value_wan": 8769.78
+      },
+      {
+        "stock_code": "600487",
+        "stock_name": "亨通光电",
+        "market_value_wan": 8265.01
+      },
+      {
+        "stock_code": "600105",
+        "stock_name": "永鼎股份",
+        "market_value_wan": 7957.92
+      },
+      {
+        "stock_code": "002384",
+        "stock_name": "东山精密",
+        "market_value_wan": 7306.45
+      },
+      {
+        "stock_code": "300570",
+        "stock_name": "太辰光",
+        "market_value_wan": 6426.8
+      }
+    ],
+    "2026-Q1": [
+      {
+        "stock_code": "688498",
+        "stock_name": "源杰科技",
+        "market_value_wan": 2976.2
+      },
+      {
+        "stock_code": "300502",
+        "stock_name": "新易盛",
+        "market_value_wan": 2946.66
+      },
+      {
+        "stock_code": "300308",
+        "stock_name": "中际旭创",
+        "market_value_wan": 2812.89
+      },
+      {
+        "stock_code": "301377",
+        "stock_name": "鼎泰高科",
+        "market_value_wan": 2429.17
+      },
+      {
+        "stock_code": "600487",
+        "stock_name": "亨通光电",
+        "market_value_wan": 2129.04
+      },
+      {
+        "stock_code": "600183",
+        "stock_name": "生益科技",
+        "market_value_wan": 2102.88
+      },
+      {
+        "stock_code": "603124",
+        "stock_name": "江南新材",
+        "market_value_wan": 1336.57
+      },
+      {
+        "stock_code": "600105",
+        "stock_name": "永鼎股份",
+        "market_value_wan": 1182.83
+      },
+      {
+        "stock_code": "300548",
+        "stock_name": "长芯博创",
+        "market_value_wan": 1114.93
+      },
+      {
+        "stock_code": "002432",
+        "stock_name": "九安医疗",
+        "market_value_wan": 760.08
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "002935",
+    "name": "泰康恒泰回报混合C",
+    "base_name": "泰康恒泰回报混合"
+  },
+  "fetched_at": "2026-06-14 23:08:25",
+  "quarters": {
+    "2022-Q4": [
+      {
+        "stock_code": "002063",
+        "stock_name": "远光软件",
+        "market_value_wan": 827.4
+      },
+      {
+        "stock_code": "600973",
+        "stock_name": "宝胜股份",
+        "market_value_wan": 774.27
+      },
+      {
+        "stock_code": "002531",
+        "stock_name": "天顺风能",
+        "market_value_wan": 629.56
+      },
+      {
+        "stock_code": "300443",
+        "stock_name": "金雷股份",
+        "market_value_wan": 498.26
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 466.29
+      },
+      {
+        "stock_code": "688489",
+        "stock_name": "三未信安",
+        "market_value_wan": 366.82
+      },
+      {
+        "stock_code": "300760",
+        "stock_name": "迈瑞医疗",
+        "market_value_wan": 322.29
+      },
+      {
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "market_value_wan": 305.5
+      },
+      {
+        "stock_code": "600298",
+        "stock_name": "安琪酵母",
+        "market_value_wan": 296.19
+      },
+      {
+        "stock_code": "000739",
+        "stock_name": "普洛药业",
+        "market_value_wan": 295.96
+      }
+    ],
+    "2022-Q3": [
+      {
+        "stock_code": "600521",
+        "stock_name": "华海药业",
+        "market_value_wan": 758.78
+      },
+      {
+        "stock_code": "300850",
+        "stock_name": "新强联",
+        "market_value_wan": 735.64
+      },
+      {
+        "stock_code": "600674",
+        "stock_name": "川投能源",
+        "market_value_wan": 666.34
+      },
+      {
+        "stock_code": "600886",
+        "stock_name": "国投电力",
+        "market_value_wan": 606.38
+      },
+      {
+        "stock_code": "300443",
+        "stock_name": "金雷股份",
+        "market_value_wan": 598.69
+      },
+      {
+        "stock_code": "002597",
+        "stock_name": "金禾实业",
+        "market_value_wan": 561.38
+      },
+      {
+        "stock_code": "600973",
+        "stock_name": "宝胜股份",
+        "market_value_wan": 546.05
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 411.95
+      },
+      {
+        "stock_code": "002063",
+        "stock_name": "远光软件",
+        "market_value_wan": 377.06
+      },
+      {
+        "stock_code": "002531",
+        "stock_name": "天顺风能",
+        "market_value_wan": 371.28
+      }
+    ],
+    "2022-Q2": [
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 1717.8
+      },
+      {
+        "stock_code": "601117",
+        "stock_name": "中国化学",
+        "market_value_wan": 1443.21
+      },
+      {
+        "stock_code": "601398",
+        "stock_name": "工商银行",
+        "market_value_wan": 1240.2
+      },
+      {
+        "stock_code": "300443",
+        "stock_name": "金雷股份",
+        "market_value_wan": 1181.89
+      },
+      {
+        "stock_code": "600521",
+        "stock_name": "华海药业",
+        "market_value_wan": 1034.45
+      },
+      {
+        "stock_code": "300751",
+        "stock_name": "迈为股份",
+        "market_value_wan": 853.18
+      },
+      {
+        "stock_code": "603179",
+        "stock_name": "新泉股份",
+        "market_value_wan": 708.34
+      },
+      {
+        "stock_code": "002594",
+        "stock_name": "比亚迪",
+        "market_value_wan": 643.64
+      },
+      {
+        "stock_code": "300636",
+        "stock_name": "同和药业",
+        "market_value_wan": 598.56
+      },
+      {
+        "stock_code": "002129",
+        "stock_name": "TCL中环",
+        "market_value_wan": 491.14
+      }
+    ],
+    "2022-Q1": [
+      {
+        "stock_code": "002594",
+        "stock_name": "比亚迪",
+        "market_value_wan": 1838.4
+      },
+      {
+        "stock_code": "603105",
+        "stock_name": "芯能科技",
+        "market_value_wan": 1438.61
+      },
+      {
+        "stock_code": "300680",
+        "stock_name": "隆盛科技",
+        "market_value_wan": 1342.76
+      },
+      {
+        "stock_code": "002332",
+        "stock_name": "仙琚制药",
+        "market_value_wan": 1270.26
+      },
+      {
+        "stock_code": "002409",
+        "stock_name": "雅克科技",
+        "market_value_wan": 1269.21
+      },
+      {
+        "stock_code": "601117",
+        "stock_name": "中国化学",
+        "market_value_wan": 957.83
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 893.88
+      },
+      {
+        "stock_code": "601012",
+        "stock_name": "隆基绿能",
+        "market_value_wan": 856.17
+      },
+      {
+        "stock_code": "603179",
+        "stock_name": "新泉股份",
+        "market_value_wan": 781.13
+      },
+      {
+        "stock_code": "600483",
+        "stock_name": "福能股份",
+        "market_value_wan": 559.93
+      }
+    ]
+  }
+}

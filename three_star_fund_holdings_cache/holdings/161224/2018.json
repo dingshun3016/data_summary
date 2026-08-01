@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "161224",
+    "name": "国投瑞银新丝路混合(LOF)",
+    "base_name": "国投瑞银新丝路混合(LOF)"
+  },
+  "fetched_at": "2026-06-14 23:52:17",
+  "quarters": {
+    "2018-Q4": [
+      {
+        "stock_code": "600777",
+        "stock_name": "ST新潮",
+        "market_value_wan": 860.24
+      },
+      {
+        "stock_code": "600731",
+        "stock_name": "湖南海利",
+        "market_value_wan": 699.43
+      },
+      {
+        "stock_code": "600887",
+        "stock_name": "伊利股份",
+        "market_value_wan": 610.44
+      },
+      {
+        "stock_code": "300558",
+        "stock_name": "贝达药业",
+        "market_value_wan": 598.8
+      },
+      {
+        "stock_code": "600196",
+        "stock_name": "复星医药",
+        "market_value_wan": 558.25
+      },
+      {
+        "stock_code": "603456",
+        "stock_name": "九洲药业",
+        "market_value_wan": 526.04
+      },
+      {
+        "stock_code": "600521",
+        "stock_name": "华海药业",
+        "market_value_wan": 485.76
+      },
+      {
+        "stock_code": "000573",
+        "stock_name": "粤宏远A",
+        "market_value_wan": 440.5
+      },
+      {
+        "stock_code": "300193",
+        "stock_name": "佳士科技",
+        "market_value_wan": 417.59
+      },
+      {
+        "stock_code": "002739",
+        "stock_name": "万达电影",
+        "market_value_wan": 380.5
+      }
+    ],
+    "2018-Q3": [
+      {
+        "stock_code": "600731",
+        "stock_name": "湖南海利",
+        "market_value_wan": 886.26
+      },
+      {
+        "stock_code": "600777",
+        "stock_name": "ST新潮",
+        "market_value_wan": 735.9
+      },
+      {
+        "stock_code": "600887",
+        "stock_name": "伊利股份",
+        "market_value_wan": 685.14
+      },
+      {
+        "stock_code": "000573",
+        "stock_name": "粤宏远A",
+        "market_value_wan": 649.57
+      },
+      {
+        "stock_code": "600196",
+        "stock_name": "复星医药",
+        "market_value_wan": 622.17
+      },
+      {
+        "stock_code": "300558",
+        "stock_name": "贝达药业",
+        "market_value_wan": 503.0
+      },
+      {
+        "stock_code": "601857",
+        "stock_name": "中国石油",
+        "market_value_wan": 471.8
+      },
+      {
+        "stock_code": "300193",
+        "stock_name": "佳士科技",
+        "market_value_wan": 419.92
+      },
+      {
+        "stock_code": "000400",
+        "stock_name": "许继电气",
+        "market_value_wan": 395.15
+      },
+      {
+        "stock_code": "600755",
+        "stock_name": "厦门国贸",
+        "market_value_wan": 376.88
+      }
+    ],
+    "2018-Q2": [
+      {
+        "stock_code": "300498",
+        "stock_name": "温氏股份",
+        "market_value_wan": 1014.9
+      },
+      {
+        "stock_code": "600731",
+        "stock_name": "湖南海利",
+        "market_value_wan": 910.12
+      },
+      {
+        "stock_code": "000573",
+        "stock_name": "粤宏远A",
+        "market_value_wan": 809.59
+      },
+      {
+        "stock_code": "600777",
+        "stock_name": "ST新潮",
+        "market_value_wan": 493.49
+      },
+      {
+        "stock_code": "600339",
+        "stock_name": "中油工程",
+        "market_value_wan": 427.76
+      },
+      {
+        "stock_code": "000157",
+        "stock_name": "中联重科",
+        "market_value_wan": 419.75
+      },
+      {
+        "stock_code": "002133",
+        "stock_name": "广宇集团",
+        "market_value_wan": 408.8
+      },
+      {
+        "stock_code": "600060",
+        "stock_name": "海信视像",
+        "market_value_wan": 395.94
+      },
+      {
+        "stock_code": "000521",
+        "stock_name": "长虹美菱",
+        "market_value_wan": 387.32
+      },
+      {
+        "stock_code": "000965",
+        "stock_name": "天保基建",
+        "market_value_wan": 376.08
+      }
+    ],
+    "2018-Q1": [
+      {
+        "stock_code": "300369",
+        "stock_name": "绿盟科技",
+        "market_value_wan": 2154.63
+      },
+      {
+        "stock_code": "600731",
+        "stock_name": "湖南海利",
+        "market_value_wan": 1332.15
+      },
+      {
+        "stock_code": "000848",
+        "stock_name": "承德露露",
+        "market_value_wan": 959.63
+      },
+      {
+        "stock_code": "000573",
+        "stock_name": "粤宏远A",
+        "market_value_wan": 930.13
+      },
+      {
+        "stock_code": "601717",
+        "stock_name": "郑煤机",
+        "market_value_wan": 846.26
+      },
+      {
+        "stock_code": "300498",
+        "stock_name": "温氏股份",
+        "market_value_wan": 830.44
+      },
+      {
+        "stock_code": "600777",
+        "stock_name": "ST新潮",
+        "market_value_wan": 732.36
+      },
+      {
+        "stock_code": "600060",
+        "stock_name": "海信视像",
+        "market_value_wan": 457.45
+      },
+      {
+        "stock_code": "600757",
+        "stock_name": "长江传媒",
+        "market_value_wan": 452.64
+      },
+      {
+        "stock_code": "002585",
+        "stock_name": "双星新材",
+        "market_value_wan": 444.81
+      }
+    ]
+  }
+}

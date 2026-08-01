@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "005903",
+    "name": "宏利绩优混合A",
+    "base_name": "宏利绩优混合"
+  },
+  "fetched_at": "2026-06-14 23:19:42",
+  "quarters": {
+    "2024-Q4": [
+      {
+        "stock_code": "300502",
+        "stock_name": "新易盛",
+        "market_value_wan": 1647.48
+      },
+      {
+        "stock_code": "002851",
+        "stock_name": "麦格米特",
+        "market_value_wan": 1456.14
+      },
+      {
+        "stock_code": "002463",
+        "stock_name": "沪电股份",
+        "market_value_wan": 1296.56
+      },
+      {
+        "stock_code": "688256",
+        "stock_name": "寒武纪",
+        "market_value_wan": 1286.32
+      },
+      {
+        "stock_code": "688183",
+        "stock_name": "生益电子",
+        "market_value_wan": 1190.17
+      },
+      {
+        "stock_code": "603236",
+        "stock_name": "移远通信",
+        "market_value_wan": 1168.27
+      },
+      {
+        "stock_code": "300548",
+        "stock_name": "博创科技",
+        "market_value_wan": 1165.54
+      },
+      {
+        "stock_code": "300153",
+        "stock_name": "科泰电源",
+        "market_value_wan": 1034.97
+      },
+      {
+        "stock_code": "300570",
+        "stock_name": "太辰光",
+        "market_value_wan": 977.82
+      },
+      {
+        "stock_code": "300383",
+        "stock_name": "光环新网",
+        "market_value_wan": 932.74
+      }
+    ],
+    "2024-Q3": [
+      {
+        "stock_code": "300502",
+        "stock_name": "新易盛",
+        "market_value_wan": 3839.83
+      },
+      {
+        "stock_code": "002463",
+        "stock_name": "沪电股份",
+        "market_value_wan": 3245.33
+      },
+      {
+        "stock_code": "601138",
+        "stock_name": "工业富联",
+        "market_value_wan": 2314.71
+      },
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 2122.59
+      },
+      {
+        "stock_code": "300308",
+        "stock_name": "中际旭创",
+        "market_value_wan": 1852.44
+      },
+      {
+        "stock_code": "603138",
+        "stock_name": "海量数据",
+        "market_value_wan": 1555.06
+      },
+      {
+        "stock_code": "688615",
+        "stock_name": "合合信息",
+        "market_value_wan": 1418.07
+      },
+      {
+        "stock_code": "600993",
+        "stock_name": "马应龙",
+        "market_value_wan": 1214.51
+      },
+      {
+        "stock_code": "600522",
+        "stock_name": "中天科技",
+        "market_value_wan": 1104.05
+      },
+      {
+        "stock_code": "600487",
+        "stock_name": "亨通光电",
+        "market_value_wan": 1089.85
+      }
+    ],
+    "2024-Q2": [
+      {
+        "stock_code": "601138",
+        "stock_name": "工业富联",
+        "market_value_wan": 3404.18
+      },
+      {
+        "stock_code": "688676",
+        "stock_name": "金盘科技",
+        "market_value_wan": 2588.91
+      },
+      {
+        "stock_code": "300502",
+        "stock_name": "新易盛",
+        "market_value_wan": 2484.65
+      },
+      {
+        "stock_code": "002463",
+        "stock_name": "沪电股份",
+        "market_value_wan": 2388.93
+      },
+      {
+        "stock_code": "600522",
+        "stock_name": "中天科技",
+        "market_value_wan": 1874.35
+      },
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 1568.47
+      },
+      {
+        "stock_code": "600993",
+        "stock_name": "马应龙",
+        "market_value_wan": 1336.97
+      },
+      {
+        "stock_code": "601567",
+        "stock_name": "三星医疗",
+        "market_value_wan": 1327.2
+      },
+      {
+        "stock_code": "300308",
+        "stock_name": "中际旭创",
+        "market_value_wan": 1067.47
+      },
+      {
+        "stock_code": "688169",
+        "stock_name": "石头科技",
+        "market_value_wan": 949.54
+      }
+    ],
+    "2024-Q1": [
+      {
+        "stock_code": "300502",
+        "stock_name": "新易盛",
+        "market_value_wan": 2164.1
+      },
+      {
+        "stock_code": "002463",
+        "stock_name": "沪电股份",
+        "market_value_wan": 1975.28
+      },
+      {
+        "stock_code": "601138",
+        "stock_name": "工业富联",
+        "market_value_wan": 1816.36
+      },
+      {
+        "stock_code": "300394",
+        "stock_name": "天孚通信",
+        "market_value_wan": 1561.11
+      },
+      {
+        "stock_code": "000503",
+        "stock_name": "国新健康",
+        "market_value_wan": 1112.53
+      },
+      {
+        "stock_code": "000625",
+        "stock_name": "长安汽车",
+        "market_value_wan": 1039.08
+      },
+      {
+        "stock_code": "603997",
+        "stock_name": "继峰股份",
+        "market_value_wan": 1035.78
+      },
+      {
+        "stock_code": "600993",
+        "stock_name": "马应龙",
+        "market_value_wan": 999.44
+      },
+      {
+        "stock_code": "600522",
+        "stock_name": "中天科技",
+        "market_value_wan": 847.13
+      },
+      {
+        "stock_code": "688169",
+        "stock_name": "石头科技",
+        "market_value_wan": 826.86
+      }
+    ]
+  }
+}

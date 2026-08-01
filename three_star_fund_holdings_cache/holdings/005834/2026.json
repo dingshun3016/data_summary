@@ -1,0 +1,75 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "005834",
+    "name": "工银红利优享混合C",
+    "base_name": "工银红利优享混合"
+  },
+  "fetched_at": "2026-08-01 20:56:40",
+  "quarters": {
+    "2026-Q2": [
+      {
+        "stock_code": "601816",
+        "stock_name": "京沪高铁",
+        "market_value_wan": 33340.21
+      },
+      {
+        "stock_code": "600803",
+        "stock_name": "新奥股份",
+        "market_value_wan": 29428.82
+      },
+      {
+        "stock_code": "600674",
+        "stock_name": "川投能源",
+        "market_value_wan": 27532.48
+      },
+      {
+        "stock_code": "600323",
+        "stock_name": "瀚蓝环境",
+        "market_value_wan": 23147.33
+      },
+      {
+        "stock_code": "601298",
+        "stock_name": "青岛港",
+        "market_value_wan": 22528.01
+      },
+      {
+        "stock_code": "600795",
+        "stock_name": "国电电力",
+        "market_value_wan": 22194.6
+      }
+    ],
+    "2026-Q1": [
+      {
+        "stock_code": "600803",
+        "stock_name": "新奥股份",
+        "market_value_wan": 38402.53
+      },
+      {
+        "stock_code": "600163",
+        "stock_name": "中闽能源",
+        "market_value_wan": 37273.74
+      },
+      {
+        "stock_code": "601816",
+        "stock_name": "京沪高铁",
+        "market_value_wan": 36396.28
+      },
+      {
+        "stock_code": "600323",
+        "stock_name": "瀚蓝环境",
+        "market_value_wan": 30971.07
+      },
+      {
+        "stock_code": "000598",
+        "stock_name": "兴蓉环境",
+        "market_value_wan": 29874.76
+      },
+      {
+        "stock_code": "601298",
+        "stock_name": "青岛港",
+        "market_value_wan": 25719.96
+      }
+    ]
+  }
+}

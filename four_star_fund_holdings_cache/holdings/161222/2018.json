@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "161222",
+    "name": "国投瑞银瑞利混合(LOF)A",
+    "base_name": "国投瑞银瑞利混合(LOF)"
+  },
+  "fetched_at": "2026-06-14 22:42:00",
+  "quarters": {
+    "2018-Q4": [
+      {
+        "stock_code": "600998",
+        "stock_name": "九州通",
+        "market_value_wan": 756.45
+      },
+      {
+        "stock_code": "000002",
+        "stock_name": "万科A",
+        "market_value_wan": 627.66
+      },
+      {
+        "stock_code": "000338",
+        "stock_name": "潍柴动力",
+        "market_value_wan": 611.69
+      },
+      {
+        "stock_code": "002223",
+        "stock_name": "鱼跃医疗",
+        "market_value_wan": 603.3
+      },
+      {
+        "stock_code": "000001",
+        "stock_name": "平安银行",
+        "market_value_wan": 598.44
+      },
+      {
+        "stock_code": "601088",
+        "stock_name": "中国神华",
+        "market_value_wan": 590.51
+      },
+      {
+        "stock_code": "600885",
+        "stock_name": "宏发股份",
+        "market_value_wan": 578.49
+      },
+      {
+        "stock_code": "002007",
+        "stock_name": "华兰生物",
+        "market_value_wan": 574.68
+      },
+      {
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "market_value_wan": 572.92
+      },
+      {
+        "stock_code": "601933",
+        "stock_name": "永辉超市",
+        "market_value_wan": 565.0
+      }
+    ],
+    "2018-Q3": [
+      {
+        "stock_code": "600998",
+        "stock_name": "九州通",
+        "market_value_wan": 877.65
+      },
+      {
+        "stock_code": "601088",
+        "stock_name": "中国神华",
+        "market_value_wan": 810.69
+      },
+      {
+        "stock_code": "002078",
+        "stock_name": "太阳纸业",
+        "market_value_wan": 723.06
+      },
+      {
+        "stock_code": "002206",
+        "stock_name": "海利得",
+        "market_value_wan": 691.01
+      },
+      {
+        "stock_code": "002126",
+        "stock_name": "银轮股份",
+        "market_value_wan": 677.5
+      },
+      {
+        "stock_code": "000910",
+        "stock_name": "大亚圣象",
+        "market_value_wan": 671.58
+      },
+      {
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "market_value_wan": 583.79
+      },
+      {
+        "stock_code": "600885",
+        "stock_name": "宏发股份",
+        "market_value_wan": 558.64
+      },
+      {
+        "stock_code": "601966",
+        "stock_name": "玲珑轮胎",
+        "market_value_wan": 522.34
+      },
+      {
+        "stock_code": "600563",
+        "stock_name": "法拉电子",
+        "market_value_wan": 520.01
+      }
+    ],
+    "2018-Q2": [
+      {
+        "stock_code": "002126",
+        "stock_name": "银轮股份",
+        "market_value_wan": 1070.3
+      },
+      {
+        "stock_code": "000910",
+        "stock_name": "大亚圣象",
+        "market_value_wan": 1035.8
+      },
+      {
+        "stock_code": "600998",
+        "stock_name": "九州通",
+        "market_value_wan": 1025.44
+      },
+      {
+        "stock_code": "002206",
+        "stock_name": "海利得",
+        "market_value_wan": 753.84
+      },
+      {
+        "stock_code": "601398",
+        "stock_name": "工商银行",
+        "market_value_wan": 731.55
+      },
+      {
+        "stock_code": "601088",
+        "stock_name": "中国神华",
+        "market_value_wan": 700.34
+      },
+      {
+        "stock_code": "600885",
+        "stock_name": "宏发股份",
+        "market_value_wan": 611.81
+      },
+      {
+        "stock_code": "000933",
+        "stock_name": "神火股份",
+        "market_value_wan": 534.49
+      },
+      {
+        "stock_code": "600563",
+        "stock_name": "法拉电子",
+        "market_value_wan": 531.58
+      },
+      {
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "market_value_wan": 527.22
+      }
+    ],
+    "2018-Q1": [
+      {
+        "stock_code": "002126",
+        "stock_name": "银轮股份",
+        "market_value_wan": 1207.61
+      },
+      {
+        "stock_code": "002206",
+        "stock_name": "海利得",
+        "market_value_wan": 843.95
+      },
+      {
+        "stock_code": "600885",
+        "stock_name": "宏发股份",
+        "market_value_wan": 819.86
+      },
+      {
+        "stock_code": "300258",
+        "stock_name": "精锻科技",
+        "market_value_wan": 784.08
+      },
+      {
+        "stock_code": "000910",
+        "stock_name": "大亚圣象",
+        "market_value_wan": 774.1
+      },
+      {
+        "stock_code": "601398",
+        "stock_name": "工商银行",
+        "market_value_wan": 768.56
+      },
+      {
+        "stock_code": "000933",
+        "stock_name": "神火股份",
+        "market_value_wan": 766.88
+      },
+      {
+        "stock_code": "603868",
+        "stock_name": "飞科电器",
+        "market_value_wan": 715.78
+      },
+      {
+        "stock_code": "601088",
+        "stock_name": "中国神华",
+        "market_value_wan": 668.5
+      },
+      {
+        "stock_code": "000786",
+        "stock_name": "北新建材",
+        "market_value_wan": 647.73
+      }
+    ]
+  }
+}

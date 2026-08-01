@@ -1,0 +1,115 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "160226",
+    "name": "国泰民益混合(LOF)C",
+    "base_name": "国泰民益混合(LOF)"
+  },
+  "fetched_at": "2026-08-01 21:00:14",
+  "quarters": {
+    "2026-Q2": [
+      {
+        "stock_code": "300502",
+        "stock_name": "新易盛",
+        "market_value_wan": 3260.08
+      },
+      {
+        "stock_code": "300308",
+        "stock_name": "中际旭创",
+        "market_value_wan": 2976.88
+      },
+      {
+        "stock_code": "688498",
+        "stock_name": "源杰科技",
+        "market_value_wan": 2935.75
+      },
+      {
+        "stock_code": "603986",
+        "stock_name": "兆易创新",
+        "market_value_wan": 2371.65
+      },
+      {
+        "stock_code": "600183",
+        "stock_name": "生益科技",
+        "market_value_wan": 1772.15
+      },
+      {
+        "stock_code": "002281",
+        "stock_name": "光迅科技",
+        "market_value_wan": 1670.11
+      },
+      {
+        "stock_code": "002384",
+        "stock_name": "东山精密",
+        "market_value_wan": 1521.63
+      },
+      {
+        "stock_code": "301526",
+        "stock_name": "国际复材",
+        "market_value_wan": 1410.37
+      },
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 1374.21
+      },
+      {
+        "stock_code": "300394",
+        "stock_name": "天孚通信",
+        "market_value_wan": 1080.57
+      }
+    ],
+    "2026-Q1": [
+      {
+        "stock_code": "300502",
+        "stock_name": "新易盛",
+        "market_value_wan": 1068.13
+      },
+      {
+        "stock_code": "300308",
+        "stock_name": "中际旭创",
+        "market_value_wan": 1032.91
+      },
+      {
+        "stock_code": "300394",
+        "stock_name": "天孚通信",
+        "market_value_wan": 787.18
+      },
+      {
+        "stock_code": "688519",
+        "stock_name": "南亚新材",
+        "market_value_wan": 652.01
+      },
+      {
+        "stock_code": "002463",
+        "stock_name": "沪电股份",
+        "market_value_wan": 639.67
+      },
+      {
+        "stock_code": "688498",
+        "stock_name": "源杰科技",
+        "market_value_wan": 534.89
+      },
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 516.24
+      },
+      {
+        "stock_code": "002384",
+        "stock_name": "东山精密",
+        "market_value_wan": 349.15
+      },
+      {
+        "stock_code": "601869",
+        "stock_name": "长飞光纤",
+        "market_value_wan": 303.3
+      },
+      {
+        "stock_code": "301308",
+        "stock_name": "江波龙",
+        "market_value_wan": 297.08
+      }
+    ]
+  }
+}

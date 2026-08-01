@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "160722",
+    "name": "嘉实惠泽混合(LOF)",
+    "base_name": "嘉实惠泽混合(LOF)"
+  },
+  "fetched_at": "2026-06-14 23:51:58",
+  "quarters": {
+    "2023-Q4": [
+      {
+        "stock_code": "300795",
+        "stock_name": "米奥会展",
+        "market_value_wan": 469.72
+      },
+      {
+        "stock_code": "688084",
+        "stock_name": "晶品特装",
+        "market_value_wan": 349.3
+      },
+      {
+        "stock_code": "600150",
+        "stock_name": "中国船舶",
+        "market_value_wan": 310.0
+      },
+      {
+        "stock_code": "600886",
+        "stock_name": "国投电力",
+        "market_value_wan": 264.79
+      },
+      {
+        "stock_code": "605589",
+        "stock_name": "圣泉集团",
+        "market_value_wan": 237.68
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 210.61
+      },
+      {
+        "stock_code": "601567",
+        "stock_name": "三星医疗",
+        "market_value_wan": 205.41
+      },
+      {
+        "stock_code": "300002",
+        "stock_name": "神州泰岳",
+        "market_value_wan": 202.31
+      },
+      {
+        "stock_code": "603606",
+        "stock_name": "东方电缆",
+        "market_value_wan": 182.97
+      },
+      {
+        "stock_code": "603927",
+        "stock_name": "中科软",
+        "market_value_wan": 162.79
+      }
+    ],
+    "2023-Q3": [
+      {
+        "stock_code": "300795",
+        "stock_name": "米奥会展",
+        "market_value_wan": 516.21
+      },
+      {
+        "stock_code": "688084",
+        "stock_name": "晶品特装",
+        "market_value_wan": 321.38
+      },
+      {
+        "stock_code": "600760",
+        "stock_name": "中航沈飞",
+        "market_value_wan": 295.67
+      },
+      {
+        "stock_code": "600150",
+        "stock_name": "中国船舶",
+        "market_value_wan": 293.79
+      },
+      {
+        "stock_code": "688311",
+        "stock_name": "盟升电子",
+        "market_value_wan": 275.38
+      },
+      {
+        "stock_code": "605589",
+        "stock_name": "圣泉集团",
+        "market_value_wan": 270.28
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 261.91
+      },
+      {
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "market_value_wan": 236.67
+      },
+      {
+        "stock_code": "000526",
+        "stock_name": "学大教育",
+        "market_value_wan": 209.1
+      },
+      {
+        "stock_code": "600066",
+        "stock_name": "宇通客车",
+        "market_value_wan": 183.76
+      }
+    ],
+    "2023-Q2": [
+      {
+        "stock_code": "300795",
+        "stock_name": "米奥会展",
+        "market_value_wan": 696.97
+      },
+      {
+        "stock_code": "600150",
+        "stock_name": "中国船舶",
+        "market_value_wan": 478.51
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 473.6
+      },
+      {
+        "stock_code": "688121",
+        "stock_name": "卓然股份",
+        "market_value_wan": 446.74
+      },
+      {
+        "stock_code": "002965",
+        "stock_name": "祥鑫科技",
+        "market_value_wan": 440.99
+      },
+      {
+        "stock_code": "601689",
+        "stock_name": "拓普集团",
+        "market_value_wan": 384.13
+      },
+      {
+        "stock_code": "688084",
+        "stock_name": "晶品特装",
+        "market_value_wan": 369.58
+      },
+      {
+        "stock_code": "603368",
+        "stock_name": "柳药集团",
+        "market_value_wan": 311.1
+      },
+      {
+        "stock_code": "688311",
+        "stock_name": "盟升电子",
+        "market_value_wan": 291.12
+      },
+      {
+        "stock_code": "600066",
+        "stock_name": "宇通客车",
+        "market_value_wan": 272.4
+      }
+    ],
+    "2023-Q1": [
+      {
+        "stock_code": "300795",
+        "stock_name": "米奥会展",
+        "market_value_wan": 645.01
+      },
+      {
+        "stock_code": "002415",
+        "stock_name": "海康威视",
+        "market_value_wan": 511.07
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 466.96
+      },
+      {
+        "stock_code": "600150",
+        "stock_name": "中国船舶",
+        "market_value_wan": 434.77
+      },
+      {
+        "stock_code": "002541",
+        "stock_name": "鸿路钢构",
+        "market_value_wan": 426.79
+      },
+      {
+        "stock_code": "603369",
+        "stock_name": "今世缘",
+        "market_value_wan": 420.23
+      },
+      {
+        "stock_code": "002384",
+        "stock_name": "东山精密",
+        "market_value_wan": 390.23
+      },
+      {
+        "stock_code": "603368",
+        "stock_name": "柳药集团",
+        "market_value_wan": 380.26
+      },
+      {
+        "stock_code": "002791",
+        "stock_name": "坚朗五金",
+        "market_value_wan": 291.08
+      },
+      {
+        "stock_code": "002812",
+        "stock_name": "恩捷股份",
+        "market_value_wan": 282.27
+      }
+    ]
+  }
+}

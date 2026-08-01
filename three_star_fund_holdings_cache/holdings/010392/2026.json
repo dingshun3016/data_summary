@@ -1,0 +1,100 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "010392",
+    "name": "易方达战略新兴产业股票C",
+    "base_name": "易方达战略新兴产业股票"
+  },
+  "fetched_at": "2026-08-01 20:59:12",
+  "quarters": {
+    "2026-Q2": [
+      {
+        "stock_code": "300308",
+        "stock_name": "中际旭创",
+        "market_value_wan": 113640.36
+      },
+      {
+        "stock_code": "002384",
+        "stock_name": "东山精密",
+        "market_value_wan": 113023.37
+      },
+      {
+        "stock_code": "300502",
+        "stock_name": "新易盛",
+        "market_value_wan": 99888.34
+      },
+      {
+        "stock_code": "688519",
+        "stock_name": "南亚新材",
+        "market_value_wan": 73691.81
+      },
+      {
+        "stock_code": "002463",
+        "stock_name": "沪电股份",
+        "market_value_wan": 72297.47
+      },
+      {
+        "stock_code": "688521",
+        "stock_name": "芯原股份",
+        "market_value_wan": 71750.45
+      },
+      {
+        "stock_code": "300666",
+        "stock_name": "江丰电子",
+        "market_value_wan": 61331.35
+      },
+      {
+        "stock_code": "300604",
+        "stock_name": "长川科技",
+        "market_value_wan": 56814.71
+      },
+      {
+        "stock_code": "688120",
+        "stock_name": "华海清科",
+        "market_value_wan": 53606.02
+      }
+    ],
+    "2026-Q1": [
+      {
+        "stock_code": "300502",
+        "stock_name": "新易盛",
+        "market_value_wan": 63132.78
+      },
+      {
+        "stock_code": "002463",
+        "stock_name": "沪电股份",
+        "market_value_wan": 51190.95
+      },
+      {
+        "stock_code": "300308",
+        "stock_name": "中际旭创",
+        "market_value_wan": 49886.35
+      },
+      {
+        "stock_code": "002384",
+        "stock_name": "东山精密",
+        "market_value_wan": 36168.57
+      },
+      {
+        "stock_code": "688519",
+        "stock_name": "南亚新材",
+        "market_value_wan": 28935.09
+      },
+      {
+        "stock_code": "688521",
+        "stock_name": "芯原股份",
+        "market_value_wan": 25644.54
+      },
+      {
+        "stock_code": "600522",
+        "stock_name": "中天科技",
+        "market_value_wan": 20942.35
+      },
+      {
+        "stock_code": "688120",
+        "stock_name": "华海清科",
+        "market_value_wan": 20703.76
+      }
+    ]
+  }
+}

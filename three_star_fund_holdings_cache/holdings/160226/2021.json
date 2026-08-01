@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "160226",
+    "name": "国泰民益混合(LOF)C",
+    "base_name": "国泰民益混合(LOF)"
+  },
+  "fetched_at": "2026-06-14 23:51:36",
+  "quarters": {
+    "2021-Q4": [
+      {
+        "stock_code": "301035",
+        "stock_name": "润丰股份",
+        "market_value_wan": 1120.57
+      },
+      {
+        "stock_code": "300776",
+        "stock_name": "帝尔激光",
+        "market_value_wan": 845.49
+      },
+      {
+        "stock_code": "600887",
+        "stock_name": "伊利股份",
+        "market_value_wan": 663.36
+      },
+      {
+        "stock_code": "600690",
+        "stock_name": "海尔智家",
+        "market_value_wan": 658.48
+      },
+      {
+        "stock_code": "600030",
+        "stock_name": "中信证券",
+        "market_value_wan": 647.57
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 593.88
+      },
+      {
+        "stock_code": "601012",
+        "stock_name": "隆基绿能",
+        "market_value_wan": 563.23
+      },
+      {
+        "stock_code": "601688",
+        "stock_name": "华泰证券",
+        "market_value_wan": 551.8
+      },
+      {
+        "stock_code": "688075",
+        "stock_name": "安旭生物",
+        "market_value_wan": 550.12
+      },
+      {
+        "stock_code": "601865",
+        "stock_name": "福莱特",
+        "market_value_wan": 423.54
+      }
+    ],
+    "2021-Q3": [
+      {
+        "stock_code": "300776",
+        "stock_name": "帝尔激光",
+        "market_value_wan": 1108.96
+      },
+      {
+        "stock_code": "301035",
+        "stock_name": "润丰股份",
+        "market_value_wan": 956.35
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 762.31
+      },
+      {
+        "stock_code": "600887",
+        "stock_name": "伊利股份",
+        "market_value_wan": 603.2
+      },
+      {
+        "stock_code": "600690",
+        "stock_name": "海尔智家",
+        "market_value_wan": 576.08
+      },
+      {
+        "stock_code": "688388",
+        "stock_name": "嘉元科技",
+        "market_value_wan": 459.23
+      },
+      {
+        "stock_code": "688233",
+        "stock_name": "神工股份",
+        "market_value_wan": 454.73
+      },
+      {
+        "stock_code": "300059",
+        "stock_name": "东方财富",
+        "market_value_wan": 452.66
+      },
+      {
+        "stock_code": "300037",
+        "stock_name": "新宙邦",
+        "market_value_wan": 445.04
+      },
+      {
+        "stock_code": "601166",
+        "stock_name": "兴业银行",
+        "market_value_wan": 429.32
+      }
+    ],
+    "2021-Q2": [
+      {
+        "stock_code": "300776",
+        "stock_name": "帝尔激光",
+        "market_value_wan": 1885.52
+      },
+      {
+        "stock_code": "300460",
+        "stock_name": "惠伦晶体",
+        "market_value_wan": 704.99
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 652.46
+      },
+      {
+        "stock_code": "688188",
+        "stock_name": "柏楚电子",
+        "market_value_wan": 599.41
+      },
+      {
+        "stock_code": "600887",
+        "stock_name": "伊利股份",
+        "market_value_wan": 589.28
+      },
+      {
+        "stock_code": "600690",
+        "stock_name": "海尔智家",
+        "market_value_wan": 570.8
+      },
+      {
+        "stock_code": "002643",
+        "stock_name": "万润股份",
+        "market_value_wan": 525.58
+      },
+      {
+        "stock_code": "603799",
+        "stock_name": "华友钴业",
+        "market_value_wan": 516.86
+      },
+      {
+        "stock_code": "601166",
+        "stock_name": "兴业银行",
+        "market_value_wan": 482.1
+      },
+      {
+        "stock_code": "603588",
+        "stock_name": "高能环境",
+        "market_value_wan": 445.75
+      }
+    ],
+    "2021-Q1": [
+      {
+        "stock_code": "600690",
+        "stock_name": "海尔智家",
+        "market_value_wan": 686.9
+      },
+      {
+        "stock_code": "600887",
+        "stock_name": "伊利股份",
+        "market_value_wan": 640.48
+      },
+      {
+        "stock_code": "002236",
+        "stock_name": "大华股份",
+        "market_value_wan": 613.3
+      },
+      {
+        "stock_code": "002876",
+        "stock_name": "三利谱",
+        "market_value_wan": 583.58
+      },
+      {
+        "stock_code": "603179",
+        "stock_name": "新泉股份",
+        "market_value_wan": 579.49
+      },
+      {
+        "stock_code": "601166",
+        "stock_name": "兴业银行",
+        "market_value_wan": 565.15
+      },
+      {
+        "stock_code": "002466",
+        "stock_name": "天齐锂业",
+        "market_value_wan": 564.81
+      },
+      {
+        "stock_code": "002643",
+        "stock_name": "万润股份",
+        "market_value_wan": 531.19
+      },
+      {
+        "stock_code": "300132",
+        "stock_name": "青松股份",
+        "market_value_wan": 515.92
+      },
+      {
+        "stock_code": "601658",
+        "stock_name": "邮储银行",
+        "market_value_wan": 503.29
+      }
+    ]
+  }
+}

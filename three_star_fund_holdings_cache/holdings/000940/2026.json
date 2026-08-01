@@ -1,0 +1,115 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "000940",
+    "name": "富国中小盘精选混合A",
+    "base_name": "富国中小盘精选混合"
+  },
+  "fetched_at": "2026-08-01 20:53:42",
+  "quarters": {
+    "2026-Q2": [
+      {
+        "stock_code": "002384",
+        "stock_name": "东山精密",
+        "market_value_wan": 75457.11
+      },
+      {
+        "stock_code": "300502",
+        "stock_name": "新易盛",
+        "market_value_wan": 65222.94
+      },
+      {
+        "stock_code": "300308",
+        "stock_name": "中际旭创",
+        "market_value_wan": 53266.34
+      },
+      {
+        "stock_code": "002916",
+        "stock_name": "深南电路",
+        "market_value_wan": 47891.17
+      },
+      {
+        "stock_code": "688347",
+        "stock_name": "华虹宏力",
+        "market_value_wan": 47421.63
+      },
+      {
+        "stock_code": "002463",
+        "stock_name": "沪电股份",
+        "market_value_wan": 42174.92
+      },
+      {
+        "stock_code": "603986",
+        "stock_name": "兆易创新",
+        "market_value_wan": 38549.09
+      },
+      {
+        "stock_code": "000657",
+        "stock_name": "中钨高新",
+        "market_value_wan": 29359.66
+      },
+      {
+        "stock_code": "002436",
+        "stock_name": "兴森科技",
+        "market_value_wan": 27471.73
+      },
+      {
+        "stock_code": "002938",
+        "stock_name": "鹏鼎控股",
+        "market_value_wan": 23553.01
+      }
+    ],
+    "2026-Q1": [
+      {
+        "stock_code": "300502",
+        "stock_name": "新易盛",
+        "market_value_wan": 39019.03
+      },
+      {
+        "stock_code": "002384",
+        "stock_name": "东山精密",
+        "market_value_wan": 37258.24
+      },
+      {
+        "stock_code": "002916",
+        "stock_name": "深南电路",
+        "market_value_wan": 37149.92
+      },
+      {
+        "stock_code": "300308",
+        "stock_name": "中际旭创",
+        "market_value_wan": 31945.04
+      },
+      {
+        "stock_code": "002027",
+        "stock_name": "分众传媒",
+        "market_value_wan": 29200.38
+      },
+      {
+        "stock_code": "601869",
+        "stock_name": "长飞光纤",
+        "market_value_wan": 19284.32
+      },
+      {
+        "stock_code": "688052",
+        "stock_name": "纳芯微",
+        "market_value_wan": 18381.6
+      },
+      {
+        "stock_code": "002463",
+        "stock_name": "沪电股份",
+        "market_value_wan": 15185.8
+      },
+      {
+        "stock_code": "600498",
+        "stock_name": "烽火通信",
+        "market_value_wan": 14878.13
+      },
+      {
+        "stock_code": "688205",
+        "stock_name": "德科立",
+        "market_value_wan": 13842.82
+      }
+    ]
+  }
+}

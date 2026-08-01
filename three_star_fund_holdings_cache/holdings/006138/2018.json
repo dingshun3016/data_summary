@@ -1,0 +1,63 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "006138",
+    "name": "国联安价值优选股票",
+    "base_name": "国联安价值优选股票"
+  },
+  "fetched_at": "2026-06-14 23:20:42",
+  "quarters": {
+    "2018-Q4": [
+      {
+        "stock_code": "600511",
+        "stock_name": "国药股份",
+        "market_value_wan": 622.09
+      },
+      {
+        "stock_code": "000028",
+        "stock_name": "国药一致",
+        "market_value_wan": 617.46
+      },
+      {
+        "stock_code": "600486",
+        "stock_name": "扬农化工",
+        "market_value_wan": 564.9
+      },
+      {
+        "stock_code": "000671",
+        "stock_name": "ST阳光城",
+        "market_value_wan": 467.1
+      },
+      {
+        "stock_code": "601166",
+        "stock_name": "兴业银行",
+        "market_value_wan": 343.62
+      },
+      {
+        "stock_code": "600048",
+        "stock_name": "保利发展",
+        "market_value_wan": 294.75
+      },
+      {
+        "stock_code": "300054",
+        "stock_name": "鼎龙股份",
+        "market_value_wan": 229.32
+      },
+      {
+        "stock_code": "600030",
+        "stock_name": "中信证券",
+        "market_value_wan": 224.14
+      },
+      {
+        "stock_code": "600997",
+        "stock_name": "开滦股份",
+        "market_value_wan": 204.12
+      },
+      {
+        "stock_code": "601100",
+        "stock_name": "恒立液压",
+        "market_value_wan": 198.1
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "005009",
+    "name": "申万菱信行业轮动股票A",
+    "base_name": "申万菱信行业轮动股票"
+  },
+  "fetched_at": "2026-06-14 23:16:00",
+  "quarters": {
+    "2025-Q4": [
+      {
+        "stock_code": "601899",
+        "stock_name": "紫金矿业",
+        "market_value_wan": 2234.69
+      },
+      {
+        "stock_code": "603993",
+        "stock_name": "洛阳钼业",
+        "market_value_wan": 2171.2
+      },
+      {
+        "stock_code": "600547",
+        "stock_name": "山东黄金",
+        "market_value_wan": 1203.11
+      },
+      {
+        "stock_code": "603979",
+        "stock_name": "金诚信",
+        "market_value_wan": 1131.59
+      },
+      {
+        "stock_code": "600988",
+        "stock_name": "赤峰黄金",
+        "market_value_wan": 1095.59
+      },
+      {
+        "stock_code": "000657",
+        "stock_name": "中钨高新",
+        "market_value_wan": 1002.82
+      },
+      {
+        "stock_code": "002812",
+        "stock_name": "恩捷股份",
+        "market_value_wan": 966.84
+      },
+      {
+        "stock_code": "600160",
+        "stock_name": "巨化股份",
+        "market_value_wan": 957.81
+      },
+      {
+        "stock_code": "000630",
+        "stock_name": "铜陵有色",
+        "market_value_wan": 780.58
+      },
+      {
+        "stock_code": "000506",
+        "stock_name": "招金黄金",
+        "market_value_wan": 765.05
+      }
+    ],
+    "2025-Q3": [
+      {
+        "stock_code": "601899",
+        "stock_name": "紫金矿业",
+        "market_value_wan": 629.72
+      },
+      {
+        "stock_code": "600547",
+        "stock_name": "山东黄金",
+        "market_value_wan": 454.65
+      },
+      {
+        "stock_code": "600961",
+        "stock_name": "株冶集团",
+        "market_value_wan": 379.3
+      },
+      {
+        "stock_code": "000426",
+        "stock_name": "兴业银锡",
+        "market_value_wan": 369.03
+      },
+      {
+        "stock_code": "601872",
+        "stock_name": "招商轮船",
+        "market_value_wan": 363.01
+      },
+      {
+        "stock_code": "600301",
+        "stock_name": "华锡有色",
+        "market_value_wan": 353.29
+      },
+      {
+        "stock_code": "600988",
+        "stock_name": "赤峰黄金",
+        "market_value_wan": 352.89
+      },
+      {
+        "stock_code": "600160",
+        "stock_name": "巨化股份",
+        "market_value_wan": 297.27
+      },
+      {
+        "stock_code": "688146",
+        "stock_name": "中船特气",
+        "market_value_wan": 292.14
+      },
+      {
+        "stock_code": "000962",
+        "stock_name": "东方钽业",
+        "market_value_wan": 286.7
+      }
+    ],
+    "2025-Q2": [
+      {
+        "stock_code": "601899",
+        "stock_name": "紫金矿业",
+        "market_value_wan": 443.43
+      },
+      {
+        "stock_code": "002539",
+        "stock_name": "云图控股",
+        "market_value_wan": 365.82
+      },
+      {
+        "stock_code": "001289",
+        "stock_name": "龙源电力",
+        "market_value_wan": 299.37
+      },
+      {
+        "stock_code": "000426",
+        "stock_name": "兴业银锡",
+        "market_value_wan": 274.45
+      },
+      {
+        "stock_code": "600160",
+        "stock_name": "巨化股份",
+        "market_value_wan": 269.31
+      },
+      {
+        "stock_code": "600547",
+        "stock_name": "山东黄金",
+        "market_value_wan": 258.95
+      },
+      {
+        "stock_code": "601319",
+        "stock_name": "中国人保",
+        "market_value_wan": 255.9
+      },
+      {
+        "stock_code": "000831",
+        "stock_name": "中国稀土",
+        "market_value_wan": 246.34
+      },
+      {
+        "stock_code": "601069",
+        "stock_name": "西部黄金",
+        "market_value_wan": 245.62
+      },
+      {
+        "stock_code": "600595",
+        "stock_name": "中孚实业",
+        "market_value_wan": 239.59
+      }
+    ],
+    "2025-Q1": [
+      {
+        "stock_code": "601899",
+        "stock_name": "紫金矿业",
+        "market_value_wan": 405.34
+      },
+      {
+        "stock_code": "600989",
+        "stock_name": "宝丰能源",
+        "market_value_wan": 280.14
+      },
+      {
+        "stock_code": "601028",
+        "stock_name": "玉龙股份",
+        "market_value_wan": 258.01
+      },
+      {
+        "stock_code": "001289",
+        "stock_name": "龙源电力",
+        "market_value_wan": 254.3
+      },
+      {
+        "stock_code": "000830",
+        "stock_name": "鲁西化工",
+        "market_value_wan": 251.45
+      },
+      {
+        "stock_code": "000831",
+        "stock_name": "中国稀土",
+        "market_value_wan": 243.54
+      },
+      {
+        "stock_code": "000807",
+        "stock_name": "云铝股份",
+        "market_value_wan": 239.12
+      },
+      {
+        "stock_code": "601208",
+        "stock_name": "东材科技",
+        "market_value_wan": 234.54
+      },
+      {
+        "stock_code": "600873",
+        "stock_name": "梅花生物",
+        "market_value_wan": 208.76
+      },
+      {
+        "stock_code": "600623",
+        "stock_name": "华谊集团",
+        "market_value_wan": 196.37
+      }
+    ]
+  }
+}

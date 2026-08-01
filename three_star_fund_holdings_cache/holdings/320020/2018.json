@@ -1,0 +1,70 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "320020",
+    "name": "诺安策略精选股票A",
+    "base_name": "诺安策略精选股票"
+  },
+  "fetched_at": "2026-06-14 23:58:56",
+  "quarters": {
+    "2018-Q4": [
+      {
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "market_value_wan": 956.22
+      },
+      {
+        "stock_code": "600004",
+        "stock_name": "白云机场",
+        "market_value_wan": 847.32
+      },
+      {
+        "stock_code": "000786",
+        "stock_name": "北新建材",
+        "market_value_wan": 642.54
+      },
+      {
+        "stock_code": "002701",
+        "stock_name": "奥瑞金",
+        "market_value_wan": 590.0
+      },
+      {
+        "stock_code": "600795",
+        "stock_name": "国电电力",
+        "market_value_wan": 526.8
+      },
+      {
+        "stock_code": "000725",
+        "stock_name": "京东方A",
+        "market_value_wan": 478.16
+      },
+      {
+        "stock_code": "603393",
+        "stock_name": "新天然气",
+        "market_value_wan": 427.61
+      },
+      {
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "market_value_wan": 392.11
+      },
+      {
+        "stock_code": "601225",
+        "stock_name": "陕西煤业",
+        "market_value_wan": 379.22
+      },
+      {
+        "stock_code": "603877",
+        "stock_name": "太平鸟",
+        "market_value_wan": 351.49
+      }
+    ],
+    "2018-Q1": [
+      {
+        "stock_code": "601336",
+        "stock_name": "新华保险",
+        "market_value_wan": 2196.25
+      }
+    ]
+  }
+}

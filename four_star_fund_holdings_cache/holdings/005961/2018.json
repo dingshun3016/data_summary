@@ -1,0 +1,115 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "005961",
+    "name": "博时量化价值股票C",
+    "base_name": "博时量化价值股票"
+  },
+  "fetched_at": "2026-06-14 22:33:32",
+  "quarters": {
+    "2018-Q4": [
+      {
+        "stock_code": "600782",
+        "stock_name": "新钢股份",
+        "market_value_wan": 233.48
+      },
+      {
+        "stock_code": "600282",
+        "stock_name": "南钢股份",
+        "market_value_wan": 168.16
+      },
+      {
+        "stock_code": "601003",
+        "stock_name": "柳钢股份",
+        "market_value_wan": 166.94
+      },
+      {
+        "stock_code": "600808",
+        "stock_name": "马钢股份",
+        "market_value_wan": 166.7
+      },
+      {
+        "stock_code": "600569",
+        "stock_name": "安阳钢铁",
+        "market_value_wan": 161.98
+      },
+      {
+        "stock_code": "000789",
+        "stock_name": "万年青",
+        "market_value_wan": 144.95
+      },
+      {
+        "stock_code": "600801",
+        "stock_name": "华新水泥",
+        "market_value_wan": 141.95
+      },
+      {
+        "stock_code": "600755",
+        "stock_name": "厦门国贸",
+        "market_value_wan": 131.01
+      },
+      {
+        "stock_code": "600507",
+        "stock_name": "方大特钢",
+        "market_value_wan": 113.19
+      },
+      {
+        "stock_code": "002110",
+        "stock_name": "三钢闽光",
+        "market_value_wan": 112.55
+      }
+    ],
+    "2018-Q3": [
+      {
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "market_value_wan": 959.0
+      },
+      {
+        "stock_code": "600028",
+        "stock_name": "中国石化",
+        "market_value_wan": 575.22
+      },
+      {
+        "stock_code": "600048",
+        "stock_name": "保利发展",
+        "market_value_wan": 395.16
+      },
+      {
+        "stock_code": "601186",
+        "stock_name": "中国铁建",
+        "market_value_wan": 355.35
+      },
+      {
+        "stock_code": "601668",
+        "stock_name": "中国建筑",
+        "market_value_wan": 318.42
+      },
+      {
+        "stock_code": "601857",
+        "stock_name": "中国石油",
+        "market_value_wan": 298.21
+      },
+      {
+        "stock_code": "000002",
+        "stock_name": "万科A",
+        "market_value_wan": 278.72
+      },
+      {
+        "stock_code": "600340",
+        "stock_name": "华夏幸福",
+        "market_value_wan": 272.8
+      },
+      {
+        "stock_code": "000001",
+        "stock_name": "平安银行",
+        "market_value_wan": 262.66
+      },
+      {
+        "stock_code": "601336",
+        "stock_name": "新华保险",
+        "market_value_wan": 260.98
+      }
+    ]
+  }
+}

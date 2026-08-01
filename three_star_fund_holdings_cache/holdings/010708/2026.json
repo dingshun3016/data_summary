@@ -1,0 +1,80 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "010708",
+    "name": "安信平稳合盈一年持有混合C",
+    "base_name": "安信平稳合盈一年持有混合"
+  },
+  "fetched_at": "2026-08-01 20:59:22",
+  "quarters": {
+    "2026-Q2": [
+      {
+        "stock_code": "603306",
+        "stock_name": "华懋科技",
+        "market_value_wan": 425.13
+      },
+      {
+        "stock_code": "600887",
+        "stock_name": "伊利股份",
+        "market_value_wan": 258.29
+      },
+      {
+        "stock_code": "600710",
+        "stock_name": "苏美达",
+        "market_value_wan": 62.43
+      },
+      {
+        "stock_code": "000786",
+        "stock_name": "北新建材",
+        "market_value_wan": 27.32
+      },
+      {
+        "stock_code": "688002",
+        "stock_name": "睿创微纳",
+        "market_value_wan": 12.02
+      },
+      {
+        "stock_code": "300191",
+        "stock_name": "潜能恒信",
+        "market_value_wan": 10.78
+      }
+    ],
+    "2026-Q1": [
+      {
+        "stock_code": "600887",
+        "stock_name": "伊利股份",
+        "market_value_wan": 284.05
+      },
+      {
+        "stock_code": "605090",
+        "stock_name": "九丰能源",
+        "market_value_wan": 210.98
+      },
+      {
+        "stock_code": "600598",
+        "stock_name": "北大荒",
+        "market_value_wan": 126.92
+      },
+      {
+        "stock_code": "600710",
+        "stock_name": "苏美达",
+        "market_value_wan": 97.93
+      },
+      {
+        "stock_code": "600970",
+        "stock_name": "中材国际",
+        "market_value_wan": 89.87
+      },
+      {
+        "stock_code": "000786",
+        "stock_name": "北新建材",
+        "market_value_wan": 79.02
+      },
+      {
+        "stock_code": "000725",
+        "stock_name": "京东方A",
+        "market_value_wan": 70.38
+      }
+    ]
+  }
+}

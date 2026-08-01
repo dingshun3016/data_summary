@@ -1,0 +1,105 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "008737",
+    "name": "南方高股息股票C",
+    "base_name": "南方高股息股票"
+  },
+  "fetched_at": "2026-08-01 20:57:56",
+  "quarters": {
+    "2026-Q2": [
+      {
+        "stock_code": "600919",
+        "stock_name": "江苏银行",
+        "market_value_wan": 122.78
+      },
+      {
+        "stock_code": "600502",
+        "stock_name": "安徽建工",
+        "market_value_wan": 112.75
+      },
+      {
+        "stock_code": "600329",
+        "stock_name": "达仁堂",
+        "market_value_wan": 87.09
+      },
+      {
+        "stock_code": "600741",
+        "stock_name": "华域汽车",
+        "market_value_wan": 85.32
+      },
+      {
+        "stock_code": "601577",
+        "stock_name": "长沙银行",
+        "market_value_wan": 82.83
+      },
+      {
+        "stock_code": "002839",
+        "stock_name": "张家港行",
+        "market_value_wan": 78.2
+      },
+      {
+        "stock_code": "601009",
+        "stock_name": "南京银行",
+        "market_value_wan": 73.28
+      },
+      {
+        "stock_code": "600710",
+        "stock_name": "苏美达",
+        "market_value_wan": 72.37
+      },
+      {
+        "stock_code": "002818",
+        "stock_name": "富森美",
+        "market_value_wan": 72.11
+      },
+      {
+        "stock_code": "600926",
+        "stock_name": "杭州银行",
+        "market_value_wan": 70.81
+      }
+    ],
+    "2026-Q1": [
+      {
+        "stock_code": "603565",
+        "stock_name": "中谷物流",
+        "market_value_wan": 119.17
+      },
+      {
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "market_value_wan": 114.03
+      },
+      {
+        "stock_code": "600704",
+        "stock_name": "物产中大",
+        "market_value_wan": 113.96
+      },
+      {
+        "stock_code": "601668",
+        "stock_name": "中国建筑",
+        "market_value_wan": 112.32
+      },
+      {
+        "stock_code": "600710",
+        "stock_name": "苏美达",
+        "market_value_wan": 99.91
+      },
+      {
+        "stock_code": "603071",
+        "stock_name": "物产环能",
+        "market_value_wan": 95.63
+      },
+      {
+        "stock_code": "002839",
+        "stock_name": "张家港行",
+        "market_value_wan": 92.54
+      },
+      {
+        "stock_code": "601088",
+        "stock_name": "中国神华",
+        "market_value_wan": 90.23
+      }
+    ]
+  }
+}

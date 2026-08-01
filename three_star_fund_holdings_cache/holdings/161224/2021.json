@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "161224",
+    "name": "国投瑞银新丝路混合(LOF)",
+    "base_name": "国投瑞银新丝路混合(LOF)"
+  },
+  "fetched_at": "2026-06-14 23:52:18",
+  "quarters": {
+    "2021-Q4": [
+      {
+        "stock_code": "603658",
+        "stock_name": "安图生物",
+        "market_value_wan": 714.73
+      },
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 657.65
+      },
+      {
+        "stock_code": "300253",
+        "stock_name": "卫宁健康",
+        "market_value_wan": 515.2
+      },
+      {
+        "stock_code": "600900",
+        "stock_name": "长江电力",
+        "market_value_wan": 493.27
+      },
+      {
+        "stock_code": "600570",
+        "stock_name": "恒生电子",
+        "market_value_wan": 442.6
+      },
+      {
+        "stock_code": "601816",
+        "stock_name": "京沪高铁",
+        "market_value_wan": 422.72
+      },
+      {
+        "stock_code": "603337",
+        "stock_name": "杰克股份",
+        "market_value_wan": 401.23
+      },
+      {
+        "stock_code": "600305",
+        "stock_name": "恒顺醋业",
+        "market_value_wan": 395.56
+      },
+      {
+        "stock_code": "600619",
+        "stock_name": "海立股份",
+        "market_value_wan": 372.03
+      },
+      {
+        "stock_code": "600741",
+        "stock_name": "华域汽车",
+        "market_value_wan": 359.41
+      }
+    ],
+    "2021-Q3": [
+      {
+        "stock_code": "603658",
+        "stock_name": "安图生物",
+        "market_value_wan": 691.88
+      },
+      {
+        "stock_code": "300760",
+        "stock_name": "迈瑞医疗",
+        "market_value_wan": 651.36
+      },
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 620.14
+      },
+      {
+        "stock_code": "600900",
+        "stock_name": "长江电力",
+        "market_value_wan": 511.28
+      },
+      {
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "market_value_wan": 498.45
+      },
+      {
+        "stock_code": "000938",
+        "stock_name": "紫光股份",
+        "market_value_wan": 493.41
+      },
+      {
+        "stock_code": "600570",
+        "stock_name": "恒生电子",
+        "market_value_wan": 407.91
+      },
+      {
+        "stock_code": "300253",
+        "stock_name": "卫宁健康",
+        "market_value_wan": 382.72
+      },
+      {
+        "stock_code": "600305",
+        "stock_name": "恒顺醋业",
+        "market_value_wan": 382.42
+      },
+      {
+        "stock_code": "601816",
+        "stock_name": "京沪高铁",
+        "market_value_wan": 379.18
+      }
+    ],
+    "2021-Q2": [
+      {
+        "stock_code": "688029",
+        "stock_name": "南微医学",
+        "market_value_wan": 712.55
+      },
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 635.91
+      },
+      {
+        "stock_code": "603658",
+        "stock_name": "安图生物",
+        "market_value_wan": 555.69
+      },
+      {
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "market_value_wan": 535.4
+      },
+      {
+        "stock_code": "000938",
+        "stock_name": "紫光股份",
+        "market_value_wan": 432.87
+      },
+      {
+        "stock_code": "601816",
+        "stock_name": "京沪高铁",
+        "market_value_wan": 421.4
+      },
+      {
+        "stock_code": "600570",
+        "stock_name": "恒生电子",
+        "market_value_wan": 410.39
+      },
+      {
+        "stock_code": "600741",
+        "stock_name": "华域汽车",
+        "market_value_wan": 403.24
+      },
+      {
+        "stock_code": "688008",
+        "stock_name": "澜起科技",
+        "market_value_wan": 401.68
+      },
+      {
+        "stock_code": "300760",
+        "stock_name": "迈瑞医疗",
+        "market_value_wan": 398.44
+      }
+    ],
+    "2021-Q1": [
+      {
+        "stock_code": "000651",
+        "stock_name": "格力电器",
+        "market_value_wan": 890.97
+      },
+      {
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "market_value_wan": 616.78
+      },
+      {
+        "stock_code": "000591",
+        "stock_name": "太阳能",
+        "market_value_wan": 490.67
+      },
+      {
+        "stock_code": "688029",
+        "stock_name": "南微医学",
+        "market_value_wan": 488.73
+      },
+      {
+        "stock_code": "601816",
+        "stock_name": "京沪高铁",
+        "market_value_wan": 466.01
+      },
+      {
+        "stock_code": "688050",
+        "stock_name": "爱博医疗",
+        "market_value_wan": 463.9
+      },
+      {
+        "stock_code": "600741",
+        "stock_name": "华域汽车",
+        "market_value_wan": 423.2
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 401.8
+      },
+      {
+        "stock_code": "002128",
+        "stock_name": "电投能源",
+        "market_value_wan": 395.09
+      },
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 391.41
+      }
+    ]
+  }
+}

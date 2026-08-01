@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "006532",
+    "name": "华泰柏瑞量化阿尔法C",
+    "base_name": "华泰柏瑞量化阿尔法"
+  },
+  "fetched_at": "2026-06-14 22:34:04",
+  "quarters": {
+    "2020-Q4": [
+      {
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "market_value_wan": 1055.94
+      },
+      {
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "market_value_wan": 733.97
+      },
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 642.79
+      },
+      {
+        "stock_code": "601601",
+        "stock_name": "中国太保",
+        "market_value_wan": 637.8
+      },
+      {
+        "stock_code": "600809",
+        "stock_name": "山西汾酒",
+        "market_value_wan": 619.23
+      },
+      {
+        "stock_code": "601390",
+        "stock_name": "中国中铁",
+        "market_value_wan": 553.98
+      },
+      {
+        "stock_code": "600011",
+        "stock_name": "华能国际",
+        "market_value_wan": 549.34
+      },
+      {
+        "stock_code": "000932",
+        "stock_name": "华菱钢铁",
+        "market_value_wan": 530.77
+      },
+      {
+        "stock_code": "601881",
+        "stock_name": "中国银河",
+        "market_value_wan": 501.28
+      },
+      {
+        "stock_code": "600507",
+        "stock_name": "方大特钢",
+        "market_value_wan": 478.62
+      }
+    ],
+    "2020-Q3": [
+      {
+        "stock_code": "300760",
+        "stock_name": "迈瑞医疗",
+        "market_value_wan": 783.0
+      },
+      {
+        "stock_code": "601601",
+        "stock_name": "中国太保",
+        "market_value_wan": 770.24
+      },
+      {
+        "stock_code": "601390",
+        "stock_name": "中国中铁",
+        "market_value_wan": 700.11
+      },
+      {
+        "stock_code": "000932",
+        "stock_name": "华菱钢铁",
+        "market_value_wan": 666.59
+      },
+      {
+        "stock_code": "600011",
+        "stock_name": "华能国际",
+        "market_value_wan": 663.38
+      },
+      {
+        "stock_code": "300482",
+        "stock_name": "万孚生物",
+        "market_value_wan": 628.4
+      },
+      {
+        "stock_code": "601881",
+        "stock_name": "中国银河",
+        "market_value_wan": 606.71
+      },
+      {
+        "stock_code": "603416",
+        "stock_name": "信捷电气",
+        "market_value_wan": 591.97
+      },
+      {
+        "stock_code": "600109",
+        "stock_name": "国金证券",
+        "market_value_wan": 583.77
+      },
+      {
+        "stock_code": "600027",
+        "stock_name": "华电国际",
+        "market_value_wan": 582.44
+      }
+    ],
+    "2020-Q2": [
+      {
+        "stock_code": "603233",
+        "stock_name": "大参林",
+        "market_value_wan": 1371.74
+      },
+      {
+        "stock_code": "600016",
+        "stock_name": "民生银行",
+        "market_value_wan": 1362.56
+      },
+      {
+        "stock_code": "000895",
+        "stock_name": "双汇发展",
+        "market_value_wan": 1327.11
+      },
+      {
+        "stock_code": "601336",
+        "stock_name": "新华保险",
+        "market_value_wan": 1303.63
+      },
+      {
+        "stock_code": "601601",
+        "stock_name": "中国太保",
+        "market_value_wan": 1218.87
+      },
+      {
+        "stock_code": "600999",
+        "stock_name": "招商证券",
+        "market_value_wan": 1188.36
+      },
+      {
+        "stock_code": "601628",
+        "stock_name": "中国人寿",
+        "market_value_wan": 1171.13
+      },
+      {
+        "stock_code": "300259",
+        "stock_name": "新天科技",
+        "market_value_wan": 1157.71
+      },
+      {
+        "stock_code": "601818",
+        "stock_name": "光大银行",
+        "market_value_wan": 1147.94
+      },
+      {
+        "stock_code": "600027",
+        "stock_name": "华电国际",
+        "market_value_wan": 1123.32
+      }
+    ],
+    "2020-Q1": [
+      {
+        "stock_code": "300360",
+        "stock_name": "炬华科技",
+        "market_value_wan": 1749.68
+      },
+      {
+        "stock_code": "601628",
+        "stock_name": "中国人寿",
+        "market_value_wan": 1747.94
+      },
+      {
+        "stock_code": "601390",
+        "stock_name": "中国中铁",
+        "market_value_wan": 1707.56
+      },
+      {
+        "stock_code": "000895",
+        "stock_name": "双汇发展",
+        "market_value_wan": 1663.33
+      },
+      {
+        "stock_code": "002818",
+        "stock_name": "富森美",
+        "market_value_wan": 1599.22
+      },
+      {
+        "stock_code": "000157",
+        "stock_name": "中联重科",
+        "market_value_wan": 1512.45
+      },
+      {
+        "stock_code": "600999",
+        "stock_name": "招商证券",
+        "market_value_wan": 1415.47
+      },
+      {
+        "stock_code": "000661",
+        "stock_name": "长春高新",
+        "market_value_wan": 1386.44
+      },
+      {
+        "stock_code": "002555",
+        "stock_name": "三七互娱",
+        "market_value_wan": 1328.61
+      },
+      {
+        "stock_code": "603160",
+        "stock_name": "汇顶科技",
+        "market_value_wan": 1320.28
+      }
+    ]
+  }
+}

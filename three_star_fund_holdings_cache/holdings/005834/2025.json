@@ -1,0 +1,114 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "005834",
+    "name": "工银红利优享混合C",
+    "base_name": "工银红利优享混合"
+  },
+  "fetched_at": "2026-06-14 23:19:31",
+  "quarters": {
+    "2025-Q4": [
+      {
+        "stock_code": "600803",
+        "stock_name": "新奥股份",
+        "market_value_wan": 33286.03
+      },
+      {
+        "stock_code": "600323",
+        "stock_name": "瀚蓝环境",
+        "market_value_wan": 27660.55
+      },
+      {
+        "stock_code": "600163",
+        "stock_name": "中闽能源",
+        "market_value_wan": 26512.29
+      },
+      {
+        "stock_code": "600483",
+        "stock_name": "福能股份",
+        "market_value_wan": 24940.06
+      },
+      {
+        "stock_code": "601298",
+        "stock_name": "青岛港",
+        "market_value_wan": 24913.41
+      },
+      {
+        "stock_code": "000598",
+        "stock_name": "兴蓉环境",
+        "market_value_wan": 24143.57
+      }
+    ],
+    "2025-Q3": [
+      {
+        "stock_code": "600803",
+        "stock_name": "新奥股份",
+        "market_value_wan": 24030.1
+      },
+      {
+        "stock_code": "600323",
+        "stock_name": "瀚蓝环境",
+        "market_value_wan": 23861.6
+      },
+      {
+        "stock_code": "600483",
+        "stock_name": "福能股份",
+        "market_value_wan": 23605.33
+      },
+      {
+        "stock_code": "600163",
+        "stock_name": "中闽能源",
+        "market_value_wan": 20914.8
+      },
+      {
+        "stock_code": "601298",
+        "stock_name": "青岛港",
+        "market_value_wan": 16861.9
+      }
+    ],
+    "2025-Q2": [
+      {
+        "stock_code": "600483",
+        "stock_name": "福能股份",
+        "market_value_wan": 17137.77
+      },
+      {
+        "stock_code": "600323",
+        "stock_name": "瀚蓝环境",
+        "market_value_wan": 17053.28
+      },
+      {
+        "stock_code": "600163",
+        "stock_name": "中闽能源",
+        "market_value_wan": 16901.36
+      },
+      {
+        "stock_code": "600803",
+        "stock_name": "新奥股份",
+        "market_value_wan": 11875.2
+      }
+    ],
+    "2025-Q1": [
+      {
+        "stock_code": "600323",
+        "stock_name": "瀚蓝环境",
+        "market_value_wan": 14319.67
+      },
+      {
+        "stock_code": "600483",
+        "stock_name": "福能股份",
+        "market_value_wan": 13939.98
+      },
+      {
+        "stock_code": "600163",
+        "stock_name": "中闽能源",
+        "market_value_wan": 13560.15
+      },
+      {
+        "stock_code": "601298",
+        "stock_name": "青岛港",
+        "market_value_wan": 9307.49
+      }
+    ]
+  }
+}

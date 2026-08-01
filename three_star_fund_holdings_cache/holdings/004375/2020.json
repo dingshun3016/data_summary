@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "004375",
+    "name": "华泰保兴吉年丰混合发起C",
+    "base_name": "华泰保兴吉年丰混合发起"
+  },
+  "fetched_at": "2026-06-14 23:13:26",
+  "quarters": {
+    "2020-Q4": [
+      {
+        "stock_code": "600426",
+        "stock_name": "华鲁恒升",
+        "market_value_wan": 6613.29
+      },
+      {
+        "stock_code": "002493",
+        "stock_name": "荣盛石化",
+        "market_value_wan": 5537.08
+      },
+      {
+        "stock_code": "600486",
+        "stock_name": "扬农化工",
+        "market_value_wan": 4868.16
+      },
+      {
+        "stock_code": "002601",
+        "stock_name": "龙佰集团",
+        "market_value_wan": 4765.98
+      },
+      {
+        "stock_code": "300122",
+        "stock_name": "智飞生物",
+        "market_value_wan": 4760.37
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 4716.57
+      },
+      {
+        "stock_code": "000858",
+        "stock_name": "五粮液",
+        "market_value_wan": 4520.76
+      },
+      {
+        "stock_code": "603799",
+        "stock_name": "华友钴业",
+        "market_value_wan": 4493.93
+      },
+      {
+        "stock_code": "688002",
+        "stock_name": "睿创微纳",
+        "market_value_wan": 4333.25
+      },
+      {
+        "stock_code": "600132",
+        "stock_name": "重庆啤酒",
+        "market_value_wan": 4284.83
+      }
+    ],
+    "2020-Q3": [
+      {
+        "stock_code": "300122",
+        "stock_name": "智飞生物",
+        "market_value_wan": 5281.67
+      },
+      {
+        "stock_code": "688023",
+        "stock_name": "安恒信息",
+        "market_value_wan": 4725.81
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 4712.33
+      },
+      {
+        "stock_code": "002747",
+        "stock_name": "埃斯顿",
+        "market_value_wan": 4567.02
+      },
+      {
+        "stock_code": "688002",
+        "stock_name": "睿创微纳",
+        "market_value_wan": 4376.81
+      },
+      {
+        "stock_code": "600984",
+        "stock_name": "建设机械",
+        "market_value_wan": 4236.83
+      },
+      {
+        "stock_code": "688567",
+        "stock_name": "孚能科技",
+        "market_value_wan": 4231.05
+      },
+      {
+        "stock_code": "601636",
+        "stock_name": "旗滨集团",
+        "market_value_wan": 4218.65
+      },
+      {
+        "stock_code": "300601",
+        "stock_name": "康泰生物",
+        "market_value_wan": 4210.0
+      },
+      {
+        "stock_code": "002352",
+        "stock_name": "顺丰控股",
+        "market_value_wan": 4185.86
+      }
+    ],
+    "2020-Q2": [
+      {
+        "stock_code": "002541",
+        "stock_name": "鸿路钢构",
+        "market_value_wan": 3931.32
+      },
+      {
+        "stock_code": "603338",
+        "stock_name": "浙江鼎力",
+        "market_value_wan": 3808.99
+      },
+      {
+        "stock_code": "603538",
+        "stock_name": "美诺华",
+        "market_value_wan": 3573.09
+      },
+      {
+        "stock_code": "000725",
+        "stock_name": "京东方A",
+        "market_value_wan": 3356.66
+      },
+      {
+        "stock_code": "600521",
+        "stock_name": "华海药业",
+        "market_value_wan": 3217.62
+      },
+      {
+        "stock_code": "300737",
+        "stock_name": "科顺股份",
+        "market_value_wan": 3216.78
+      },
+      {
+        "stock_code": "603658",
+        "stock_name": "安图生物",
+        "market_value_wan": 3171.45
+      },
+      {
+        "stock_code": "002080",
+        "stock_name": "中材科技",
+        "market_value_wan": 3101.4
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 3100.12
+      },
+      {
+        "stock_code": "603890",
+        "stock_name": "春秋电子",
+        "market_value_wan": 3098.94
+      }
+    ],
+    "2020-Q1": [
+      {
+        "stock_code": "300715",
+        "stock_name": "凯伦股份",
+        "market_value_wan": 3008.06
+      },
+      {
+        "stock_code": "300737",
+        "stock_name": "科顺股份",
+        "market_value_wan": 2812.45
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 2795.46
+      },
+      {
+        "stock_code": "600802",
+        "stock_name": "福建水泥",
+        "market_value_wan": 2729.13
+      },
+      {
+        "stock_code": "601238",
+        "stock_name": "广汽集团",
+        "market_value_wan": 2647.86
+      },
+      {
+        "stock_code": "300427",
+        "stock_name": "红相股份",
+        "market_value_wan": 2551.44
+      },
+      {
+        "stock_code": "600183",
+        "stock_name": "生益科技",
+        "market_value_wan": 2381.87
+      },
+      {
+        "stock_code": "601899",
+        "stock_name": "紫金矿业",
+        "market_value_wan": 2311.08
+      },
+      {
+        "stock_code": "601139",
+        "stock_name": "深圳燃气",
+        "market_value_wan": 2252.86
+      },
+      {
+        "stock_code": "688358",
+        "stock_name": "祥生医疗",
+        "market_value_wan": 2193.33
+      }
+    ]
+  }
+}

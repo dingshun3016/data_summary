@@ -1,0 +1,75 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "009139",
+    "name": "嘉实瑞成两年持有期混合C",
+    "base_name": "嘉实瑞成两年持有期混合"
+  },
+  "fetched_at": "2026-08-01 20:58:10",
+  "quarters": {
+    "2026-Q2": [
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 4392.96
+      },
+      {
+        "stock_code": "600919",
+        "stock_name": "江苏银行",
+        "market_value_wan": 3234.0
+      },
+      {
+        "stock_code": "601899",
+        "stock_name": "紫金矿业",
+        "market_value_wan": 2765.4
+      },
+      {
+        "stock_code": "002142",
+        "stock_name": "宁波银行",
+        "market_value_wan": 1781.4
+      },
+      {
+        "stock_code": "002832",
+        "stock_name": "比音勒芬",
+        "market_value_wan": 1575.24
+      },
+      {
+        "stock_code": "000528",
+        "stock_name": "柳工",
+        "market_value_wan": 1510.0
+      }
+    ],
+    "2026-Q1": [
+      {
+        "stock_code": "601899",
+        "stock_name": "紫金矿业",
+        "market_value_wan": 5235.2
+      },
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 3201.9
+      },
+      {
+        "stock_code": "000528",
+        "stock_name": "柳工",
+        "market_value_wan": 3168.8
+      },
+      {
+        "stock_code": "600919",
+        "stock_name": "江苏银行",
+        "market_value_wan": 2839.2
+      },
+      {
+        "stock_code": "002624",
+        "stock_name": "完美世界",
+        "market_value_wan": 2284.1
+      },
+      {
+        "stock_code": "002142",
+        "stock_name": "宁波银行",
+        "market_value_wan": 1827.0
+      }
+    ]
+  }
+}

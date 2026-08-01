@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "010124",
+    "name": "兴银景气优选混合A",
+    "base_name": "兴银景气优选混合"
+  },
+  "fetched_at": "2026-06-14 23:38:03",
+  "quarters": {
+    "2021-Q4": [
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 143.5
+      },
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 137.27
+      },
+      {
+        "stock_code": "002241",
+        "stock_name": "歌尔股份",
+        "market_value_wan": 135.25
+      },
+      {
+        "stock_code": "300059",
+        "stock_name": "东方财富",
+        "market_value_wan": 133.6
+      },
+      {
+        "stock_code": "601669",
+        "stock_name": "中国电建",
+        "market_value_wan": 132.27
+      },
+      {
+        "stock_code": "688008",
+        "stock_name": "澜起科技",
+        "market_value_wan": 131.78
+      },
+      {
+        "stock_code": "600905",
+        "stock_name": "三峡能源",
+        "market_value_wan": 103.41
+      },
+      {
+        "stock_code": "300896",
+        "stock_name": "爱美客",
+        "market_value_wan": 101.86
+      },
+      {
+        "stock_code": "000681",
+        "stock_name": "视觉中国",
+        "market_value_wan": 99.19
+      },
+      {
+        "stock_code": "600011",
+        "stock_name": "华能国际",
+        "market_value_wan": 97.55
+      }
+    ],
+    "2021-Q3": [
+      {
+        "stock_code": "600436",
+        "stock_name": "片仔癀",
+        "market_value_wan": 616.47
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 567.79
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 567.3
+      },
+      {
+        "stock_code": "600460",
+        "stock_name": "士兰微",
+        "market_value_wan": 497.82
+      },
+      {
+        "stock_code": "300763",
+        "stock_name": "锦浪科技",
+        "market_value_wan": 488.84
+      },
+      {
+        "stock_code": "300347",
+        "stock_name": "泰格医药",
+        "market_value_wan": 485.46
+      },
+      {
+        "stock_code": "002371",
+        "stock_name": "北方华创",
+        "market_value_wan": 446.14
+      },
+      {
+        "stock_code": "300014",
+        "stock_name": "亿纬锂能",
+        "market_value_wan": 412.96
+      },
+      {
+        "stock_code": "603259",
+        "stock_name": "药明康德",
+        "market_value_wan": 407.98
+      },
+      {
+        "stock_code": "000568",
+        "stock_name": "泸州老窖",
+        "market_value_wan": 407.71
+      }
+    ],
+    "2021-Q2": [
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 556.19
+      },
+      {
+        "stock_code": "002876",
+        "stock_name": "三利谱",
+        "market_value_wan": 526.14
+      },
+      {
+        "stock_code": "002371",
+        "stock_name": "北方华创",
+        "market_value_wan": 510.38
+      },
+      {
+        "stock_code": "601012",
+        "stock_name": "隆基绿能",
+        "market_value_wan": 447.22
+      },
+      {
+        "stock_code": "002074",
+        "stock_name": "国轩高科",
+        "market_value_wan": 436.94
+      },
+      {
+        "stock_code": "300896",
+        "stock_name": "爱美客",
+        "market_value_wan": 426.0
+      },
+      {
+        "stock_code": "300014",
+        "stock_name": "亿纬锂能",
+        "market_value_wan": 393.7
+      },
+      {
+        "stock_code": "002466",
+        "stock_name": "天齐锂业",
+        "market_value_wan": 390.17
+      },
+      {
+        "stock_code": "300274",
+        "stock_name": "阳光电源",
+        "market_value_wan": 385.45
+      },
+      {
+        "stock_code": "603260",
+        "stock_name": "合盛硅业",
+        "market_value_wan": 381.47
+      }
+    ],
+    "2021-Q1": [
+      {
+        "stock_code": "000069",
+        "stock_name": "华侨城A",
+        "market_value_wan": 1280.58
+      },
+      {
+        "stock_code": "601618",
+        "stock_name": "中国中冶",
+        "market_value_wan": 1091.01
+      },
+      {
+        "stock_code": "601816",
+        "stock_name": "京沪高铁",
+        "market_value_wan": 1048.5
+      },
+      {
+        "stock_code": "600509",
+        "stock_name": "天富能源",
+        "market_value_wan": 868.36
+      },
+      {
+        "stock_code": "000651",
+        "stock_name": "格力电器",
+        "market_value_wan": 862.75
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 860.19
+      },
+      {
+        "stock_code": "600900",
+        "stock_name": "长江电力",
+        "market_value_wan": 853.74
+      },
+      {
+        "stock_code": "003035",
+        "stock_name": "南网能源",
+        "market_value_wan": 846.27
+      },
+      {
+        "stock_code": "002192",
+        "stock_name": "融捷股份",
+        "market_value_wan": 833.11
+      },
+      {
+        "stock_code": "002810",
+        "stock_name": "山东赫达",
+        "market_value_wan": 832.41
+      }
+    ]
+  }
+}

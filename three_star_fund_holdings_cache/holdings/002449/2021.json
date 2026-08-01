@@ -1,0 +1,214 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "002449",
+    "name": "民生加银量化中国混合A",
+    "base_name": "民生加银量化中国混合"
+  },
+  "fetched_at": "2026-06-14 23:06:15",
+  "quarters": {
+    "2021-Q4": [
+      {
+        "stock_code": "688789",
+        "stock_name": "宏华数科",
+        "market_value_wan": 32.02
+      },
+      {
+        "stock_code": "688305",
+        "stock_name": "科德数控",
+        "market_value_wan": 15.81
+      },
+      {
+        "stock_code": "002594",
+        "stock_name": "比亚迪",
+        "market_value_wan": 5.36
+      },
+      {
+        "stock_code": "601633",
+        "stock_name": "长城汽车",
+        "market_value_wan": 5.34
+      },
+      {
+        "stock_code": "688226",
+        "stock_name": "威腾电气",
+        "market_value_wan": 4.24
+      },
+      {
+        "stock_code": "603345",
+        "stock_name": "安井食品",
+        "market_value_wan": 3.42
+      },
+      {
+        "stock_code": "600809",
+        "stock_name": "山西汾酒",
+        "market_value_wan": 3.16
+      },
+      {
+        "stock_code": "603288",
+        "stock_name": "海天味业",
+        "market_value_wan": 3.15
+      },
+      {
+        "stock_code": "600600",
+        "stock_name": "青岛啤酒",
+        "market_value_wan": 2.97
+      },
+      {
+        "stock_code": "000568",
+        "stock_name": "泸州老窖",
+        "market_value_wan": 2.54
+      }
+    ],
+    "2021-Q3": [
+      {
+        "stock_code": "688789",
+        "stock_name": "宏华数科",
+        "market_value_wan": 21.0
+      },
+      {
+        "stock_code": "688315",
+        "stock_name": "诺禾致源",
+        "market_value_wan": 18.63
+      },
+      {
+        "stock_code": "601238",
+        "stock_name": "广汽集团",
+        "market_value_wan": 10.56
+      },
+      {
+        "stock_code": "601633",
+        "stock_name": "长城汽车",
+        "market_value_wan": 10.52
+      },
+      {
+        "stock_code": "688305",
+        "stock_name": "科德数控",
+        "market_value_wan": 10.44
+      },
+      {
+        "stock_code": "002594",
+        "stock_name": "比亚迪",
+        "market_value_wan": 9.98
+      },
+      {
+        "stock_code": "000625",
+        "stock_name": "长安汽车",
+        "market_value_wan": 8.35
+      },
+      {
+        "stock_code": "688226",
+        "stock_name": "威腾电气",
+        "market_value_wan": 3.08
+      },
+      {
+        "stock_code": "300961",
+        "stock_name": "深水海纳",
+        "market_value_wan": 0.87
+      }
+    ],
+    "2021-Q2": [
+      {
+        "stock_code": "601633",
+        "stock_name": "长城汽车",
+        "market_value_wan": 386.64
+      },
+      {
+        "stock_code": "601012",
+        "stock_name": "隆基绿能",
+        "market_value_wan": 380.24
+      },
+      {
+        "stock_code": "601238",
+        "stock_name": "广汽集团",
+        "market_value_wan": 245.92
+      },
+      {
+        "stock_code": "600104",
+        "stock_name": "上汽集团",
+        "market_value_wan": 245.4
+      },
+      {
+        "stock_code": "002594",
+        "stock_name": "比亚迪",
+        "market_value_wan": 215.86
+      },
+      {
+        "stock_code": "603259",
+        "stock_name": "药明康德",
+        "market_value_wan": 201.56
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 185.1
+      },
+      {
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "market_value_wan": 169.83
+      },
+      {
+        "stock_code": "000625",
+        "stock_name": "长安汽车",
+        "market_value_wan": 142.7
+      },
+      {
+        "stock_code": "603317",
+        "stock_name": "天味食品",
+        "market_value_wan": 137.14
+      }
+    ],
+    "2021-Q1": [
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 803.6
+      },
+      {
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "market_value_wan": 630.26
+      },
+      {
+        "stock_code": "601398",
+        "stock_name": "工商银行",
+        "market_value_wan": 288.08
+      },
+      {
+        "stock_code": "601633",
+        "stock_name": "长城汽车",
+        "market_value_wan": 278.1
+      },
+      {
+        "stock_code": "002142",
+        "stock_name": "宁波银行",
+        "market_value_wan": 268.27
+      },
+      {
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "market_value_wan": 259.71
+      },
+      {
+        "stock_code": "600276",
+        "stock_name": "恒瑞医药",
+        "market_value_wan": 243.91
+      },
+      {
+        "stock_code": "601888",
+        "stock_name": "中国中免",
+        "market_value_wan": 235.68
+      },
+      {
+        "stock_code": "600872",
+        "stock_name": "中炬高新",
+        "market_value_wan": 232.46
+      },
+      {
+        "stock_code": "002594",
+        "stock_name": "比亚迪",
+        "market_value_wan": 230.31
+      }
+    ]
+  }
+}

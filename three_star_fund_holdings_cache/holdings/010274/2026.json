@@ -1,0 +1,80 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "010274",
+    "name": "嘉实价值长青混合C",
+    "base_name": "嘉实价值长青混合"
+  },
+  "fetched_at": "2026-08-01 20:59:06",
+  "quarters": {
+    "2026-Q2": [
+      {
+        "stock_code": "601233",
+        "stock_name": "桐昆股份",
+        "market_value_wan": 16169.77
+      },
+      {
+        "stock_code": "689009",
+        "stock_name": "九号公司",
+        "market_value_wan": 12559.33
+      },
+      {
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "market_value_wan": 10876.5
+      },
+      {
+        "stock_code": "603699",
+        "stock_name": "纽威股份",
+        "market_value_wan": 9652.52
+      },
+      {
+        "stock_code": "601899",
+        "stock_name": "紫金矿业",
+        "market_value_wan": 9505.94
+      },
+      {
+        "stock_code": "600282",
+        "stock_name": "南钢股份",
+        "market_value_wan": 8307.05
+      }
+    ],
+    "2026-Q1": [
+      {
+        "stock_code": "601899",
+        "stock_name": "紫金矿业",
+        "market_value_wan": 19399.03
+      },
+      {
+        "stock_code": "600988",
+        "stock_name": "赤峰黄金",
+        "market_value_wan": 17850.78
+      },
+      {
+        "stock_code": "600282",
+        "stock_name": "南钢股份",
+        "market_value_wan": 15416.47
+      },
+      {
+        "stock_code": "601233",
+        "stock_name": "桐昆股份",
+        "market_value_wan": 15011.31
+      },
+      {
+        "stock_code": "689009",
+        "stock_name": "九号公司",
+        "market_value_wan": 14557.63
+      },
+      {
+        "stock_code": "600016",
+        "stock_name": "民生银行",
+        "market_value_wan": 13978.92
+      },
+      {
+        "stock_code": "603699",
+        "stock_name": "纽威股份",
+        "market_value_wan": 13235.93
+      }
+    ]
+  }
+}

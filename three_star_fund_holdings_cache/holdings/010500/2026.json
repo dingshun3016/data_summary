@@ -1,0 +1,75 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "010500",
+    "name": "中银创新医疗混合C",
+    "base_name": "中银创新医疗混合"
+  },
+  "fetched_at": "2026-08-01 20:59:16",
+  "quarters": {
+    "2026-Q2": [
+      {
+        "stock_code": "600276",
+        "stock_name": "恒瑞医药",
+        "market_value_wan": 11848.83
+      },
+      {
+        "stock_code": "688331",
+        "stock_name": "荣昌生物",
+        "market_value_wan": 8123.37
+      },
+      {
+        "stock_code": "688235",
+        "stock_name": "百济神州",
+        "market_value_wan": 7299.87
+      },
+      {
+        "stock_code": "300765",
+        "stock_name": "石药创新",
+        "market_value_wan": 6433.85
+      },
+      {
+        "stock_code": "002653",
+        "stock_name": "海思科",
+        "market_value_wan": 5925.9
+      },
+      {
+        "stock_code": "688428",
+        "stock_name": "诺诚健华",
+        "market_value_wan": 5397.49
+      }
+    ],
+    "2026-Q1": [
+      {
+        "stock_code": "600276",
+        "stock_name": "恒瑞医药",
+        "market_value_wan": 20291.96
+      },
+      {
+        "stock_code": "688331",
+        "stock_name": "荣昌生物",
+        "market_value_wan": 19406.98
+      },
+      {
+        "stock_code": "300765",
+        "stock_name": "新诺威",
+        "market_value_wan": 15879.33
+      },
+      {
+        "stock_code": "688506",
+        "stock_name": "百利天恒",
+        "market_value_wan": 14603.51
+      },
+      {
+        "stock_code": "688235",
+        "stock_name": "百济神州",
+        "market_value_wan": 14483.63
+      },
+      {
+        "stock_code": "002294",
+        "stock_name": "信立泰",
+        "market_value_wan": 9915.94
+      }
+    ]
+  }
+}

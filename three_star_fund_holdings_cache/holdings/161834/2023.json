@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "161834",
+    "name": "银华鑫锐灵活配置混合(LOF)A",
+    "base_name": "银华鑫锐灵活配置混合(LOF)"
+  },
+  "fetched_at": "2026-06-14 23:52:53",
+  "quarters": {
+    "2023-Q4": [
+      {
+        "stock_code": "600585",
+        "stock_name": "海螺水泥",
+        "market_value_wan": 15214.68
+      },
+      {
+        "stock_code": "601233",
+        "stock_name": "桐昆股份",
+        "market_value_wan": 10717.74
+      },
+      {
+        "stock_code": "002493",
+        "stock_name": "荣盛石化",
+        "market_value_wan": 6835.23
+      },
+      {
+        "stock_code": "002402",
+        "stock_name": "和而泰",
+        "market_value_wan": 5773.34
+      },
+      {
+        "stock_code": "601398",
+        "stock_name": "工商银行",
+        "market_value_wan": 5558.96
+      },
+      {
+        "stock_code": "601288",
+        "stock_name": "农业银行",
+        "market_value_wan": 4226.19
+      },
+      {
+        "stock_code": "002050",
+        "stock_name": "三花智控",
+        "market_value_wan": 4217.14
+      },
+      {
+        "stock_code": "600378",
+        "stock_name": "昊华科技",
+        "market_value_wan": 4094.68
+      },
+      {
+        "stock_code": "002152",
+        "stock_name": "广电运通",
+        "market_value_wan": 3994.43
+      },
+      {
+        "stock_code": "601975",
+        "stock_name": "招商南油",
+        "market_value_wan": 3836.92
+      }
+    ],
+    "2023-Q3": [
+      {
+        "stock_code": "600585",
+        "stock_name": "海螺水泥",
+        "market_value_wan": 18221.51
+      },
+      {
+        "stock_code": "601398",
+        "stock_name": "工商银行",
+        "market_value_wan": 13065.87
+      },
+      {
+        "stock_code": "601233",
+        "stock_name": "桐昆股份",
+        "market_value_wan": 10720.69
+      },
+      {
+        "stock_code": "002493",
+        "stock_name": "荣盛石化",
+        "market_value_wan": 8510.99
+      },
+      {
+        "stock_code": "002402",
+        "stock_name": "和而泰",
+        "market_value_wan": 5989.53
+      },
+      {
+        "stock_code": "601998",
+        "stock_name": "中信银行",
+        "market_value_wan": 5213.43
+      },
+      {
+        "stock_code": "000568",
+        "stock_name": "泸州老窖",
+        "market_value_wan": 4902.94
+      },
+      {
+        "stock_code": "601975",
+        "stock_name": "招商南油",
+        "market_value_wan": 4522.09
+      },
+      {
+        "stock_code": "601988",
+        "stock_name": "中国银行",
+        "market_value_wan": 4384.51
+      },
+      {
+        "stock_code": "002460",
+        "stock_name": "赣锋锂业",
+        "market_value_wan": 4249.67
+      }
+    ],
+    "2023-Q2": [
+      {
+        "stock_code": "600585",
+        "stock_name": "海螺水泥",
+        "market_value_wan": 13518.26
+      },
+      {
+        "stock_code": "601398",
+        "stock_name": "工商银行",
+        "market_value_wan": 11866.22
+      },
+      {
+        "stock_code": "002493",
+        "stock_name": "荣盛石化",
+        "market_value_wan": 8842.78
+      },
+      {
+        "stock_code": "601233",
+        "stock_name": "桐昆股份",
+        "market_value_wan": 8776.22
+      },
+      {
+        "stock_code": "600872",
+        "stock_name": "中炬高新",
+        "market_value_wan": 6188.39
+      },
+      {
+        "stock_code": "000338",
+        "stock_name": "潍柴动力",
+        "market_value_wan": 6109.09
+      },
+      {
+        "stock_code": "002139",
+        "stock_name": "拓邦股份",
+        "market_value_wan": 5599.76
+      },
+      {
+        "stock_code": "002402",
+        "stock_name": "和而泰",
+        "market_value_wan": 5578.83
+      },
+      {
+        "stock_code": "600600",
+        "stock_name": "青岛啤酒",
+        "market_value_wan": 5305.67
+      },
+      {
+        "stock_code": "000568",
+        "stock_name": "泸州老窖",
+        "market_value_wan": 5042.4
+      }
+    ],
+    "2023-Q1": [
+      {
+        "stock_code": "601398",
+        "stock_name": "工商银行",
+        "market_value_wan": 15788.68
+      },
+      {
+        "stock_code": "002493",
+        "stock_name": "荣盛石化",
+        "market_value_wan": 13346.31
+      },
+      {
+        "stock_code": "601233",
+        "stock_name": "桐昆股份",
+        "market_value_wan": 10849.93
+      },
+      {
+        "stock_code": "600585",
+        "stock_name": "海螺水泥",
+        "market_value_wan": 10569.16
+      },
+      {
+        "stock_code": "000338",
+        "stock_name": "潍柴动力",
+        "market_value_wan": 8126.72
+      },
+      {
+        "stock_code": "600600",
+        "stock_name": "青岛啤酒",
+        "market_value_wan": 8076.36
+      },
+      {
+        "stock_code": "600872",
+        "stock_name": "中炬高新",
+        "market_value_wan": 8053.97
+      },
+      {
+        "stock_code": "000568",
+        "stock_name": "泸州老窖",
+        "market_value_wan": 7911.41
+      },
+      {
+        "stock_code": "600372",
+        "stock_name": "中航机载",
+        "market_value_wan": 7664.63
+      },
+      {
+        "stock_code": "600216",
+        "stock_name": "浙江医药",
+        "market_value_wan": 6430.86
+      }
+    ]
+  }
+}

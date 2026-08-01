@@ -1,0 +1,115 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "005161",
+    "name": "华商上游产业股票A",
+    "base_name": "华商上游产业股票"
+  },
+  "fetched_at": "2026-08-01 20:56:22",
+  "quarters": {
+    "2026-Q2": [
+      {
+        "stock_code": "600426",
+        "stock_name": "华鲁恒升",
+        "market_value_wan": 13872.05
+      },
+      {
+        "stock_code": "600309",
+        "stock_name": "万华化学",
+        "market_value_wan": 13339.21
+      },
+      {
+        "stock_code": "002064",
+        "stock_name": "华峰化学",
+        "market_value_wan": 11229.52
+      },
+      {
+        "stock_code": "000933",
+        "stock_name": "神火股份",
+        "market_value_wan": 10019.88
+      },
+      {
+        "stock_code": "600176",
+        "stock_name": "中国巨石",
+        "market_value_wan": 9947.39
+      },
+      {
+        "stock_code": "002532",
+        "stock_name": "天山铝业",
+        "market_value_wan": 9734.9
+      },
+      {
+        "stock_code": "600499",
+        "stock_name": "科达制造",
+        "market_value_wan": 9346.05
+      },
+      {
+        "stock_code": "600500",
+        "stock_name": "中化国际",
+        "market_value_wan": 8504.95
+      },
+      {
+        "stock_code": "002080",
+        "stock_name": "中材科技",
+        "market_value_wan": 8364.6
+      },
+      {
+        "stock_code": "002648",
+        "stock_name": "卫星化学",
+        "market_value_wan": 8345.01
+      }
+    ],
+    "2026-Q1": [
+      {
+        "stock_code": "600309",
+        "stock_name": "万华化学",
+        "market_value_wan": 22926.35
+      },
+      {
+        "stock_code": "000933",
+        "stock_name": "神火股份",
+        "market_value_wan": 19296.08
+      },
+      {
+        "stock_code": "601899",
+        "stock_name": "紫金矿业",
+        "market_value_wan": 18986.15
+      },
+      {
+        "stock_code": "002379",
+        "stock_name": "宏桥控股",
+        "market_value_wan": 14928.12
+      },
+      {
+        "stock_code": "002532",
+        "stock_name": "天山铝业",
+        "market_value_wan": 14639.92
+      },
+      {
+        "stock_code": "000688",
+        "stock_name": "国城矿业",
+        "market_value_wan": 14060.93
+      },
+      {
+        "stock_code": "300390",
+        "stock_name": "天华新能",
+        "market_value_wan": 14014.85
+      },
+      {
+        "stock_code": "000807",
+        "stock_name": "云铝股份",
+        "market_value_wan": 13483.76
+      },
+      {
+        "stock_code": "002601",
+        "stock_name": "龙佰集团",
+        "market_value_wan": 13101.63
+      },
+      {
+        "stock_code": "002738",
+        "stock_name": "中矿资源",
+        "market_value_wan": 13101.62
+      }
+    ]
+  }
+}

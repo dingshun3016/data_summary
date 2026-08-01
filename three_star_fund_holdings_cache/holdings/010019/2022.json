@@ -1,0 +1,209 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "010019",
+    "name": "招商瑞泽一年持有期混合C",
+    "base_name": "招商瑞泽一年持有期混合"
+  },
+  "fetched_at": "2026-06-14 23:37:31",
+  "quarters": {
+    "2022-Q4": [
+      {
+        "stock_code": "603345",
+        "stock_name": "安井食品",
+        "market_value_wan": 1070.32
+      },
+      {
+        "stock_code": "002807",
+        "stock_name": "江阴银行",
+        "market_value_wan": 613.19
+      },
+      {
+        "stock_code": "603129",
+        "stock_name": "春风动力",
+        "market_value_wan": 489.46
+      },
+      {
+        "stock_code": "002353",
+        "stock_name": "杰瑞股份",
+        "market_value_wan": 466.38
+      },
+      {
+        "stock_code": "002555",
+        "stock_name": "三七互娱",
+        "market_value_wan": 432.77
+      },
+      {
+        "stock_code": "002345",
+        "stock_name": "潮宏基",
+        "market_value_wan": 428.74
+      },
+      {
+        "stock_code": "601128",
+        "stock_name": "常熟银行",
+        "market_value_wan": 425.67
+      },
+      {
+        "stock_code": "300122",
+        "stock_name": "智飞生物",
+        "market_value_wan": 401.38
+      },
+      {
+        "stock_code": "601958",
+        "stock_name": "金钼股份",
+        "market_value_wan": 352.51
+      }
+    ],
+    "2022-Q3": [
+      {
+        "stock_code": "603345",
+        "stock_name": "安井食品",
+        "market_value_wan": 1070.16
+      },
+      {
+        "stock_code": "002807",
+        "stock_name": "江阴银行",
+        "market_value_wan": 662.62
+      },
+      {
+        "stock_code": "603129",
+        "stock_name": "春风动力",
+        "market_value_wan": 637.53
+      },
+      {
+        "stock_code": "002353",
+        "stock_name": "杰瑞股份",
+        "market_value_wan": 545.25
+      },
+      {
+        "stock_code": "002555",
+        "stock_name": "三七互娱",
+        "market_value_wan": 512.84
+      },
+      {
+        "stock_code": "300122",
+        "stock_name": "智飞生物",
+        "market_value_wan": 394.99
+      },
+      {
+        "stock_code": "002345",
+        "stock_name": "潮宏基",
+        "market_value_wan": 356.2
+      },
+      {
+        "stock_code": "601128",
+        "stock_name": "常熟银行",
+        "market_value_wan": 343.39
+      },
+      {
+        "stock_code": "600919",
+        "stock_name": "江苏银行",
+        "market_value_wan": 317.99
+      },
+      {
+        "stock_code": "300662",
+        "stock_name": "科锐国际",
+        "market_value_wan": 274.12
+      }
+    ],
+    "2022-Q2": [
+      {
+        "stock_code": "603345",
+        "stock_name": "安井食品",
+        "market_value_wan": 1097.31
+      },
+      {
+        "stock_code": "002807",
+        "stock_name": "江阴银行",
+        "market_value_wan": 681.52
+      },
+      {
+        "stock_code": "002353",
+        "stock_name": "杰瑞股份",
+        "market_value_wan": 673.41
+      },
+      {
+        "stock_code": "600941",
+        "stock_name": "中国移动",
+        "market_value_wan": 614.78
+      },
+      {
+        "stock_code": "002555",
+        "stock_name": "三七互娱",
+        "market_value_wan": 547.52
+      },
+      {
+        "stock_code": "603129",
+        "stock_name": "春风动力",
+        "market_value_wan": 539.03
+      },
+      {
+        "stock_code": "300122",
+        "stock_name": "智飞生物",
+        "market_value_wan": 487.33
+      },
+      {
+        "stock_code": "300662",
+        "stock_name": "科锐国际",
+        "market_value_wan": 486.21
+      },
+      {
+        "stock_code": "300413",
+        "stock_name": "芒果超媒",
+        "market_value_wan": 424.01
+      }
+    ],
+    "2022-Q1": [
+      {
+        "stock_code": "603345",
+        "stock_name": "安井食品",
+        "market_value_wan": 705.17
+      },
+      {
+        "stock_code": "300122",
+        "stock_name": "智飞生物",
+        "market_value_wan": 699.66
+      },
+      {
+        "stock_code": "600941",
+        "stock_name": "中国移动",
+        "market_value_wan": 646.37
+      },
+      {
+        "stock_code": "002353",
+        "stock_name": "杰瑞股份",
+        "market_value_wan": 466.6
+      },
+      {
+        "stock_code": "600919",
+        "stock_name": "江苏银行",
+        "market_value_wan": 353.13
+      },
+      {
+        "stock_code": "600582",
+        "stock_name": "天地科技",
+        "market_value_wan": 345.96
+      },
+      {
+        "stock_code": "601128",
+        "stock_name": "常熟银行",
+        "market_value_wan": 343.89
+      },
+      {
+        "stock_code": "002243",
+        "stock_name": "力合科创",
+        "market_value_wan": 343.25
+      },
+      {
+        "stock_code": "600426",
+        "stock_name": "华鲁恒升",
+        "market_value_wan": 311.69
+      },
+      {
+        "stock_code": "600438",
+        "stock_name": "通威股份",
+        "market_value_wan": 308.22
+      }
+    ]
+  }
+}

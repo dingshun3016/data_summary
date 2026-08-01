@@ -1,0 +1,115 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "487016",
+    "name": "工银瑞信灵活配置混合A",
+    "base_name": "工银瑞信灵活配置混合"
+  },
+  "fetched_at": "2026-08-01 20:48:55",
+  "quarters": {
+    "2026-Q2": [
+      {
+        "stock_code": "300408",
+        "stock_name": "三环集团",
+        "market_value_wan": 2209.76
+      },
+      {
+        "stock_code": "688362",
+        "stock_name": "甬矽电子",
+        "market_value_wan": 1743.4
+      },
+      {
+        "stock_code": "688037",
+        "stock_name": "芯源微",
+        "market_value_wan": 1598.89
+      },
+      {
+        "stock_code": "688809",
+        "stock_name": "强一股份",
+        "market_value_wan": 1499.44
+      },
+      {
+        "stock_code": "605111",
+        "stock_name": "新洁能",
+        "market_value_wan": 1029.07
+      },
+      {
+        "stock_code": "600926",
+        "stock_name": "杭州银行",
+        "market_value_wan": 1005.58
+      },
+      {
+        "stock_code": "688548",
+        "stock_name": "广钢气体",
+        "market_value_wan": 894.02
+      },
+      {
+        "stock_code": "300223",
+        "stock_name": "北京君正",
+        "market_value_wan": 876.13
+      },
+      {
+        "stock_code": "688256",
+        "stock_name": "寒武纪",
+        "market_value_wan": 848.51
+      },
+      {
+        "stock_code": "688308",
+        "stock_name": "欧科亿",
+        "market_value_wan": 840.33
+      }
+    ],
+    "2026-Q1": [
+      {
+        "stock_code": "600926",
+        "stock_name": "杭州银行",
+        "market_value_wan": 1165.63
+      },
+      {
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "market_value_wan": 1034.12
+      },
+      {
+        "stock_code": "300408",
+        "stock_name": "三环集团",
+        "market_value_wan": 795.92
+      },
+      {
+        "stock_code": "000893",
+        "stock_name": "亚钾国际",
+        "market_value_wan": 631.16
+      },
+      {
+        "stock_code": "300394",
+        "stock_name": "天孚通信",
+        "market_value_wan": 624.31
+      },
+      {
+        "stock_code": "688362",
+        "stock_name": "甬矽电子",
+        "market_value_wan": 594.9
+      },
+      {
+        "stock_code": "688037",
+        "stock_name": "芯源微",
+        "market_value_wan": 521.13
+      },
+      {
+        "stock_code": "688809",
+        "stock_name": "强一股份",
+        "market_value_wan": 502.03
+      },
+      {
+        "stock_code": "600801",
+        "stock_name": "华新建材",
+        "market_value_wan": 464.7
+      },
+      {
+        "stock_code": "688308",
+        "stock_name": "欧科亿",
+        "market_value_wan": 454.01
+      }
+    ]
+  }
+}

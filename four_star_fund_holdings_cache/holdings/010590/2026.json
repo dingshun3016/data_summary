@@ -1,0 +1,60 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "010590",
+    "name": "鹏扬景安一年持有期混合C",
+    "base_name": "鹏扬景安一年持有期混合"
+  },
+  "fetched_at": "2026-08-01 20:48:28",
+  "quarters": {
+    "2026-Q2": [
+      {
+        "stock_code": "920136",
+        "stock_name": "永励精密",
+        "market_value_wan": 0.58
+      },
+      {
+        "stock_code": "001248",
+        "stock_name": "华润新能源",
+        "market_value_wan": 0.51
+      },
+      {
+        "stock_code": "920193",
+        "stock_name": "吉和昌",
+        "market_value_wan": 0.26
+      },
+      {
+        "stock_code": "920189",
+        "stock_name": "康美特",
+        "market_value_wan": 0.16
+      }
+    ],
+    "2026-Q1": [
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 78.64
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 72.5
+      },
+      {
+        "stock_code": "601899",
+        "stock_name": "紫金矿业",
+        "market_value_wan": 46.79
+      },
+      {
+        "stock_code": "002444",
+        "stock_name": "巨星科技",
+        "market_value_wan": 33.65
+      },
+      {
+        "stock_code": "603259",
+        "stock_name": "药明康德",
+        "market_value_wan": 28.45
+      }
+    ]
+  }
+}

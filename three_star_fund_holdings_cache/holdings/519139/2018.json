@@ -1,0 +1,64 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "519139",
+    "name": "海富通沪港深混合A",
+    "base_name": "海富通沪港深混合"
+  },
+  "fetched_at": "2026-06-15 00:02:51",
+  "quarters": {
+    "2018-Q4": [
+      {
+        "stock_code": "300144",
+        "stock_name": "宋城演艺",
+        "market_value_wan": 365.09
+      },
+      {
+        "stock_code": "300146",
+        "stock_name": "汤臣倍健",
+        "market_value_wan": 327.23
+      },
+      {
+        "stock_code": "600048",
+        "stock_name": "保利发展",
+        "market_value_wan": 321.31
+      }
+    ],
+    "2018-Q3": [
+      {
+        "stock_code": "000963",
+        "stock_name": "华东医药",
+        "market_value_wan": 420.45
+      },
+      {
+        "stock_code": "002258",
+        "stock_name": "利尔化学",
+        "market_value_wan": 418.04
+      },
+      {
+        "stock_code": "300146",
+        "stock_name": "汤臣倍健",
+        "market_value_wan": 394.83
+      }
+    ],
+    "2018-Q2": [
+      {
+        "stock_code": "000963",
+        "stock_name": "华东医药",
+        "market_value_wan": 627.49
+      }
+    ],
+    "2018-Q1": [
+      {
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "market_value_wan": 698.51
+      },
+      {
+        "stock_code": "002027",
+        "stock_name": "分众传媒",
+        "market_value_wan": 642.98
+      }
+    ]
+  }
+}

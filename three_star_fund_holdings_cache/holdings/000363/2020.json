@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "000363",
+    "name": "国泰聚信价值优势混合C",
+    "base_name": "国泰聚信价值优势混合"
+  },
+  "fetched_at": "2026-06-14 22:49:25",
+  "quarters": {
+    "2020-Q4": [
+      {
+        "stock_code": "600521",
+        "stock_name": "华海药业",
+        "market_value_wan": 57477.0
+      },
+      {
+        "stock_code": "000739",
+        "stock_name": "普洛药业",
+        "market_value_wan": 50517.6
+      },
+      {
+        "stock_code": "300702",
+        "stock_name": "天宇股份",
+        "market_value_wan": 46750.0
+      },
+      {
+        "stock_code": "002594",
+        "stock_name": "比亚迪",
+        "market_value_wan": 46049.1
+      },
+      {
+        "stock_code": "000636",
+        "stock_name": "风华高科",
+        "market_value_wan": 38755.0
+      },
+      {
+        "stock_code": "002332",
+        "stock_name": "仙琚制药",
+        "market_value_wan": 36072.0
+      },
+      {
+        "stock_code": "002352",
+        "stock_name": "顺丰控股",
+        "market_value_wan": 34056.78
+      },
+      {
+        "stock_code": "603308",
+        "stock_name": "应流股份",
+        "market_value_wan": 33471.9
+      },
+      {
+        "stock_code": "002236",
+        "stock_name": "大华股份",
+        "market_value_wan": 24206.13
+      },
+      {
+        "stock_code": "603985",
+        "stock_name": "恒润股份",
+        "market_value_wan": 23107.0
+      }
+    ],
+    "2020-Q3": [
+      {
+        "stock_code": "002594",
+        "stock_name": "比亚迪",
+        "market_value_wan": 65094.4
+      },
+      {
+        "stock_code": "600521",
+        "stock_name": "华海药业",
+        "market_value_wan": 41382.17
+      },
+      {
+        "stock_code": "002250",
+        "stock_name": "联化科技",
+        "market_value_wan": 39504.0
+      },
+      {
+        "stock_code": "300702",
+        "stock_name": "天宇股份",
+        "market_value_wan": 33640.4
+      },
+      {
+        "stock_code": "000513",
+        "stock_name": "丽珠集团",
+        "market_value_wan": 33462.8
+      },
+      {
+        "stock_code": "000739",
+        "stock_name": "普洛药业",
+        "market_value_wan": 32422.4
+      },
+      {
+        "stock_code": "000636",
+        "stock_name": "风华高科",
+        "market_value_wan": 31473.0
+      },
+      {
+        "stock_code": "002332",
+        "stock_name": "仙琚制药",
+        "market_value_wan": 29127.0
+      },
+      {
+        "stock_code": "603308",
+        "stock_name": "应流股份",
+        "market_value_wan": 28150.0
+      },
+      {
+        "stock_code": "002236",
+        "stock_name": "大华股份",
+        "market_value_wan": 23575.0
+      }
+    ],
+    "2020-Q2": [
+      {
+        "stock_code": "300702",
+        "stock_name": "天宇股份",
+        "market_value_wan": 34337.11
+      },
+      {
+        "stock_code": "600521",
+        "stock_name": "华海药业",
+        "market_value_wan": 33930.0
+      },
+      {
+        "stock_code": "000739",
+        "stock_name": "普洛药业",
+        "market_value_wan": 32606.0
+      },
+      {
+        "stock_code": "002332",
+        "stock_name": "仙琚制药",
+        "market_value_wan": 28628.0
+      },
+      {
+        "stock_code": "002250",
+        "stock_name": "联化科技",
+        "market_value_wan": 21841.17
+      },
+      {
+        "stock_code": "000636",
+        "stock_name": "风华高科",
+        "market_value_wan": 19659.12
+      },
+      {
+        "stock_code": "603308",
+        "stock_name": "应流股份",
+        "market_value_wan": 18360.0
+      },
+      {
+        "stock_code": "300498",
+        "stock_name": "温氏股份",
+        "market_value_wan": 16568.0
+      },
+      {
+        "stock_code": "002025",
+        "stock_name": "航天电器",
+        "market_value_wan": 16095.2
+      },
+      {
+        "stock_code": "300723",
+        "stock_name": "一品红",
+        "market_value_wan": 15340.04
+      }
+    ],
+    "2020-Q1": [
+      {
+        "stock_code": "300702",
+        "stock_name": "天宇股份",
+        "market_value_wan": 22999.5
+      },
+      {
+        "stock_code": "000739",
+        "stock_name": "普洛药业",
+        "market_value_wan": 18451.2
+      },
+      {
+        "stock_code": "002332",
+        "stock_name": "仙琚制药",
+        "market_value_wan": 17450.0
+      },
+      {
+        "stock_code": "600521",
+        "stock_name": "华海药业",
+        "market_value_wan": 12593.0
+      },
+      {
+        "stock_code": "300723",
+        "stock_name": "一品红",
+        "market_value_wan": 12120.01
+      },
+      {
+        "stock_code": "600066",
+        "stock_name": "宇通客车",
+        "market_value_wan": 11954.49
+      },
+      {
+        "stock_code": "300498",
+        "stock_name": "温氏股份",
+        "market_value_wan": 11628.0
+      },
+      {
+        "stock_code": "603688",
+        "stock_name": "石英股份",
+        "market_value_wan": 11072.96
+      },
+      {
+        "stock_code": "002180",
+        "stock_name": "纳思达",
+        "market_value_wan": 10080.84
+      },
+      {
+        "stock_code": "603308",
+        "stock_name": "应流股份",
+        "market_value_wan": 9898.8
+      }
+    ]
+  }
+}

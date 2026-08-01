@@ -1,0 +1,63 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "006195",
+    "name": "国金量化多因子股票A",
+    "base_name": "国金量化多因子股票"
+  },
+  "fetched_at": "2026-06-14 23:20:52",
+  "quarters": {
+    "2018-Q4": [
+      {
+        "stock_code": "300669",
+        "stock_name": "沪宁股份",
+        "market_value_wan": 23.53
+      },
+      {
+        "stock_code": "300445",
+        "stock_name": "康斯特",
+        "market_value_wan": 22.82
+      },
+      {
+        "stock_code": "601900",
+        "stock_name": "南方传媒",
+        "market_value_wan": 21.64
+      },
+      {
+        "stock_code": "600602",
+        "stock_name": "云赛智联",
+        "market_value_wan": 21.41
+      },
+      {
+        "stock_code": "603633",
+        "stock_name": "徕木股份",
+        "market_value_wan": 20.24
+      },
+      {
+        "stock_code": "600322",
+        "stock_name": "津投城开",
+        "market_value_wan": 20.15
+      },
+      {
+        "stock_code": "300605",
+        "stock_name": "恒锋信息",
+        "market_value_wan": 19.35
+      },
+      {
+        "stock_code": "600980",
+        "stock_name": "北矿科技",
+        "market_value_wan": 18.89
+      },
+      {
+        "stock_code": "002724",
+        "stock_name": "海洋王",
+        "market_value_wan": 18.39
+      },
+      {
+        "stock_code": "300501",
+        "stock_name": "海顺新材",
+        "market_value_wan": 18.36
+      }
+    ]
+  }
+}

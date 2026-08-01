@@ -1,0 +1,209 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "003503",
+    "name": "金鹰鑫瑞混合C",
+    "base_name": "金鹰鑫瑞混合"
+  },
+  "fetched_at": "2026-06-14 23:10:56",
+  "quarters": {
+    "2022-Q4": [
+      {
+        "stock_code": "600030",
+        "stock_name": "中信证券",
+        "market_value_wan": 1699.32
+      },
+      {
+        "stock_code": "000002",
+        "stock_name": "万科A",
+        "market_value_wan": 1410.7
+      },
+      {
+        "stock_code": "603209",
+        "stock_name": "兴通股份",
+        "market_value_wan": 1214.4
+      },
+      {
+        "stock_code": "600988",
+        "stock_name": "赤峰黄金",
+        "market_value_wan": 1187.5
+      },
+      {
+        "stock_code": "688276",
+        "stock_name": "百克生物",
+        "market_value_wan": 21.68
+      },
+      {
+        "stock_code": "688401",
+        "stock_name": "路维光电",
+        "market_value_wan": 20.55
+      },
+      {
+        "stock_code": "688381",
+        "stock_name": "帝奥微",
+        "market_value_wan": 16.78
+      },
+      {
+        "stock_code": "601136",
+        "stock_name": "首创证券",
+        "market_value_wan": 8.26
+      }
+    ],
+    "2022-Q3": [
+      {
+        "stock_code": "600988",
+        "stock_name": "赤峰黄金",
+        "market_value_wan": 602.3
+      },
+      {
+        "stock_code": "002487",
+        "stock_name": "大金重工",
+        "market_value_wan": 565.27
+      },
+      {
+        "stock_code": "603209",
+        "stock_name": "兴通股份",
+        "market_value_wan": 550.04
+      },
+      {
+        "stock_code": "600150",
+        "stock_name": "中国船舶",
+        "market_value_wan": 541.79
+      },
+      {
+        "stock_code": "600057",
+        "stock_name": "厦门象屿",
+        "market_value_wan": 506.82
+      },
+      {
+        "stock_code": "601111",
+        "stock_name": "中国国航",
+        "market_value_wan": 403.2
+      },
+      {
+        "stock_code": "603035",
+        "stock_name": "常熟汽饰",
+        "market_value_wan": 326.11
+      },
+      {
+        "stock_code": "688331",
+        "stock_name": "荣昌生物",
+        "market_value_wan": 50.6
+      },
+      {
+        "stock_code": "688276",
+        "stock_name": "百克生物",
+        "market_value_wan": 18.04
+      },
+      {
+        "stock_code": "688401",
+        "stock_name": "路维光电",
+        "market_value_wan": 15.01
+      }
+    ],
+    "2022-Q2": [
+      {
+        "stock_code": "600054",
+        "stock_name": "黄山旅游",
+        "market_value_wan": 879.86
+      },
+      {
+        "stock_code": "600138",
+        "stock_name": "中青旅",
+        "market_value_wan": 856.02
+      },
+      {
+        "stock_code": "600057",
+        "stock_name": "厦门象屿",
+        "market_value_wan": 800.59
+      },
+      {
+        "stock_code": "600690",
+        "stock_name": "海尔智家",
+        "market_value_wan": 724.39
+      },
+      {
+        "stock_code": "601238",
+        "stock_name": "广汽集团",
+        "market_value_wan": 715.52
+      },
+      {
+        "stock_code": "601111",
+        "stock_name": "中国国航",
+        "market_value_wan": 619.51
+      },
+      {
+        "stock_code": "603035",
+        "stock_name": "常熟汽饰",
+        "market_value_wan": 554.91
+      },
+      {
+        "stock_code": "600660",
+        "stock_name": "福耀玻璃",
+        "market_value_wan": 495.03
+      },
+      {
+        "stock_code": "002487",
+        "stock_name": "大金重工",
+        "market_value_wan": 482.4
+      },
+      {
+        "stock_code": "002142",
+        "stock_name": "宁波银行",
+        "market_value_wan": 470.9
+      }
+    ],
+    "2022-Q1": [
+      {
+        "stock_code": "002142",
+        "stock_name": "宁波银行",
+        "market_value_wan": 860.72
+      },
+      {
+        "stock_code": "600138",
+        "stock_name": "中青旅",
+        "market_value_wan": 810.2
+      },
+      {
+        "stock_code": "600054",
+        "stock_name": "黄山旅游",
+        "market_value_wan": 807.5
+      },
+      {
+        "stock_code": "600057",
+        "stock_name": "厦门象屿",
+        "market_value_wan": 801.5
+      },
+      {
+        "stock_code": "601985",
+        "stock_name": "中国核电",
+        "market_value_wan": 798.27
+      },
+      {
+        "stock_code": "002714",
+        "stock_name": "牧原股份",
+        "market_value_wan": 748.28
+      },
+      {
+        "stock_code": "600502",
+        "stock_name": "安徽建工",
+        "market_value_wan": 647.54
+      },
+      {
+        "stock_code": "600690",
+        "stock_name": "海尔智家",
+        "market_value_wan": 609.38
+      },
+      {
+        "stock_code": "603035",
+        "stock_name": "常熟汽饰",
+        "market_value_wan": 608.48
+      },
+      {
+        "stock_code": "600970",
+        "stock_name": "中材国际",
+        "market_value_wan": 546.73
+      }
+    ]
+  }
+}

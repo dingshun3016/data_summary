@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "360006",
+    "name": "光大新增长混合A",
+    "base_name": "光大新增长混合"
+  },
+  "fetched_at": "2026-06-14 23:59:14",
+  "quarters": {
+    "2023-Q4": [
+      {
+        "stock_code": "600584",
+        "stock_name": "长电科技",
+        "market_value_wan": 4101.13
+      },
+      {
+        "stock_code": "002463",
+        "stock_name": "沪电股份",
+        "market_value_wan": 3938.91
+      },
+      {
+        "stock_code": "002138",
+        "stock_name": "顺络电子",
+        "market_value_wan": 3592.14
+      },
+      {
+        "stock_code": "601966",
+        "stock_name": "玲珑轮胎",
+        "market_value_wan": 3493.01
+      },
+      {
+        "stock_code": "603197",
+        "stock_name": "保隆科技",
+        "market_value_wan": 3407.69
+      },
+      {
+        "stock_code": "601799",
+        "stock_name": "星宇股份",
+        "market_value_wan": 3374.77
+      },
+      {
+        "stock_code": "002126",
+        "stock_name": "银轮股份",
+        "market_value_wan": 3285.92
+      },
+      {
+        "stock_code": "300285",
+        "stock_name": "国瓷材料",
+        "market_value_wan": 3252.96
+      },
+      {
+        "stock_code": "603662",
+        "stock_name": "柯力传感",
+        "market_value_wan": 3238.74
+      },
+      {
+        "stock_code": "000063",
+        "stock_name": "中兴通讯",
+        "market_value_wan": 3234.27
+      }
+    ],
+    "2023-Q3": [
+      {
+        "stock_code": "002920",
+        "stock_name": "德赛西威",
+        "market_value_wan": 4472.26
+      },
+      {
+        "stock_code": "600584",
+        "stock_name": "长电科技",
+        "market_value_wan": 4189.03
+      },
+      {
+        "stock_code": "002463",
+        "stock_name": "沪电股份",
+        "market_value_wan": 4008.36
+      },
+      {
+        "stock_code": "601799",
+        "stock_name": "星宇股份",
+        "market_value_wan": 3912.48
+      },
+      {
+        "stock_code": "002138",
+        "stock_name": "顺络电子",
+        "market_value_wan": 3824.87
+      },
+      {
+        "stock_code": "603197",
+        "stock_name": "保隆科技",
+        "market_value_wan": 3794.98
+      },
+      {
+        "stock_code": "000063",
+        "stock_name": "中兴通讯",
+        "market_value_wan": 3653.62
+      },
+      {
+        "stock_code": "603662",
+        "stock_name": "柯力传感",
+        "market_value_wan": 3619.39
+      },
+      {
+        "stock_code": "000528",
+        "stock_name": "柳工",
+        "market_value_wan": 3561.91
+      },
+      {
+        "stock_code": "002508",
+        "stock_name": "老板电器",
+        "market_value_wan": 3530.26
+      }
+    ],
+    "2023-Q2": [
+      {
+        "stock_code": "601966",
+        "stock_name": "玲珑轮胎",
+        "market_value_wan": 6013.26
+      },
+      {
+        "stock_code": "002508",
+        "stock_name": "老板电器",
+        "market_value_wan": 4830.21
+      },
+      {
+        "stock_code": "000837",
+        "stock_name": "秦川机床",
+        "market_value_wan": 4558.24
+      },
+      {
+        "stock_code": "603596",
+        "stock_name": "伯特利",
+        "market_value_wan": 4425.09
+      },
+      {
+        "stock_code": "002920",
+        "stock_name": "德赛西威",
+        "market_value_wan": 4265.33
+      },
+      {
+        "stock_code": "000063",
+        "stock_name": "中兴通讯",
+        "market_value_wan": 4235.22
+      },
+      {
+        "stock_code": "300033",
+        "stock_name": "同花顺",
+        "market_value_wan": 4101.55
+      },
+      {
+        "stock_code": "601138",
+        "stock_name": "工业富联",
+        "market_value_wan": 4076.1
+      },
+      {
+        "stock_code": "002463",
+        "stock_name": "沪电股份",
+        "market_value_wan": 3938.19
+      },
+      {
+        "stock_code": "000528",
+        "stock_name": "柳工",
+        "market_value_wan": 3919.1
+      }
+    ],
+    "2023-Q1": [
+      {
+        "stock_code": "603596",
+        "stock_name": "伯特利",
+        "market_value_wan": 6409.8
+      },
+      {
+        "stock_code": "688111",
+        "stock_name": "金山办公",
+        "market_value_wan": 5950.67
+      },
+      {
+        "stock_code": "002508",
+        "stock_name": "老板电器",
+        "market_value_wan": 5416.56
+      },
+      {
+        "stock_code": "601966",
+        "stock_name": "玲珑轮胎",
+        "market_value_wan": 5287.99
+      },
+      {
+        "stock_code": "002920",
+        "stock_name": "德赛西威",
+        "market_value_wan": 5280.68
+      },
+      {
+        "stock_code": "300012",
+        "stock_name": "华测检测",
+        "market_value_wan": 5269.53
+      },
+      {
+        "stock_code": "300033",
+        "stock_name": "同花顺",
+        "market_value_wan": 4872.56
+      },
+      {
+        "stock_code": "300496",
+        "stock_name": "中科创达",
+        "market_value_wan": 4616.54
+      },
+      {
+        "stock_code": "300454",
+        "stock_name": "深信服",
+        "market_value_wan": 4501.73
+      },
+      {
+        "stock_code": "601100",
+        "stock_name": "恒立液压",
+        "market_value_wan": 4158.6
+      }
+    ]
+  }
+}

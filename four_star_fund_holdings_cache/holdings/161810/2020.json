@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "161810",
+    "name": "银华内需精选混合(LOF)",
+    "base_name": "银华内需精选混合(LOF)"
+  },
+  "fetched_at": "2026-06-14 22:42:10",
+  "quarters": {
+    "2020-Q4": [
+      {
+        "stock_code": "002385",
+        "stock_name": "大北农",
+        "market_value_wan": 59505.6
+      },
+      {
+        "stock_code": "002299",
+        "stock_name": "圣农发展",
+        "market_value_wan": 58388.0
+      },
+      {
+        "stock_code": "002157",
+        "stock_name": "正邦科技",
+        "market_value_wan": 50779.2
+      },
+      {
+        "stock_code": "300087",
+        "stock_name": "荃银高科",
+        "market_value_wan": 39512.7
+      },
+      {
+        "stock_code": "688111",
+        "stock_name": "金山办公",
+        "market_value_wan": 36168.0
+      },
+      {
+        "stock_code": "300558",
+        "stock_name": "贝达药业",
+        "market_value_wan": 32211.0
+      },
+      {
+        "stock_code": "603986",
+        "stock_name": "兆易创新",
+        "market_value_wan": 28243.11
+      },
+      {
+        "stock_code": "603019",
+        "stock_name": "中科曙光",
+        "market_value_wan": 27384.0
+      },
+      {
+        "stock_code": "300598",
+        "stock_name": "诚迈科技",
+        "market_value_wan": 26613.36
+      },
+      {
+        "stock_code": "300244",
+        "stock_name": "迪安诊断",
+        "market_value_wan": 26052.62
+      }
+    ],
+    "2020-Q3": [
+      {
+        "stock_code": "002157",
+        "stock_name": "正邦科技",
+        "market_value_wan": 53721.9
+      },
+      {
+        "stock_code": "002385",
+        "stock_name": "大北农",
+        "market_value_wan": 51462.5
+      },
+      {
+        "stock_code": "601899",
+        "stock_name": "紫金矿业",
+        "market_value_wan": 49200.0
+      },
+      {
+        "stock_code": "002299",
+        "stock_name": "圣农发展",
+        "market_value_wan": 46604.4
+      },
+      {
+        "stock_code": "300558",
+        "stock_name": "贝达药业",
+        "market_value_wan": 35265.6
+      },
+      {
+        "stock_code": "002124",
+        "stock_name": "ST天邦",
+        "market_value_wan": 34125.0
+      },
+      {
+        "stock_code": "002100",
+        "stock_name": "天康生物",
+        "market_value_wan": 32422.64
+      },
+      {
+        "stock_code": "603019",
+        "stock_name": "中科曙光",
+        "market_value_wan": 31307.6
+      },
+      {
+        "stock_code": "688111",
+        "stock_name": "金山办公",
+        "market_value_wan": 29040.0
+      },
+      {
+        "stock_code": "300244",
+        "stock_name": "迪安诊断",
+        "market_value_wan": 27769.0
+      }
+    ],
+    "2020-Q2": [
+      {
+        "stock_code": "002385",
+        "stock_name": "大北农",
+        "market_value_wan": 43090.3
+      },
+      {
+        "stock_code": "002157",
+        "stock_name": "正邦科技",
+        "market_value_wan": 41252.8
+      },
+      {
+        "stock_code": "002299",
+        "stock_name": "圣农发展",
+        "market_value_wan": 39440.0
+      },
+      {
+        "stock_code": "603019",
+        "stock_name": "中科曙光",
+        "market_value_wan": 38400.0
+      },
+      {
+        "stock_code": "300558",
+        "stock_name": "贝达药业",
+        "market_value_wan": 35694.9
+      },
+      {
+        "stock_code": "688111",
+        "stock_name": "金山办公",
+        "market_value_wan": 30059.04
+      },
+      {
+        "stock_code": "002124",
+        "stock_name": "ST天邦",
+        "market_value_wan": 28270.0
+      },
+      {
+        "stock_code": "002100",
+        "stock_name": "天康生物",
+        "market_value_wan": 26887.0
+      },
+      {
+        "stock_code": "300244",
+        "stock_name": "迪安诊断",
+        "market_value_wan": 26828.0
+      },
+      {
+        "stock_code": "603986",
+        "stock_name": "兆易创新",
+        "market_value_wan": 23591.0
+      }
+    ],
+    "2020-Q1": [
+      {
+        "stock_code": "002385",
+        "stock_name": "大北农",
+        "market_value_wan": 33735.0
+      },
+      {
+        "stock_code": "002157",
+        "stock_name": "正邦科技",
+        "market_value_wan": 29161.8
+      },
+      {
+        "stock_code": "603019",
+        "stock_name": "中科曙光",
+        "market_value_wan": 26202.0
+      },
+      {
+        "stock_code": "603986",
+        "stock_name": "兆易创新",
+        "market_value_wan": 22506.93
+      },
+      {
+        "stock_code": "688111",
+        "stock_name": "金山办公",
+        "market_value_wan": 19756.0
+      },
+      {
+        "stock_code": "002458",
+        "stock_name": "益生股份",
+        "market_value_wan": 19390.2
+      },
+      {
+        "stock_code": "300661",
+        "stock_name": "圣邦股份",
+        "market_value_wan": 19321.79
+      },
+      {
+        "stock_code": "300558",
+        "stock_name": "贝达药业",
+        "market_value_wan": 18954.29
+      },
+      {
+        "stock_code": "002100",
+        "stock_name": "天康生物",
+        "market_value_wan": 18901.63
+      },
+      {
+        "stock_code": "002124",
+        "stock_name": "ST天邦",
+        "market_value_wan": 18656.0
+      }
+    ]
+  }
+}

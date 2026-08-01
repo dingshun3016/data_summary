@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "005616",
+    "name": "东方量化成长灵活配置混合A",
+    "base_name": "东方量化成长灵活配置混合"
+  },
+  "fetched_at": "2026-06-14 23:18:22",
+  "quarters": {
+    "2022-Q4": [
+      {
+        "stock_code": "600563",
+        "stock_name": "法拉电子",
+        "market_value_wan": 33.57
+      },
+      {
+        "stock_code": "600873",
+        "stock_name": "梅花生物",
+        "market_value_wan": 33.29
+      },
+      {
+        "stock_code": "601699",
+        "stock_name": "潞安环能",
+        "market_value_wan": 33.19
+      },
+      {
+        "stock_code": "600027",
+        "stock_name": "华电国际",
+        "market_value_wan": 33.16
+      },
+      {
+        "stock_code": "600141",
+        "stock_name": "兴发集团",
+        "market_value_wan": 32.77
+      },
+      {
+        "stock_code": "002690",
+        "stock_name": "美亚光电",
+        "market_value_wan": 32.5
+      },
+      {
+        "stock_code": "600867",
+        "stock_name": "通化东宝",
+        "market_value_wan": 32.22
+      },
+      {
+        "stock_code": "600820",
+        "stock_name": "隧道股份",
+        "market_value_wan": 32.2
+      },
+      {
+        "stock_code": "601231",
+        "stock_name": "环旭电子",
+        "market_value_wan": 32.14
+      },
+      {
+        "stock_code": "600507",
+        "stock_name": "方大特钢",
+        "market_value_wan": 31.36
+      }
+    ],
+    "2022-Q3": [
+      {
+        "stock_code": "601699",
+        "stock_name": "潞安环能",
+        "market_value_wan": 45.07
+      },
+      {
+        "stock_code": "601615",
+        "stock_name": "明阳智能",
+        "market_value_wan": 41.5
+      },
+      {
+        "stock_code": "600027",
+        "stock_name": "华电国际",
+        "market_value_wan": 40.7
+      },
+      {
+        "stock_code": "600141",
+        "stock_name": "兴发集团",
+        "market_value_wan": 38.84
+      },
+      {
+        "stock_code": "000733",
+        "stock_name": "振华科技",
+        "market_value_wan": 35.95
+      },
+      {
+        "stock_code": "300244",
+        "stock_name": "迪安诊断",
+        "market_value_wan": 35.69
+      },
+      {
+        "stock_code": "600089",
+        "stock_name": "特变电工",
+        "market_value_wan": 35.54
+      },
+      {
+        "stock_code": "002690",
+        "stock_name": "美亚光电",
+        "market_value_wan": 34.32
+      },
+      {
+        "stock_code": "002244",
+        "stock_name": "滨江集团",
+        "market_value_wan": 34.03
+      },
+      {
+        "stock_code": "300769",
+        "stock_name": "德方纳米",
+        "market_value_wan": 33.82
+      }
+    ],
+    "2022-Q2": [
+      {
+        "stock_code": "601615",
+        "stock_name": "明阳智能",
+        "market_value_wan": 58.14
+      },
+      {
+        "stock_code": "600563",
+        "stock_name": "法拉电子",
+        "market_value_wan": 53.34
+      },
+      {
+        "stock_code": "600089",
+        "stock_name": "特变电工",
+        "market_value_wan": 44.92
+      },
+      {
+        "stock_code": "000733",
+        "stock_name": "振华科技",
+        "market_value_wan": 42.15
+      },
+      {
+        "stock_code": "002709",
+        "stock_name": "天赐材料",
+        "market_value_wan": 41.46
+      },
+      {
+        "stock_code": "600884",
+        "stock_name": "杉杉股份",
+        "market_value_wan": 41.01
+      },
+      {
+        "stock_code": "000039",
+        "stock_name": "中集集团",
+        "market_value_wan": 40.3
+      },
+      {
+        "stock_code": "601699",
+        "stock_name": "潞安环能",
+        "market_value_wan": 39.04
+      },
+      {
+        "stock_code": "600027",
+        "stock_name": "华电国际",
+        "market_value_wan": 38.87
+      },
+      {
+        "stock_code": "002092",
+        "stock_name": "ST中泰",
+        "market_value_wan": 38.8
+      }
+    ],
+    "2022-Q1": [
+      {
+        "stock_code": "600563",
+        "stock_name": "法拉电子",
+        "market_value_wan": 54.27
+      },
+      {
+        "stock_code": "000830",
+        "stock_name": "鲁西化工",
+        "market_value_wan": 53.04
+      },
+      {
+        "stock_code": "601699",
+        "stock_name": "潞安环能",
+        "market_value_wan": 48.64
+      },
+      {
+        "stock_code": "000039",
+        "stock_name": "中集集团",
+        "market_value_wan": 46.25
+      },
+      {
+        "stock_code": "000733",
+        "stock_name": "振华科技",
+        "market_value_wan": 45.36
+      },
+      {
+        "stock_code": "600782",
+        "stock_name": "新钢股份",
+        "market_value_wan": 42.88
+      },
+      {
+        "stock_code": "601881",
+        "stock_name": "中国银河",
+        "market_value_wan": 41.89
+      },
+      {
+        "stock_code": "600089",
+        "stock_name": "特变电工",
+        "market_value_wan": 40.76
+      },
+      {
+        "stock_code": "002709",
+        "stock_name": "天赐材料",
+        "market_value_wan": 39.39
+      },
+      {
+        "stock_code": "600884",
+        "stock_name": "杉杉股份",
+        "market_value_wan": 38.53
+      }
+    ]
+  }
+}

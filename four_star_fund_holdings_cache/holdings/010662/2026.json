@@ -1,0 +1,105 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "010662",
+    "name": "富国均衡优选混合",
+    "base_name": "富国均衡优选混合"
+  },
+  "fetched_at": "2026-08-01 20:48:29",
+  "quarters": {
+    "2026-Q2": [
+      {
+        "stock_code": "002859",
+        "stock_name": "洁美科技",
+        "market_value_wan": 23119.75
+      },
+      {
+        "stock_code": "688256",
+        "stock_name": "寒武纪",
+        "market_value_wan": 23046.44
+      },
+      {
+        "stock_code": "002384",
+        "stock_name": "东山精密",
+        "market_value_wan": 21993.14
+      },
+      {
+        "stock_code": "300308",
+        "stock_name": "中际旭创",
+        "market_value_wan": 21297.9
+      },
+      {
+        "stock_code": "600673",
+        "stock_name": "东阳光",
+        "market_value_wan": 20080.19
+      },
+      {
+        "stock_code": "002768",
+        "stock_name": "国恩股份",
+        "market_value_wan": 18561.18
+      },
+      {
+        "stock_code": "002683",
+        "stock_name": "广东宏大",
+        "market_value_wan": 18020.4
+      },
+      {
+        "stock_code": "002273",
+        "stock_name": "水晶光电",
+        "market_value_wan": 16161.14
+      },
+      {
+        "stock_code": "002290",
+        "stock_name": "禾盛新材",
+        "market_value_wan": 14954.6
+      }
+    ],
+    "2026-Q1": [
+      {
+        "stock_code": "002683",
+        "stock_name": "广东宏大",
+        "market_value_wan": 19461.76
+      },
+      {
+        "stock_code": "600673",
+        "stock_name": "东阳光",
+        "market_value_wan": 18940.55
+      },
+      {
+        "stock_code": "002384",
+        "stock_name": "东山精密",
+        "market_value_wan": 14049.97
+      },
+      {
+        "stock_code": "002768",
+        "stock_name": "国恩股份",
+        "market_value_wan": 12180.14
+      },
+      {
+        "stock_code": "688256",
+        "stock_name": "寒武纪",
+        "market_value_wan": 11873.46
+      },
+      {
+        "stock_code": "002943",
+        "stock_name": "宇晶股份",
+        "market_value_wan": 11589.24
+      },
+      {
+        "stock_code": "002859",
+        "stock_name": "洁美科技",
+        "market_value_wan": 10186.11
+      },
+      {
+        "stock_code": "002273",
+        "stock_name": "水晶光电",
+        "market_value_wan": 10039.22
+      },
+      {
+        "stock_code": "002290",
+        "stock_name": "禾盛新材",
+        "market_value_wan": 9853.07
+      }
+    ]
+  }
+}

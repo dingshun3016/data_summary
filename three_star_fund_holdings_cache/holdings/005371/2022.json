@@ -1,0 +1,107 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "005371",
+    "name": "中加心悦混合A",
+    "base_name": "中加心悦混合"
+  },
+  "fetched_at": "2026-06-14 23:17:10",
+  "quarters": {
+    "2022-Q4": [
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 638.99
+      },
+      {
+        "stock_code": "000858",
+        "stock_name": "五粮液",
+        "market_value_wan": 610.73
+      },
+      {
+        "stock_code": "000568",
+        "stock_name": "泸州老窖",
+        "market_value_wan": 560.7
+      },
+      {
+        "stock_code": "601888",
+        "stock_name": "中国中免",
+        "market_value_wan": 511.99
+      },
+      {
+        "stock_code": "600809",
+        "stock_name": "山西汾酒",
+        "market_value_wan": 441.73
+      },
+      {
+        "stock_code": "002304",
+        "stock_name": "洋河股份",
+        "market_value_wan": 441.38
+      },
+      {
+        "stock_code": "600600",
+        "stock_name": "青岛啤酒",
+        "market_value_wan": 268.75
+      },
+      {
+        "stock_code": "000596",
+        "stock_name": "古井贡酒",
+        "market_value_wan": 214.93
+      },
+      {
+        "stock_code": "600009",
+        "stock_name": "上海机场",
+        "market_value_wan": 156.39
+      },
+      {
+        "stock_code": "603369",
+        "stock_name": "今世缘",
+        "market_value_wan": 142.52
+      }
+    ],
+    "2022-Q2": [
+      {
+        "stock_code": "688281",
+        "stock_name": "华秦科技",
+        "market_value_wan": 11.77
+      },
+      {
+        "stock_code": "688262",
+        "stock_name": "国芯科技",
+        "market_value_wan": 6.31
+      },
+      {
+        "stock_code": "688282",
+        "stock_name": "*ST导航",
+        "market_value_wan": 3.76
+      },
+      {
+        "stock_code": "688225",
+        "stock_name": "亚信安全",
+        "market_value_wan": 3.16
+      }
+    ],
+    "2022-Q1": [
+      {
+        "stock_code": "688281",
+        "stock_name": "华秦科技",
+        "market_value_wan": 7.84
+      },
+      {
+        "stock_code": "688262",
+        "stock_name": "国芯科技",
+        "market_value_wan": 4.41
+      },
+      {
+        "stock_code": "688282",
+        "stock_name": "*ST导航",
+        "market_value_wan": 3.72
+      },
+      {
+        "stock_code": "688225",
+        "stock_name": "亚信安全",
+        "market_value_wan": 3.27
+      }
+    ]
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "011337",
+    "name": "兴全汇吉一年持有混合C",
+    "base_name": "兴全汇吉一年持有混合"
+  },
+  "fetched_at": "2026-08-01 20:59:45",
+  "quarters": {
+    "2026-Q2": [
+      {
+        "stock_code": "601988",
+        "stock_name": "中国银行",
+        "market_value_wan": 1715.08
+      },
+      {
+        "stock_code": "600919",
+        "stock_name": "江苏银行",
+        "market_value_wan": 1393.96
+      },
+      {
+        "stock_code": "601628",
+        "stock_name": "中国人寿",
+        "market_value_wan": 1090.13
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 973.84
+      },
+      {
+        "stock_code": "300274",
+        "stock_name": "阳光电源",
+        "market_value_wan": 761.71
+      },
+      {
+        "stock_code": "000157",
+        "stock_name": "中联重科",
+        "market_value_wan": 694.7
+      },
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 633.6
+      },
+      {
+        "stock_code": "002203",
+        "stock_name": "海亮股份",
+        "market_value_wan": 545.66
+      }
+    ],
+    "2026-Q1": [
+      {
+        "stock_code": "600030",
+        "stock_name": "中信证券",
+        "market_value_wan": 3875.01
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 3161.0
+      },
+      {
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "market_value_wan": 2716.92
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 1967.49
+      },
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 1796.52
+      },
+      {
+        "stock_code": "688036",
+        "stock_name": "传音控股",
+        "market_value_wan": 1272.25
+      },
+      {
+        "stock_code": "688334",
+        "stock_name": "西高院",
+        "market_value_wan": 1157.75
+      },
+      {
+        "stock_code": "002444",
+        "stock_name": "巨星科技",
+        "market_value_wan": 918.71
+      }
+    ]
+  }
+}

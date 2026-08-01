@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "007903",
+    "name": "长城量化小盘股票A",
+    "base_name": "长城量化小盘股票"
+  },
+  "fetched_at": "2026-06-14 23:25:36",
+  "quarters": {
+    "2020-Q4": [
+      {
+        "stock_code": "603218",
+        "stock_name": "日月股份",
+        "market_value_wan": 903.87
+      },
+      {
+        "stock_code": "300207",
+        "stock_name": "欣旺达",
+        "market_value_wan": 844.02
+      },
+      {
+        "stock_code": "603486",
+        "stock_name": "科沃斯",
+        "market_value_wan": 773.85
+      },
+      {
+        "stock_code": "300763",
+        "stock_name": "锦浪科技",
+        "market_value_wan": 768.84
+      },
+      {
+        "stock_code": "603505",
+        "stock_name": "金石资源",
+        "market_value_wan": 764.35
+      },
+      {
+        "stock_code": "300775",
+        "stock_name": "三角防务",
+        "market_value_wan": 763.96
+      },
+      {
+        "stock_code": "600507",
+        "stock_name": "方大特钢",
+        "market_value_wan": 755.7
+      },
+      {
+        "stock_code": "002810",
+        "stock_name": "山东赫达",
+        "market_value_wan": 726.18
+      },
+      {
+        "stock_code": "300244",
+        "stock_name": "迪安诊断",
+        "market_value_wan": 722.97
+      },
+      {
+        "stock_code": "002867",
+        "stock_name": "周大生",
+        "market_value_wan": 700.63
+      }
+    ],
+    "2020-Q3": [
+      {
+        "stock_code": "603776",
+        "stock_name": "永安行",
+        "market_value_wan": 1647.91
+      },
+      {
+        "stock_code": "002709",
+        "stock_name": "天赐材料",
+        "market_value_wan": 1632.17
+      },
+      {
+        "stock_code": "600984",
+        "stock_name": "建设机械",
+        "market_value_wan": 1629.59
+      },
+      {
+        "stock_code": "600339",
+        "stock_name": "中油工程",
+        "market_value_wan": 1550.26
+      },
+      {
+        "stock_code": "002258",
+        "stock_name": "利尔化学",
+        "market_value_wan": 1484.7
+      },
+      {
+        "stock_code": "603877",
+        "stock_name": "太平鸟",
+        "market_value_wan": 1355.84
+      },
+      {
+        "stock_code": "002831",
+        "stock_name": "裕同科技",
+        "market_value_wan": 1328.09
+      },
+      {
+        "stock_code": "000513",
+        "stock_name": "丽珠集团",
+        "market_value_wan": 1224.34
+      },
+      {
+        "stock_code": "600195",
+        "stock_name": "中牧股份",
+        "market_value_wan": 1174.44
+      },
+      {
+        "stock_code": "600845",
+        "stock_name": "宝信软件",
+        "market_value_wan": 1143.72
+      }
+    ],
+    "2020-Q2": [
+      {
+        "stock_code": "600984",
+        "stock_name": "建设机械",
+        "market_value_wan": 1816.6
+      },
+      {
+        "stock_code": "300559",
+        "stock_name": "佳发教育",
+        "market_value_wan": 1515.56
+      },
+      {
+        "stock_code": "600845",
+        "stock_name": "宝信软件",
+        "market_value_wan": 1370.99
+      },
+      {
+        "stock_code": "603713",
+        "stock_name": "密尔克卫",
+        "market_value_wan": 1347.06
+      },
+      {
+        "stock_code": "603233",
+        "stock_name": "大参林",
+        "market_value_wan": 1341.92
+      },
+      {
+        "stock_code": "002705",
+        "stock_name": "新宝股份",
+        "market_value_wan": 1335.25
+      },
+      {
+        "stock_code": "603127",
+        "stock_name": "昭衍新药",
+        "market_value_wan": 1326.74
+      },
+      {
+        "stock_code": "603606",
+        "stock_name": "东方电缆",
+        "market_value_wan": 1318.74
+      },
+      {
+        "stock_code": "000961",
+        "stock_name": "ST中南",
+        "market_value_wan": 1313.46
+      },
+      {
+        "stock_code": "603228",
+        "stock_name": "景旺电子",
+        "market_value_wan": 1306.82
+      }
+    ],
+    "2020-Q1": [
+      {
+        "stock_code": "002847",
+        "stock_name": "盐津铺子",
+        "market_value_wan": 2163.07
+      },
+      {
+        "stock_code": "002557",
+        "stock_name": "洽洽食品",
+        "market_value_wan": 2026.19
+      },
+      {
+        "stock_code": "300601",
+        "stock_name": "康泰生物",
+        "market_value_wan": 2003.19
+      },
+      {
+        "stock_code": "002324",
+        "stock_name": "普利特",
+        "market_value_wan": 1964.16
+      },
+      {
+        "stock_code": "603638",
+        "stock_name": "艾迪精密",
+        "market_value_wan": 1903.98
+      },
+      {
+        "stock_code": "300759",
+        "stock_name": "康龙化成",
+        "market_value_wan": 1895.0
+      },
+      {
+        "stock_code": "300699",
+        "stock_name": "光威复材",
+        "market_value_wan": 1874.94
+      },
+      {
+        "stock_code": "600496",
+        "stock_name": "精工钢构",
+        "market_value_wan": 1870.44
+      },
+      {
+        "stock_code": "302132",
+        "stock_name": "中航成飞",
+        "market_value_wan": 1773.5
+      },
+      {
+        "stock_code": "603208",
+        "stock_name": "江山欧派",
+        "market_value_wan": 1719.0
+      }
+    ]
+  }
+}

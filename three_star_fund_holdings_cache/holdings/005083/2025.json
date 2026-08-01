@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "005083",
+    "name": "诺德量化蓝筹增强混合C",
+    "base_name": "诺德量化蓝筹增强混合"
+  },
+  "fetched_at": "2026-06-14 23:16:13",
+  "quarters": {
+    "2025-Q4": [
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 59.08
+      },
+      {
+        "stock_code": "688531",
+        "stock_name": "日联科技",
+        "market_value_wan": 57.8
+      },
+      {
+        "stock_code": "688111",
+        "stock_name": "金山办公",
+        "market_value_wan": 55.27
+      },
+      {
+        "stock_code": "600030",
+        "stock_name": "中信证券",
+        "market_value_wan": 53.73
+      },
+      {
+        "stock_code": "002415",
+        "stock_name": "海康威视",
+        "market_value_wan": 51.29
+      },
+      {
+        "stock_code": "000519",
+        "stock_name": "中兵红箭",
+        "market_value_wan": 50.91
+      },
+      {
+        "stock_code": "601952",
+        "stock_name": "苏垦农发",
+        "market_value_wan": 45.12
+      },
+      {
+        "stock_code": "601816",
+        "stock_name": "京沪高铁",
+        "market_value_wan": 43.11
+      },
+      {
+        "stock_code": "600150",
+        "stock_name": "中国船舶",
+        "market_value_wan": 42.57
+      },
+      {
+        "stock_code": "603977",
+        "stock_name": "国泰集团",
+        "market_value_wan": 38.89
+      }
+    ],
+    "2025-Q3": [
+      {
+        "stock_code": "001979",
+        "stock_name": "招商蛇口",
+        "market_value_wan": 196.69
+      },
+      {
+        "stock_code": "600845",
+        "stock_name": "宝信软件",
+        "market_value_wan": 189.48
+      },
+      {
+        "stock_code": "603108",
+        "stock_name": "润达医疗",
+        "market_value_wan": 174.88
+      },
+      {
+        "stock_code": "688281",
+        "stock_name": "华秦科技",
+        "market_value_wan": 162.0
+      },
+      {
+        "stock_code": "600887",
+        "stock_name": "伊利股份",
+        "market_value_wan": 159.32
+      },
+      {
+        "stock_code": "600663",
+        "stock_name": "陆家嘴",
+        "market_value_wan": 157.33
+      },
+      {
+        "stock_code": "000519",
+        "stock_name": "中兵红箭",
+        "market_value_wan": 156.07
+      },
+      {
+        "stock_code": "000090",
+        "stock_name": "天健集团",
+        "market_value_wan": 112.31
+      },
+      {
+        "stock_code": "002465",
+        "stock_name": "海格通信",
+        "market_value_wan": 110.09
+      },
+      {
+        "stock_code": "600048",
+        "stock_name": "保利发展",
+        "market_value_wan": 109.77
+      }
+    ],
+    "2025-Q2": [
+      {
+        "stock_code": "002625",
+        "stock_name": "光启技术",
+        "market_value_wan": 168.72
+      },
+      {
+        "stock_code": "600030",
+        "stock_name": "中信证券",
+        "market_value_wan": 166.02
+      },
+      {
+        "stock_code": "600150",
+        "stock_name": "中国船舶",
+        "market_value_wan": 152.94
+      },
+      {
+        "stock_code": "601669",
+        "stock_name": "中国电建",
+        "market_value_wan": 145.11
+      },
+      {
+        "stock_code": "001979",
+        "stock_name": "招商蛇口",
+        "market_value_wan": 132.16
+      },
+      {
+        "stock_code": "002149",
+        "stock_name": "西部材料",
+        "market_value_wan": 118.97
+      },
+      {
+        "stock_code": "300226",
+        "stock_name": "上海钢联",
+        "market_value_wan": 114.2
+      },
+      {
+        "stock_code": "300552",
+        "stock_name": "万集科技",
+        "market_value_wan": 112.68
+      },
+      {
+        "stock_code": "600894",
+        "stock_name": "广日股份",
+        "market_value_wan": 109.94
+      },
+      {
+        "stock_code": "000090",
+        "stock_name": "天健集团",
+        "market_value_wan": 109.83
+      }
+    ],
+    "2025-Q1": [
+      {
+        "stock_code": "600030",
+        "stock_name": "中信证券",
+        "market_value_wan": 159.41
+      },
+      {
+        "stock_code": "300552",
+        "stock_name": "万集科技",
+        "market_value_wan": 146.42
+      },
+      {
+        "stock_code": "600150",
+        "stock_name": "中国船舶",
+        "market_value_wan": 143.35
+      },
+      {
+        "stock_code": "601669",
+        "stock_name": "中国电建",
+        "market_value_wan": 142.73
+      },
+      {
+        "stock_code": "002149",
+        "stock_name": "西部材料",
+        "market_value_wan": 139.63
+      },
+      {
+        "stock_code": "001979",
+        "stock_name": "招商蛇口",
+        "market_value_wan": 138.19
+      },
+      {
+        "stock_code": "600988",
+        "stock_name": "赤峰黄金",
+        "market_value_wan": 132.82
+      },
+      {
+        "stock_code": "601919",
+        "stock_name": "中远海控",
+        "market_value_wan": 127.75
+      },
+      {
+        "stock_code": "600894",
+        "stock_name": "广日股份",
+        "market_value_wan": 126.07
+      },
+      {
+        "stock_code": "000090",
+        "stock_name": "天健集团",
+        "market_value_wan": 116.66
+      }
+    ]
+  }
+}

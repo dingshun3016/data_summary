@@ -1,0 +1,115 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "002383",
+    "name": "大成趋势回报灵活配置混合A",
+    "base_name": "大成趋势回报灵活配置混合"
+  },
+  "fetched_at": "2026-08-01 20:47:35",
+  "quarters": {
+    "2026-Q2": [
+      {
+        "stock_code": "601665",
+        "stock_name": "齐鲁银行",
+        "market_value_wan": 504.88
+      },
+      {
+        "stock_code": "601077",
+        "stock_name": "渝农商行",
+        "market_value_wan": 495.64
+      },
+      {
+        "stock_code": "600176",
+        "stock_name": "中国巨石",
+        "market_value_wan": 392.82
+      },
+      {
+        "stock_code": "000100",
+        "stock_name": "TCL科技",
+        "market_value_wan": 295.68
+      },
+      {
+        "stock_code": "000338",
+        "stock_name": "潍柴动力",
+        "market_value_wan": 275.77
+      },
+      {
+        "stock_code": "603995",
+        "stock_name": "甬金股份",
+        "market_value_wan": 206.1
+      },
+      {
+        "stock_code": "688187",
+        "stock_name": "时代电气",
+        "market_value_wan": 202.49
+      },
+      {
+        "stock_code": "600309",
+        "stock_name": "万华化学",
+        "market_value_wan": 153.92
+      },
+      {
+        "stock_code": "300677",
+        "stock_name": "英科医疗",
+        "market_value_wan": 152.37
+      },
+      {
+        "stock_code": "002539",
+        "stock_name": "云图控股",
+        "market_value_wan": 146.37
+      }
+    ],
+    "2026-Q1": [
+      {
+        "stock_code": "601077",
+        "stock_name": "渝农商行",
+        "market_value_wan": 373.3
+      },
+      {
+        "stock_code": "601665",
+        "stock_name": "齐鲁银行",
+        "market_value_wan": 358.21
+      },
+      {
+        "stock_code": "600176",
+        "stock_name": "中国巨石",
+        "market_value_wan": 288.56
+      },
+      {
+        "stock_code": "000338",
+        "stock_name": "潍柴动力",
+        "market_value_wan": 164.1
+      },
+      {
+        "stock_code": "300677",
+        "stock_name": "英科医疗",
+        "market_value_wan": 159.02
+      },
+      {
+        "stock_code": "603619",
+        "stock_name": "中曼石油",
+        "market_value_wan": 113.76
+      },
+      {
+        "stock_code": "688187",
+        "stock_name": "时代电气",
+        "market_value_wan": 111.01
+      },
+      {
+        "stock_code": "603995",
+        "stock_name": "甬金股份",
+        "market_value_wan": 110.19
+      },
+      {
+        "stock_code": "000100",
+        "stock_name": "TCL科技",
+        "market_value_wan": 107.24
+      },
+      {
+        "stock_code": "603187",
+        "stock_name": "海容冷链",
+        "market_value_wan": 104.04
+      }
+    ]
+  }
+}

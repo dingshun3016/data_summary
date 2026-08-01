@@ -1,0 +1,119 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "008515",
+    "name": "国富基本面优选混合A",
+    "base_name": "国富基本面优选混合"
+  },
+  "fetched_at": "2026-06-14 23:28:37",
+  "quarters": {
+    "2024-Q4": [
+      {
+        "stock_code": "002568",
+        "stock_name": "百润股份",
+        "market_value_wan": 14592.41
+      },
+      {
+        "stock_code": "601577",
+        "stock_name": "长沙银行",
+        "market_value_wan": 14336.05
+      },
+      {
+        "stock_code": "000651",
+        "stock_name": "格力电器",
+        "market_value_wan": 13765.8
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 11887.2
+      },
+      {
+        "stock_code": "603605",
+        "stock_name": "珀莱雅",
+        "market_value_wan": 11104.48
+      },
+      {
+        "stock_code": "601155",
+        "stock_name": "新城控股",
+        "market_value_wan": 10250.14
+      }
+    ],
+    "2024-Q3": [
+      {
+        "stock_code": "002568",
+        "stock_name": "百润股份",
+        "market_value_wan": 16387.58
+      },
+      {
+        "stock_code": "000651",
+        "stock_name": "格力电器",
+        "market_value_wan": 14519.96
+      },
+      {
+        "stock_code": "601577",
+        "stock_name": "长沙银行",
+        "market_value_wan": 13497.5
+      },
+      {
+        "stock_code": "603605",
+        "stock_name": "珀莱雅",
+        "market_value_wan": 13224.42
+      },
+      {
+        "stock_code": "601155",
+        "stock_name": "新城控股",
+        "market_value_wan": 12234.64
+      }
+    ],
+    "2024-Q2": [
+      {
+        "stock_code": "002568",
+        "stock_name": "百润股份",
+        "market_value_wan": 9069.49
+      },
+      {
+        "stock_code": "601577",
+        "stock_name": "长沙银行",
+        "market_value_wan": 8201.3
+      },
+      {
+        "stock_code": "000651",
+        "stock_name": "格力电器",
+        "market_value_wan": 7850.58
+      },
+      {
+        "stock_code": "603605",
+        "stock_name": "珀莱雅",
+        "market_value_wan": 4712.62
+      },
+      {
+        "stock_code": "601128",
+        "stock_name": "常熟银行",
+        "market_value_wan": 3881.38
+      }
+    ],
+    "2024-Q1": [
+      {
+        "stock_code": "000651",
+        "stock_name": "格力电器",
+        "market_value_wan": 7318.26
+      },
+      {
+        "stock_code": "002568",
+        "stock_name": "百润股份",
+        "market_value_wan": 6484.49
+      },
+      {
+        "stock_code": "601577",
+        "stock_name": "长沙银行",
+        "market_value_wan": 4902.76
+      },
+      {
+        "stock_code": "601128",
+        "stock_name": "常熟银行",
+        "market_value_wan": 3328.1
+      }
+    ]
+  }
+}

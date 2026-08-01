@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "501015",
+    "name": "财通多策略升级混合(LOF)A",
+    "base_name": "财通多策略升级混合(LOF)"
+  },
+  "fetched_at": "2026-06-15 00:01:28",
+  "quarters": {
+    "2022-Q4": [
+      {
+        "stock_code": "300498",
+        "stock_name": "温氏股份",
+        "market_value_wan": 2027.42
+      },
+      {
+        "stock_code": "002567",
+        "stock_name": "唐人神",
+        "market_value_wan": 1992.1
+      },
+      {
+        "stock_code": "603225",
+        "stock_name": "新凤鸣",
+        "market_value_wan": 1974.34
+      },
+      {
+        "stock_code": "300871",
+        "stock_name": "回盛生物",
+        "market_value_wan": 1876.05
+      },
+      {
+        "stock_code": "002271",
+        "stock_name": "东方雨虹",
+        "market_value_wan": 1751.01
+      },
+      {
+        "stock_code": "603477",
+        "stock_name": "巨星农牧",
+        "market_value_wan": 1547.55
+      },
+      {
+        "stock_code": "603363",
+        "stock_name": "*ST傲农",
+        "market_value_wan": 1485.48
+      },
+      {
+        "stock_code": "600872",
+        "stock_name": "中炬高新",
+        "market_value_wan": 1384.84
+      },
+      {
+        "stock_code": "000568",
+        "stock_name": "泸州老窖",
+        "market_value_wan": 1368.11
+      },
+      {
+        "stock_code": "002548",
+        "stock_name": "金新农",
+        "market_value_wan": 1252.17
+      }
+    ],
+    "2022-Q3": [
+      {
+        "stock_code": "002567",
+        "stock_name": "唐人神",
+        "market_value_wan": 2372.99
+      },
+      {
+        "stock_code": "603363",
+        "stock_name": "*ST傲农",
+        "market_value_wan": 2298.09
+      },
+      {
+        "stock_code": "600975",
+        "stock_name": "新五丰",
+        "market_value_wan": 2273.16
+      },
+      {
+        "stock_code": "300871",
+        "stock_name": "回盛生物",
+        "market_value_wan": 2255.32
+      },
+      {
+        "stock_code": "002548",
+        "stock_name": "金新农",
+        "market_value_wan": 2198.71
+      },
+      {
+        "stock_code": "002124",
+        "stock_name": "ST天邦",
+        "market_value_wan": 2178.6
+      },
+      {
+        "stock_code": "000876",
+        "stock_name": "新希望",
+        "market_value_wan": 2159.94
+      },
+      {
+        "stock_code": "002100",
+        "stock_name": "天康生物",
+        "market_value_wan": 1647.06
+      },
+      {
+        "stock_code": "002840",
+        "stock_name": "华统股份",
+        "market_value_wan": 1180.65
+      },
+      {
+        "stock_code": "603737",
+        "stock_name": "三棵树",
+        "market_value_wan": 1110.64
+      }
+    ],
+    "2022-Q2": [
+      {
+        "stock_code": "002840",
+        "stock_name": "华统股份",
+        "market_value_wan": 2458.57
+      },
+      {
+        "stock_code": "000876",
+        "stock_name": "新希望",
+        "market_value_wan": 2453.22
+      },
+      {
+        "stock_code": "002548",
+        "stock_name": "金新农",
+        "market_value_wan": 2440.36
+      },
+      {
+        "stock_code": "603363",
+        "stock_name": "*ST傲农",
+        "market_value_wan": 2394.31
+      },
+      {
+        "stock_code": "600975",
+        "stock_name": "新五丰",
+        "market_value_wan": 2367.21
+      },
+      {
+        "stock_code": "002567",
+        "stock_name": "唐人神",
+        "market_value_wan": 2277.79
+      },
+      {
+        "stock_code": "300871",
+        "stock_name": "回盛生物",
+        "market_value_wan": 2261.49
+      },
+      {
+        "stock_code": "002100",
+        "stock_name": "天康生物",
+        "market_value_wan": 1966.2
+      },
+      {
+        "stock_code": "002572",
+        "stock_name": "索菲亚",
+        "market_value_wan": 1876.88
+      },
+      {
+        "stock_code": "603737",
+        "stock_name": "三棵树",
+        "market_value_wan": 1532.45
+      }
+    ],
+    "2022-Q1": [
+      {
+        "stock_code": "603477",
+        "stock_name": "巨星农牧",
+        "market_value_wan": 2263.73
+      },
+      {
+        "stock_code": "002567",
+        "stock_name": "唐人神",
+        "market_value_wan": 2235.66
+      },
+      {
+        "stock_code": "603737",
+        "stock_name": "三棵树",
+        "market_value_wan": 2222.2
+      },
+      {
+        "stock_code": "002548",
+        "stock_name": "金新农",
+        "market_value_wan": 2190.3
+      },
+      {
+        "stock_code": "603363",
+        "stock_name": "*ST傲农",
+        "market_value_wan": 2156.1
+      },
+      {
+        "stock_code": "000876",
+        "stock_name": "新希望",
+        "market_value_wan": 2067.84
+      },
+      {
+        "stock_code": "002572",
+        "stock_name": "索菲亚",
+        "market_value_wan": 1690.81
+      },
+      {
+        "stock_code": "002840",
+        "stock_name": "华统股份",
+        "market_value_wan": 1513.89
+      },
+      {
+        "stock_code": "300498",
+        "stock_name": "温氏股份",
+        "market_value_wan": 1178.04
+      },
+      {
+        "stock_code": "002124",
+        "stock_name": "ST天邦",
+        "market_value_wan": 1173.0
+      }
+    ]
+  }
+}

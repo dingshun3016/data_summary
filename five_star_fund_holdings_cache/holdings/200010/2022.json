@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "200010",
+    "name": "长城双动力混合A",
+    "base_name": "长城双动力混合"
+  },
+  "fetched_at": "2026-06-14 22:12:54",
+  "quarters": {
+    "2022-Q4": [
+      {
+        "stock_code": "002254",
+        "stock_name": "泰和新材",
+        "market_value_wan": 5728.82
+      },
+      {
+        "stock_code": "000661",
+        "stock_name": "长春高新",
+        "market_value_wan": 4557.4
+      },
+      {
+        "stock_code": "600009",
+        "stock_name": "上海机场",
+        "market_value_wan": 4420.08
+      },
+      {
+        "stock_code": "600004",
+        "stock_name": "白云机场",
+        "market_value_wan": 3696.96
+      },
+      {
+        "stock_code": "300451",
+        "stock_name": "创业慧康",
+        "market_value_wan": 3084.74
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 3072.61
+      },
+      {
+        "stock_code": "002897",
+        "stock_name": "意华股份",
+        "market_value_wan": 3001.82
+      },
+      {
+        "stock_code": "300996",
+        "stock_name": "普联软件",
+        "market_value_wan": 2893.61
+      },
+      {
+        "stock_code": "603606",
+        "stock_name": "东方电缆",
+        "market_value_wan": 2779.67
+      },
+      {
+        "stock_code": "300759",
+        "stock_name": "康龙化成",
+        "market_value_wan": 2731.56
+      }
+    ],
+    "2022-Q3": [
+      {
+        "stock_code": "603606",
+        "stock_name": "东方电缆",
+        "market_value_wan": 2834.52
+      },
+      {
+        "stock_code": "600009",
+        "stock_name": "上海机场",
+        "market_value_wan": 2693.2
+      },
+      {
+        "stock_code": "002244",
+        "stock_name": "滨江集团",
+        "market_value_wan": 2361.19
+      },
+      {
+        "stock_code": "002254",
+        "stock_name": "泰和新材",
+        "market_value_wan": 2048.49
+      },
+      {
+        "stock_code": "603259",
+        "stock_name": "药明康德",
+        "market_value_wan": 1957.85
+      },
+      {
+        "stock_code": "002897",
+        "stock_name": "意华股份",
+        "market_value_wan": 1843.18
+      },
+      {
+        "stock_code": "688408",
+        "stock_name": "中信博",
+        "market_value_wan": 1794.35
+      },
+      {
+        "stock_code": "603730",
+        "stock_name": "岱美股份",
+        "market_value_wan": 1783.98
+      },
+      {
+        "stock_code": "002965",
+        "stock_name": "祥鑫科技",
+        "market_value_wan": 1714.11
+      },
+      {
+        "stock_code": "300806",
+        "stock_name": "斯迪克",
+        "market_value_wan": 1685.09
+      }
+    ],
+    "2022-Q2": [
+      {
+        "stock_code": "603606",
+        "stock_name": "东方电缆",
+        "market_value_wan": 1940.28
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 1553.94
+      },
+      {
+        "stock_code": "000887",
+        "stock_name": "中鼎股份",
+        "market_value_wan": 1428.01
+      },
+      {
+        "stock_code": "688685",
+        "stock_name": "迈信林",
+        "market_value_wan": 1328.9
+      },
+      {
+        "stock_code": "002965",
+        "stock_name": "祥鑫科技",
+        "market_value_wan": 1170.41
+      },
+      {
+        "stock_code": "603730",
+        "stock_name": "岱美股份",
+        "market_value_wan": 1110.6
+      },
+      {
+        "stock_code": "300447",
+        "stock_name": "全信股份",
+        "market_value_wan": 1094.68
+      },
+      {
+        "stock_code": "603035",
+        "stock_name": "常熟汽饰",
+        "market_value_wan": 1014.82
+      },
+      {
+        "stock_code": "002025",
+        "stock_name": "航天电器",
+        "market_value_wan": 1000.52
+      },
+      {
+        "stock_code": "002244",
+        "stock_name": "滨江集团",
+        "market_value_wan": 976.33
+      }
+    ],
+    "2022-Q1": [
+      {
+        "stock_code": "002025",
+        "stock_name": "航天电器",
+        "market_value_wan": 988.17
+      },
+      {
+        "stock_code": "601137",
+        "stock_name": "博威合金",
+        "market_value_wan": 952.18
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 906.77
+      },
+      {
+        "stock_code": "603606",
+        "stock_name": "东方电缆",
+        "market_value_wan": 789.23
+      },
+      {
+        "stock_code": "000887",
+        "stock_name": "中鼎股份",
+        "market_value_wan": 749.9
+      },
+      {
+        "stock_code": "002050",
+        "stock_name": "三花智控",
+        "market_value_wan": 722.8
+      },
+      {
+        "stock_code": "002714",
+        "stock_name": "牧原股份",
+        "market_value_wan": 656.73
+      },
+      {
+        "stock_code": "002179",
+        "stock_name": "中航光电",
+        "market_value_wan": 619.19
+      },
+      {
+        "stock_code": "300498",
+        "stock_name": "温氏股份",
+        "market_value_wan": 617.62
+      },
+      {
+        "stock_code": "002049",
+        "stock_name": "紫光国微",
+        "market_value_wan": 601.35
+      }
+    ]
+  }
+}

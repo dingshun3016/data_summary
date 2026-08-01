@@ -1,0 +1,99 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "001878",
+    "name": "嘉实沪港深精选股票",
+    "base_name": "嘉实沪港深精选股票"
+  },
+  "fetched_at": "2026-06-14 23:01:46",
+  "quarters": {
+    "2023-Q4": [
+      {
+        "stock_code": "002925",
+        "stock_name": "盈趣科技",
+        "market_value_wan": 7287.32
+      },
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 6578.64
+      },
+      {
+        "stock_code": "002541",
+        "stock_name": "鸿路钢构",
+        "market_value_wan": 6223.3
+      }
+    ],
+    "2023-Q3": [
+      {
+        "stock_code": "002925",
+        "stock_name": "盈趣科技",
+        "market_value_wan": 10144.55
+      },
+      {
+        "stock_code": "002541",
+        "stock_name": "鸿路钢构",
+        "market_value_wan": 8113.48
+      },
+      {
+        "stock_code": "603662",
+        "stock_name": "柯力传感",
+        "market_value_wan": 6026.77
+      }
+    ],
+    "2023-Q2": [
+      {
+        "stock_code": "002925",
+        "stock_name": "盈趣科技",
+        "market_value_wan": 10713.35
+      },
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 9473.91
+      },
+      {
+        "stock_code": "002541",
+        "stock_name": "鸿路钢构",
+        "market_value_wan": 8250.95
+      },
+      {
+        "stock_code": "603662",
+        "stock_name": "柯力传感",
+        "market_value_wan": 8096.18
+      },
+      {
+        "stock_code": "600521",
+        "stock_name": "华海药业",
+        "market_value_wan": 6544.76
+      }
+    ],
+    "2023-Q1": [
+      {
+        "stock_code": "002925",
+        "stock_name": "盈趣科技",
+        "market_value_wan": 11508.56
+      },
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 9832.38
+      },
+      {
+        "stock_code": "002541",
+        "stock_name": "鸿路钢构",
+        "market_value_wan": 8400.4
+      },
+      {
+        "stock_code": "600521",
+        "stock_name": "华海药业",
+        "market_value_wan": 8029.68
+      },
+      {
+        "stock_code": "000858",
+        "stock_name": "五粮液",
+        "market_value_wan": 7439.9
+      }
+    ]
+  }
+}

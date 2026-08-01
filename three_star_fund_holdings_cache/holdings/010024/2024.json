@@ -1,0 +1,49 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "010024",
+    "name": "广发沪港深新起点股票C",
+    "base_name": "广发沪港深新起点股票"
+  },
+  "fetched_at": "2026-06-14 23:37:36",
+  "quarters": {
+    "2024-Q4": [
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 23493.46
+      }
+    ],
+    "2024-Q3": [
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 25632.98
+      }
+    ],
+    "2024-Q2": [
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 18160.62
+      }
+    ],
+    "2024-Q1": [
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 18081.78
+      },
+      {
+        "stock_code": "601857",
+        "stock_name": "中国石油",
+        "market_value_wan": 14399.21
+      },
+      {
+        "stock_code": "601899",
+        "stock_name": "紫金矿业",
+        "market_value_wan": 8924.02
+      }
+    ]
+  }
+}

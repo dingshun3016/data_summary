@@ -1,0 +1,115 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "161834",
+    "name": "银华鑫锐灵活配置混合(LOF)A",
+    "base_name": "银华鑫锐灵活配置混合(LOF)"
+  },
+  "fetched_at": "2026-08-01 21:00:24",
+  "quarters": {
+    "2026-Q2": [
+      {
+        "stock_code": "601988",
+        "stock_name": "中国银行",
+        "market_value_wan": 303.39
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 267.25
+      },
+      {
+        "stock_code": "688037",
+        "stock_name": "芯源微",
+        "market_value_wan": 260.71
+      },
+      {
+        "stock_code": "600522",
+        "stock_name": "中天科技",
+        "market_value_wan": 249.39
+      },
+      {
+        "stock_code": "601066",
+        "stock_name": "中信建投",
+        "market_value_wan": 246.8
+      },
+      {
+        "stock_code": "002180",
+        "stock_name": "奔图科技",
+        "market_value_wan": 228.22
+      },
+      {
+        "stock_code": "002001",
+        "stock_name": "新和成",
+        "market_value_wan": 203.2
+      },
+      {
+        "stock_code": "600926",
+        "stock_name": "杭州银行",
+        "market_value_wan": 189.58
+      },
+      {
+        "stock_code": "601766",
+        "stock_name": "中国中车",
+        "market_value_wan": 189.33
+      },
+      {
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "market_value_wan": 187.14
+      }
+    ],
+    "2026-Q1": [
+      {
+        "stock_code": "601988",
+        "stock_name": "中国银行",
+        "market_value_wan": 286.16
+      },
+      {
+        "stock_code": "002180",
+        "stock_name": "奔图科技",
+        "market_value_wan": 230.87
+      },
+      {
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "market_value_wan": 189.92
+      },
+      {
+        "stock_code": "001203",
+        "stock_name": "大中矿业",
+        "market_value_wan": 176.89
+      },
+      {
+        "stock_code": "002756",
+        "stock_name": "永兴材料",
+        "market_value_wan": 162.36
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 160.68
+      },
+      {
+        "stock_code": "300757",
+        "stock_name": "罗博特科",
+        "market_value_wan": 159.86
+      },
+      {
+        "stock_code": "601019",
+        "stock_name": "山东出版",
+        "market_value_wan": 156.73
+      },
+      {
+        "stock_code": "002563",
+        "stock_name": "森马服饰",
+        "market_value_wan": 154.59
+      },
+      {
+        "stock_code": "601066",
+        "stock_name": "中信建投",
+        "market_value_wan": 153.58
+      }
+    ]
+  }
+}

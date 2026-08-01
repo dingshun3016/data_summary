@@ -1,0 +1,115 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "161225",
+    "name": "国投瑞银瑞盈混合(LOF)A",
+    "base_name": "国投瑞银瑞盈混合(LOF)"
+  },
+  "fetched_at": "2026-08-01 20:48:41",
+  "quarters": {
+    "2026-Q2": [
+      {
+        "stock_code": "002182",
+        "stock_name": "宝武镁业",
+        "market_value_wan": 1159.25
+      },
+      {
+        "stock_code": "000100",
+        "stock_name": "TCL科技",
+        "market_value_wan": 1006.28
+      },
+      {
+        "stock_code": "600482",
+        "stock_name": "中国动力",
+        "market_value_wan": 926.27
+      },
+      {
+        "stock_code": "601117",
+        "stock_name": "中国化学",
+        "market_value_wan": 749.19
+      },
+      {
+        "stock_code": "600583",
+        "stock_name": "海油工程",
+        "market_value_wan": 728.95
+      },
+      {
+        "stock_code": "601577",
+        "stock_name": "长沙银行",
+        "market_value_wan": 684.17
+      },
+      {
+        "stock_code": "000957",
+        "stock_name": "中通客车",
+        "market_value_wan": 636.48
+      },
+      {
+        "stock_code": "600258",
+        "stock_name": "首旅酒店",
+        "market_value_wan": 603.22
+      },
+      {
+        "stock_code": "600760",
+        "stock_name": "中航沈飞",
+        "market_value_wan": 491.56
+      },
+      {
+        "stock_code": "600059",
+        "stock_name": "古越龙山",
+        "market_value_wan": 490.0
+      }
+    ],
+    "2026-Q1": [
+      {
+        "stock_code": "600482",
+        "stock_name": "中国动力",
+        "market_value_wan": 1180.83
+      },
+      {
+        "stock_code": "002182",
+        "stock_name": "宝武镁业",
+        "market_value_wan": 1146.59
+      },
+      {
+        "stock_code": "601117",
+        "stock_name": "中国化学",
+        "market_value_wan": 895.96
+      },
+      {
+        "stock_code": "600258",
+        "stock_name": "首旅酒店",
+        "market_value_wan": 827.5
+      },
+      {
+        "stock_code": "601577",
+        "stock_name": "长沙银行",
+        "market_value_wan": 756.44
+      },
+      {
+        "stock_code": "000100",
+        "stock_name": "TCL科技",
+        "market_value_wan": 738.28
+      },
+      {
+        "stock_code": "603556",
+        "stock_name": "海兴电力",
+        "market_value_wan": 669.12
+      },
+      {
+        "stock_code": "600487",
+        "stock_name": "亨通光电",
+        "market_value_wan": 661.41
+      },
+      {
+        "stock_code": "000957",
+        "stock_name": "中通客车",
+        "market_value_wan": 626.57
+      },
+      {
+        "stock_code": "600059",
+        "stock_name": "古越龙山",
+        "market_value_wan": 594.43
+      }
+    ]
+  }
+}

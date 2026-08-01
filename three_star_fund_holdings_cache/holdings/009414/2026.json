@@ -1,0 +1,100 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "009414",
+    "name": "中银大健康股票A",
+    "base_name": "中银大健康股票"
+  },
+  "fetched_at": "2026-08-01 20:58:25",
+  "quarters": {
+    "2026-Q2": [
+      {
+        "stock_code": "600276",
+        "stock_name": "恒瑞医药",
+        "market_value_wan": 3555.26
+      },
+      {
+        "stock_code": "688331",
+        "stock_name": "荣昌生物",
+        "market_value_wan": 3462.17
+      },
+      {
+        "stock_code": "002422",
+        "stock_name": "科伦药业",
+        "market_value_wan": 3373.4
+      },
+      {
+        "stock_code": "688180",
+        "stock_name": "君实生物",
+        "market_value_wan": 2624.55
+      },
+      {
+        "stock_code": "688336",
+        "stock_name": "三生国健",
+        "market_value_wan": 2432.5
+      },
+      {
+        "stock_code": "688506",
+        "stock_name": "百利天恒",
+        "market_value_wan": 2102.02
+      },
+      {
+        "stock_code": "002653",
+        "stock_name": "海思科",
+        "market_value_wan": 2067.41
+      },
+      {
+        "stock_code": "603259",
+        "stock_name": "药明康德",
+        "market_value_wan": 1566.34
+      },
+      {
+        "stock_code": "688235",
+        "stock_name": "百济神州",
+        "market_value_wan": 1559.77
+      }
+    ],
+    "2026-Q1": [
+      {
+        "stock_code": "688331",
+        "stock_name": "荣昌生物",
+        "market_value_wan": 4233.43
+      },
+      {
+        "stock_code": "002422",
+        "stock_name": "科伦药业",
+        "market_value_wan": 3995.08
+      },
+      {
+        "stock_code": "600276",
+        "stock_name": "恒瑞医药",
+        "market_value_wan": 2609.58
+      },
+      {
+        "stock_code": "002294",
+        "stock_name": "信立泰",
+        "market_value_wan": 2539.2
+      },
+      {
+        "stock_code": "688180",
+        "stock_name": "君实生物",
+        "market_value_wan": 2426.3
+      },
+      {
+        "stock_code": "688336",
+        "stock_name": "三生国健",
+        "market_value_wan": 1863.75
+      },
+      {
+        "stock_code": "002653",
+        "stock_name": "海思科",
+        "market_value_wan": 1692.37
+      },
+      {
+        "stock_code": "300765",
+        "stock_name": "新诺威",
+        "market_value_wan": 1573.39
+      }
+    ]
+  }
+}

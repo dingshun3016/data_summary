@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "163804",
+    "name": "中银收益混合A",
+    "base_name": "中银收益混合"
+  },
+  "fetched_at": "2026-06-14 23:53:51",
+  "quarters": {
+    "2022-Q4": [
+      {
+        "stock_code": "300896",
+        "stock_name": "爱美客",
+        "market_value_wan": 14822.12
+      },
+      {
+        "stock_code": "688363",
+        "stock_name": "华熙生物",
+        "market_value_wan": 11050.46
+      },
+      {
+        "stock_code": "601111",
+        "stock_name": "中国国航",
+        "market_value_wan": 8413.43
+      },
+      {
+        "stock_code": "600233",
+        "stock_name": "圆通速递",
+        "market_value_wan": 7725.24
+      },
+      {
+        "stock_code": "600298",
+        "stock_name": "安琪酵母",
+        "market_value_wan": 7016.79
+      },
+      {
+        "stock_code": "600029",
+        "stock_name": "南方航空",
+        "market_value_wan": 6794.1
+      },
+      {
+        "stock_code": "002568",
+        "stock_name": "百润股份",
+        "market_value_wan": 6341.9
+      },
+      {
+        "stock_code": "000858",
+        "stock_name": "五粮液",
+        "market_value_wan": 6092.87
+      },
+      {
+        "stock_code": "002698",
+        "stock_name": "博实股份",
+        "market_value_wan": 5445.09
+      },
+      {
+        "stock_code": "002050",
+        "stock_name": "三花智控",
+        "market_value_wan": 5121.63
+      }
+    ],
+    "2022-Q3": [
+      {
+        "stock_code": "300896",
+        "stock_name": "爱美客",
+        "market_value_wan": 12601.27
+      },
+      {
+        "stock_code": "600233",
+        "stock_name": "圆通速递",
+        "market_value_wan": 9566.4
+      },
+      {
+        "stock_code": "600298",
+        "stock_name": "安琪酵母",
+        "market_value_wan": 8318.2
+      },
+      {
+        "stock_code": "688363",
+        "stock_name": "华熙生物",
+        "market_value_wan": 8111.24
+      },
+      {
+        "stock_code": "300498",
+        "stock_name": "温氏股份",
+        "market_value_wan": 7377.86
+      },
+      {
+        "stock_code": "600522",
+        "stock_name": "中天科技",
+        "market_value_wan": 7175.57
+      },
+      {
+        "stock_code": "002698",
+        "stock_name": "博实股份",
+        "market_value_wan": 7157.53
+      },
+      {
+        "stock_code": "002050",
+        "stock_name": "三花智控",
+        "market_value_wan": 6610.82
+      },
+      {
+        "stock_code": "002056",
+        "stock_name": "横店东磁",
+        "market_value_wan": 6318.35
+      },
+      {
+        "stock_code": "300119",
+        "stock_name": "瑞普生物",
+        "market_value_wan": 5120.57
+      }
+    ],
+    "2022-Q2": [
+      {
+        "stock_code": "300896",
+        "stock_name": "爱美客",
+        "market_value_wan": 12642.27
+      },
+      {
+        "stock_code": "600233",
+        "stock_name": "圆通速递",
+        "market_value_wan": 9846.36
+      },
+      {
+        "stock_code": "600522",
+        "stock_name": "中天科技",
+        "market_value_wan": 9101.63
+      },
+      {
+        "stock_code": "601137",
+        "stock_name": "博威合金",
+        "market_value_wan": 8234.83
+      },
+      {
+        "stock_code": "002056",
+        "stock_name": "横店东磁",
+        "market_value_wan": 8197.62
+      },
+      {
+        "stock_code": "000661",
+        "stock_name": "长春高新",
+        "market_value_wan": 8028.08
+      },
+      {
+        "stock_code": "300498",
+        "stock_name": "温氏股份",
+        "market_value_wan": 7718.9
+      },
+      {
+        "stock_code": "600298",
+        "stock_name": "安琪酵母",
+        "market_value_wan": 7427.5
+      },
+      {
+        "stock_code": "002129",
+        "stock_name": "TCL中环",
+        "market_value_wan": 7158.08
+      },
+      {
+        "stock_code": "688363",
+        "stock_name": "华熙生物",
+        "market_value_wan": 6665.27
+      }
+    ],
+    "2022-Q1": [
+      {
+        "stock_code": "300896",
+        "stock_name": "爱美客",
+        "market_value_wan": 13639.82
+      },
+      {
+        "stock_code": "600233",
+        "stock_name": "圆通速递",
+        "market_value_wan": 11217.68
+      },
+      {
+        "stock_code": "300498",
+        "stock_name": "温氏股份",
+        "market_value_wan": 9893.61
+      },
+      {
+        "stock_code": "601137",
+        "stock_name": "博威合金",
+        "market_value_wan": 6709.18
+      },
+      {
+        "stock_code": "600522",
+        "stock_name": "中天科技",
+        "market_value_wan": 6544.32
+      },
+      {
+        "stock_code": "605111",
+        "stock_name": "新洁能",
+        "market_value_wan": 6375.41
+      },
+      {
+        "stock_code": "002129",
+        "stock_name": "TCL中环",
+        "market_value_wan": 6367.85
+      },
+      {
+        "stock_code": "002056",
+        "stock_name": "横店东磁",
+        "market_value_wan": 6224.2
+      },
+      {
+        "stock_code": "002120",
+        "stock_name": "韵达股份",
+        "market_value_wan": 6201.0
+      },
+      {
+        "stock_code": "600298",
+        "stock_name": "安琪酵母",
+        "market_value_wan": 5549.23
+      }
+    ]
+  }
+}

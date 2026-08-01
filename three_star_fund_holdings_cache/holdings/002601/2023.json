@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "002601",
+    "name": "中银证券价值精选混合",
+    "base_name": "中银证券价值精选混合"
+  },
+  "fetched_at": "2026-06-14 23:06:58",
+  "quarters": {
+    "2023-Q4": [
+      {
+        "stock_code": "300274",
+        "stock_name": "阳光电源",
+        "market_value_wan": 788.22
+      },
+      {
+        "stock_code": "688390",
+        "stock_name": "固德威",
+        "market_value_wan": 783.48
+      },
+      {
+        "stock_code": "601689",
+        "stock_name": "拓普集团",
+        "market_value_wan": 735.0
+      },
+      {
+        "stock_code": "000858",
+        "stock_name": "五粮液",
+        "market_value_wan": 700.27
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 656.96
+      },
+      {
+        "stock_code": "002050",
+        "stock_name": "三花智控",
+        "market_value_wan": 588.0
+      },
+      {
+        "stock_code": "300763",
+        "stock_name": "锦浪科技",
+        "market_value_wan": 566.89
+      },
+      {
+        "stock_code": "002262",
+        "stock_name": "恩华药业",
+        "market_value_wan": 542.4
+      },
+      {
+        "stock_code": "600587",
+        "stock_name": "新华医疗",
+        "market_value_wan": 515.8
+      },
+      {
+        "stock_code": "601168",
+        "stock_name": "西部矿业",
+        "market_value_wan": 509.44
+      }
+    ],
+    "2023-Q3": [
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 1223.05
+      },
+      {
+        "stock_code": "601688",
+        "stock_name": "华泰证券",
+        "market_value_wan": 948.6
+      },
+      {
+        "stock_code": "688169",
+        "stock_name": "石头科技",
+        "market_value_wan": 908.47
+      },
+      {
+        "stock_code": "601689",
+        "stock_name": "拓普集团",
+        "market_value_wan": 889.56
+      },
+      {
+        "stock_code": "600977",
+        "stock_name": "中国电影",
+        "market_value_wan": 844.8
+      },
+      {
+        "stock_code": "300274",
+        "stock_name": "阳光电源",
+        "market_value_wan": 805.59
+      },
+      {
+        "stock_code": "002821",
+        "stock_name": "凯莱英",
+        "market_value_wan": 758.5
+      },
+      {
+        "stock_code": "000786",
+        "stock_name": "北新建材",
+        "market_value_wan": 751.25
+      },
+      {
+        "stock_code": "603259",
+        "stock_name": "药明康德",
+        "market_value_wan": 688.75
+      },
+      {
+        "stock_code": "600325",
+        "stock_name": "华发股份",
+        "market_value_wan": 671.27
+      }
+    ],
+    "2023-Q2": [
+      {
+        "stock_code": "600325",
+        "stock_name": "华发股份",
+        "market_value_wan": 1564.87
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 1515.5
+      },
+      {
+        "stock_code": "601186",
+        "stock_name": "中国铁建",
+        "market_value_wan": 1317.14
+      },
+      {
+        "stock_code": "605117",
+        "stock_name": "德业股份",
+        "market_value_wan": 1298.09
+      },
+      {
+        "stock_code": "600977",
+        "stock_name": "中国电影",
+        "market_value_wan": 1264.5
+      },
+      {
+        "stock_code": "601390",
+        "stock_name": "中国中铁",
+        "market_value_wan": 1261.39
+      },
+      {
+        "stock_code": "600566",
+        "stock_name": "济川药业",
+        "market_value_wan": 1225.84
+      },
+      {
+        "stock_code": "001979",
+        "stock_name": "招商蛇口",
+        "market_value_wan": 1172.7
+      },
+      {
+        "stock_code": "300360",
+        "stock_name": "炬华科技",
+        "market_value_wan": 1160.77
+      },
+      {
+        "stock_code": "002459",
+        "stock_name": "晶澳科技",
+        "market_value_wan": 1142.58
+      }
+    ],
+    "2023-Q1": [
+      {
+        "stock_code": "600325",
+        "stock_name": "华发股份",
+        "market_value_wan": 1928.22
+      },
+      {
+        "stock_code": "601186",
+        "stock_name": "中国铁建",
+        "market_value_wan": 1565.22
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 1494.26
+      },
+      {
+        "stock_code": "601390",
+        "stock_name": "中国中铁",
+        "market_value_wan": 1488.9
+      },
+      {
+        "stock_code": "600153",
+        "stock_name": "建发股份",
+        "market_value_wan": 1480.26
+      },
+      {
+        "stock_code": "300763",
+        "stock_name": "锦浪科技",
+        "market_value_wan": 1477.39
+      },
+      {
+        "stock_code": "600566",
+        "stock_name": "济川药业",
+        "market_value_wan": 1287.64
+      },
+      {
+        "stock_code": "601398",
+        "stock_name": "工商银行",
+        "market_value_wan": 1115.0
+      },
+      {
+        "stock_code": "688223",
+        "stock_name": "晶科能源",
+        "market_value_wan": 1060.13
+      },
+      {
+        "stock_code": "300737",
+        "stock_name": "科顺股份",
+        "market_value_wan": 1055.42
+      }
+    ]
+  }
+}

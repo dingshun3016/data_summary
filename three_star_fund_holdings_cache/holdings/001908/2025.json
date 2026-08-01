@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "001908",
+    "name": "国投瑞银境煊灵活配置混合C",
+    "base_name": "国投瑞银境煊灵活配置混合"
+  },
+  "fetched_at": "2026-06-14 23:02:00",
+  "quarters": {
+    "2025-Q4": [
+      {
+        "stock_code": "600487",
+        "stock_name": "亨通光电",
+        "market_value_wan": 1586.18
+      },
+      {
+        "stock_code": "600989",
+        "stock_name": "宝丰能源",
+        "market_value_wan": 1427.3
+      },
+      {
+        "stock_code": "601058",
+        "stock_name": "赛轮轮胎",
+        "market_value_wan": 1354.1
+      },
+      {
+        "stock_code": "000709",
+        "stock_name": "河钢股份",
+        "market_value_wan": 1308.66
+      },
+      {
+        "stock_code": "688408",
+        "stock_name": "中信博",
+        "market_value_wan": 1222.15
+      },
+      {
+        "stock_code": "603556",
+        "stock_name": "海兴电力",
+        "market_value_wan": 1025.39
+      },
+      {
+        "stock_code": "002182",
+        "stock_name": "宝武镁业",
+        "market_value_wan": 957.11
+      },
+      {
+        "stock_code": "600760",
+        "stock_name": "中航沈飞",
+        "market_value_wan": 921.98
+      },
+      {
+        "stock_code": "000725",
+        "stock_name": "京东方A",
+        "market_value_wan": 901.74
+      },
+      {
+        "stock_code": "600031",
+        "stock_name": "三一重工",
+        "market_value_wan": 872.25
+      }
+    ],
+    "2025-Q3": [
+      {
+        "stock_code": "603993",
+        "stock_name": "洛阳钼业",
+        "market_value_wan": 2247.46
+      },
+      {
+        "stock_code": "600389",
+        "stock_name": "江山股份",
+        "market_value_wan": 1789.86
+      },
+      {
+        "stock_code": "600487",
+        "stock_name": "亨通光电",
+        "market_value_wan": 1589.75
+      },
+      {
+        "stock_code": "000709",
+        "stock_name": "河钢股份",
+        "market_value_wan": 1402.28
+      },
+      {
+        "stock_code": "601058",
+        "stock_name": "赛轮轮胎",
+        "market_value_wan": 1379.62
+      },
+      {
+        "stock_code": "000932",
+        "stock_name": "华菱钢铁",
+        "market_value_wan": 1297.35
+      },
+      {
+        "stock_code": "600760",
+        "stock_name": "中航沈飞",
+        "market_value_wan": 1231.88
+      },
+      {
+        "stock_code": "002182",
+        "stock_name": "宝武镁业",
+        "market_value_wan": 1133.51
+      },
+      {
+        "stock_code": "600690",
+        "stock_name": "海尔智家",
+        "market_value_wan": 994.46
+      },
+      {
+        "stock_code": "600141",
+        "stock_name": "兴发集团",
+        "market_value_wan": 945.95
+      }
+    ],
+    "2025-Q2": [
+      {
+        "stock_code": "600389",
+        "stock_name": "江山股份",
+        "market_value_wan": 1622.24
+      },
+      {
+        "stock_code": "603993",
+        "stock_name": "洛阳钼业",
+        "market_value_wan": 1205.32
+      },
+      {
+        "stock_code": "002043",
+        "stock_name": "兔宝宝",
+        "market_value_wan": 1102.5
+      },
+      {
+        "stock_code": "000725",
+        "stock_name": "京东方A",
+        "market_value_wan": 1078.54
+      },
+      {
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "market_value_wan": 1052.46
+      },
+      {
+        "stock_code": "000932",
+        "stock_name": "华菱钢铁",
+        "market_value_wan": 803.44
+      },
+      {
+        "stock_code": "002415",
+        "stock_name": "海康威视",
+        "market_value_wan": 753.27
+      },
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 725.71
+      },
+      {
+        "stock_code": "300274",
+        "stock_name": "阳光电源",
+        "market_value_wan": 723.78
+      },
+      {
+        "stock_code": "002352",
+        "stock_name": "顺丰控股",
+        "market_value_wan": 716.77
+      }
+    ],
+    "2025-Q1": [
+      {
+        "stock_code": "002043",
+        "stock_name": "兔宝宝",
+        "market_value_wan": 1763.7
+      },
+      {
+        "stock_code": "000932",
+        "stock_name": "华菱钢铁",
+        "market_value_wan": 1637.37
+      },
+      {
+        "stock_code": "605196",
+        "stock_name": "华通线缆",
+        "market_value_wan": 1452.07
+      },
+      {
+        "stock_code": "600389",
+        "stock_name": "江山股份",
+        "market_value_wan": 1346.36
+      },
+      {
+        "stock_code": "002352",
+        "stock_name": "顺丰控股",
+        "market_value_wan": 1105.6
+      },
+      {
+        "stock_code": "002182",
+        "stock_name": "宝武镁业",
+        "market_value_wan": 1101.41
+      },
+      {
+        "stock_code": "605555",
+        "stock_name": "德昌股份",
+        "market_value_wan": 1088.45
+      },
+      {
+        "stock_code": "688652",
+        "stock_name": "京仪装备",
+        "market_value_wan": 951.34
+      },
+      {
+        "stock_code": "002714",
+        "stock_name": "牧原股份",
+        "market_value_wan": 838.12
+      },
+      {
+        "stock_code": "002415",
+        "stock_name": "海康威视",
+        "market_value_wan": 833.94
+      }
+    ]
+  }
+}

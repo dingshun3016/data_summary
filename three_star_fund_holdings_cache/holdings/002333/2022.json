@@ -1,0 +1,74 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "002333",
+    "name": "汇丰晋信沪港深C",
+    "base_name": "汇丰晋信沪港深"
+  },
+  "fetched_at": "2026-06-14 23:05:50",
+  "quarters": {
+    "2022-Q4": [
+      {
+        "stock_code": "300769",
+        "stock_name": "德方纳米",
+        "market_value_wan": 1882.64
+      },
+      {
+        "stock_code": "300014",
+        "stock_name": "亿纬锂能",
+        "market_value_wan": 1859.09
+      },
+      {
+        "stock_code": "002812",
+        "stock_name": "恩捷股份",
+        "market_value_wan": 1790.8
+      },
+      {
+        "stock_code": "600968",
+        "stock_name": "海油发展",
+        "market_value_wan": 1607.94
+      }
+    ],
+    "2022-Q3": [
+      {
+        "stock_code": "002460",
+        "stock_name": "赣锋锂业",
+        "market_value_wan": 2438.74
+      },
+      {
+        "stock_code": "002384",
+        "stock_name": "东山精密",
+        "market_value_wan": 2160.13
+      }
+    ],
+    "2022-Q2": [
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 7807.08
+      },
+      {
+        "stock_code": "000792",
+        "stock_name": "盐湖股份",
+        "market_value_wan": 7559.21
+      },
+      {
+        "stock_code": "002179",
+        "stock_name": "中航光电",
+        "market_value_wan": 3243.25
+      }
+    ],
+    "2022-Q1": [
+      {
+        "stock_code": "000792",
+        "stock_name": "盐湖股份",
+        "market_value_wan": 4849.39
+      },
+      {
+        "stock_code": "002371",
+        "stock_name": "北方华创",
+        "market_value_wan": 3649.68
+      }
+    ]
+  }
+}

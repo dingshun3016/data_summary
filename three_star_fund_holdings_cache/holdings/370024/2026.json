@@ -1,0 +1,115 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "370024",
+    "name": "摩根核心优选混合A",
+    "base_name": "摩根核心优选混合"
+  },
+  "fetched_at": "2026-08-01 21:00:55",
+  "quarters": {
+    "2026-Q2": [
+      {
+        "stock_code": "002384",
+        "stock_name": "东山精密",
+        "market_value_wan": 3054.49
+      },
+      {
+        "stock_code": "300390",
+        "stock_name": "天华新能",
+        "market_value_wan": 2504.2
+      },
+      {
+        "stock_code": "300502",
+        "stock_name": "新易盛",
+        "market_value_wan": 2479.6
+      },
+      {
+        "stock_code": "002353",
+        "stock_name": "杰瑞股份",
+        "market_value_wan": 2463.36
+      },
+      {
+        "stock_code": "600869",
+        "stock_name": "远东股份",
+        "market_value_wan": 2408.5
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 2265.7
+      },
+      {
+        "stock_code": "603259",
+        "stock_name": "药明康德",
+        "market_value_wan": 2112.93
+      },
+      {
+        "stock_code": "603993",
+        "stock_name": "洛阳钼业",
+        "market_value_wan": 1569.85
+      },
+      {
+        "stock_code": "600309",
+        "stock_name": "万华化学",
+        "market_value_wan": 1547.43
+      },
+      {
+        "stock_code": "600160",
+        "stock_name": "巨化股份",
+        "market_value_wan": 1458.31
+      }
+    ],
+    "2026-Q1": [
+      {
+        "stock_code": "300390",
+        "stock_name": "天华新能",
+        "market_value_wan": 2899.85
+      },
+      {
+        "stock_code": "002384",
+        "stock_name": "东山精密",
+        "market_value_wan": 2426.81
+      },
+      {
+        "stock_code": "002353",
+        "stock_name": "杰瑞股份",
+        "market_value_wan": 2014.72
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 1713.25
+      },
+      {
+        "stock_code": "605196",
+        "stock_name": "华通线缆",
+        "market_value_wan": 1500.91
+      },
+      {
+        "stock_code": "300502",
+        "stock_name": "新易盛",
+        "market_value_wan": 1499.01
+      },
+      {
+        "stock_code": "603259",
+        "stock_name": "药明康德",
+        "market_value_wan": 1431.28
+      },
+      {
+        "stock_code": "002532",
+        "stock_name": "天山铝业",
+        "market_value_wan": 1428.89
+      },
+      {
+        "stock_code": "001288",
+        "stock_name": "运机集团",
+        "market_value_wan": 1395.85
+      },
+      {
+        "stock_code": "000425",
+        "stock_name": "徐工机械",
+        "market_value_wan": 1334.71
+      }
+    ]
+  }
+}

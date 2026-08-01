@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "005457",
+    "name": "景顺长城量化小盘股票A",
+    "base_name": "景顺长城量化小盘股票"
+  },
+  "fetched_at": "2026-06-14 23:17:45",
+  "quarters": {
+    "2021-Q4": [
+      {
+        "stock_code": "002449",
+        "stock_name": "国星光电",
+        "market_value_wan": 1296.51
+      },
+      {
+        "stock_code": "002254",
+        "stock_name": "泰和新材",
+        "market_value_wan": 1062.47
+      },
+      {
+        "stock_code": "600116",
+        "stock_name": "三峡水利",
+        "market_value_wan": 1053.6
+      },
+      {
+        "stock_code": "603599",
+        "stock_name": "广信股份",
+        "market_value_wan": 1037.4
+      },
+      {
+        "stock_code": "688122",
+        "stock_name": "西部超导",
+        "market_value_wan": 1025.98
+      },
+      {
+        "stock_code": "002436",
+        "stock_name": "兴森科技",
+        "market_value_wan": 1022.0
+      },
+      {
+        "stock_code": "688030",
+        "stock_name": "山石网科",
+        "market_value_wan": 1009.06
+      },
+      {
+        "stock_code": "600502",
+        "stock_name": "安徽建工",
+        "market_value_wan": 980.65
+      },
+      {
+        "stock_code": "601375",
+        "stock_name": "中原证券",
+        "market_value_wan": 935.9
+      },
+      {
+        "stock_code": "002850",
+        "stock_name": "科达利",
+        "market_value_wan": 909.13
+      }
+    ],
+    "2021-Q3": [
+      {
+        "stock_code": "600323",
+        "stock_name": "瀚蓝环境",
+        "market_value_wan": 1389.94
+      },
+      {
+        "stock_code": "002777",
+        "stock_name": "久远银海",
+        "market_value_wan": 1184.14
+      },
+      {
+        "stock_code": "600123",
+        "stock_name": "兰花科创",
+        "market_value_wan": 1109.63
+      },
+      {
+        "stock_code": "300496",
+        "stock_name": "中科创达",
+        "market_value_wan": 1059.11
+      },
+      {
+        "stock_code": "603026",
+        "stock_name": "石大胜华",
+        "market_value_wan": 1055.1
+      },
+      {
+        "stock_code": "002649",
+        "stock_name": "博彦科技",
+        "market_value_wan": 999.6
+      },
+      {
+        "stock_code": "002043",
+        "stock_name": "兔宝宝",
+        "market_value_wan": 922.13
+      },
+      {
+        "stock_code": "002402",
+        "stock_name": "和而泰",
+        "market_value_wan": 913.62
+      },
+      {
+        "stock_code": "000818",
+        "stock_name": "航锦科技",
+        "market_value_wan": 905.76
+      },
+      {
+        "stock_code": "002929",
+        "stock_name": "润建股份",
+        "market_value_wan": 892.31
+      }
+    ],
+    "2021-Q2": [
+      {
+        "stock_code": "000875",
+        "stock_name": "吉电股份",
+        "market_value_wan": 396.58
+      },
+      {
+        "stock_code": "300395",
+        "stock_name": "菲利华",
+        "market_value_wan": 356.66
+      },
+      {
+        "stock_code": "603186",
+        "stock_name": "华正新材",
+        "market_value_wan": 352.59
+      },
+      {
+        "stock_code": "603599",
+        "stock_name": "广信股份",
+        "market_value_wan": 343.81
+      },
+      {
+        "stock_code": "600502",
+        "stock_name": "安徽建工",
+        "market_value_wan": 339.07
+      },
+      {
+        "stock_code": "002097",
+        "stock_name": "山河智能",
+        "market_value_wan": 316.09
+      },
+      {
+        "stock_code": "603566",
+        "stock_name": "普莱柯",
+        "market_value_wan": 314.18
+      },
+      {
+        "stock_code": "603103",
+        "stock_name": "横店影视",
+        "market_value_wan": 288.92
+      },
+      {
+        "stock_code": "300327",
+        "stock_name": "中颖电子",
+        "market_value_wan": 283.82
+      },
+      {
+        "stock_code": "300639",
+        "stock_name": "凯普生物",
+        "market_value_wan": 272.92
+      }
+    ],
+    "2021-Q1": [
+      {
+        "stock_code": "002020",
+        "stock_name": "京新药业",
+        "market_value_wan": 292.03
+      },
+      {
+        "stock_code": "000600",
+        "stock_name": "建投能源",
+        "market_value_wan": 286.18
+      },
+      {
+        "stock_code": "600461",
+        "stock_name": "洪城环境",
+        "market_value_wan": 273.13
+      },
+      {
+        "stock_code": "603886",
+        "stock_name": "元祖股份",
+        "market_value_wan": 267.44
+      },
+      {
+        "stock_code": "601212",
+        "stock_name": "白银有色",
+        "market_value_wan": 264.52
+      },
+      {
+        "stock_code": "300101",
+        "stock_name": "振芯科技",
+        "market_value_wan": 264.34
+      },
+      {
+        "stock_code": "601231",
+        "stock_name": "环旭电子",
+        "market_value_wan": 260.06
+      },
+      {
+        "stock_code": "603566",
+        "stock_name": "普莱柯",
+        "market_value_wan": 253.04
+      },
+      {
+        "stock_code": "002726",
+        "stock_name": "龙大美食",
+        "market_value_wan": 249.55
+      },
+      {
+        "stock_code": "603238",
+        "stock_name": "诺邦股份",
+        "market_value_wan": 248.51
+      }
+    ]
+  }
+}

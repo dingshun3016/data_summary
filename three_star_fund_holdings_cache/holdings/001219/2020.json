@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "001219",
+    "name": "摩根动态多因子混合A",
+    "base_name": "摩根动态多因子混合"
+  },
+  "fetched_at": "2026-06-14 22:54:50",
+  "quarters": {
+    "2020-Q4": [
+      {
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "market_value_wan": 697.37
+      },
+      {
+        "stock_code": "300760",
+        "stock_name": "迈瑞医疗",
+        "market_value_wan": 563.81
+      },
+      {
+        "stock_code": "300482",
+        "stock_name": "万孚生物",
+        "market_value_wan": 503.4
+      },
+      {
+        "stock_code": "002223",
+        "stock_name": "鱼跃医疗",
+        "market_value_wan": 478.3
+      },
+      {
+        "stock_code": "600104",
+        "stock_name": "上汽集团",
+        "market_value_wan": 438.45
+      },
+      {
+        "stock_code": "002925",
+        "stock_name": "盈趣科技",
+        "market_value_wan": 406.3
+      },
+      {
+        "stock_code": "000932",
+        "stock_name": "华菱钢铁",
+        "market_value_wan": 393.88
+      },
+      {
+        "stock_code": "600803",
+        "stock_name": "新奥股份",
+        "market_value_wan": 378.04
+      },
+      {
+        "stock_code": "300327",
+        "stock_name": "中颖电子",
+        "market_value_wan": 355.46
+      },
+      {
+        "stock_code": "000581",
+        "stock_name": "威孚高科",
+        "market_value_wan": 343.34
+      }
+    ],
+    "2020-Q3": [
+      {
+        "stock_code": "603444",
+        "stock_name": "吉比特",
+        "market_value_wan": 649.56
+      },
+      {
+        "stock_code": "000581",
+        "stock_name": "威孚高科",
+        "market_value_wan": 610.86
+      },
+      {
+        "stock_code": "601336",
+        "stock_name": "新华保险",
+        "market_value_wan": 606.29
+      },
+      {
+        "stock_code": "300760",
+        "stock_name": "迈瑞医疗",
+        "market_value_wan": 572.67
+      },
+      {
+        "stock_code": "300482",
+        "stock_name": "万孚生物",
+        "market_value_wan": 548.11
+      },
+      {
+        "stock_code": "002223",
+        "stock_name": "鱼跃医疗",
+        "market_value_wan": 523.37
+      },
+      {
+        "stock_code": "300033",
+        "stock_name": "同花顺",
+        "market_value_wan": 519.74
+      },
+      {
+        "stock_code": "002555",
+        "stock_name": "三七互娱",
+        "market_value_wan": 505.59
+      },
+      {
+        "stock_code": "601009",
+        "stock_name": "南京银行",
+        "market_value_wan": 495.49
+      },
+      {
+        "stock_code": "600383",
+        "stock_name": "金地集团",
+        "market_value_wan": 443.61
+      }
+    ],
+    "2020-Q2": [
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 1583.43
+      },
+      {
+        "stock_code": "603444",
+        "stock_name": "吉比特",
+        "market_value_wan": 1286.55
+      },
+      {
+        "stock_code": "600309",
+        "stock_name": "万华化学",
+        "market_value_wan": 1083.28
+      },
+      {
+        "stock_code": "002555",
+        "stock_name": "三七互娱",
+        "market_value_wan": 1079.21
+      },
+      {
+        "stock_code": "300770",
+        "stock_name": "新媒股份",
+        "market_value_wan": 865.56
+      },
+      {
+        "stock_code": "300433",
+        "stock_name": "蓝思科技",
+        "market_value_wan": 704.93
+      },
+      {
+        "stock_code": "600276",
+        "stock_name": "恒瑞医药",
+        "market_value_wan": 693.58
+      },
+      {
+        "stock_code": "300628",
+        "stock_name": "亿联网络",
+        "market_value_wan": 683.14
+      },
+      {
+        "stock_code": "300033",
+        "stock_name": "同花顺",
+        "market_value_wan": 681.37
+      },
+      {
+        "stock_code": "002001",
+        "stock_name": "新和成",
+        "market_value_wan": 671.05
+      }
+    ],
+    "2020-Q1": [
+      {
+        "stock_code": "603444",
+        "stock_name": "吉比特",
+        "market_value_wan": 1294.12
+      },
+      {
+        "stock_code": "000661",
+        "stock_name": "长春高新",
+        "market_value_wan": 1161.76
+      },
+      {
+        "stock_code": "300559",
+        "stock_name": "佳发教育",
+        "market_value_wan": 787.11
+      },
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 759.38
+      },
+      {
+        "stock_code": "300628",
+        "stock_name": "亿联网络",
+        "market_value_wan": 735.65
+      },
+      {
+        "stock_code": "603160",
+        "stock_name": "汇顶科技",
+        "market_value_wan": 732.66
+      },
+      {
+        "stock_code": "600346",
+        "stock_name": "恒力石化",
+        "market_value_wan": 720.78
+      },
+      {
+        "stock_code": "600309",
+        "stock_name": "万华化学",
+        "market_value_wan": 707.85
+      },
+      {
+        "stock_code": "600183",
+        "stock_name": "生益科技",
+        "market_value_wan": 696.17
+      },
+      {
+        "stock_code": "300014",
+        "stock_name": "亿纬锂能",
+        "market_value_wan": 690.4
+      }
+    ]
+  }
+}

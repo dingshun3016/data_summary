@@ -1,0 +1,70 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "011022",
+    "name": "汇添富互联网核心资产六个月持有混合C",
+    "base_name": "汇添富互联网核心资产六个月持有混合"
+  },
+  "fetched_at": "2026-08-01 20:59:35",
+  "quarters": {
+    "2026-Q2": [
+      {
+        "stock_code": "300502",
+        "stock_name": "新易盛",
+        "market_value_wan": 19460.84
+      },
+      {
+        "stock_code": "300308",
+        "stock_name": "中际旭创",
+        "market_value_wan": 18757.9
+      },
+      {
+        "stock_code": "002463",
+        "stock_name": "沪电股份",
+        "market_value_wan": 18202.56
+      },
+      {
+        "stock_code": "300394",
+        "stock_name": "天孚通信",
+        "market_value_wan": 11292.99
+      },
+      {
+        "stock_code": "688361",
+        "stock_name": "中科飞测",
+        "market_value_wan": 9502.01
+      },
+      {
+        "stock_code": "688702",
+        "stock_name": "盛科通信",
+        "market_value_wan": 8746.89
+      }
+    ],
+    "2026-Q1": [
+      {
+        "stock_code": "300502",
+        "stock_name": "新易盛",
+        "market_value_wan": 16117.47
+      },
+      {
+        "stock_code": "300308",
+        "stock_name": "中际旭创",
+        "market_value_wan": 16108.61
+      },
+      {
+        "stock_code": "002463",
+        "stock_name": "沪电股份",
+        "market_value_wan": 15659.99
+      },
+      {
+        "stock_code": "688167",
+        "stock_name": "炬光科技",
+        "market_value_wan": 6561.03
+      },
+      {
+        "stock_code": "688205",
+        "stock_name": "德科立",
+        "market_value_wan": 6525.93
+      }
+    ]
+  }
+}

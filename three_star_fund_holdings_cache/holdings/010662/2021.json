@@ -1,0 +1,209 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "010662",
+    "name": "富国均衡优选混合",
+    "base_name": "富国均衡优选混合"
+  },
+  "fetched_at": "2026-06-14 23:41:45",
+  "quarters": {
+    "2021-Q4": [
+      {
+        "stock_code": "002145",
+        "stock_name": "中核钛白",
+        "market_value_wan": 48777.82
+      },
+      {
+        "stock_code": "300059",
+        "stock_name": "东方财富",
+        "market_value_wan": 37051.54
+      },
+      {
+        "stock_code": "002371",
+        "stock_name": "北方华创",
+        "market_value_wan": 34931.8
+      },
+      {
+        "stock_code": "002389",
+        "stock_name": "航天彩虹",
+        "market_value_wan": 33349.94
+      },
+      {
+        "stock_code": "600406",
+        "stock_name": "国电南瑞",
+        "market_value_wan": 27706.51
+      },
+      {
+        "stock_code": "002027",
+        "stock_name": "分众传媒",
+        "market_value_wan": 27340.85
+      },
+      {
+        "stock_code": "603501",
+        "stock_name": "韦尔股份",
+        "market_value_wan": 23428.48
+      },
+      {
+        "stock_code": "002049",
+        "stock_name": "紫光国微",
+        "market_value_wan": 22562.84
+      },
+      {
+        "stock_code": "601888",
+        "stock_name": "中国中免",
+        "market_value_wan": 18290.02
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 17230.46
+      }
+    ],
+    "2021-Q3": [
+      {
+        "stock_code": "002145",
+        "stock_name": "中核钛白",
+        "market_value_wan": 55829.1
+      },
+      {
+        "stock_code": "002371",
+        "stock_name": "北方华创",
+        "market_value_wan": 36569.8
+      },
+      {
+        "stock_code": "300059",
+        "stock_name": "东方财富",
+        "market_value_wan": 34315.85
+      },
+      {
+        "stock_code": "600406",
+        "stock_name": "国电南瑞",
+        "market_value_wan": 24854.88
+      },
+      {
+        "stock_code": "002389",
+        "stock_name": "航天彩虹",
+        "market_value_wan": 24819.28
+      },
+      {
+        "stock_code": "002027",
+        "stock_name": "分众传媒",
+        "market_value_wan": 24436.51
+      },
+      {
+        "stock_code": "002129",
+        "stock_name": "TCL中环",
+        "market_value_wan": 22697.15
+      },
+      {
+        "stock_code": "601888",
+        "stock_name": "中国中免",
+        "market_value_wan": 21673.6
+      },
+      {
+        "stock_code": "002049",
+        "stock_name": "紫光国微",
+        "market_value_wan": 20737.76
+      },
+      {
+        "stock_code": "000725",
+        "stock_name": "京东方A",
+        "market_value_wan": 18283.7
+      }
+    ],
+    "2021-Q2": [
+      {
+        "stock_code": "002145",
+        "stock_name": "中核钛白",
+        "market_value_wan": 58268.27
+      },
+      {
+        "stock_code": "300059",
+        "stock_name": "东方财富",
+        "market_value_wan": 32738.34
+      },
+      {
+        "stock_code": "002027",
+        "stock_name": "分众传媒",
+        "market_value_wan": 31413.61
+      },
+      {
+        "stock_code": "002371",
+        "stock_name": "北方华创",
+        "market_value_wan": 27738.61
+      },
+      {
+        "stock_code": "601888",
+        "stock_name": "中国中免",
+        "market_value_wan": 25016.34
+      },
+      {
+        "stock_code": "000725",
+        "stock_name": "京东方A",
+        "market_value_wan": 22592.14
+      },
+      {
+        "stock_code": "002389",
+        "stock_name": "航天彩虹",
+        "market_value_wan": 21843.03
+      },
+      {
+        "stock_code": "603501",
+        "stock_name": "韦尔股份",
+        "market_value_wan": 21425.88
+      },
+      {
+        "stock_code": "688396",
+        "stock_name": "华润微",
+        "market_value_wan": 19841.62
+      },
+      {
+        "stock_code": "002129",
+        "stock_name": "TCL中环",
+        "market_value_wan": 19099.85
+      }
+    ],
+    "2021-Q1": [
+      {
+        "stock_code": "002145",
+        "stock_name": "中核钛白",
+        "market_value_wan": 32213.99
+      },
+      {
+        "stock_code": "002027",
+        "stock_name": "分众传媒",
+        "market_value_wan": 30979.62
+      },
+      {
+        "stock_code": "601888",
+        "stock_name": "中国中免",
+        "market_value_wan": 23865.06
+      },
+      {
+        "stock_code": "603501",
+        "stock_name": "韦尔股份",
+        "market_value_wan": 17082.15
+      },
+      {
+        "stock_code": "601225",
+        "stock_name": "陕西煤业",
+        "market_value_wan": 16685.98
+      },
+      {
+        "stock_code": "000100",
+        "stock_name": "TCL科技",
+        "market_value_wan": 16341.54
+      },
+      {
+        "stock_code": "600406",
+        "stock_name": "国电南瑞",
+        "market_value_wan": 15979.07
+      },
+      {
+        "stock_code": "002371",
+        "stock_name": "北方华创",
+        "market_value_wan": 14354.32
+      }
+    ]
+  }
+}

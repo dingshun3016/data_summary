@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "011477",
+    "name": "工银总回报灵活配置混合C",
+    "base_name": "工银总回报灵活配置混合"
+  },
+  "fetched_at": "2026-06-14 23:47:08",
+  "quarters": {
+    "2023-Q4": [
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 1799.13
+      },
+      {
+        "stock_code": "600919",
+        "stock_name": "江苏银行",
+        "market_value_wan": 1739.4
+      },
+      {
+        "stock_code": "603712",
+        "stock_name": "七一二",
+        "market_value_wan": 1417.95
+      },
+      {
+        "stock_code": "002847",
+        "stock_name": "盐津铺子",
+        "market_value_wan": 1111.68
+      },
+      {
+        "stock_code": "002345",
+        "stock_name": "潮宏基",
+        "market_value_wan": 803.58
+      },
+      {
+        "stock_code": "601838",
+        "stock_name": "成都银行",
+        "market_value_wan": 788.2
+      },
+      {
+        "stock_code": "601825",
+        "stock_name": "沪农商行",
+        "market_value_wan": 741.55
+      },
+      {
+        "stock_code": "002465",
+        "stock_name": "海格通信",
+        "market_value_wan": 642.5
+      },
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 573.59
+      },
+      {
+        "stock_code": "600559",
+        "stock_name": "老白干酒",
+        "market_value_wan": 549.77
+      }
+    ],
+    "2023-Q3": [
+      {
+        "stock_code": "600919",
+        "stock_name": "江苏银行",
+        "market_value_wan": 1795.0
+      },
+      {
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "market_value_wan": 1449.0
+      },
+      {
+        "stock_code": "601838",
+        "stock_name": "成都银行",
+        "market_value_wan": 1376.0
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 1279.09
+      },
+      {
+        "stock_code": "600048",
+        "stock_name": "保利发展",
+        "market_value_wan": 1274.0
+      },
+      {
+        "stock_code": "603712",
+        "stock_name": "七一二",
+        "market_value_wan": 1264.0
+      },
+      {
+        "stock_code": "002847",
+        "stock_name": "盐津铺子",
+        "market_value_wan": 1136.22
+      },
+      {
+        "stock_code": "601668",
+        "stock_name": "中国建筑",
+        "market_value_wan": 884.8
+      },
+      {
+        "stock_code": "600765",
+        "stock_name": "中航重机",
+        "market_value_wan": 868.7
+      },
+      {
+        "stock_code": "600559",
+        "stock_name": "老白干酒",
+        "market_value_wan": 696.0
+      }
+    ],
+    "2023-Q2": [
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 2699.72
+      },
+      {
+        "stock_code": "601668",
+        "stock_name": "中国建筑",
+        "market_value_wan": 2104.28
+      },
+      {
+        "stock_code": "002594",
+        "stock_name": "比亚迪",
+        "market_value_wan": 1807.89
+      },
+      {
+        "stock_code": "603712",
+        "stock_name": "七一二",
+        "market_value_wan": 1661.55
+      },
+      {
+        "stock_code": "002709",
+        "stock_name": "天赐材料",
+        "market_value_wan": 1482.43
+      },
+      {
+        "stock_code": "002847",
+        "stock_name": "盐津铺子",
+        "market_value_wan": 1173.69
+      },
+      {
+        "stock_code": "002850",
+        "stock_name": "科达利",
+        "market_value_wan": 912.38
+      },
+      {
+        "stock_code": "600048",
+        "stock_name": "保利发展",
+        "market_value_wan": 886.04
+      },
+      {
+        "stock_code": "600872",
+        "stock_name": "中炬高新",
+        "market_value_wan": 846.17
+      },
+      {
+        "stock_code": "300274",
+        "stock_name": "阳光电源",
+        "market_value_wan": 816.41
+      }
+    ],
+    "2023-Q1": [
+      {
+        "stock_code": "000858",
+        "stock_name": "五粮液",
+        "market_value_wan": 2561.0
+      },
+      {
+        "stock_code": "603712",
+        "stock_name": "七一二",
+        "market_value_wan": 1855.2
+      },
+      {
+        "stock_code": "600919",
+        "stock_name": "江苏银行",
+        "market_value_wan": 1755.0
+      },
+      {
+        "stock_code": "002847",
+        "stock_name": "盐津铺子",
+        "market_value_wan": 1752.79
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 1274.0
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 1218.15
+      },
+      {
+        "stock_code": "001215",
+        "stock_name": "千味央厨",
+        "market_value_wan": 1031.28
+      },
+      {
+        "stock_code": "600872",
+        "stock_name": "中炬高新",
+        "market_value_wan": 853.3
+      },
+      {
+        "stock_code": "300274",
+        "stock_name": "阳光电源",
+        "market_value_wan": 838.88
+      },
+      {
+        "stock_code": "601838",
+        "stock_name": "成都银行",
+        "market_value_wan": 813.6
+      }
+    ]
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "006551",
+    "name": "中庚价值领航混合",
+    "base_name": "中庚价值领航混合"
+  },
+  "fetched_at": "2026-06-14 22:34:12",
+  "quarters": {
+    "2023-Q4": [
+      {
+        "stock_code": "603283",
+        "stock_name": "赛腾股份",
+        "market_value_wan": 46702.98
+      },
+      {
+        "stock_code": "603100",
+        "stock_name": "川仪股份",
+        "market_value_wan": 35249.61
+      },
+      {
+        "stock_code": "002241",
+        "stock_name": "歌尔股份",
+        "market_value_wan": 28668.77
+      },
+      {
+        "stock_code": "000933",
+        "stock_name": "神火股份",
+        "market_value_wan": 26073.94
+      }
+    ],
+    "2023-Q3": [
+      {
+        "stock_code": "000933",
+        "stock_name": "神火股份",
+        "market_value_wan": 52402.91
+      },
+      {
+        "stock_code": "603100",
+        "stock_name": "川仪股份",
+        "market_value_wan": 36799.11
+      }
+    ],
+    "2023-Q2": [
+      {
+        "stock_code": "600497",
+        "stock_name": "驰宏锌锗",
+        "market_value_wan": 50704.31
+      },
+      {
+        "stock_code": "000933",
+        "stock_name": "神火股份",
+        "market_value_wan": 42020.23
+      },
+      {
+        "stock_code": "603100",
+        "stock_name": "川仪股份",
+        "market_value_wan": 36464.82
+      },
+      {
+        "stock_code": "601128",
+        "stock_name": "常熟银行",
+        "market_value_wan": 27854.43
+      }
+    ],
+    "2023-Q1": [
+      {
+        "stock_code": "600497",
+        "stock_name": "驰宏锌锗",
+        "market_value_wan": 61538.5
+      },
+      {
+        "stock_code": "000933",
+        "stock_name": "神火股份",
+        "market_value_wan": 57276.8
+      },
+      {
+        "stock_code": "600256",
+        "stock_name": "广汇能源",
+        "market_value_wan": 56874.78
+      }
+    ]
+  }
+}

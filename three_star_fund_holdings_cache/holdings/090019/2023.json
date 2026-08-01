@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "090019",
+    "name": "大成景恒混合A",
+    "base_name": "大成景恒混合"
+  },
+  "fetched_at": "2026-06-14 23:50:18",
+  "quarters": {
+    "2023-Q4": [
+      {
+        "stock_code": "300233",
+        "stock_name": "金城医药",
+        "market_value_wan": 5093.3
+      },
+      {
+        "stock_code": "002419",
+        "stock_name": "天虹股份",
+        "market_value_wan": 4417.7
+      },
+      {
+        "stock_code": "002611",
+        "stock_name": "东方精工",
+        "market_value_wan": 3949.45
+      },
+      {
+        "stock_code": "688733",
+        "stock_name": "壹石通",
+        "market_value_wan": 3926.88
+      },
+      {
+        "stock_code": "688321",
+        "stock_name": "微芯生物",
+        "market_value_wan": 3813.15
+      },
+      {
+        "stock_code": "688317",
+        "stock_name": "之江生物",
+        "market_value_wan": 3645.23
+      },
+      {
+        "stock_code": "688696",
+        "stock_name": "极米科技",
+        "market_value_wan": 3463.03
+      },
+      {
+        "stock_code": "688519",
+        "stock_name": "南亚新材",
+        "market_value_wan": 3432.51
+      },
+      {
+        "stock_code": "688199",
+        "stock_name": "久日新材",
+        "market_value_wan": 3238.52
+      },
+      {
+        "stock_code": "300829",
+        "stock_name": "金丹科技",
+        "market_value_wan": 3174.39
+      }
+    ],
+    "2023-Q3": [
+      {
+        "stock_code": "002419",
+        "stock_name": "天虹股份",
+        "market_value_wan": 4537.52
+      },
+      {
+        "stock_code": "300233",
+        "stock_name": "金城医药",
+        "market_value_wan": 4229.19
+      },
+      {
+        "stock_code": "688321",
+        "stock_name": "微芯生物",
+        "market_value_wan": 4026.83
+      },
+      {
+        "stock_code": "688317",
+        "stock_name": "之江生物",
+        "market_value_wan": 3715.15
+      },
+      {
+        "stock_code": "002611",
+        "stock_name": "东方精工",
+        "market_value_wan": 3430.15
+      },
+      {
+        "stock_code": "688696",
+        "stock_name": "极米科技",
+        "market_value_wan": 3362.88
+      },
+      {
+        "stock_code": "688199",
+        "stock_name": "久日新材",
+        "market_value_wan": 3159.53
+      },
+      {
+        "stock_code": "300829",
+        "stock_name": "金丹科技",
+        "market_value_wan": 3157.66
+      },
+      {
+        "stock_code": "000528",
+        "stock_name": "柳工",
+        "market_value_wan": 3140.14
+      },
+      {
+        "stock_code": "688519",
+        "stock_name": "南亚新材",
+        "market_value_wan": 3126.04
+      }
+    ],
+    "2023-Q2": [
+      {
+        "stock_code": "300233",
+        "stock_name": "金城医药",
+        "market_value_wan": 3840.02
+      },
+      {
+        "stock_code": "688321",
+        "stock_name": "微芯生物",
+        "market_value_wan": 3373.36
+      },
+      {
+        "stock_code": "002611",
+        "stock_name": "东方精工",
+        "market_value_wan": 3165.84
+      },
+      {
+        "stock_code": "300368",
+        "stock_name": "ST汇金",
+        "market_value_wan": 3048.09
+      },
+      {
+        "stock_code": "002419",
+        "stock_name": "天虹股份",
+        "market_value_wan": 2716.51
+      },
+      {
+        "stock_code": "688696",
+        "stock_name": "极米科技",
+        "market_value_wan": 2588.71
+      },
+      {
+        "stock_code": "300879",
+        "stock_name": "大叶股份",
+        "market_value_wan": 2534.03
+      },
+      {
+        "stock_code": "688317",
+        "stock_name": "之江生物",
+        "market_value_wan": 2200.97
+      },
+      {
+        "stock_code": "000528",
+        "stock_name": "柳工",
+        "market_value_wan": 2154.37
+      },
+      {
+        "stock_code": "300137",
+        "stock_name": "先河环保",
+        "market_value_wan": 2126.27
+      }
+    ],
+    "2023-Q1": [
+      {
+        "stock_code": "002611",
+        "stock_name": "东方精工",
+        "market_value_wan": 2730.12
+      },
+      {
+        "stock_code": "300233",
+        "stock_name": "金城医药",
+        "market_value_wan": 2668.5
+      },
+      {
+        "stock_code": "688696",
+        "stock_name": "极米科技",
+        "market_value_wan": 2605.46
+      },
+      {
+        "stock_code": "000528",
+        "stock_name": "柳工",
+        "market_value_wan": 2512.81
+      },
+      {
+        "stock_code": "300368",
+        "stock_name": "ST汇金",
+        "market_value_wan": 2354.01
+      },
+      {
+        "stock_code": "688317",
+        "stock_name": "之江生物",
+        "market_value_wan": 2299.76
+      },
+      {
+        "stock_code": "300879",
+        "stock_name": "大叶股份",
+        "market_value_wan": 2201.56
+      },
+      {
+        "stock_code": "603053",
+        "stock_name": "成都燃气",
+        "market_value_wan": 2164.03
+      },
+      {
+        "stock_code": "688626",
+        "stock_name": "翔宇医疗",
+        "market_value_wan": 1982.17
+      },
+      {
+        "stock_code": "300137",
+        "stock_name": "先河环保",
+        "market_value_wan": 1955.58
+      }
+    ]
+  }
+}

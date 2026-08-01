@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "160921",
+    "name": "大成多策略混合(LOF)A",
+    "base_name": "大成多策略混合(LOF)"
+  },
+  "fetched_at": "2026-06-14 23:52:11",
+  "quarters": {
+    "2020-Q4": [
+      {
+        "stock_code": "601877",
+        "stock_name": "正泰电器",
+        "market_value_wan": 4430.16
+      },
+      {
+        "stock_code": "300760",
+        "stock_name": "迈瑞医疗",
+        "market_value_wan": 4030.0
+      },
+      {
+        "stock_code": "002311",
+        "stock_name": "海大集团",
+        "market_value_wan": 3960.46
+      },
+      {
+        "stock_code": "002352",
+        "stock_name": "顺丰控股",
+        "market_value_wan": 3305.1
+      },
+      {
+        "stock_code": "002242",
+        "stock_name": "九阳股份",
+        "market_value_wan": 2726.63
+      },
+      {
+        "stock_code": "605338",
+        "stock_name": "巴比食品",
+        "market_value_wan": 2600.31
+      },
+      {
+        "stock_code": "601128",
+        "stock_name": "常熟银行",
+        "market_value_wan": 2560.86
+      },
+      {
+        "stock_code": "603833",
+        "stock_name": "欧派家居",
+        "market_value_wan": 2325.14
+      },
+      {
+        "stock_code": "688526",
+        "stock_name": "科前生物",
+        "market_value_wan": 2118.36
+      },
+      {
+        "stock_code": "300832",
+        "stock_name": "新产业",
+        "market_value_wan": 2028.44
+      }
+    ],
+    "2020-Q3": [
+      {
+        "stock_code": "300760",
+        "stock_name": "迈瑞医疗",
+        "market_value_wan": 3782.79
+      },
+      {
+        "stock_code": "601877",
+        "stock_name": "正泰电器",
+        "market_value_wan": 3465.6
+      },
+      {
+        "stock_code": "002690",
+        "stock_name": "美亚光电",
+        "market_value_wan": 3343.35
+      },
+      {
+        "stock_code": "601128",
+        "stock_name": "常熟银行",
+        "market_value_wan": 3275.98
+      },
+      {
+        "stock_code": "002352",
+        "stock_name": "顺丰控股",
+        "market_value_wan": 3041.75
+      },
+      {
+        "stock_code": "002311",
+        "stock_name": "海大集团",
+        "market_value_wan": 2664.48
+      },
+      {
+        "stock_code": "002557",
+        "stock_name": "洽洽食品",
+        "market_value_wan": 2110.51
+      },
+      {
+        "stock_code": "688017",
+        "stock_name": "绿的谐波",
+        "market_value_wan": 1450.76
+      },
+      {
+        "stock_code": "603883",
+        "stock_name": "老百姓",
+        "market_value_wan": 1326.02
+      },
+      {
+        "stock_code": "600885",
+        "stock_name": "宏发股份",
+        "market_value_wan": 1311.3
+      }
+    ],
+    "2020-Q2": [
+      {
+        "stock_code": "300760",
+        "stock_name": "迈瑞医疗",
+        "market_value_wan": 2182.7
+      },
+      {
+        "stock_code": "002690",
+        "stock_name": "美亚光电",
+        "market_value_wan": 2146.91
+      },
+      {
+        "stock_code": "002352",
+        "stock_name": "顺丰控股",
+        "market_value_wan": 2049.06
+      },
+      {
+        "stock_code": "601128",
+        "stock_name": "常熟银行",
+        "market_value_wan": 1607.52
+      },
+      {
+        "stock_code": "600233",
+        "stock_name": "圆通速递",
+        "market_value_wan": 1487.45
+      },
+      {
+        "stock_code": "002311",
+        "stock_name": "海大集团",
+        "market_value_wan": 1351.08
+      },
+      {
+        "stock_code": "603517",
+        "stock_name": "绝味食品",
+        "market_value_wan": 1173.58
+      },
+      {
+        "stock_code": "002821",
+        "stock_name": "凯莱英",
+        "market_value_wan": 1006.02
+      },
+      {
+        "stock_code": "603939",
+        "stock_name": "益丰药房",
+        "market_value_wan": 1003.0
+      },
+      {
+        "stock_code": "002557",
+        "stock_name": "洽洽食品",
+        "market_value_wan": 934.13
+      }
+    ],
+    "2020-Q1": [
+      {
+        "stock_code": "300760",
+        "stock_name": "迈瑞医疗",
+        "market_value_wan": 999.69
+      },
+      {
+        "stock_code": "601128",
+        "stock_name": "常熟银行",
+        "market_value_wan": 766.56
+      },
+      {
+        "stock_code": "002690",
+        "stock_name": "美亚光电",
+        "market_value_wan": 726.11
+      },
+      {
+        "stock_code": "600885",
+        "stock_name": "宏发股份",
+        "market_value_wan": 689.42
+      },
+      {
+        "stock_code": "600690",
+        "stock_name": "海尔智家",
+        "market_value_wan": 637.34
+      },
+      {
+        "stock_code": "002271",
+        "stock_name": "东方雨虹",
+        "market_value_wan": 617.88
+      },
+      {
+        "stock_code": "603517",
+        "stock_name": "绝味食品",
+        "market_value_wan": 544.41
+      },
+      {
+        "stock_code": "002311",
+        "stock_name": "海大集团",
+        "market_value_wan": 478.78
+      },
+      {
+        "stock_code": "002120",
+        "stock_name": "韵达股份",
+        "market_value_wan": 472.2
+      },
+      {
+        "stock_code": "300529",
+        "stock_name": "健帆生物",
+        "market_value_wan": 470.51
+      }
+    ]
+  }
+}

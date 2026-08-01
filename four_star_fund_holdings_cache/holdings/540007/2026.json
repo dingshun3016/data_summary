@@ -1,0 +1,115 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "540007",
+    "name": "汇丰晋信中小盘股票",
+    "base_name": "汇丰晋信中小盘股票"
+  },
+  "fetched_at": "2026-08-01 20:49:04",
+  "quarters": {
+    "2026-Q2": [
+      {
+        "stock_code": "600029",
+        "stock_name": "南方航空",
+        "market_value_wan": 9186.39
+      },
+      {
+        "stock_code": "600115",
+        "stock_name": "中国东航",
+        "market_value_wan": 9154.45
+      },
+      {
+        "stock_code": "000923",
+        "stock_name": "河钢资源",
+        "market_value_wan": 9146.39
+      },
+      {
+        "stock_code": "601111",
+        "stock_name": "中国国航",
+        "market_value_wan": 9131.03
+      },
+      {
+        "stock_code": "603885",
+        "stock_name": "吉祥航空",
+        "market_value_wan": 9087.77
+      },
+      {
+        "stock_code": "002531",
+        "stock_name": "天顺风能",
+        "market_value_wan": 7774.95
+      },
+      {
+        "stock_code": "603988",
+        "stock_name": "中电电机",
+        "market_value_wan": 7008.5
+      },
+      {
+        "stock_code": "000803",
+        "stock_name": "山高环能",
+        "market_value_wan": 6759.57
+      },
+      {
+        "stock_code": "688599",
+        "stock_name": "天合光能",
+        "market_value_wan": 6283.64
+      },
+      {
+        "stock_code": "600732",
+        "stock_name": "爱旭股份",
+        "market_value_wan": 5906.2
+      }
+    ],
+    "2026-Q1": [
+      {
+        "stock_code": "603885",
+        "stock_name": "吉祥航空",
+        "market_value_wan": 20716.38
+      },
+      {
+        "stock_code": "600029",
+        "stock_name": "南方航空",
+        "market_value_wan": 20610.44
+      },
+      {
+        "stock_code": "600115",
+        "stock_name": "中国东航",
+        "market_value_wan": 20488.83
+      },
+      {
+        "stock_code": "601111",
+        "stock_name": "中国国航",
+        "market_value_wan": 20339.35
+      },
+      {
+        "stock_code": "000923",
+        "stock_name": "河钢资源",
+        "market_value_wan": 20170.22
+      },
+      {
+        "stock_code": "603988",
+        "stock_name": "中电电机",
+        "market_value_wan": 17876.95
+      },
+      {
+        "stock_code": "002531",
+        "stock_name": "天顺风能",
+        "market_value_wan": 14891.42
+      },
+      {
+        "stock_code": "000803",
+        "stock_name": "山高环能",
+        "market_value_wan": 14574.36
+      },
+      {
+        "stock_code": "600732",
+        "stock_name": "爱旭股份",
+        "market_value_wan": 12804.04
+      },
+      {
+        "stock_code": "688599",
+        "stock_name": "天合光能",
+        "market_value_wan": 12704.19
+      }
+    ]
+  }
+}

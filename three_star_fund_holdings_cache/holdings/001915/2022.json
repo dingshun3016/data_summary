@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "001915",
+    "name": "宝盈医疗健康沪港深股票A",
+    "base_name": "宝盈医疗健康沪港深股票"
+  },
+  "fetched_at": "2026-06-14 23:02:02",
+  "quarters": {
+    "2022-Q4": [
+      {
+        "stock_code": "300015",
+        "stock_name": "爱尔眼科",
+        "market_value_wan": 5838.25
+      },
+      {
+        "stock_code": "300759",
+        "stock_name": "康龙化成",
+        "market_value_wan": 3893.42
+      },
+      {
+        "stock_code": "000963",
+        "stock_name": "华东医药",
+        "market_value_wan": 3412.01
+      },
+      {
+        "stock_code": "300347",
+        "stock_name": "泰格医药",
+        "market_value_wan": 3393.42
+      },
+      {
+        "stock_code": "688050",
+        "stock_name": "爱博医疗",
+        "market_value_wan": 3392.63
+      },
+      {
+        "stock_code": "600763",
+        "stock_name": "通策医疗",
+        "market_value_wan": 3344.36
+      },
+      {
+        "stock_code": "600129",
+        "stock_name": "太极集团",
+        "market_value_wan": 3110.31
+      },
+      {
+        "stock_code": "605369",
+        "stock_name": "拱东医疗",
+        "market_value_wan": 2730.02
+      },
+      {
+        "stock_code": "300896",
+        "stock_name": "爱美客",
+        "market_value_wan": 2457.96
+      },
+      {
+        "stock_code": "603233",
+        "stock_name": "大参林",
+        "market_value_wan": 2355.76
+      }
+    ],
+    "2022-Q3": [
+      {
+        "stock_code": "300015",
+        "stock_name": "爱尔眼科",
+        "market_value_wan": 3882.96
+      },
+      {
+        "stock_code": "605369",
+        "stock_name": "拱东医疗",
+        "market_value_wan": 3502.74
+      },
+      {
+        "stock_code": "688301",
+        "stock_name": "奕瑞科技",
+        "market_value_wan": 3460.7
+      },
+      {
+        "stock_code": "600129",
+        "stock_name": "太极集团",
+        "market_value_wan": 3222.93
+      },
+      {
+        "stock_code": "000963",
+        "stock_name": "华东医药",
+        "market_value_wan": 2868.83
+      },
+      {
+        "stock_code": "688131",
+        "stock_name": "皓元医药",
+        "market_value_wan": 2561.87
+      },
+      {
+        "stock_code": "300760",
+        "stock_name": "迈瑞医疗",
+        "market_value_wan": 2427.07
+      },
+      {
+        "stock_code": "300347",
+        "stock_name": "泰格医药",
+        "market_value_wan": 2098.05
+      },
+      {
+        "stock_code": "688050",
+        "stock_name": "爱博医疗",
+        "market_value_wan": 2084.15
+      },
+      {
+        "stock_code": "300896",
+        "stock_name": "爱美客",
+        "market_value_wan": 1873.02
+      }
+    ],
+    "2022-Q2": [
+      {
+        "stock_code": "300015",
+        "stock_name": "爱尔眼科",
+        "market_value_wan": 4263.34
+      },
+      {
+        "stock_code": "605369",
+        "stock_name": "拱东医疗",
+        "market_value_wan": 3706.13
+      },
+      {
+        "stock_code": "300122",
+        "stock_name": "智飞生物",
+        "market_value_wan": 3665.44
+      },
+      {
+        "stock_code": "301122",
+        "stock_name": "采纳股份",
+        "market_value_wan": 3230.4
+      },
+      {
+        "stock_code": "688301",
+        "stock_name": "奕瑞科技",
+        "market_value_wan": 3054.8
+      },
+      {
+        "stock_code": "603259",
+        "stock_name": "药明康德",
+        "market_value_wan": 3005.1
+      },
+      {
+        "stock_code": "300760",
+        "stock_name": "迈瑞医疗",
+        "market_value_wan": 2868.07
+      },
+      {
+        "stock_code": "300347",
+        "stock_name": "泰格医药",
+        "market_value_wan": 2507.6
+      },
+      {
+        "stock_code": "603456",
+        "stock_name": "九洲药业",
+        "market_value_wan": 2506.98
+      },
+      {
+        "stock_code": "688131",
+        "stock_name": "皓元医药",
+        "market_value_wan": 2033.56
+      }
+    ],
+    "2022-Q1": [
+      {
+        "stock_code": "603259",
+        "stock_name": "药明康德",
+        "market_value_wan": 4834.36
+      },
+      {
+        "stock_code": "300122",
+        "stock_name": "智飞生物",
+        "market_value_wan": 4765.0
+      },
+      {
+        "stock_code": "605369",
+        "stock_name": "拱东医疗",
+        "market_value_wan": 3862.53
+      },
+      {
+        "stock_code": "300760",
+        "stock_name": "迈瑞医疗",
+        "market_value_wan": 3695.39
+      },
+      {
+        "stock_code": "300347",
+        "stock_name": "泰格医药",
+        "market_value_wan": 3251.67
+      },
+      {
+        "stock_code": "603392",
+        "stock_name": "万泰生物",
+        "market_value_wan": 2743.86
+      },
+      {
+        "stock_code": "300363",
+        "stock_name": "博腾股份",
+        "market_value_wan": 2611.48
+      },
+      {
+        "stock_code": "300015",
+        "stock_name": "爱尔眼科",
+        "market_value_wan": 2452.62
+      },
+      {
+        "stock_code": "688301",
+        "stock_name": "奕瑞科技",
+        "market_value_wan": 2347.04
+      },
+      {
+        "stock_code": "603456",
+        "stock_name": "九洲药业",
+        "market_value_wan": 2189.36
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "160607",
+    "name": "鹏华价值优势混合(LOF)",
+    "base_name": "鹏华价值优势混合(LOF)"
+  },
+  "fetched_at": "2026-06-14 23:51:48",
+  "quarters": {
+    "2024-Q4": [
+      {
+        "stock_code": "300432",
+        "stock_name": "富临精工",
+        "market_value_wan": 7739.37
+      },
+      {
+        "stock_code": "601567",
+        "stock_name": "三星医疗",
+        "market_value_wan": 5866.95
+      },
+      {
+        "stock_code": "300037",
+        "stock_name": "新宙邦",
+        "market_value_wan": 5781.37
+      },
+      {
+        "stock_code": "002311",
+        "stock_name": "海大集团",
+        "market_value_wan": 5312.31
+      },
+      {
+        "stock_code": "000425",
+        "stock_name": "徐工机械",
+        "market_value_wan": 4970.44
+      },
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 4665.9
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 4623.08
+      },
+      {
+        "stock_code": "603997",
+        "stock_name": "继峰股份",
+        "market_value_wan": 4604.85
+      },
+      {
+        "stock_code": "605499",
+        "stock_name": "东鹏饮料",
+        "market_value_wan": 4604.4
+      },
+      {
+        "stock_code": "002171",
+        "stock_name": "楚江新材",
+        "market_value_wan": 4374.03
+      }
+    ],
+    "2024-Q3": [
+      {
+        "stock_code": "601567",
+        "stock_name": "三星医疗",
+        "market_value_wan": 7592.87
+      },
+      {
+        "stock_code": "600482",
+        "stock_name": "中国动力",
+        "market_value_wan": 7215.64
+      },
+      {
+        "stock_code": "601601",
+        "stock_name": "中国太保",
+        "market_value_wan": 6430.0
+      },
+      {
+        "stock_code": "300498",
+        "stock_name": "温氏股份",
+        "market_value_wan": 5768.1
+      },
+      {
+        "stock_code": "605499",
+        "stock_name": "东鹏饮料",
+        "market_value_wan": 5744.42
+      },
+      {
+        "stock_code": "603997",
+        "stock_name": "继峰股份",
+        "market_value_wan": 5335.88
+      },
+      {
+        "stock_code": "000528",
+        "stock_name": "柳工",
+        "market_value_wan": 5212.0
+      },
+      {
+        "stock_code": "000682",
+        "stock_name": "东方电子",
+        "market_value_wan": 5081.98
+      },
+      {
+        "stock_code": "002332",
+        "stock_name": "仙琚制药",
+        "market_value_wan": 4881.33
+      },
+      {
+        "stock_code": "688187",
+        "stock_name": "时代电气",
+        "market_value_wan": 4838.24
+      }
+    ],
+    "2024-Q2": [
+      {
+        "stock_code": "601567",
+        "stock_name": "三星医疗",
+        "market_value_wan": 7003.26
+      },
+      {
+        "stock_code": "000400",
+        "stock_name": "许继电气",
+        "market_value_wan": 6552.01
+      },
+      {
+        "stock_code": "300498",
+        "stock_name": "温氏股份",
+        "market_value_wan": 5835.01
+      },
+      {
+        "stock_code": "600482",
+        "stock_name": "中国动力",
+        "market_value_wan": 5768.42
+      },
+      {
+        "stock_code": "000338",
+        "stock_name": "潍柴动力",
+        "market_value_wan": 5335.94
+      },
+      {
+        "stock_code": "600809",
+        "stock_name": "山西汾酒",
+        "market_value_wan": 5201.36
+      },
+      {
+        "stock_code": "002594",
+        "stock_name": "比亚迪",
+        "market_value_wan": 4654.65
+      },
+      {
+        "stock_code": "688009",
+        "stock_name": "中国通号",
+        "market_value_wan": 4613.14
+      },
+      {
+        "stock_code": "603997",
+        "stock_name": "继峰股份",
+        "market_value_wan": 3931.18
+      },
+      {
+        "stock_code": "605499",
+        "stock_name": "东鹏饮料",
+        "market_value_wan": 3837.91
+      }
+    ],
+    "2024-Q1": [
+      {
+        "stock_code": "601567",
+        "stock_name": "三星医疗",
+        "market_value_wan": 9737.4
+      },
+      {
+        "stock_code": "600809",
+        "stock_name": "山西汾酒",
+        "market_value_wan": 6135.58
+      },
+      {
+        "stock_code": "300498",
+        "stock_name": "温氏股份",
+        "market_value_wan": 6132.44
+      },
+      {
+        "stock_code": "603997",
+        "stock_name": "继峰股份",
+        "market_value_wan": 5910.17
+      },
+      {
+        "stock_code": "000338",
+        "stock_name": "潍柴动力",
+        "market_value_wan": 5608.47
+      },
+      {
+        "stock_code": "600482",
+        "stock_name": "中国动力",
+        "market_value_wan": 4927.02
+      },
+      {
+        "stock_code": "605499",
+        "stock_name": "东鹏饮料",
+        "market_value_wan": 4890.22
+      },
+      {
+        "stock_code": "688009",
+        "stock_name": "中国通号",
+        "market_value_wan": 4827.55
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 4529.71
+      },
+      {
+        "stock_code": "000400",
+        "stock_name": "许继电气",
+        "market_value_wan": 4414.47
+      }
+    ]
+  }
+}

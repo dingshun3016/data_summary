@@ -1,0 +1,48 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "005963",
+    "name": "宝盈人工智能股票C",
+    "base_name": "宝盈人工智能股票"
+  },
+  "fetched_at": "2026-06-14 23:20:04",
+  "quarters": {
+    "2018-Q4": [
+      {
+        "stock_code": "002463",
+        "stock_name": "沪电股份",
+        "market_value_wan": 365.67
+      },
+      {
+        "stock_code": "300567",
+        "stock_name": "精测电子",
+        "market_value_wan": 353.36
+      },
+      {
+        "stock_code": "300059",
+        "stock_name": "东方财富",
+        "market_value_wan": 302.5
+      },
+      {
+        "stock_code": "300450",
+        "stock_name": "先导智能",
+        "market_value_wan": 292.18
+      },
+      {
+        "stock_code": "603960",
+        "stock_name": "克来机电",
+        "market_value_wan": 287.8
+      },
+      {
+        "stock_code": "300550",
+        "stock_name": "和仁科技",
+        "market_value_wan": 287.54
+      },
+      {
+        "stock_code": "601888",
+        "stock_name": "中国中免",
+        "market_value_wan": 261.87
+      }
+    ]
+  }
+}

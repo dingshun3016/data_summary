@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "320020",
+    "name": "诺安策略精选股票A",
+    "base_name": "诺安策略精选股票"
+  },
+  "fetched_at": "2026-06-14 23:58:56",
+  "quarters": {
+    "2020-Q4": [
+      {
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "market_value_wan": 725.86
+      },
+      {
+        "stock_code": "000002",
+        "stock_name": "万科A",
+        "market_value_wan": 723.81
+      },
+      {
+        "stock_code": "601668",
+        "stock_name": "中国建筑",
+        "market_value_wan": 389.9
+      },
+      {
+        "stock_code": "600461",
+        "stock_name": "洪城环境",
+        "market_value_wan": 338.19
+      },
+      {
+        "stock_code": "601233",
+        "stock_name": "桐昆股份",
+        "market_value_wan": 312.14
+      },
+      {
+        "stock_code": "601166",
+        "stock_name": "兴业银行",
+        "market_value_wan": 310.75
+      },
+      {
+        "stock_code": "601601",
+        "stock_name": "中国太保",
+        "market_value_wan": 230.4
+      },
+      {
+        "stock_code": "603156",
+        "stock_name": "养元饮品",
+        "market_value_wan": 200.91
+      },
+      {
+        "stock_code": "002120",
+        "stock_name": "韵达股份",
+        "market_value_wan": 173.49
+      },
+      {
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "market_value_wan": 158.22
+      }
+    ],
+    "2020-Q3": [
+      {
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "market_value_wan": 718.76
+      },
+      {
+        "stock_code": "000002",
+        "stock_name": "万科A",
+        "market_value_wan": 715.35
+      },
+      {
+        "stock_code": "601233",
+        "stock_name": "桐昆股份",
+        "market_value_wan": 336.76
+      },
+      {
+        "stock_code": "601166",
+        "stock_name": "兴业银行",
+        "market_value_wan": 334.86
+      },
+      {
+        "stock_code": "600461",
+        "stock_name": "洪城环境",
+        "market_value_wan": 317.9
+      },
+      {
+        "stock_code": "603260",
+        "stock_name": "合盛硅业",
+        "market_value_wan": 238.15
+      },
+      {
+        "stock_code": "002422",
+        "stock_name": "科伦药业",
+        "market_value_wan": 237.95
+      },
+      {
+        "stock_code": "601088",
+        "stock_name": "中国神华",
+        "market_value_wan": 213.29
+      },
+      {
+        "stock_code": "000581",
+        "stock_name": "威孚高科",
+        "market_value_wan": 203.06
+      },
+      {
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "market_value_wan": 203.04
+      }
+    ],
+    "2020-Q2": [
+      {
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "market_value_wan": 681.52
+      },
+      {
+        "stock_code": "000002",
+        "stock_name": "万科A",
+        "market_value_wan": 667.09
+      },
+      {
+        "stock_code": "002601",
+        "stock_name": "龙佰集团",
+        "market_value_wan": 585.5
+      },
+      {
+        "stock_code": "603260",
+        "stock_name": "合盛硅业",
+        "market_value_wan": 404.09
+      },
+      {
+        "stock_code": "600461",
+        "stock_name": "洪城环境",
+        "market_value_wan": 316.96
+      },
+      {
+        "stock_code": "300146",
+        "stock_name": "汤臣倍健",
+        "market_value_wan": 259.91
+      },
+      {
+        "stock_code": "601233",
+        "stock_name": "桐昆股份",
+        "market_value_wan": 246.52
+      },
+      {
+        "stock_code": "002422",
+        "stock_name": "科伦药业",
+        "market_value_wan": 243.79
+      },
+      {
+        "stock_code": "000581",
+        "stock_name": "威孚高科",
+        "market_value_wan": 243.61
+      },
+      {
+        "stock_code": "002641",
+        "stock_name": "公元股份",
+        "market_value_wan": 233.98
+      }
+    ],
+    "2020-Q1": [
+      {
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "market_value_wan": 785.43
+      },
+      {
+        "stock_code": "601601",
+        "stock_name": "中国太保",
+        "market_value_wan": 768.71
+      },
+      {
+        "stock_code": "002601",
+        "stock_name": "龙佰集团",
+        "market_value_wan": 564.78
+      },
+      {
+        "stock_code": "000002",
+        "stock_name": "万科A",
+        "market_value_wan": 441.18
+      },
+      {
+        "stock_code": "603260",
+        "stock_name": "合盛硅业",
+        "market_value_wan": 406.03
+      },
+      {
+        "stock_code": "600461",
+        "stock_name": "洪城环境",
+        "market_value_wan": 379.41
+      },
+      {
+        "stock_code": "300146",
+        "stock_name": "汤臣倍健",
+        "market_value_wan": 327.07
+      },
+      {
+        "stock_code": "002027",
+        "stock_name": "分众传媒",
+        "market_value_wan": 321.65
+      },
+      {
+        "stock_code": "601933",
+        "stock_name": "永辉超市",
+        "market_value_wan": 212.48
+      },
+      {
+        "stock_code": "000581",
+        "stock_name": "威孚高科",
+        "market_value_wan": 208.43
+      }
+    ]
+  }
+}

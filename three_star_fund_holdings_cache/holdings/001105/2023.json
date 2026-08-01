@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "001105",
+    "name": "信澳转型创新股票A",
+    "base_name": "信澳转型创新股票"
+  },
+  "fetched_at": "2026-06-14 22:53:38",
+  "quarters": {
+    "2023-Q4": [
+      {
+        "stock_code": "002126",
+        "stock_name": "银轮股份",
+        "market_value_wan": 873.46
+      },
+      {
+        "stock_code": "300115",
+        "stock_name": "长盈精密",
+        "market_value_wan": 870.53
+      },
+      {
+        "stock_code": "688025",
+        "stock_name": "杰普特",
+        "market_value_wan": 860.29
+      },
+      {
+        "stock_code": "301308",
+        "stock_name": "江波龙",
+        "market_value_wan": 854.22
+      },
+      {
+        "stock_code": "688772",
+        "stock_name": "珠海冠宇",
+        "market_value_wan": 805.79
+      },
+      {
+        "stock_code": "688601",
+        "stock_name": "力芯微",
+        "market_value_wan": 757.26
+      },
+      {
+        "stock_code": "301319",
+        "stock_name": "唯特偶",
+        "market_value_wan": 728.29
+      },
+      {
+        "stock_code": "688596",
+        "stock_name": "正帆科技",
+        "market_value_wan": 727.67
+      },
+      {
+        "stock_code": "300747",
+        "stock_name": "锐科激光",
+        "market_value_wan": 640.96
+      },
+      {
+        "stock_code": "300395",
+        "stock_name": "菲利华",
+        "market_value_wan": 638.34
+      }
+    ],
+    "2023-Q3": [
+      {
+        "stock_code": "301308",
+        "stock_name": "江波龙",
+        "market_value_wan": 864.61
+      },
+      {
+        "stock_code": "002472",
+        "stock_name": "双环传动",
+        "market_value_wan": 826.63
+      },
+      {
+        "stock_code": "000034",
+        "stock_name": "神州数码",
+        "market_value_wan": 690.25
+      },
+      {
+        "stock_code": "603986",
+        "stock_name": "兆易创新",
+        "market_value_wan": 683.3
+      },
+      {
+        "stock_code": "688596",
+        "stock_name": "正帆科技",
+        "market_value_wan": 671.79
+      },
+      {
+        "stock_code": "301319",
+        "stock_name": "唯特偶",
+        "market_value_wan": 642.19
+      },
+      {
+        "stock_code": "688019",
+        "stock_name": "安集科技",
+        "market_value_wan": 641.15
+      },
+      {
+        "stock_code": "300308",
+        "stock_name": "中际旭创",
+        "market_value_wan": 632.46
+      },
+      {
+        "stock_code": "603859",
+        "stock_name": "能科科技",
+        "market_value_wan": 626.86
+      },
+      {
+        "stock_code": "002126",
+        "stock_name": "银轮股份",
+        "market_value_wan": 621.1
+      }
+    ],
+    "2023-Q2": [
+      {
+        "stock_code": "300308",
+        "stock_name": "中际旭创",
+        "market_value_wan": 2297.52
+      },
+      {
+        "stock_code": "601138",
+        "stock_name": "工业富联",
+        "market_value_wan": 1870.34
+      },
+      {
+        "stock_code": "300002",
+        "stock_name": "神州泰岳",
+        "market_value_wan": 1825.25
+      },
+      {
+        "stock_code": "002602",
+        "stock_name": "世纪华通",
+        "market_value_wan": 1817.43
+      },
+      {
+        "stock_code": "603859",
+        "stock_name": "能科科技",
+        "market_value_wan": 1222.09
+      },
+      {
+        "stock_code": "301319",
+        "stock_name": "唯特偶",
+        "market_value_wan": 1047.29
+      },
+      {
+        "stock_code": "002876",
+        "stock_name": "三利谱",
+        "market_value_wan": 1035.93
+      },
+      {
+        "stock_code": "688332",
+        "stock_name": "中科蓝讯",
+        "market_value_wan": 1005.46
+      },
+      {
+        "stock_code": "688120",
+        "stock_name": "华海清科",
+        "market_value_wan": 931.9
+      },
+      {
+        "stock_code": "300502",
+        "stock_name": "新易盛",
+        "market_value_wan": 885.65
+      }
+    ],
+    "2023-Q1": [
+      {
+        "stock_code": "002459",
+        "stock_name": "晶澳科技",
+        "market_value_wan": 2218.52
+      },
+      {
+        "stock_code": "002126",
+        "stock_name": "银轮股份",
+        "market_value_wan": 1452.95
+      },
+      {
+        "stock_code": "300982",
+        "stock_name": "苏文电能",
+        "market_value_wan": 1109.2
+      },
+      {
+        "stock_code": "603290",
+        "stock_name": "斯达半导",
+        "market_value_wan": 1109.18
+      },
+      {
+        "stock_code": "603859",
+        "stock_name": "能科科技",
+        "market_value_wan": 1089.84
+      },
+      {
+        "stock_code": "688223",
+        "stock_name": "晶科能源",
+        "market_value_wan": 1077.21
+      },
+      {
+        "stock_code": "301319",
+        "stock_name": "唯特偶",
+        "market_value_wan": 1055.13
+      },
+      {
+        "stock_code": "688517",
+        "stock_name": "金冠电气",
+        "market_value_wan": 1000.67
+      },
+      {
+        "stock_code": "300286",
+        "stock_name": "安科瑞",
+        "market_value_wan": 1000.42
+      },
+      {
+        "stock_code": "300613",
+        "stock_name": "富瀚微",
+        "market_value_wan": 971.67
+      }
+    ]
+  }
+}

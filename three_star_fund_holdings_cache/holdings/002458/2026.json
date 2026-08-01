@@ -1,0 +1,115 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "002458",
+    "name": "国泰民利策略收益混合",
+    "base_name": "国泰民利策略收益混合"
+  },
+  "fetched_at": "2026-08-01 20:55:14",
+  "quarters": {
+    "2026-Q2": [
+      {
+        "stock_code": "301087",
+        "stock_name": "可孚医疗",
+        "market_value_wan": 84.82
+      },
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 80.26
+      },
+      {
+        "stock_code": "000100",
+        "stock_name": "TCL科技",
+        "market_value_wan": 59.66
+      },
+      {
+        "stock_code": "601665",
+        "stock_name": "齐鲁银行",
+        "market_value_wan": 58.68
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 55.02
+      },
+      {
+        "stock_code": "000657",
+        "stock_name": "中钨高新",
+        "market_value_wan": 38.29
+      },
+      {
+        "stock_code": "600499",
+        "stock_name": "科达制造",
+        "market_value_wan": 37.95
+      },
+      {
+        "stock_code": "688981",
+        "stock_name": "中芯国际",
+        "market_value_wan": 34.67
+      },
+      {
+        "stock_code": "605377",
+        "stock_name": "华旺科技",
+        "market_value_wan": 33.02
+      },
+      {
+        "stock_code": "688256",
+        "stock_name": "寒武纪",
+        "market_value_wan": 31.91
+      }
+    ],
+    "2026-Q1": [
+      {
+        "stock_code": "601665",
+        "stock_name": "齐鲁银行",
+        "market_value_wan": 58.58
+      },
+      {
+        "stock_code": "601601",
+        "stock_name": "中国太保",
+        "market_value_wan": 48.59
+      },
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 41.38
+      },
+      {
+        "stock_code": "002984",
+        "stock_name": "森麒麟",
+        "market_value_wan": 38.25
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 36.15
+      },
+      {
+        "stock_code": "301087",
+        "stock_name": "可孚医疗",
+        "market_value_wan": 35.99
+      },
+      {
+        "stock_code": "600499",
+        "stock_name": "科达制造",
+        "market_value_wan": 35.28
+      },
+      {
+        "stock_code": "002379",
+        "stock_name": "宏桥控股",
+        "market_value_wan": 35.2
+      },
+      {
+        "stock_code": "000100",
+        "stock_name": "TCL科技",
+        "market_value_wan": 31.77
+      },
+      {
+        "stock_code": "605377",
+        "stock_name": "华旺科技",
+        "market_value_wan": 31.74
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "020015",
+    "name": "国泰区位优势混合A",
+    "base_name": "国泰区位优势混合"
+  },
+  "fetched_at": "2026-06-14 23:48:28",
+  "quarters": {
+    "2022-Q4": [
+      {
+        "stock_code": "003006",
+        "stock_name": "百亚股份",
+        "market_value_wan": 1659.55
+      },
+      {
+        "stock_code": "300687",
+        "stock_name": "赛意信息",
+        "market_value_wan": 1658.08
+      },
+      {
+        "stock_code": "300203",
+        "stock_name": "聚光科技",
+        "market_value_wan": 1610.59
+      },
+      {
+        "stock_code": "300986",
+        "stock_name": "志特新材",
+        "market_value_wan": 1431.81
+      },
+      {
+        "stock_code": "002831",
+        "stock_name": "裕同科技",
+        "market_value_wan": 1411.3
+      },
+      {
+        "stock_code": "603345",
+        "stock_name": "安井食品",
+        "market_value_wan": 1369.13
+      },
+      {
+        "stock_code": "688768",
+        "stock_name": "容知日新",
+        "market_value_wan": 1277.39
+      },
+      {
+        "stock_code": "300938",
+        "stock_name": "信测标准",
+        "market_value_wan": 1182.77
+      },
+      {
+        "stock_code": "603100",
+        "stock_name": "川仪股份",
+        "market_value_wan": 1131.45
+      },
+      {
+        "stock_code": "002940",
+        "stock_name": "昂利康",
+        "market_value_wan": 1126.86
+      }
+    ],
+    "2022-Q3": [
+      {
+        "stock_code": "603345",
+        "stock_name": "安井食品",
+        "market_value_wan": 1282.26
+      },
+      {
+        "stock_code": "603908",
+        "stock_name": "牧高笛",
+        "market_value_wan": 1175.48
+      },
+      {
+        "stock_code": "603100",
+        "stock_name": "川仪股份",
+        "market_value_wan": 1102.25
+      },
+      {
+        "stock_code": "603086",
+        "stock_name": "先达股份",
+        "market_value_wan": 1066.67
+      },
+      {
+        "stock_code": "600487",
+        "stock_name": "亨通光电",
+        "market_value_wan": 1055.78
+      },
+      {
+        "stock_code": "601869",
+        "stock_name": "长飞光纤",
+        "market_value_wan": 1055.28
+      },
+      {
+        "stock_code": "002831",
+        "stock_name": "裕同科技",
+        "market_value_wan": 999.8
+      },
+      {
+        "stock_code": "300938",
+        "stock_name": "信测标准",
+        "market_value_wan": 951.87
+      },
+      {
+        "stock_code": "688639",
+        "stock_name": "华恒生物",
+        "market_value_wan": 788.38
+      },
+      {
+        "stock_code": "688768",
+        "stock_name": "容知日新",
+        "market_value_wan": 766.54
+      }
+    ],
+    "2022-Q2": [
+      {
+        "stock_code": "002594",
+        "stock_name": "比亚迪",
+        "market_value_wan": 1253.92
+      },
+      {
+        "stock_code": "600702",
+        "stock_name": "舍得酒业",
+        "market_value_wan": 1101.14
+      },
+      {
+        "stock_code": "603345",
+        "stock_name": "安井食品",
+        "market_value_wan": 1022.33
+      },
+      {
+        "stock_code": "002050",
+        "stock_name": "三花智控",
+        "market_value_wan": 976.64
+      },
+      {
+        "stock_code": "601238",
+        "stock_name": "广汽集团",
+        "market_value_wan": 906.93
+      },
+      {
+        "stock_code": "002129",
+        "stock_name": "TCL中环",
+        "market_value_wan": 896.31
+      },
+      {
+        "stock_code": "601633",
+        "stock_name": "长城汽车",
+        "market_value_wan": 891.18
+      },
+      {
+        "stock_code": "603908",
+        "stock_name": "牧高笛",
+        "market_value_wan": 804.02
+      },
+      {
+        "stock_code": "300751",
+        "stock_name": "迈为股份",
+        "market_value_wan": 785.44
+      },
+      {
+        "stock_code": "601966",
+        "stock_name": "玲珑轮胎",
+        "market_value_wan": 741.57
+      }
+    ],
+    "2022-Q1": [
+      {
+        "stock_code": "002594",
+        "stock_name": "比亚迪",
+        "market_value_wan": 864.05
+      },
+      {
+        "stock_code": "001914",
+        "stock_name": "招商积余",
+        "market_value_wan": 792.31
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 747.59
+      },
+      {
+        "stock_code": "603363",
+        "stock_name": "*ST傲农",
+        "market_value_wan": 704.0
+      },
+      {
+        "stock_code": "600702",
+        "stock_name": "舍得酒业",
+        "market_value_wan": 697.25
+      },
+      {
+        "stock_code": "002714",
+        "stock_name": "牧原股份",
+        "market_value_wan": 691.42
+      },
+      {
+        "stock_code": "300498",
+        "stock_name": "温氏股份",
+        "market_value_wan": 684.65
+      },
+      {
+        "stock_code": "002352",
+        "stock_name": "顺丰控股",
+        "market_value_wan": 626.36
+      },
+      {
+        "stock_code": "002548",
+        "stock_name": "金新农",
+        "market_value_wan": 503.71
+      },
+      {
+        "stock_code": "002840",
+        "stock_name": "华统股份",
+        "market_value_wan": 446.6
+      }
+    ]
+  }
+}

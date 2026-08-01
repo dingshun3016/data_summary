@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "260115",
+    "name": "景顺长城中小盘混合A",
+    "base_name": "景顺长城中小盘混合"
+  },
+  "fetched_at": "2026-06-14 22:43:46",
+  "quarters": {
+    "2020-Q4": [
+      {
+        "stock_code": "603161",
+        "stock_name": "科华控股",
+        "market_value_wan": 1055.97
+      },
+      {
+        "stock_code": "603920",
+        "stock_name": "世运电路",
+        "market_value_wan": 1011.35
+      },
+      {
+        "stock_code": "300523",
+        "stock_name": "辰安科技",
+        "market_value_wan": 948.74
+      },
+      {
+        "stock_code": "000725",
+        "stock_name": "京东方A",
+        "market_value_wan": 846.72
+      },
+      {
+        "stock_code": "603516",
+        "stock_name": "淳中科技",
+        "market_value_wan": 825.27
+      },
+      {
+        "stock_code": "600893",
+        "stock_name": "航发动力",
+        "market_value_wan": 787.57
+      },
+      {
+        "stock_code": "300378",
+        "stock_name": "鼎捷数智",
+        "market_value_wan": 767.36
+      },
+      {
+        "stock_code": "002138",
+        "stock_name": "顺络电子",
+        "market_value_wan": 747.61
+      },
+      {
+        "stock_code": "000100",
+        "stock_name": "TCL科技",
+        "market_value_wan": 732.71
+      },
+      {
+        "stock_code": "300673",
+        "stock_name": "佩蒂股份",
+        "market_value_wan": 636.19
+      }
+    ],
+    "2020-Q3": [
+      {
+        "stock_code": "600893",
+        "stock_name": "航发动力",
+        "market_value_wan": 1231.73
+      },
+      {
+        "stock_code": "300673",
+        "stock_name": "佩蒂股份",
+        "market_value_wan": 1217.42
+      },
+      {
+        "stock_code": "603626",
+        "stock_name": "科森科技",
+        "market_value_wan": 1196.55
+      },
+      {
+        "stock_code": "300523",
+        "stock_name": "辰安科技",
+        "market_value_wan": 1191.81
+      },
+      {
+        "stock_code": "603920",
+        "stock_name": "世运电路",
+        "market_value_wan": 951.04
+      },
+      {
+        "stock_code": "603161",
+        "stock_name": "科华控股",
+        "market_value_wan": 929.4
+      },
+      {
+        "stock_code": "600823",
+        "stock_name": "*ST世茂",
+        "market_value_wan": 868.81
+      },
+      {
+        "stock_code": "603516",
+        "stock_name": "淳中科技",
+        "market_value_wan": 867.17
+      },
+      {
+        "stock_code": "603083",
+        "stock_name": "剑桥科技",
+        "market_value_wan": 842.66
+      },
+      {
+        "stock_code": "300630",
+        "stock_name": "普利制药",
+        "market_value_wan": 828.7
+      }
+    ],
+    "2020-Q2": [
+      {
+        "stock_code": "300523",
+        "stock_name": "辰安科技",
+        "market_value_wan": 1361.9
+      },
+      {
+        "stock_code": "300673",
+        "stock_name": "佩蒂股份",
+        "market_value_wan": 1250.85
+      },
+      {
+        "stock_code": "603626",
+        "stock_name": "科森科技",
+        "market_value_wan": 973.1
+      },
+      {
+        "stock_code": "603516",
+        "stock_name": "淳中科技",
+        "market_value_wan": 887.69
+      },
+      {
+        "stock_code": "600216",
+        "stock_name": "浙江医药",
+        "market_value_wan": 839.74
+      },
+      {
+        "stock_code": "000725",
+        "stock_name": "京东方A",
+        "market_value_wan": 816.13
+      },
+      {
+        "stock_code": "002449",
+        "stock_name": "国星光电",
+        "market_value_wan": 796.46
+      },
+      {
+        "stock_code": "603678",
+        "stock_name": "火炬电子",
+        "market_value_wan": 796.05
+      },
+      {
+        "stock_code": "300420",
+        "stock_name": "五洋自控",
+        "market_value_wan": 771.97
+      },
+      {
+        "stock_code": "600893",
+        "stock_name": "航发动力",
+        "market_value_wan": 762.87
+      }
+    ],
+    "2020-Q1": [
+      {
+        "stock_code": "300523",
+        "stock_name": "辰安科技",
+        "market_value_wan": 1139.76
+      },
+      {
+        "stock_code": "603516",
+        "stock_name": "淳中科技",
+        "market_value_wan": 910.47
+      },
+      {
+        "stock_code": "603214",
+        "stock_name": "爱婴室",
+        "market_value_wan": 837.49
+      },
+      {
+        "stock_code": "300673",
+        "stock_name": "佩蒂股份",
+        "market_value_wan": 826.5
+      },
+      {
+        "stock_code": "603711",
+        "stock_name": "香飘飘",
+        "market_value_wan": 809.23
+      },
+      {
+        "stock_code": "300420",
+        "stock_name": "五洋自控",
+        "market_value_wan": 794.71
+      },
+      {
+        "stock_code": "002449",
+        "stock_name": "国星光电",
+        "market_value_wan": 752.51
+      },
+      {
+        "stock_code": "603626",
+        "stock_name": "科森科技",
+        "market_value_wan": 734.43
+      },
+      {
+        "stock_code": "603678",
+        "stock_name": "火炬电子",
+        "market_value_wan": 719.72
+      },
+      {
+        "stock_code": "600893",
+        "stock_name": "航发动力",
+        "market_value_wan": 688.79
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "010779",
+    "name": "西部利得量化优选一年持有A",
+    "base_name": "西部利得量化优选一年持有"
+  },
+  "fetched_at": "2026-06-14 23:42:51",
+  "quarters": {
+    "2024-Q4": [
+      {
+        "stock_code": "300360",
+        "stock_name": "炬华科技",
+        "market_value_wan": 175.92
+      },
+      {
+        "stock_code": "002795",
+        "stock_name": "永和智控",
+        "market_value_wan": 148.23
+      },
+      {
+        "stock_code": "300453",
+        "stock_name": "三鑫医疗",
+        "market_value_wan": 131.97
+      },
+      {
+        "stock_code": "603998",
+        "stock_name": "方盛制药",
+        "market_value_wan": 128.06
+      },
+      {
+        "stock_code": "000655",
+        "stock_name": "金岭矿业",
+        "market_value_wan": 126.38
+      },
+      {
+        "stock_code": "300967",
+        "stock_name": "晓鸣股份",
+        "market_value_wan": 113.04
+      },
+      {
+        "stock_code": "300922",
+        "stock_name": "天秦装备",
+        "market_value_wan": 111.21
+      },
+      {
+        "stock_code": "300389",
+        "stock_name": "艾比森",
+        "market_value_wan": 109.21
+      },
+      {
+        "stock_code": "300645",
+        "stock_name": "正元智慧",
+        "market_value_wan": 107.68
+      },
+      {
+        "stock_code": "000593",
+        "stock_name": "德龙汇能",
+        "market_value_wan": 106.06
+      }
+    ],
+    "2024-Q3": [
+      {
+        "stock_code": "300453",
+        "stock_name": "三鑫医疗",
+        "market_value_wan": 314.52
+      },
+      {
+        "stock_code": "002422",
+        "stock_name": "科伦药业",
+        "market_value_wan": 218.88
+      },
+      {
+        "stock_code": "605499",
+        "stock_name": "东鹏饮料",
+        "market_value_wan": 214.07
+      },
+      {
+        "stock_code": "002001",
+        "stock_name": "新和成",
+        "market_value_wan": 212.84
+      },
+      {
+        "stock_code": "003006",
+        "stock_name": "百亚股份",
+        "market_value_wan": 208.18
+      },
+      {
+        "stock_code": "002003",
+        "stock_name": "伟星股份",
+        "market_value_wan": 200.66
+      },
+      {
+        "stock_code": "603337",
+        "stock_name": "杰克股份",
+        "market_value_wan": 200.5
+      },
+      {
+        "stock_code": "601899",
+        "stock_name": "紫金矿业",
+        "market_value_wan": 199.36
+      },
+      {
+        "stock_code": "300445",
+        "stock_name": "康斯特",
+        "market_value_wan": 186.95
+      },
+      {
+        "stock_code": "603727",
+        "stock_name": "博迈科",
+        "market_value_wan": 165.74
+      }
+    ],
+    "2024-Q2": [
+      {
+        "stock_code": "600566",
+        "stock_name": "济川药业",
+        "market_value_wan": 291.73
+      },
+      {
+        "stock_code": "600285",
+        "stock_name": "羚锐制药",
+        "market_value_wan": 288.83
+      },
+      {
+        "stock_code": "300193",
+        "stock_name": "佳士科技",
+        "market_value_wan": 217.41
+      },
+      {
+        "stock_code": "601127",
+        "stock_name": "赛力斯",
+        "market_value_wan": 216.87
+      },
+      {
+        "stock_code": "600050",
+        "stock_name": "中国联通",
+        "market_value_wan": 215.4
+      },
+      {
+        "stock_code": "000543",
+        "stock_name": "皖能电力",
+        "market_value_wan": 215.23
+      },
+      {
+        "stock_code": "688226",
+        "stock_name": "威腾电气",
+        "market_value_wan": 209.41
+      },
+      {
+        "stock_code": "600938",
+        "stock_name": "中国海油",
+        "market_value_wan": 208.56
+      },
+      {
+        "stock_code": "688510",
+        "stock_name": "航亚科技",
+        "market_value_wan": 207.85
+      },
+      {
+        "stock_code": "002027",
+        "stock_name": "分众传媒",
+        "market_value_wan": 207.56
+      }
+    ],
+    "2024-Q1": [
+      {
+        "stock_code": "601857",
+        "stock_name": "中国石油",
+        "market_value_wan": 292.84
+      },
+      {
+        "stock_code": "601101",
+        "stock_name": "昊华能源",
+        "market_value_wan": 285.71
+      },
+      {
+        "stock_code": "301339",
+        "stock_name": "通行宝",
+        "market_value_wan": 285.59
+      },
+      {
+        "stock_code": "600971",
+        "stock_name": "恒源煤电",
+        "market_value_wan": 282.79
+      },
+      {
+        "stock_code": "600269",
+        "stock_name": "赣粤高速",
+        "market_value_wan": 281.53
+      },
+      {
+        "stock_code": "601699",
+        "stock_name": "潞安环能",
+        "market_value_wan": 280.56
+      },
+      {
+        "stock_code": "600479",
+        "stock_name": "千金药业",
+        "market_value_wan": 279.61
+      },
+      {
+        "stock_code": "600461",
+        "stock_name": "洪城环境",
+        "market_value_wan": 278.54
+      },
+      {
+        "stock_code": "600546",
+        "stock_name": "山煤国际",
+        "market_value_wan": 278.34
+      },
+      {
+        "stock_code": "600395",
+        "stock_name": "盘江股份",
+        "market_value_wan": 278.16
+      }
+    ]
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "110001",
+    "name": "易方达平稳增长混合",
+    "base_name": "易方达平稳增长混合"
+  },
+  "fetched_at": "2026-08-01 21:00:04",
+  "quarters": {
+    "2026-Q2": [
+      {
+        "stock_code": "300502",
+        "stock_name": "新易盛",
+        "market_value_wan": 47470.62
+      },
+      {
+        "stock_code": "002384",
+        "stock_name": "东山精密",
+        "market_value_wan": 42400.8
+      },
+      {
+        "stock_code": "688256",
+        "stock_name": "寒武纪",
+        "market_value_wan": 41343.25
+      },
+      {
+        "stock_code": "300475",
+        "stock_name": "香农芯创",
+        "market_value_wan": 32277.0
+      },
+      {
+        "stock_code": "300308",
+        "stock_name": "中际旭创",
+        "market_value_wan": 26555.7
+      },
+      {
+        "stock_code": "002371",
+        "stock_name": "北方华创",
+        "market_value_wan": 18822.29
+      },
+      {
+        "stock_code": "688777",
+        "stock_name": "中控技术",
+        "market_value_wan": 13814.59
+      },
+      {
+        "stock_code": "688433",
+        "stock_name": "华曙高科",
+        "market_value_wan": 9861.36
+      },
+      {
+        "stock_code": "002044",
+        "stock_name": "美年健康",
+        "market_value_wan": 8002.08
+      },
+      {
+        "stock_code": "000977",
+        "stock_name": "浪潮信息",
+        "market_value_wan": 7329.0
+      }
+    ],
+    "2026-Q1": [
+      {
+        "stock_code": "601615",
+        "stock_name": "明阳智能",
+        "market_value_wan": 14275.33
+      },
+      {
+        "stock_code": "300394",
+        "stock_name": "天孚通信",
+        "market_value_wan": 12389.73
+      },
+      {
+        "stock_code": "300207",
+        "stock_name": "欣旺达",
+        "market_value_wan": 9655.68
+      },
+      {
+        "stock_code": "002044",
+        "stock_name": "美年健康",
+        "market_value_wan": 9427.94
+      },
+      {
+        "stock_code": "688777",
+        "stock_name": "中控技术",
+        "market_value_wan": 8846.74
+      },
+      {
+        "stock_code": "600276",
+        "stock_name": "恒瑞医药",
+        "market_value_wan": 8818.32
+      },
+      {
+        "stock_code": "600160",
+        "stock_name": "巨化股份",
+        "market_value_wan": 8812.22
+      },
+      {
+        "stock_code": "688433",
+        "stock_name": "华曙高科",
+        "market_value_wan": 7556.0
+      },
+      {
+        "stock_code": "300857",
+        "stock_name": "协创数据",
+        "market_value_wan": 6520.32
+      },
+      {
+        "stock_code": "002487",
+        "stock_name": "大金重工",
+        "market_value_wan": 5587.85
+      }
+    ]
+  }
+}

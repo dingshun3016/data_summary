@@ -1,0 +1,79 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "519139",
+    "name": "海富通沪港深混合A",
+    "base_name": "海富通沪港深混合"
+  },
+  "fetched_at": "2026-06-15 00:02:52",
+  "quarters": {
+    "2021-Q4": [
+      {
+        "stock_code": "603882",
+        "stock_name": "金域医学",
+        "market_value_wan": 1113.7
+      },
+      {
+        "stock_code": "002142",
+        "stock_name": "宁波银行",
+        "market_value_wan": 1025.9
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 984.0
+      }
+    ],
+    "2021-Q3": [
+      {
+        "stock_code": "002142",
+        "stock_name": "宁波银行",
+        "market_value_wan": 1182.8
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 677.1
+      },
+      {
+        "stock_code": "603882",
+        "stock_name": "金域医学",
+        "market_value_wan": 622.71
+      }
+    ],
+    "2021-Q2": [
+      {
+        "stock_code": "600031",
+        "stock_name": "三一重工",
+        "market_value_wan": 1610.77
+      },
+      {
+        "stock_code": "002142",
+        "stock_name": "宁波银行",
+        "market_value_wan": 1178.06
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 1007.78
+      }
+    ],
+    "2021-Q1": [
+      {
+        "stock_code": "600031",
+        "stock_name": "三一重工",
+        "market_value_wan": 1892.25
+      },
+      {
+        "stock_code": "002142",
+        "stock_name": "宁波银行",
+        "market_value_wan": 1032.26
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 984.41
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "003877",
+    "name": "富国久利稳健配置混合A",
+    "base_name": "富国久利稳健配置混合"
+  },
+  "fetched_at": "2026-06-14 23:11:52",
+  "quarters": {
+    "2023-Q4": [
+      {
+        "stock_code": "002353",
+        "stock_name": "杰瑞股份",
+        "market_value_wan": 136.33
+      },
+      {
+        "stock_code": "300707",
+        "stock_name": "威唐工业",
+        "market_value_wan": 116.37
+      },
+      {
+        "stock_code": "002653",
+        "stock_name": "海思科",
+        "market_value_wan": 115.75
+      },
+      {
+        "stock_code": "300848",
+        "stock_name": "美瑞新材",
+        "market_value_wan": 101.39
+      },
+      {
+        "stock_code": "002092",
+        "stock_name": "ST中泰",
+        "market_value_wan": 91.5
+      },
+      {
+        "stock_code": "605128",
+        "stock_name": "上海沿浦",
+        "market_value_wan": 87.66
+      },
+      {
+        "stock_code": "300785",
+        "stock_name": "值得买",
+        "market_value_wan": 81.98
+      },
+      {
+        "stock_code": "603105",
+        "stock_name": "芯能科技",
+        "market_value_wan": 71.1
+      },
+      {
+        "stock_code": "605060",
+        "stock_name": "联德股份",
+        "market_value_wan": 71.06
+      },
+      {
+        "stock_code": "603878",
+        "stock_name": "武进不锈",
+        "market_value_wan": 63.57
+      }
+    ],
+    "2023-Q3": [
+      {
+        "stock_code": "002653",
+        "stock_name": "海思科",
+        "market_value_wan": 116.1
+      },
+      {
+        "stock_code": "300707",
+        "stock_name": "威唐工业",
+        "market_value_wan": 98.09
+      },
+      {
+        "stock_code": "688301",
+        "stock_name": "奕瑞科技",
+        "market_value_wan": 85.77
+      },
+      {
+        "stock_code": "300848",
+        "stock_name": "美瑞新材",
+        "market_value_wan": 85.08
+      },
+      {
+        "stock_code": "600958",
+        "stock_name": "东方证券",
+        "market_value_wan": 72.81
+      },
+      {
+        "stock_code": "603283",
+        "stock_name": "赛腾股份",
+        "market_value_wan": 70.67
+      },
+      {
+        "stock_code": "600223",
+        "stock_name": "福瑞达",
+        "market_value_wan": 65.86
+      },
+      {
+        "stock_code": "000713",
+        "stock_name": "丰乐种业",
+        "market_value_wan": 61.11
+      },
+      {
+        "stock_code": "002353",
+        "stock_name": "杰瑞股份",
+        "market_value_wan": 57.4
+      },
+      {
+        "stock_code": "000933",
+        "stock_name": "神火股份",
+        "market_value_wan": 56.36
+      }
+    ],
+    "2023-Q2": [
+      {
+        "stock_code": "600258",
+        "stock_name": "首旅酒店",
+        "market_value_wan": 75.8
+      },
+      {
+        "stock_code": "688389",
+        "stock_name": "普门科技",
+        "market_value_wan": 72.97
+      },
+      {
+        "stock_code": "300059",
+        "stock_name": "东方财富",
+        "market_value_wan": 71.0
+      },
+      {
+        "stock_code": "601688",
+        "stock_name": "华泰证券",
+        "market_value_wan": 68.85
+      },
+      {
+        "stock_code": "601231",
+        "stock_name": "环旭电子",
+        "market_value_wan": 59.84
+      },
+      {
+        "stock_code": "600958",
+        "stock_name": "东方证券",
+        "market_value_wan": 58.2
+      },
+      {
+        "stock_code": "300416",
+        "stock_name": "苏试试验",
+        "market_value_wan": 57.57
+      },
+      {
+        "stock_code": "000768",
+        "stock_name": "中航西飞",
+        "market_value_wan": 53.5
+      },
+      {
+        "stock_code": "000713",
+        "stock_name": "丰乐种业",
+        "market_value_wan": 52.68
+      },
+      {
+        "stock_code": "002384",
+        "stock_name": "东山精密",
+        "market_value_wan": 51.8
+      }
+    ],
+    "2023-Q1": [
+      {
+        "stock_code": "688301",
+        "stock_name": "奕瑞科技",
+        "market_value_wan": 35.6
+      },
+      {
+        "stock_code": "300848",
+        "stock_name": "美瑞新材",
+        "market_value_wan": 35.26
+      },
+      {
+        "stock_code": "301296",
+        "stock_name": "新巨丰",
+        "market_value_wan": 33.04
+      },
+      {
+        "stock_code": "002824",
+        "stock_name": "和胜股份",
+        "market_value_wan": 32.77
+      },
+      {
+        "stock_code": "002648",
+        "stock_name": "卫星化学",
+        "market_value_wan": 32.0
+      },
+      {
+        "stock_code": "688226",
+        "stock_name": "威腾电气",
+        "market_value_wan": 29.68
+      },
+      {
+        "stock_code": "002353",
+        "stock_name": "杰瑞股份",
+        "market_value_wan": 28.32
+      },
+      {
+        "stock_code": "688617",
+        "stock_name": "惠泰医疗",
+        "market_value_wan": 28.12
+      },
+      {
+        "stock_code": "300662",
+        "stock_name": "科锐国际",
+        "market_value_wan": 28.0
+      },
+      {
+        "stock_code": "002897",
+        "stock_name": "意华股份",
+        "market_value_wan": 25.75
+      }
+    ]
+  }
+}

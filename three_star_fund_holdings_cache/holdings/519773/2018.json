@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "519773",
+    "name": "交银数据产业灵活配置混合A",
+    "base_name": "交银数据产业灵活配置混合"
+  },
+  "fetched_at": "2026-06-15 00:04:41",
+  "quarters": {
+    "2018-Q4": [
+      {
+        "stock_code": "002599",
+        "stock_name": "盛通股份",
+        "market_value_wan": 6160.97
+      },
+      {
+        "stock_code": "300365",
+        "stock_name": "恒华科技",
+        "market_value_wan": 5601.97
+      },
+      {
+        "stock_code": "300572",
+        "stock_name": "安车检测",
+        "market_value_wan": 5520.63
+      },
+      {
+        "stock_code": "300253",
+        "stock_name": "卫宁健康",
+        "market_value_wan": 5484.42
+      },
+      {
+        "stock_code": "600038",
+        "stock_name": "中直股份",
+        "market_value_wan": 5303.94
+      },
+      {
+        "stock_code": "000768",
+        "stock_name": "中航西飞",
+        "market_value_wan": 4811.72
+      },
+      {
+        "stock_code": "300012",
+        "stock_name": "华测检测",
+        "market_value_wan": 4670.41
+      },
+      {
+        "stock_code": "300395",
+        "stock_name": "菲利华",
+        "market_value_wan": 4046.16
+      },
+      {
+        "stock_code": "002371",
+        "stock_name": "北方华创",
+        "market_value_wan": 2978.98
+      },
+      {
+        "stock_code": "300168",
+        "stock_name": "万达信息",
+        "market_value_wan": 2859.05
+      }
+    ],
+    "2018-Q3": [
+      {
+        "stock_code": "300365",
+        "stock_name": "恒华科技",
+        "market_value_wan": 8569.56
+      },
+      {
+        "stock_code": "000977",
+        "stock_name": "浪潮信息",
+        "market_value_wan": 8491.41
+      },
+      {
+        "stock_code": "300253",
+        "stock_name": "卫宁健康",
+        "market_value_wan": 8377.04
+      },
+      {
+        "stock_code": "300572",
+        "stock_name": "安车检测",
+        "market_value_wan": 6119.76
+      },
+      {
+        "stock_code": "002599",
+        "stock_name": "盛通股份",
+        "market_value_wan": 6004.78
+      },
+      {
+        "stock_code": "002371",
+        "stock_name": "北方华创",
+        "market_value_wan": 5686.85
+      },
+      {
+        "stock_code": "300012",
+        "stock_name": "华测检测",
+        "market_value_wan": 4164.15
+      },
+      {
+        "stock_code": "600048",
+        "stock_name": "保利发展",
+        "market_value_wan": 3823.99
+      },
+      {
+        "stock_code": "300212",
+        "stock_name": "易华录",
+        "market_value_wan": 3590.73
+      },
+      {
+        "stock_code": "002180",
+        "stock_name": "纳思达",
+        "market_value_wan": 2967.96
+      }
+    ],
+    "2018-Q2": [
+      {
+        "stock_code": "300365",
+        "stock_name": "恒华科技",
+        "market_value_wan": 7431.87
+      },
+      {
+        "stock_code": "300253",
+        "stock_name": "卫宁健康",
+        "market_value_wan": 6989.86
+      },
+      {
+        "stock_code": "000977",
+        "stock_name": "浪潮信息",
+        "market_value_wan": 6287.1
+      },
+      {
+        "stock_code": "002599",
+        "stock_name": "盛通股份",
+        "market_value_wan": 5600.18
+      },
+      {
+        "stock_code": "300271",
+        "stock_name": "华宇软件",
+        "market_value_wan": 5231.17
+      },
+      {
+        "stock_code": "300130",
+        "stock_name": "新国都",
+        "market_value_wan": 4401.18
+      },
+      {
+        "stock_code": "603108",
+        "stock_name": "润达医疗",
+        "market_value_wan": 3860.72
+      },
+      {
+        "stock_code": "300012",
+        "stock_name": "华测检测",
+        "market_value_wan": 3671.71
+      },
+      {
+        "stock_code": "300212",
+        "stock_name": "易华录",
+        "market_value_wan": 3357.12
+      },
+      {
+        "stock_code": "300572",
+        "stock_name": "安车检测",
+        "market_value_wan": 3341.86
+      }
+    ],
+    "2018-Q1": [
+      {
+        "stock_code": "300365",
+        "stock_name": "恒华科技",
+        "market_value_wan": 7906.8
+      },
+      {
+        "stock_code": "300253",
+        "stock_name": "卫宁健康",
+        "market_value_wan": 6933.44
+      },
+      {
+        "stock_code": "300347",
+        "stock_name": "泰格医药",
+        "market_value_wan": 6912.25
+      },
+      {
+        "stock_code": "002599",
+        "stock_name": "盛通股份",
+        "market_value_wan": 6384.1
+      },
+      {
+        "stock_code": "300130",
+        "stock_name": "新国都",
+        "market_value_wan": 5746.77
+      },
+      {
+        "stock_code": "603108",
+        "stock_name": "润达医疗",
+        "market_value_wan": 5622.47
+      },
+      {
+        "stock_code": "300271",
+        "stock_name": "华宇软件",
+        "market_value_wan": 5217.39
+      },
+      {
+        "stock_code": "300279",
+        "stock_name": "和晶科技",
+        "market_value_wan": 4964.36
+      },
+      {
+        "stock_code": "000977",
+        "stock_name": "浪潮信息",
+        "market_value_wan": 4878.22
+      },
+      {
+        "stock_code": "300447",
+        "stock_name": "全信股份",
+        "market_value_wan": 4062.15
+      }
+    ]
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "009767",
+    "name": "安信平稳双利3个月持有混合C",
+    "base_name": "安信平稳双利3个月持有混合"
+  },
+  "fetched_at": "2026-08-01 20:58:42",
+  "quarters": {
+    "2026-Q2": [
+      {
+        "stock_code": "300308",
+        "stock_name": "中际旭创",
+        "market_value_wan": 101.6
+      },
+      {
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "market_value_wan": 84.14
+      },
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 68.73
+      },
+      {
+        "stock_code": "603986",
+        "stock_name": "兆易创新",
+        "market_value_wan": 48.9
+      }
+    ],
+    "2026-Q1": [
+      {
+        "stock_code": "601728",
+        "stock_name": "中国电信",
+        "market_value_wan": 141.52
+      },
+      {
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "market_value_wan": 93.19
+      },
+      {
+        "stock_code": "300760",
+        "stock_name": "迈瑞医疗",
+        "market_value_wan": 67.51
+      },
+      {
+        "stock_code": "300502",
+        "stock_name": "新易盛",
+        "market_value_wan": 57.57
+      },
+      {
+        "stock_code": "002092",
+        "stock_name": "中泰化学",
+        "market_value_wan": 32.52
+      }
+    ]
+  }
+}

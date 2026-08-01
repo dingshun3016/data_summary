@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "006511",
+    "name": "博道卓远混合A",
+    "base_name": "博道卓远混合"
+  },
+  "fetched_at": "2026-06-14 23:21:40",
+  "quarters": {
+    "2021-Q4": [
+      {
+        "stock_code": "300496",
+        "stock_name": "中科创达",
+        "market_value_wan": 1785.52
+      },
+      {
+        "stock_code": "601689",
+        "stock_name": "拓普集团",
+        "market_value_wan": 1629.75
+      },
+      {
+        "stock_code": "300009",
+        "stock_name": "安科生物",
+        "market_value_wan": 1233.73
+      },
+      {
+        "stock_code": "600926",
+        "stock_name": "杭州银行",
+        "market_value_wan": 1054.19
+      },
+      {
+        "stock_code": "300316",
+        "stock_name": "晶盛机电",
+        "market_value_wan": 1028.6
+      },
+      {
+        "stock_code": "600887",
+        "stock_name": "伊利股份",
+        "market_value_wan": 871.9
+      },
+      {
+        "stock_code": "603203",
+        "stock_name": "快克智能",
+        "market_value_wan": 871.3
+      },
+      {
+        "stock_code": "605111",
+        "stock_name": "新洁能",
+        "market_value_wan": 869.48
+      },
+      {
+        "stock_code": "002074",
+        "stock_name": "国轩高科",
+        "market_value_wan": 863.05
+      },
+      {
+        "stock_code": "002156",
+        "stock_name": "通富微电",
+        "market_value_wan": 859.19
+      }
+    ],
+    "2021-Q3": [
+      {
+        "stock_code": "300496",
+        "stock_name": "中科创达",
+        "market_value_wan": 1622.37
+      },
+      {
+        "stock_code": "600926",
+        "stock_name": "杭州银行",
+        "market_value_wan": 1185.59
+      },
+      {
+        "stock_code": "601689",
+        "stock_name": "拓普集团",
+        "market_value_wan": 1154.78
+      },
+      {
+        "stock_code": "300316",
+        "stock_name": "晶盛机电",
+        "market_value_wan": 1054.05
+      },
+      {
+        "stock_code": "300009",
+        "stock_name": "安科生物",
+        "market_value_wan": 1015.39
+      },
+      {
+        "stock_code": "603203",
+        "stock_name": "快克智能",
+        "market_value_wan": 1004.53
+      },
+      {
+        "stock_code": "300450",
+        "stock_name": "先导智能",
+        "market_value_wan": 943.83
+      },
+      {
+        "stock_code": "002074",
+        "stock_name": "国轩高科",
+        "market_value_wan": 941.25
+      },
+      {
+        "stock_code": "605111",
+        "stock_name": "新洁能",
+        "market_value_wan": 911.74
+      },
+      {
+        "stock_code": "601966",
+        "stock_name": "玲珑轮胎",
+        "market_value_wan": 806.41
+      }
+    ],
+    "2021-Q2": [
+      {
+        "stock_code": "300450",
+        "stock_name": "先导智能",
+        "market_value_wan": 1665.76
+      },
+      {
+        "stock_code": "300316",
+        "stock_name": "晶盛机电",
+        "market_value_wan": 1492.28
+      },
+      {
+        "stock_code": "300496",
+        "stock_name": "中科创达",
+        "market_value_wan": 1427.57
+      },
+      {
+        "stock_code": "601233",
+        "stock_name": "桐昆股份",
+        "market_value_wan": 1269.78
+      },
+      {
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "market_value_wan": 1248.0
+      },
+      {
+        "stock_code": "002074",
+        "stock_name": "国轩高科",
+        "market_value_wan": 1188.75
+      },
+      {
+        "stock_code": "600031",
+        "stock_name": "三一重工",
+        "market_value_wan": 1117.95
+      },
+      {
+        "stock_code": "600926",
+        "stock_name": "杭州银行",
+        "market_value_wan": 1100.06
+      },
+      {
+        "stock_code": "600176",
+        "stock_name": "中国巨石",
+        "market_value_wan": 1085.51
+      },
+      {
+        "stock_code": "300009",
+        "stock_name": "安科生物",
+        "market_value_wan": 972.23
+      }
+    ],
+    "2021-Q1": [
+      {
+        "stock_code": "300450",
+        "stock_name": "先导智能",
+        "market_value_wan": 1526.09
+      },
+      {
+        "stock_code": "600031",
+        "stock_name": "三一重工",
+        "market_value_wan": 1526.06
+      },
+      {
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "market_value_wan": 1122.16
+      },
+      {
+        "stock_code": "600926",
+        "stock_name": "杭州银行",
+        "market_value_wan": 1027.76
+      },
+      {
+        "stock_code": "600887",
+        "stock_name": "伊利股份",
+        "market_value_wan": 1023.17
+      },
+      {
+        "stock_code": "000100",
+        "stock_name": "TCL科技",
+        "market_value_wan": 1004.33
+      },
+      {
+        "stock_code": "300496",
+        "stock_name": "中科创达",
+        "market_value_wan": 901.6
+      },
+      {
+        "stock_code": "002074",
+        "stock_name": "国轩高科",
+        "market_value_wan": 877.69
+      },
+      {
+        "stock_code": "601233",
+        "stock_name": "桐昆股份",
+        "market_value_wan": 871.43
+      },
+      {
+        "stock_code": "603883",
+        "stock_name": "老百姓",
+        "market_value_wan": 822.69
+      }
+    ]
+  }
+}

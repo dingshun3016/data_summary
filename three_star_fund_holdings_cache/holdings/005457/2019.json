@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "005457",
+    "name": "景顺长城量化小盘股票A",
+    "base_name": "景顺长城量化小盘股票"
+  },
+  "fetched_at": "2026-06-14 23:17:44",
+  "quarters": {
+    "2019-Q4": [
+      {
+        "stock_code": "300130",
+        "stock_name": "新国都",
+        "market_value_wan": 985.51
+      },
+      {
+        "stock_code": "000036",
+        "stock_name": "华联控股",
+        "market_value_wan": 950.03
+      },
+      {
+        "stock_code": "002539",
+        "stock_name": "云图控股",
+        "market_value_wan": 947.68
+      },
+      {
+        "stock_code": "000829",
+        "stock_name": "天音控股",
+        "market_value_wan": 906.26
+      },
+      {
+        "stock_code": "300034",
+        "stock_name": "钢研高纳",
+        "market_value_wan": 896.17
+      },
+      {
+        "stock_code": "002441",
+        "stock_name": "众业达",
+        "market_value_wan": 896.01
+      },
+      {
+        "stock_code": "600720",
+        "stock_name": "中交设计",
+        "market_value_wan": 880.18
+      },
+      {
+        "stock_code": "000739",
+        "stock_name": "普洛药业",
+        "market_value_wan": 877.94
+      },
+      {
+        "stock_code": "600971",
+        "stock_name": "恒源煤电",
+        "market_value_wan": 875.82
+      },
+      {
+        "stock_code": "002088",
+        "stock_name": "鲁阳节能",
+        "market_value_wan": 854.19
+      }
+    ],
+    "2019-Q3": [
+      {
+        "stock_code": "601058",
+        "stock_name": "赛轮轮胎",
+        "market_value_wan": 1068.09
+      },
+      {
+        "stock_code": "600667",
+        "stock_name": "太极实业",
+        "market_value_wan": 999.34
+      },
+      {
+        "stock_code": "002088",
+        "stock_name": "鲁阳节能",
+        "market_value_wan": 984.0
+      },
+      {
+        "stock_code": "002335",
+        "stock_name": "科华数据",
+        "market_value_wan": 962.11
+      },
+      {
+        "stock_code": "600971",
+        "stock_name": "恒源煤电",
+        "market_value_wan": 951.97
+      },
+      {
+        "stock_code": "300130",
+        "stock_name": "新国都",
+        "market_value_wan": 916.5
+      },
+      {
+        "stock_code": "600386",
+        "stock_name": "北巴传媒",
+        "market_value_wan": 896.54
+      },
+      {
+        "stock_code": "300638",
+        "stock_name": "广和通",
+        "market_value_wan": 892.56
+      },
+      {
+        "stock_code": "002441",
+        "stock_name": "众业达",
+        "market_value_wan": 878.81
+      },
+      {
+        "stock_code": "603444",
+        "stock_name": "吉比特",
+        "market_value_wan": 877.76
+      }
+    ],
+    "2019-Q2": [
+      {
+        "stock_code": "300034",
+        "stock_name": "钢研高纳",
+        "market_value_wan": 1123.57
+      },
+      {
+        "stock_code": "300367",
+        "stock_name": "网力退",
+        "market_value_wan": 1064.96
+      },
+      {
+        "stock_code": "002454",
+        "stock_name": "松芝股份",
+        "market_value_wan": 1013.92
+      },
+      {
+        "stock_code": "600096",
+        "stock_name": "云天化",
+        "market_value_wan": 990.25
+      },
+      {
+        "stock_code": "002173",
+        "stock_name": "创新医疗",
+        "market_value_wan": 979.43
+      },
+      {
+        "stock_code": "002335",
+        "stock_name": "科华数据",
+        "market_value_wan": 963.87
+      },
+      {
+        "stock_code": "002517",
+        "stock_name": "恺英网络",
+        "market_value_wan": 946.57
+      },
+      {
+        "stock_code": "603393",
+        "stock_name": "新天然气",
+        "market_value_wan": 903.98
+      },
+      {
+        "stock_code": "002088",
+        "stock_name": "鲁阳节能",
+        "market_value_wan": 893.03
+      },
+      {
+        "stock_code": "000686",
+        "stock_name": "东北证券",
+        "market_value_wan": 878.89
+      }
+    ],
+    "2019-Q1": [
+      {
+        "stock_code": "000716",
+        "stock_name": "黑芝麻",
+        "market_value_wan": 1759.76
+      },
+      {
+        "stock_code": "603393",
+        "stock_name": "新天然气",
+        "market_value_wan": 1561.92
+      },
+      {
+        "stock_code": "600742",
+        "stock_name": "一汽富维",
+        "market_value_wan": 1521.78
+      },
+      {
+        "stock_code": "603108",
+        "stock_name": "润达医疗",
+        "market_value_wan": 1475.29
+      },
+      {
+        "stock_code": "600622",
+        "stock_name": "光大嘉宝",
+        "market_value_wan": 1455.83
+      },
+      {
+        "stock_code": "000951",
+        "stock_name": "中国重汽",
+        "market_value_wan": 1440.01
+      },
+      {
+        "stock_code": "000789",
+        "stock_name": "万年青",
+        "market_value_wan": 1403.31
+      },
+      {
+        "stock_code": "002020",
+        "stock_name": "京新药业",
+        "market_value_wan": 1368.6
+      },
+      {
+        "stock_code": "300130",
+        "stock_name": "新国都",
+        "market_value_wan": 1328.0
+      },
+      {
+        "stock_code": "300034",
+        "stock_name": "钢研高纳",
+        "market_value_wan": 1325.33
+      }
+    ]
+  }
+}

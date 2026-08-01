@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "005006",
+    "name": "中金瑞安混合发起C",
+    "base_name": "中金瑞安混合发起"
+  },
+  "fetched_at": "2026-06-14 23:15:57",
+  "quarters": {
+    "2022-Q4": [
+      {
+        "stock_code": "600966",
+        "stock_name": "博汇纸业",
+        "market_value_wan": 99.3
+      },
+      {
+        "stock_code": "601058",
+        "stock_name": "赛轮轮胎",
+        "market_value_wan": 88.88
+      },
+      {
+        "stock_code": "601021",
+        "stock_name": "春秋航空",
+        "market_value_wan": 50.12
+      },
+      {
+        "stock_code": "002648",
+        "stock_name": "卫星化学",
+        "market_value_wan": 44.61
+      },
+      {
+        "stock_code": "000301",
+        "stock_name": "东方盛虹",
+        "market_value_wan": 44.47
+      },
+      {
+        "stock_code": "600926",
+        "stock_name": "杭州银行",
+        "market_value_wan": 39.5
+      },
+      {
+        "stock_code": "601838",
+        "stock_name": "成都银行",
+        "market_value_wan": 38.4
+      },
+      {
+        "stock_code": "601128",
+        "stock_name": "常熟银行",
+        "market_value_wan": 37.22
+      },
+      {
+        "stock_code": "600309",
+        "stock_name": "万华化学",
+        "market_value_wan": 36.13
+      },
+      {
+        "stock_code": "601233",
+        "stock_name": "桐昆股份",
+        "market_value_wan": 35.11
+      }
+    ],
+    "2022-Q3": [
+      {
+        "stock_code": "601128",
+        "stock_name": "常熟银行",
+        "market_value_wan": 114.46
+      },
+      {
+        "stock_code": "600256",
+        "stock_name": "广汇能源",
+        "market_value_wan": 113.71
+      },
+      {
+        "stock_code": "002648",
+        "stock_name": "卫星化学",
+        "market_value_wan": 112.06
+      },
+      {
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "market_value_wan": 69.44
+      },
+      {
+        "stock_code": "000906",
+        "stock_name": "浙商中拓",
+        "market_value_wan": 63.75
+      },
+      {
+        "stock_code": "601838",
+        "stock_name": "成都银行",
+        "market_value_wan": 50.39
+      },
+      {
+        "stock_code": "601628",
+        "stock_name": "中国人寿",
+        "market_value_wan": 45.55
+      },
+      {
+        "stock_code": "600926",
+        "stock_name": "杭州银行",
+        "market_value_wan": 45.46
+      },
+      {
+        "stock_code": "601601",
+        "stock_name": "中国太保",
+        "market_value_wan": 44.32
+      },
+      {
+        "stock_code": "002001",
+        "stock_name": "新和成",
+        "market_value_wan": 43.94
+      }
+    ],
+    "2022-Q2": [
+      {
+        "stock_code": "002230",
+        "stock_name": "科大讯飞",
+        "market_value_wan": 23.5
+      },
+      {
+        "stock_code": "600809",
+        "stock_name": "山西汾酒",
+        "market_value_wan": 23.19
+      },
+      {
+        "stock_code": "601901",
+        "stock_name": "方正证券",
+        "market_value_wan": 22.81
+      },
+      {
+        "stock_code": "000166",
+        "stock_name": "申万宏源",
+        "market_value_wan": 22.65
+      },
+      {
+        "stock_code": "000768",
+        "stock_name": "中航西飞",
+        "market_value_wan": 22.41
+      },
+      {
+        "stock_code": "601669",
+        "stock_name": "中国电建",
+        "market_value_wan": 21.96
+      },
+      {
+        "stock_code": "600900",
+        "stock_name": "长江电力",
+        "market_value_wan": 21.04
+      },
+      {
+        "stock_code": "002648",
+        "stock_name": "卫星化学",
+        "market_value_wan": 20.38
+      },
+      {
+        "stock_code": "688262",
+        "stock_name": "国芯科技",
+        "market_value_wan": 9.95
+      },
+      {
+        "stock_code": "688267",
+        "stock_name": "中触媒",
+        "market_value_wan": 3.99
+      }
+    ],
+    "2022-Q1": [
+      {
+        "stock_code": "600900",
+        "stock_name": "长江电力",
+        "market_value_wan": 1284.36
+      },
+      {
+        "stock_code": "002179",
+        "stock_name": "中航光电",
+        "market_value_wan": 1250.81
+      },
+      {
+        "stock_code": "002648",
+        "stock_name": "卫星化学",
+        "market_value_wan": 1248.98
+      },
+      {
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "market_value_wan": 1177.49
+      },
+      {
+        "stock_code": "688981",
+        "stock_name": "中芯国际",
+        "market_value_wan": 1022.28
+      },
+      {
+        "stock_code": "002736",
+        "stock_name": "国信证券",
+        "market_value_wan": 1000.46
+      },
+      {
+        "stock_code": "601669",
+        "stock_name": "中国电建",
+        "market_value_wan": 917.15
+      },
+      {
+        "stock_code": "000166",
+        "stock_name": "申万宏源",
+        "market_value_wan": 914.76
+      },
+      {
+        "stock_code": "600809",
+        "stock_name": "山西汾酒",
+        "market_value_wan": 900.15
+      },
+      {
+        "stock_code": "002920",
+        "stock_name": "德赛西威",
+        "market_value_wan": 892.67
+      }
+    ]
+  }
+}

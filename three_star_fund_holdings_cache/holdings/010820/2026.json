@@ -1,0 +1,70 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "010820",
+    "name": "安信稳健回报6个月混合C",
+    "base_name": "安信稳健回报6个月混合"
+  },
+  "fetched_at": "2026-08-01 20:59:28",
+  "quarters": {
+    "2026-Q2": [
+      {
+        "stock_code": "002928",
+        "stock_name": "华夏航空",
+        "market_value_wan": 26.77
+      },
+      {
+        "stock_code": "000786",
+        "stock_name": "北新建材",
+        "market_value_wan": 19.72
+      },
+      {
+        "stock_code": "688227",
+        "stock_name": "品高股份",
+        "market_value_wan": 17.58
+      },
+      {
+        "stock_code": "002738",
+        "stock_name": "中矿资源",
+        "market_value_wan": 17.11
+      },
+      {
+        "stock_code": "688696",
+        "stock_name": "极米科技",
+        "market_value_wan": 13.89
+      },
+      {
+        "stock_code": "601088",
+        "stock_name": "中国神华",
+        "market_value_wan": 11.32
+      }
+    ],
+    "2026-Q1": [
+      {
+        "stock_code": "601668",
+        "stock_name": "中国建筑",
+        "market_value_wan": 23.55
+      },
+      {
+        "stock_code": "600585",
+        "stock_name": "海螺水泥",
+        "market_value_wan": 22.0
+      },
+      {
+        "stock_code": "600919",
+        "stock_name": "江苏银行",
+        "market_value_wan": 20.75
+      },
+      {
+        "stock_code": "002867",
+        "stock_name": "周大生",
+        "market_value_wan": 20.3
+      },
+      {
+        "stock_code": "600729",
+        "stock_name": "重庆百货",
+        "market_value_wan": 19.97
+      }
+    ]
+  }
+}

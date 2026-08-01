@@ -1,0 +1,209 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "009402",
+    "name": "交银启明混合A",
+    "base_name": "交银启明混合"
+  },
+  "fetched_at": "2026-06-14 22:37:56",
+  "quarters": {
+    "2024-Q4": [
+      {
+        "stock_code": "600316",
+        "stock_name": "洪都航空",
+        "market_value_wan": 15078.53
+      },
+      {
+        "stock_code": "600562",
+        "stock_name": "国睿科技",
+        "market_value_wan": 14229.81
+      },
+      {
+        "stock_code": "300811",
+        "stock_name": "铂科新材",
+        "market_value_wan": 8958.06
+      },
+      {
+        "stock_code": "688639",
+        "stock_name": "华恒生物",
+        "market_value_wan": 8689.53
+      },
+      {
+        "stock_code": "605117",
+        "stock_name": "德业股份",
+        "market_value_wan": 7938.98
+      },
+      {
+        "stock_code": "300699",
+        "stock_name": "光威复材",
+        "market_value_wan": 7584.77
+      },
+      {
+        "stock_code": "002049",
+        "stock_name": "紫光国微",
+        "market_value_wan": 7217.01
+      },
+      {
+        "stock_code": "600893",
+        "stock_name": "航发动力",
+        "market_value_wan": 6600.53
+      },
+      {
+        "stock_code": "688002",
+        "stock_name": "睿创微纳",
+        "market_value_wan": 4758.83
+      }
+    ],
+    "2024-Q3": [
+      {
+        "stock_code": "002049",
+        "stock_name": "紫光国微",
+        "market_value_wan": 19493.47
+      },
+      {
+        "stock_code": "688639",
+        "stock_name": "华恒生物",
+        "market_value_wan": 17275.69
+      },
+      {
+        "stock_code": "600316",
+        "stock_name": "洪都航空",
+        "market_value_wan": 16403.19
+      },
+      {
+        "stock_code": "300811",
+        "stock_name": "铂科新材",
+        "market_value_wan": 12639.68
+      },
+      {
+        "stock_code": "300699",
+        "stock_name": "光威复材",
+        "market_value_wan": 10569.56
+      },
+      {
+        "stock_code": "002179",
+        "stock_name": "中航光电",
+        "market_value_wan": 10050.32
+      },
+      {
+        "stock_code": "000733",
+        "stock_name": "振华科技",
+        "market_value_wan": 8928.92
+      },
+      {
+        "stock_code": "688582",
+        "stock_name": "芯动联科",
+        "market_value_wan": 6948.45
+      },
+      {
+        "stock_code": "300354",
+        "stock_name": "东华测试",
+        "market_value_wan": 6383.84
+      }
+    ],
+    "2024-Q2": [
+      {
+        "stock_code": "300811",
+        "stock_name": "铂科新材",
+        "market_value_wan": 25309.69
+      },
+      {
+        "stock_code": "002049",
+        "stock_name": "紫光国微",
+        "market_value_wan": 22485.5
+      },
+      {
+        "stock_code": "688639",
+        "stock_name": "华恒生物",
+        "market_value_wan": 16532.81
+      },
+      {
+        "stock_code": "002179",
+        "stock_name": "中航光电",
+        "market_value_wan": 13820.79
+      },
+      {
+        "stock_code": "300699",
+        "stock_name": "光威复材",
+        "market_value_wan": 11055.06
+      },
+      {
+        "stock_code": "300354",
+        "stock_name": "东华测试",
+        "market_value_wan": 9552.52
+      },
+      {
+        "stock_code": "600529",
+        "stock_name": "山东药玻",
+        "market_value_wan": 8660.0
+      },
+      {
+        "stock_code": "600941",
+        "stock_name": "中国移动",
+        "market_value_wan": 7529.47
+      },
+      {
+        "stock_code": "600893",
+        "stock_name": "航发动力",
+        "market_value_wan": 6769.09
+      },
+      {
+        "stock_code": "601100",
+        "stock_name": "恒立液压",
+        "market_value_wan": 6476.43
+      }
+    ],
+    "2024-Q1": [
+      {
+        "stock_code": "002049",
+        "stock_name": "紫光国微",
+        "market_value_wan": 25135.19
+      },
+      {
+        "stock_code": "300811",
+        "stock_name": "铂科新材",
+        "market_value_wan": 22754.83
+      },
+      {
+        "stock_code": "000733",
+        "stock_name": "振华科技",
+        "market_value_wan": 22570.34
+      },
+      {
+        "stock_code": "688639",
+        "stock_name": "华恒生物",
+        "market_value_wan": 14959.3
+      },
+      {
+        "stock_code": "300354",
+        "stock_name": "东华测试",
+        "market_value_wan": 13897.59
+      },
+      {
+        "stock_code": "600529",
+        "stock_name": "山东药玻",
+        "market_value_wan": 10063.3
+      },
+      {
+        "stock_code": "002179",
+        "stock_name": "中航光电",
+        "market_value_wan": 9931.66
+      },
+      {
+        "stock_code": "300699",
+        "stock_name": "光威复材",
+        "market_value_wan": 9918.18
+      },
+      {
+        "stock_code": "603085",
+        "stock_name": "天成自控",
+        "market_value_wan": 7729.71
+      },
+      {
+        "stock_code": "600893",
+        "stock_name": "航发动力",
+        "market_value_wan": 7107.18
+      }
+    ]
+  }
+}

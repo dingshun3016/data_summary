@@ -1,0 +1,65 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "005553",
+    "name": "国富新趋势混合C",
+    "base_name": "国富新趋势混合"
+  },
+  "fetched_at": "2026-08-01 20:56:32",
+  "quarters": {
+    "2026-Q2": [
+      {
+        "stock_code": "000651",
+        "stock_name": "格力电器",
+        "market_value_wan": 12.38
+      },
+      {
+        "stock_code": "600016",
+        "stock_name": "民生银行",
+        "market_value_wan": 11.56
+      },
+      {
+        "stock_code": "688590",
+        "stock_name": "新致软件",
+        "market_value_wan": 7.99
+      },
+      {
+        "stock_code": "601211",
+        "stock_name": "国泰海通",
+        "market_value_wan": 7.1
+      },
+      {
+        "stock_code": "601898",
+        "stock_name": "中煤能源",
+        "market_value_wan": 6.21
+      }
+    ],
+    "2026-Q1": [
+      {
+        "stock_code": "002738",
+        "stock_name": "中矿资源",
+        "market_value_wan": 15.6
+      },
+      {
+        "stock_code": "600016",
+        "stock_name": "民生银行",
+        "market_value_wan": 13.61
+      },
+      {
+        "stock_code": "600661",
+        "stock_name": "昂立教育",
+        "market_value_wan": 12.78
+      },
+      {
+        "stock_code": "000651",
+        "stock_name": "格力电器",
+        "market_value_wan": 8.7
+      },
+      {
+        "stock_code": "688590",
+        "stock_name": "新致软件",
+        "market_value_wan": 8.42
+      }
+    ]
+  }
+}

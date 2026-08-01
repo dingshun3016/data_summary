@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "519181",
+    "name": "万家和谐增长混合A",
+    "base_name": "万家和谐增长混合"
+  },
+  "fetched_at": "2026-06-15 00:03:01",
+  "quarters": {
+    "2022-Q4": [
+      {
+        "stock_code": "002385",
+        "stock_name": "大北农",
+        "market_value_wan": 7147.23
+      },
+      {
+        "stock_code": "000998",
+        "stock_name": "隆平高科",
+        "market_value_wan": 7013.03
+      },
+      {
+        "stock_code": "002041",
+        "stock_name": "登海种业",
+        "market_value_wan": 6588.37
+      },
+      {
+        "stock_code": "600048",
+        "stock_name": "保利发展",
+        "market_value_wan": 5994.89
+      },
+      {
+        "stock_code": "000738",
+        "stock_name": "航发控制",
+        "market_value_wan": 5741.56
+      },
+      {
+        "stock_code": "002179",
+        "stock_name": "中航光电",
+        "market_value_wan": 4338.79
+      },
+      {
+        "stock_code": "001979",
+        "stock_name": "招商蛇口",
+        "market_value_wan": 4002.83
+      },
+      {
+        "stock_code": "600862",
+        "stock_name": "中航高科",
+        "market_value_wan": 3788.63
+      },
+      {
+        "stock_code": "000002",
+        "stock_name": "万科A",
+        "market_value_wan": 3013.98
+      },
+      {
+        "stock_code": "601186",
+        "stock_name": "中国铁建",
+        "market_value_wan": 3003.03
+      }
+    ],
+    "2022-Q3": [
+      {
+        "stock_code": "002385",
+        "stock_name": "大北农",
+        "market_value_wan": 7284.88
+      },
+      {
+        "stock_code": "600048",
+        "stock_name": "保利发展",
+        "market_value_wan": 7132.06
+      },
+      {
+        "stock_code": "002041",
+        "stock_name": "登海种业",
+        "market_value_wan": 6345.71
+      },
+      {
+        "stock_code": "600383",
+        "stock_name": "金地集团",
+        "market_value_wan": 6146.58
+      },
+      {
+        "stock_code": "000998",
+        "stock_name": "隆平高科",
+        "market_value_wan": 6026.76
+      },
+      {
+        "stock_code": "000738",
+        "stock_name": "航发控制",
+        "market_value_wan": 5625.12
+      },
+      {
+        "stock_code": "001979",
+        "stock_name": "招商蛇口",
+        "market_value_wan": 5178.64
+      },
+      {
+        "stock_code": "002179",
+        "stock_name": "中航光电",
+        "market_value_wan": 4356.82
+      },
+      {
+        "stock_code": "600862",
+        "stock_name": "中航高科",
+        "market_value_wan": 4198.26
+      },
+      {
+        "stock_code": "600893",
+        "stock_name": "航发动力",
+        "market_value_wan": 3383.75
+      }
+    ],
+    "2022-Q2": [
+      {
+        "stock_code": "000998",
+        "stock_name": "隆平高科",
+        "market_value_wan": 8742.26
+      },
+      {
+        "stock_code": "002385",
+        "stock_name": "大北农",
+        "market_value_wan": 8730.4
+      },
+      {
+        "stock_code": "600893",
+        "stock_name": "航发动力",
+        "market_value_wan": 8565.51
+      },
+      {
+        "stock_code": "002041",
+        "stock_name": "登海种业",
+        "market_value_wan": 8527.74
+      },
+      {
+        "stock_code": "600048",
+        "stock_name": "保利发展",
+        "market_value_wan": 8319.44
+      },
+      {
+        "stock_code": "600383",
+        "stock_name": "金地集团",
+        "market_value_wan": 7930.54
+      },
+      {
+        "stock_code": "000738",
+        "stock_name": "航发控制",
+        "market_value_wan": 7579.69
+      },
+      {
+        "stock_code": "002179",
+        "stock_name": "中航光电",
+        "market_value_wan": 5698.65
+      },
+      {
+        "stock_code": "001979",
+        "stock_name": "招商蛇口",
+        "market_value_wan": 5587.14
+      },
+      {
+        "stock_code": "600862",
+        "stock_name": "中航高科",
+        "market_value_wan": 5351.93
+      }
+    ],
+    "2022-Q1": [
+      {
+        "stock_code": "600048",
+        "stock_name": "保利发展",
+        "market_value_wan": 11342.26
+      },
+      {
+        "stock_code": "002041",
+        "stock_name": "登海种业",
+        "market_value_wan": 10855.6
+      },
+      {
+        "stock_code": "000998",
+        "stock_name": "隆平高科",
+        "market_value_wan": 10707.94
+      },
+      {
+        "stock_code": "002385",
+        "stock_name": "大北农",
+        "market_value_wan": 9725.29
+      },
+      {
+        "stock_code": "600383",
+        "stock_name": "金地集团",
+        "market_value_wan": 8964.27
+      },
+      {
+        "stock_code": "600893",
+        "stock_name": "航发动力",
+        "market_value_wan": 8194.12
+      },
+      {
+        "stock_code": "001979",
+        "stock_name": "招商蛇口",
+        "market_value_wan": 6596.25
+      },
+      {
+        "stock_code": "600038",
+        "stock_name": "中直股份",
+        "market_value_wan": 5571.23
+      },
+      {
+        "stock_code": "601088",
+        "stock_name": "中国神华",
+        "market_value_wan": 4847.16
+      },
+      {
+        "stock_code": "000002",
+        "stock_name": "万科A",
+        "market_value_wan": 4679.52
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "001908",
+    "name": "国投瑞银境煊灵活配置混合C",
+    "base_name": "国投瑞银境煊灵活配置混合"
+  },
+  "fetched_at": "2026-06-14 23:01:59",
+  "quarters": {
+    "2021-Q4": [
+      {
+        "stock_code": "002597",
+        "stock_name": "金禾实业",
+        "market_value_wan": 770.25
+      },
+      {
+        "stock_code": "302132",
+        "stock_name": "中航成飞",
+        "market_value_wan": 594.4
+      },
+      {
+        "stock_code": "002332",
+        "stock_name": "仙琚制药",
+        "market_value_wan": 592.68
+      },
+      {
+        "stock_code": "002057",
+        "stock_name": "中钢天源",
+        "market_value_wan": 552.0
+      },
+      {
+        "stock_code": "600521",
+        "stock_name": "华海药业",
+        "market_value_wan": 539.33
+      },
+      {
+        "stock_code": "600426",
+        "stock_name": "华鲁恒升",
+        "market_value_wan": 477.64
+      },
+      {
+        "stock_code": "601808",
+        "stock_name": "中海油服",
+        "market_value_wan": 471.75
+      },
+      {
+        "stock_code": "002545",
+        "stock_name": "东方铁塔",
+        "market_value_wan": 456.0
+      },
+      {
+        "stock_code": "600079",
+        "stock_name": "人福医药",
+        "market_value_wan": 450.4
+      },
+      {
+        "stock_code": "300770",
+        "stock_name": "新媒股份",
+        "market_value_wan": 450.0
+      }
+    ],
+    "2021-Q3": [
+      {
+        "stock_code": "002597",
+        "stock_name": "金禾实业",
+        "market_value_wan": 590.55
+      },
+      {
+        "stock_code": "600426",
+        "stock_name": "华鲁恒升",
+        "market_value_wan": 502.51
+      },
+      {
+        "stock_code": "300681",
+        "stock_name": "英搏尔",
+        "market_value_wan": 469.8
+      },
+      {
+        "stock_code": "601808",
+        "stock_name": "中海油服",
+        "market_value_wan": 370.3
+      },
+      {
+        "stock_code": "688039",
+        "stock_name": "当虹科技",
+        "market_value_wan": 313.23
+      },
+      {
+        "stock_code": "002545",
+        "stock_name": "东方铁塔",
+        "market_value_wan": 298.86
+      },
+      {
+        "stock_code": "600452",
+        "stock_name": "涪陵电力",
+        "market_value_wan": 289.85
+      },
+      {
+        "stock_code": "600150",
+        "stock_name": "中国船舶",
+        "market_value_wan": 288.65
+      },
+      {
+        "stock_code": "300558",
+        "stock_name": "贝达药业",
+        "market_value_wan": 262.11
+      },
+      {
+        "stock_code": "300482",
+        "stock_name": "万孚生物",
+        "market_value_wan": 258.0
+      }
+    ],
+    "2021-Q2": [
+      {
+        "stock_code": "000063",
+        "stock_name": "中兴通讯",
+        "market_value_wan": 892.56
+      },
+      {
+        "stock_code": "688599",
+        "stock_name": "天合光能",
+        "market_value_wan": 831.35
+      },
+      {
+        "stock_code": "601601",
+        "stock_name": "中国太保",
+        "market_value_wan": 689.49
+      },
+      {
+        "stock_code": "603688",
+        "stock_name": "石英股份",
+        "market_value_wan": 575.75
+      },
+      {
+        "stock_code": "002831",
+        "stock_name": "裕同科技",
+        "market_value_wan": 502.35
+      },
+      {
+        "stock_code": "002487",
+        "stock_name": "大金重工",
+        "market_value_wan": 486.22
+      },
+      {
+        "stock_code": "002531",
+        "stock_name": "天顺风能",
+        "market_value_wan": 458.35
+      },
+      {
+        "stock_code": "002563",
+        "stock_name": "森马服饰",
+        "market_value_wan": 428.65
+      },
+      {
+        "stock_code": "600577",
+        "stock_name": "精达股份",
+        "market_value_wan": 424.84
+      },
+      {
+        "stock_code": "002050",
+        "stock_name": "三花智控",
+        "market_value_wan": 421.09
+      }
+    ],
+    "2021-Q1": [
+      {
+        "stock_code": "601601",
+        "stock_name": "中国太保",
+        "market_value_wan": 864.64
+      },
+      {
+        "stock_code": "000063",
+        "stock_name": "中兴通讯",
+        "market_value_wan": 797.8
+      },
+      {
+        "stock_code": "002487",
+        "stock_name": "大金重工",
+        "market_value_wan": 675.48
+      },
+      {
+        "stock_code": "002531",
+        "stock_name": "天顺风能",
+        "market_value_wan": 544.97
+      },
+      {
+        "stock_code": "688599",
+        "stock_name": "天合光能",
+        "market_value_wan": 543.97
+      },
+      {
+        "stock_code": "002831",
+        "stock_name": "裕同科技",
+        "market_value_wan": 542.98
+      },
+      {
+        "stock_code": "002541",
+        "stock_name": "鸿路钢构",
+        "market_value_wan": 477.43
+      },
+      {
+        "stock_code": "002463",
+        "stock_name": "沪电股份",
+        "market_value_wan": 460.85
+      },
+      {
+        "stock_code": "002375",
+        "stock_name": "亚厦股份",
+        "market_value_wan": 451.6
+      },
+      {
+        "stock_code": "600521",
+        "stock_name": "华海药业",
+        "market_value_wan": 443.5
+      }
+    ]
+  }
+}

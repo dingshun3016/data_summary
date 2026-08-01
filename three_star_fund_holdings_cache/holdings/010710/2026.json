@@ -1,0 +1,80 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "010710",
+    "name": "安信医药健康股票C",
+    "base_name": "安信医药健康股票"
+  },
+  "fetched_at": "2026-08-01 20:59:23",
+  "quarters": {
+    "2026-Q2": [
+      {
+        "stock_code": "300677",
+        "stock_name": "英科医疗",
+        "market_value_wan": 9891.21
+      },
+      {
+        "stock_code": "688799",
+        "stock_name": "华纳药厂",
+        "market_value_wan": 9418.36
+      },
+      {
+        "stock_code": "688621",
+        "stock_name": "阳光诺和",
+        "market_value_wan": 8716.67
+      },
+      {
+        "stock_code": "603259",
+        "stock_name": "药明康德",
+        "market_value_wan": 8359.6
+      },
+      {
+        "stock_code": "688382",
+        "stock_name": "益方生物",
+        "market_value_wan": 7102.38
+      },
+      {
+        "stock_code": "688513",
+        "stock_name": "苑东生物",
+        "market_value_wan": 5428.28
+      },
+      {
+        "stock_code": "301080",
+        "stock_name": "百普赛斯",
+        "market_value_wan": 5343.56
+      }
+    ],
+    "2026-Q1": [
+      {
+        "stock_code": "688382",
+        "stock_name": "益方生物",
+        "market_value_wan": 10260.72
+      },
+      {
+        "stock_code": "300677",
+        "stock_name": "英科医疗",
+        "market_value_wan": 9895.8
+      },
+      {
+        "stock_code": "688621",
+        "stock_name": "阳光诺和",
+        "market_value_wan": 8946.1
+      },
+      {
+        "stock_code": "688799",
+        "stock_name": "华纳药厂",
+        "market_value_wan": 6760.51
+      },
+      {
+        "stock_code": "301246",
+        "stock_name": "宏源药业",
+        "market_value_wan": 5950.13
+      },
+      {
+        "stock_code": "002773",
+        "stock_name": "康弘药业",
+        "market_value_wan": 5371.35
+      }
+    ]
+  }
+}

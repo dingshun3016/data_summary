@@ -1,0 +1,85 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "009782",
+    "name": "富国兴泉回报12个月持有期混合A",
+    "base_name": "富国兴泉回报12个月持有期混合"
+  },
+  "fetched_at": "2026-08-01 20:58:43",
+  "quarters": {
+    "2026-Q2": [
+      {
+        "stock_code": "688012",
+        "stock_name": "中微公司",
+        "market_value_wan": 778.88
+      },
+      {
+        "stock_code": "600900",
+        "stock_name": "长江电力",
+        "market_value_wan": 609.87
+      },
+      {
+        "stock_code": "688233",
+        "stock_name": "神工股份",
+        "market_value_wan": 546.3
+      },
+      {
+        "stock_code": "300661",
+        "stock_name": "圣邦股份",
+        "market_value_wan": 505.05
+      },
+      {
+        "stock_code": "000510",
+        "stock_name": "新金路",
+        "market_value_wan": 492.08
+      },
+      {
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "market_value_wan": 464.51
+      },
+      {
+        "stock_code": "002138",
+        "stock_name": "顺络电子",
+        "market_value_wan": 415.94
+      },
+      {
+        "stock_code": "688596",
+        "stock_name": "正帆科技",
+        "market_value_wan": 366.38
+      }
+    ],
+    "2026-Q1": [
+      {
+        "stock_code": "600489",
+        "stock_name": "中金黄金",
+        "market_value_wan": 2145.35
+      },
+      {
+        "stock_code": "600547",
+        "stock_name": "山东黄金",
+        "market_value_wan": 1011.89
+      },
+      {
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "market_value_wan": 727.92
+      },
+      {
+        "stock_code": "601899",
+        "stock_name": "紫金矿业",
+        "market_value_wan": 650.15
+      },
+      {
+        "stock_code": "603393",
+        "stock_name": "新天然气",
+        "market_value_wan": 575.12
+      },
+      {
+        "stock_code": "600499",
+        "stock_name": "科达制造",
+        "market_value_wan": 464.78
+      }
+    ]
+  }
+}

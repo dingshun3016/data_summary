@@ -1,0 +1,80 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "010982",
+    "name": "兴全汇虹一年持有混合C",
+    "base_name": "兴全汇虹一年持有混合"
+  },
+  "fetched_at": "2026-08-01 20:59:34",
+  "quarters": {
+    "2026-Q2": [
+      {
+        "stock_code": "688981",
+        "stock_name": "中芯国际",
+        "market_value_wan": 1092.76
+      },
+      {
+        "stock_code": "688041",
+        "stock_name": "海光信息",
+        "market_value_wan": 905.16
+      },
+      {
+        "stock_code": "300308",
+        "stock_name": "中际旭创",
+        "market_value_wan": 876.3
+      },
+      {
+        "stock_code": "600941",
+        "stock_name": "中国移动",
+        "market_value_wan": 844.07
+      },
+      {
+        "stock_code": "688488",
+        "stock_name": "艾迪药业",
+        "market_value_wan": 817.02
+      },
+      {
+        "stock_code": "688347",
+        "stock_name": "华虹宏力",
+        "market_value_wan": 673.21
+      },
+      {
+        "stock_code": "300223",
+        "stock_name": "北京君正",
+        "market_value_wan": 566.15
+      }
+    ],
+    "2026-Q1": [
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 2856.5
+      },
+      {
+        "stock_code": "600941",
+        "stock_name": "中国移动",
+        "market_value_wan": 2013.67
+      },
+      {
+        "stock_code": "601211",
+        "stock_name": "国泰海通",
+        "market_value_wan": 957.41
+      },
+      {
+        "stock_code": "601108",
+        "stock_name": "财通证券",
+        "market_value_wan": 856.03
+      },
+      {
+        "stock_code": "002078",
+        "stock_name": "太阳纸业",
+        "market_value_wan": 582.67
+      },
+      {
+        "stock_code": "300763",
+        "stock_name": "锦浪科技",
+        "market_value_wan": 485.51
+      }
+    ]
+  }
+}

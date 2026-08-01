@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "260101",
+    "name": "景顺长城优选混合",
+    "base_name": "景顺长城优选混合"
+  },
+  "fetched_at": "2026-06-14 23:57:25",
+  "quarters": {
+    "2022-Q4": [
+      {
+        "stock_code": "002841",
+        "stock_name": "视源股份",
+        "market_value_wan": 24624.6
+      },
+      {
+        "stock_code": "689009",
+        "stock_name": "九号公司",
+        "market_value_wan": 23200.8
+      },
+      {
+        "stock_code": "688169",
+        "stock_name": "石头科技",
+        "market_value_wan": 21123.34
+      },
+      {
+        "stock_code": "002352",
+        "stock_name": "顺丰控股",
+        "market_value_wan": 19982.98
+      },
+      {
+        "stock_code": "600460",
+        "stock_name": "士兰微",
+        "market_value_wan": 18506.45
+      },
+      {
+        "stock_code": "688002",
+        "stock_name": "睿创微纳",
+        "market_value_wan": 17669.02
+      },
+      {
+        "stock_code": "300207",
+        "stock_name": "欣旺达",
+        "market_value_wan": 17536.95
+      },
+      {
+        "stock_code": "688499",
+        "stock_name": "利元亨",
+        "market_value_wan": 11755.22
+      },
+      {
+        "stock_code": "002409",
+        "stock_name": "雅克科技",
+        "market_value_wan": 11754.75
+      },
+      {
+        "stock_code": "600150",
+        "stock_name": "中国船舶",
+        "market_value_wan": 11090.55
+      }
+    ],
+    "2022-Q3": [
+      {
+        "stock_code": "689009",
+        "stock_name": "九号公司",
+        "market_value_wan": 27903.87
+      },
+      {
+        "stock_code": "002841",
+        "stock_name": "视源股份",
+        "market_value_wan": 26982.95
+      },
+      {
+        "stock_code": "688169",
+        "stock_name": "石头科技",
+        "market_value_wan": 24597.82
+      },
+      {
+        "stock_code": "300207",
+        "stock_name": "欣旺达",
+        "market_value_wan": 22018.47
+      },
+      {
+        "stock_code": "002352",
+        "stock_name": "顺丰控股",
+        "market_value_wan": 21137.65
+      },
+      {
+        "stock_code": "600460",
+        "stock_name": "士兰微",
+        "market_value_wan": 20525.37
+      },
+      {
+        "stock_code": "688002",
+        "stock_name": "睿创微纳",
+        "market_value_wan": 20146.2
+      },
+      {
+        "stock_code": "600150",
+        "stock_name": "中国船舶",
+        "market_value_wan": 15857.05
+      },
+      {
+        "stock_code": "688099",
+        "stock_name": "晶晨股份",
+        "market_value_wan": 12568.91
+      },
+      {
+        "stock_code": "002409",
+        "stock_name": "雅克科技",
+        "market_value_wan": 11693.44
+      }
+    ],
+    "2022-Q2": [
+      {
+        "stock_code": "688169",
+        "stock_name": "石头科技",
+        "market_value_wan": 38048.6
+      },
+      {
+        "stock_code": "600460",
+        "stock_name": "士兰微",
+        "market_value_wan": 37140.85
+      },
+      {
+        "stock_code": "002841",
+        "stock_name": "视源股份",
+        "market_value_wan": 33179.64
+      },
+      {
+        "stock_code": "689009",
+        "stock_name": "九号公司",
+        "market_value_wan": 29280.8
+      },
+      {
+        "stock_code": "002352",
+        "stock_name": "顺丰控股",
+        "market_value_wan": 27992.72
+      },
+      {
+        "stock_code": "300207",
+        "stock_name": "欣旺达",
+        "market_value_wan": 26108.27
+      },
+      {
+        "stock_code": "600745",
+        "stock_name": "闻泰科技",
+        "market_value_wan": 22050.15
+      },
+      {
+        "stock_code": "688002",
+        "stock_name": "睿创微纳",
+        "market_value_wan": 21047.01
+      },
+      {
+        "stock_code": "688116",
+        "stock_name": "天奈科技",
+        "market_value_wan": 18896.41
+      },
+      {
+        "stock_code": "600150",
+        "stock_name": "中国船舶",
+        "market_value_wan": 15257.47
+      }
+    ],
+    "2022-Q1": [
+      {
+        "stock_code": "688169",
+        "stock_name": "石头科技",
+        "market_value_wan": 35420.58
+      },
+      {
+        "stock_code": "600460",
+        "stock_name": "士兰微",
+        "market_value_wan": 33466.13
+      },
+      {
+        "stock_code": "002841",
+        "stock_name": "视源股份",
+        "market_value_wan": 29440.48
+      },
+      {
+        "stock_code": "002352",
+        "stock_name": "顺丰控股",
+        "market_value_wan": 24966.63
+      },
+      {
+        "stock_code": "688002",
+        "stock_name": "睿创微纳",
+        "market_value_wan": 23876.59
+      },
+      {
+        "stock_code": "689009",
+        "stock_name": "九号公司",
+        "market_value_wan": 23086.95
+      },
+      {
+        "stock_code": "600745",
+        "stock_name": "闻泰科技",
+        "market_value_wan": 22253.83
+      },
+      {
+        "stock_code": "688116",
+        "stock_name": "天奈科技",
+        "market_value_wan": 21373.2
+      },
+      {
+        "stock_code": "688099",
+        "stock_name": "晶晨股份",
+        "market_value_wan": 18221.82
+      },
+      {
+        "stock_code": "688111",
+        "stock_name": "金山办公",
+        "market_value_wan": 16672.35
+      }
+    ]
+  }
+}

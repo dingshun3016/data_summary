@@ -1,0 +1,328 @@
+{
+  "cache_version": 5,
+  "month": "2024-08",
+  "query": "2024年8月涨停次数大于1，市值，行业板块，非北交，非新股，非ST，市值大于100亿，上市时间在2024年之前",
+  "fetched_at": "2026-06-15 20:05:17",
+  "records": [
+    {
+      "code": "002600",
+      "name": "领益智造",
+      "mktcap": "1,099.15亿",
+      "market_cap_yi": 1099.15,
+      "industry": "电子-消费电子-消费电子零部件及组装",
+      "limit_up_count": 3
+    },
+    {
+      "code": "600105",
+      "name": "永鼎股份",
+      "mktcap": "782.61亿",
+      "market_cap_yi": 782.61,
+      "industry": "通信-通信设备-通信线缆及配套",
+      "limit_up_count": 2
+    },
+    {
+      "code": "300438",
+      "name": "鹏辉能源",
+      "mktcap": "373.13亿",
+      "market_cap_yi": 373.13,
+      "industry": "电力设备-电池-锂电池",
+      "limit_up_count": 3
+    },
+    {
+      "code": "000981",
+      "name": "山子高科",
+      "mktcap": "332.92亿",
+      "market_cap_yi": 332.92,
+      "industry": "汽车-汽车零部件-底盘与发动机系统",
+      "limit_up_count": 3
+    },
+    {
+      "code": "000062",
+      "name": "深圳华强",
+      "mktcap": "325.49亿",
+      "market_cap_yi": 325.49,
+      "industry": "电子-其他电子-其他电子Ⅲ",
+      "limit_up_count": 11
+    },
+    {
+      "code": "603663",
+      "name": "三祥新材",
+      "mktcap": "319.34亿",
+      "market_cap_yi": 319.34,
+      "industry": "基础化工-非金属材料-非金属材料Ⅲ",
+      "limit_up_count": 2
+    },
+    {
+      "code": "000547",
+      "name": "航天发展",
+      "mktcap": "318.41亿",
+      "market_cap_yi": 318.41,
+      "industry": "国防军工-军工电子-军工电子Ⅲ",
+      "limit_up_count": 2
+    },
+    {
+      "code": "600839",
+      "name": "四川长虹",
+      "mktcap": "317.14亿",
+      "market_cap_yi": 317.14,
+      "industry": "家用电器-黑色家电-彩电",
+      "limit_up_count": 2
+    },
+    {
+      "code": "601933",
+      "name": "永辉超市",
+      "mktcap": "294.94亿",
+      "market_cap_yi": 294.94,
+      "industry": "商贸零售-零售-百货零售",
+      "limit_up_count": 2
+    },
+    {
+      "code": "603186",
+      "name": "华正新材",
+      "mktcap": "293.72亿",
+      "market_cap_yi": 293.72,
+      "industry": "电子-元件-印制电路板",
+      "limit_up_count": 2
+    },
+    {
+      "code": "002085",
+      "name": "万丰奥威",
+      "mktcap": "291.32亿",
+      "market_cap_yi": 291.32,
+      "industry": "汽车-汽车零部件-轮胎轮毂",
+      "limit_up_count": 2
+    },
+    {
+      "code": "000158",
+      "name": "常山北明",
+      "mktcap": "245.39亿",
+      "market_cap_yi": 245.39,
+      "industry": "计算机-IT服务-IT服务Ⅲ",
+      "limit_up_count": 2
+    },
+    {
+      "code": "000766",
+      "name": "通化金马",
+      "mktcap": "242.69亿",
+      "market_cap_yi": 242.69,
+      "industry": "医药生物-化学制药-化学制剂",
+      "limit_up_count": 2
+    },
+    {
+      "code": "001287",
+      "name": "中电港",
+      "mktcap": "200.69亿",
+      "market_cap_yi": 200.69,
+      "industry": "电子-其他电子-其他电子Ⅲ",
+      "limit_up_count": 2
+    },
+    {
+      "code": "600552",
+      "name": "凯盛科技",
+      "mktcap": "193.46亿",
+      "market_cap_yi": 193.46,
+      "industry": "电子-光学光电子-面板",
+      "limit_up_count": 4
+    },
+    {
+      "code": "300184",
+      "name": "力源信息",
+      "mktcap": "181.55亿",
+      "market_cap_yi": 181.55,
+      "industry": "电子-其他电子-其他电子Ⅲ",
+      "limit_up_count": 3
+    },
+    {
+      "code": "002405",
+      "name": "四维图新",
+      "mktcap": "177.32亿",
+      "market_cap_yi": 177.32,
+      "industry": "计算机-软件开发-垂直应用软件",
+      "limit_up_count": 2
+    },
+    {
+      "code": "601921",
+      "name": "浙版传媒",
+      "mktcap": "169.78亿",
+      "market_cap_yi": 169.78,
+      "industry": "传媒-文化传媒-出版",
+      "limit_up_count": 2
+    },
+    {
+      "code": "600151",
+      "name": "航天机电",
+      "mktcap": "168.95亿",
+      "market_cap_yi": 168.95,
+      "industry": "汽车-汽车零部件-底盘与发动机系统",
+      "limit_up_count": 2
+    },
+    {
+      "code": "002865",
+      "name": "钧达股份",
+      "mktcap": "168.92亿",
+      "market_cap_yi": 168.92,
+      "industry": "电力设备-光伏设备-光伏电池组件",
+      "limit_up_count": 2
+    },
+    {
+      "code": "600343",
+      "name": "航天动力",
+      "mktcap": "155.02亿",
+      "market_cap_yi": 155.02,
+      "industry": "机械设备-通用设备-其他通用设备",
+      "limit_up_count": 2
+    },
+    {
+      "code": "000901",
+      "name": "航天科技",
+      "mktcap": "146.71亿",
+      "market_cap_yi": 146.71,
+      "industry": "汽车-汽车零部件-汽车电子电气系统",
+      "limit_up_count": 3
+    },
+    {
+      "code": "000506",
+      "name": "招金黄金",
+      "mktcap": "140.28亿",
+      "market_cap_yi": 140.28,
+      "industry": "有色金属-贵金属-贵金属Ⅲ",
+      "limit_up_count": 8
+    },
+    {
+      "code": "300436",
+      "name": "广生堂",
+      "mktcap": "137.86亿",
+      "market_cap_yi": 137.86,
+      "industry": "医药生物-化学制药-化学制剂",
+      "limit_up_count": 2
+    },
+    {
+      "code": "300328",
+      "name": "宜安科技",
+      "mktcap": "134.08亿",
+      "market_cap_yi": 134.08,
+      "industry": "有色金属-小金属-其他小金属",
+      "limit_up_count": 2
+    },
+    {
+      "code": "002647",
+      "name": "仁东控股",
+      "mktcap": "131.91亿",
+      "market_cap_yi": 131.91,
+      "industry": "非银金融-多元金融-多元金融Ⅲ",
+      "limit_up_count": 3
+    },
+    {
+      "code": "002426",
+      "name": "胜利精密",
+      "mktcap": "131.34亿",
+      "market_cap_yi": 131.34,
+      "industry": "电子-消费电子-消费电子零部件及组装",
+      "limit_up_count": 2
+    },
+    {
+      "code": "002607",
+      "name": "中公教育",
+      "mktcap": "128.28亿",
+      "market_cap_yi": 128.28,
+      "industry": "社会服务-教育-教育Ⅲ",
+      "limit_up_count": 6
+    },
+    {
+      "code": "000810",
+      "name": "创维数字",
+      "mktcap": "125.37亿",
+      "market_cap_yi": 125.37,
+      "industry": "家用电器-黑色家电-其他黑色家电",
+      "limit_up_count": 5
+    },
+    {
+      "code": "600666",
+      "name": "奥瑞德",
+      "mktcap": "124.37亿",
+      "market_cap_yi": 124.37,
+      "industry": "计算机-IT服务-IT服务Ⅲ",
+      "limit_up_count": 4
+    },
+    {
+      "code": "603626",
+      "name": "科森科技",
+      "mktcap": "121.52亿",
+      "market_cap_yi": 121.52,
+      "industry": "电子-消费电子-消费电子零部件及组装",
+      "limit_up_count": 5
+    },
+    {
+      "code": "002987",
+      "name": "京北方",
+      "mktcap": "121.06亿",
+      "market_cap_yi": 121.06,
+      "industry": "计算机-软件开发-垂直应用软件",
+      "limit_up_count": 2
+    },
+    {
+      "code": "000980",
+      "name": "众泰汽车",
+      "mktcap": "120.52亿",
+      "market_cap_yi": 120.52,
+      "industry": "汽车-汽车整车-乘用车",
+      "limit_up_count": 4
+    },
+    {
+      "code": "002246",
+      "name": "北化股份",
+      "mktcap": "113.81亿",
+      "market_cap_yi": 113.81,
+      "industry": "基础化工-化学制品-民爆用品",
+      "limit_up_count": 2
+    },
+    {
+      "code": "600383",
+      "name": "金地集团",
+      "mktcap": "113.77亿",
+      "market_cap_yi": 113.77,
+      "industry": "房地产-房地产-住宅开发",
+      "limit_up_count": 2
+    },
+    {
+      "code": "000908",
+      "name": "景峰医药",
+      "mktcap": "113.49亿",
+      "market_cap_yi": 113.49,
+      "industry": "医药生物-化学制药-化学制剂",
+      "limit_up_count": 19
+    },
+    {
+      "code": "603608",
+      "name": "天创时尚",
+      "mktcap": "111.57亿",
+      "market_cap_yi": 111.57,
+      "industry": "纺织服饰-服装家纺-鞋帽及其他",
+      "limit_up_count": 3
+    },
+    {
+      "code": "301326",
+      "name": "捷邦科技",
+      "mktcap": "104.02亿",
+      "market_cap_yi": 104.02,
+      "industry": "电子-消费电子-消费电子零部件及组装",
+      "limit_up_count": 2
+    },
+    {
+      "code": "002272",
+      "name": "川润股份",
+      "mktcap": "102.21亿",
+      "market_cap_yi": 102.21,
+      "industry": "机械设备-通用设备-其他通用设备",
+      "limit_up_count": 2
+    },
+    {
+      "code": "603118",
+      "name": "共进股份",
+      "mktcap": "100.14亿",
+      "market_cap_yi": 100.14,
+      "industry": "通信-通信设备-通信终端及配件",
+      "limit_up_count": 3
+    }
+  ]
+}

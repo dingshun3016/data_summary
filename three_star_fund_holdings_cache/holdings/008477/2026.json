@@ -1,0 +1,60 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "008477",
+    "name": "安信价值驱动三年持有混合",
+    "base_name": "安信价值驱动三年持有混合"
+  },
+  "fetched_at": "2026-08-01 20:57:51",
+  "quarters": {
+    "2026-Q2": [
+      {
+        "stock_code": "688169",
+        "stock_name": "石头科技",
+        "market_value_wan": 339.71
+      },
+      {
+        "stock_code": "601668",
+        "stock_name": "中国建筑",
+        "market_value_wan": 193.23
+      },
+      {
+        "stock_code": "002142",
+        "stock_name": "宁波银行",
+        "market_value_wan": 180.0
+      },
+      {
+        "stock_code": "603486",
+        "stock_name": "科沃斯",
+        "market_value_wan": 154.79
+      },
+      {
+        "stock_code": "600887",
+        "stock_name": "伊利股份",
+        "market_value_wan": 123.87
+      }
+    ],
+    "2026-Q1": [
+      {
+        "stock_code": "688169",
+        "stock_name": "石头科技",
+        "market_value_wan": 429.17
+      },
+      {
+        "stock_code": "601668",
+        "stock_name": "中国建筑",
+        "market_value_wan": 262.43
+      },
+      {
+        "stock_code": "002142",
+        "stock_name": "宁波银行",
+        "market_value_wan": 217.19
+      },
+      {
+        "stock_code": "603486",
+        "stock_name": "科沃斯",
+        "market_value_wan": 186.11
+      }
+    ]
+  }
+}

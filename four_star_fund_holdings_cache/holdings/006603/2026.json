@@ -1,0 +1,60 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "006603",
+    "name": "嘉实互融精选股票A",
+    "base_name": "嘉实互融精选股票"
+  },
+  "fetched_at": "2026-08-01 20:48:01",
+  "quarters": {
+    "2026-Q2": [
+      {
+        "stock_code": "688266",
+        "stock_name": "泽璟制药",
+        "market_value_wan": 22692.67
+      },
+      {
+        "stock_code": "688235",
+        "stock_name": "百济神州",
+        "market_value_wan": 15755.42
+      },
+      {
+        "stock_code": "600276",
+        "stock_name": "恒瑞医药",
+        "market_value_wan": 13212.28
+      },
+      {
+        "stock_code": "688382",
+        "stock_name": "益方生物",
+        "market_value_wan": 12395.36
+      }
+    ],
+    "2026-Q1": [
+      {
+        "stock_code": "688266",
+        "stock_name": "泽璟制药",
+        "market_value_wan": 23173.86
+      },
+      {
+        "stock_code": "600276",
+        "stock_name": "恒瑞医药",
+        "market_value_wan": 21937.64
+      },
+      {
+        "stock_code": "688192",
+        "stock_name": "迪哲医药",
+        "market_value_wan": 18983.5
+      },
+      {
+        "stock_code": "688235",
+        "stock_name": "百济神州",
+        "market_value_wan": 15341.3
+      },
+      {
+        "stock_code": "688382",
+        "stock_name": "益方生物",
+        "market_value_wan": 13072.45
+      }
+    ]
+  }
+}

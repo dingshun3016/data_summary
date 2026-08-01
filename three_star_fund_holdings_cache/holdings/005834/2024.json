@@ -1,0 +1,84 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "005834",
+    "name": "工银红利优享混合C",
+    "base_name": "工银红利优享混合"
+  },
+  "fetched_at": "2026-06-14 23:19:31",
+  "quarters": {
+    "2024-Q4": [
+      {
+        "stock_code": "600323",
+        "stock_name": "瀚蓝环境",
+        "market_value_wan": 12065.57
+      },
+      {
+        "stock_code": "600483",
+        "stock_name": "福能股份",
+        "market_value_wan": 11813.44
+      },
+      {
+        "stock_code": "600163",
+        "stock_name": "中闽能源",
+        "market_value_wan": 9934.37
+      }
+    ],
+    "2024-Q3": [
+      {
+        "stock_code": "601816",
+        "stock_name": "京沪高铁",
+        "market_value_wan": 7387.77
+      },
+      {
+        "stock_code": "000690",
+        "stock_name": "宝新能源",
+        "market_value_wan": 5354.79
+      },
+      {
+        "stock_code": "600098",
+        "stock_name": "广州发展",
+        "market_value_wan": 5287.56
+      },
+      {
+        "stock_code": "600004",
+        "stock_name": "白云机场",
+        "market_value_wan": 5231.26
+      }
+    ],
+    "2024-Q2": [
+      {
+        "stock_code": "601816",
+        "stock_name": "京沪高铁",
+        "market_value_wan": 5644.46
+      },
+      {
+        "stock_code": "600795",
+        "stock_name": "国电电力",
+        "market_value_wan": 4414.07
+      },
+      {
+        "stock_code": "600004",
+        "stock_name": "白云机场",
+        "market_value_wan": 3935.62
+      }
+    ],
+    "2024-Q1": [
+      {
+        "stock_code": "600795",
+        "stock_name": "国电电力",
+        "market_value_wan": 2514.12
+      },
+      {
+        "stock_code": "601816",
+        "stock_name": "京沪高铁",
+        "market_value_wan": 2380.23
+      },
+      {
+        "stock_code": "600004",
+        "stock_name": "白云机场",
+        "market_value_wan": 2137.67
+      }
+    ]
+  }
+}

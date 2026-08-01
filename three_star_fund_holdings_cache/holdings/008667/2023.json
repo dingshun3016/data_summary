@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "008667",
+    "name": "国泰鑫利一年持有期混合C",
+    "base_name": "国泰鑫利一年持有期混合"
+  },
+  "fetched_at": "2026-06-14 23:28:56",
+  "quarters": {
+    "2023-Q4": [
+      {
+        "stock_code": "600388",
+        "stock_name": "龙净环保",
+        "market_value_wan": 330.37
+      },
+      {
+        "stock_code": "002456",
+        "stock_name": "欧菲光",
+        "market_value_wan": 293.35
+      },
+      {
+        "stock_code": "688357",
+        "stock_name": "建龙微纳",
+        "market_value_wan": 293.29
+      },
+      {
+        "stock_code": "002843",
+        "stock_name": "泰嘉股份",
+        "market_value_wan": 222.07
+      },
+      {
+        "stock_code": "002940",
+        "stock_name": "昂利康",
+        "market_value_wan": 164.66
+      },
+      {
+        "stock_code": "301263",
+        "stock_name": "泰恩康",
+        "market_value_wan": 139.62
+      },
+      {
+        "stock_code": "601398",
+        "stock_name": "工商银行",
+        "market_value_wan": 106.45
+      },
+      {
+        "stock_code": "300657",
+        "stock_name": "弘信电子",
+        "market_value_wan": 80.08
+      },
+      {
+        "stock_code": "601058",
+        "stock_name": "赛轮轮胎",
+        "market_value_wan": 63.71
+      },
+      {
+        "stock_code": "601658",
+        "stock_name": "邮储银行",
+        "market_value_wan": 52.42
+      }
+    ],
+    "2023-Q3": [
+      {
+        "stock_code": "601398",
+        "stock_name": "工商银行",
+        "market_value_wan": 530.95
+      },
+      {
+        "stock_code": "002865",
+        "stock_name": "钧达股份",
+        "market_value_wan": 478.85
+      },
+      {
+        "stock_code": "601058",
+        "stock_name": "赛轮轮胎",
+        "market_value_wan": 367.99
+      },
+      {
+        "stock_code": "600388",
+        "stock_name": "龙净环保",
+        "market_value_wan": 339.83
+      },
+      {
+        "stock_code": "601658",
+        "stock_name": "邮储银行",
+        "market_value_wan": 307.79
+      },
+      {
+        "stock_code": "002940",
+        "stock_name": "昂利康",
+        "market_value_wan": 285.12
+      },
+      {
+        "stock_code": "002870",
+        "stock_name": "香山股份",
+        "market_value_wan": 234.53
+      },
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 221.92
+      },
+      {
+        "stock_code": "600732",
+        "stock_name": "爱旭股份",
+        "market_value_wan": 202.89
+      },
+      {
+        "stock_code": "002236",
+        "stock_name": "大华股份",
+        "market_value_wan": 193.53
+      }
+    ],
+    "2023-Q2": [
+      {
+        "stock_code": "601398",
+        "stock_name": "工商银行",
+        "market_value_wan": 1093.66
+      },
+      {
+        "stock_code": "601658",
+        "stock_name": "邮储银行",
+        "market_value_wan": 605.63
+      },
+      {
+        "stock_code": "002940",
+        "stock_name": "昂利康",
+        "market_value_wan": 584.45
+      },
+      {
+        "stock_code": "002865",
+        "stock_name": "钧达股份",
+        "market_value_wan": 497.25
+      },
+      {
+        "stock_code": "002870",
+        "stock_name": "香山股份",
+        "market_value_wan": 386.76
+      },
+      {
+        "stock_code": "688472",
+        "stock_name": "阿特斯",
+        "market_value_wan": 369.81
+      },
+      {
+        "stock_code": "600732",
+        "stock_name": "爱旭股份",
+        "market_value_wan": 362.05
+      },
+      {
+        "stock_code": "601058",
+        "stock_name": "赛轮轮胎",
+        "market_value_wan": 341.7
+      },
+      {
+        "stock_code": "002941",
+        "stock_name": "新疆交建",
+        "market_value_wan": 309.6
+      },
+      {
+        "stock_code": "600729",
+        "stock_name": "重庆百货",
+        "market_value_wan": 242.09
+      }
+    ],
+    "2023-Q1": [
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 430.48
+      },
+      {
+        "stock_code": "600729",
+        "stock_name": "重庆百货",
+        "market_value_wan": 417.65
+      },
+      {
+        "stock_code": "600388",
+        "stock_name": "龙净环保",
+        "market_value_wan": 351.8
+      },
+      {
+        "stock_code": "688310",
+        "stock_name": "迈得医疗",
+        "market_value_wan": 346.05
+      },
+      {
+        "stock_code": "603639",
+        "stock_name": "海利尔",
+        "market_value_wan": 333.43
+      },
+      {
+        "stock_code": "000829",
+        "stock_name": "天音控股",
+        "market_value_wan": 284.75
+      },
+      {
+        "stock_code": "002940",
+        "stock_name": "昂利康",
+        "market_value_wan": 264.62
+      },
+      {
+        "stock_code": "002942",
+        "stock_name": "新农股份",
+        "market_value_wan": 243.0
+      },
+      {
+        "stock_code": "002028",
+        "stock_name": "思源电气",
+        "market_value_wan": 229.06
+      },
+      {
+        "stock_code": "601058",
+        "stock_name": "赛轮轮胎",
+        "market_value_wan": 215.8
+      }
+    ]
+  }
+}

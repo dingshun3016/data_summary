@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "007590",
+    "name": "华宝绿色领先股票A",
+    "base_name": "华宝绿色领先股票"
+  },
+  "fetched_at": "2026-06-14 23:25:01",
+  "quarters": {
+    "2020-Q4": [
+      {
+        "stock_code": "002384",
+        "stock_name": "东山精密",
+        "market_value_wan": 1171.0
+      },
+      {
+        "stock_code": "002127",
+        "stock_name": "南极电商",
+        "market_value_wan": 1089.68
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 684.66
+      },
+      {
+        "stock_code": "600741",
+        "stock_name": "华域汽车",
+        "market_value_wan": 548.75
+      },
+      {
+        "stock_code": "002938",
+        "stock_name": "鹏鼎控股",
+        "market_value_wan": 534.75
+      },
+      {
+        "stock_code": "300083",
+        "stock_name": "创世纪",
+        "market_value_wan": 465.66
+      },
+      {
+        "stock_code": "603103",
+        "stock_name": "横店影视",
+        "market_value_wan": 429.97
+      },
+      {
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "market_value_wan": 392.28
+      },
+      {
+        "stock_code": "000681",
+        "stock_name": "视觉中国",
+        "market_value_wan": 388.18
+      },
+      {
+        "stock_code": "002659",
+        "stock_name": "凯文教育",
+        "market_value_wan": 383.03
+      }
+    ],
+    "2020-Q3": [
+      {
+        "stock_code": "002384",
+        "stock_name": "东山精密",
+        "market_value_wan": 1357.97
+      },
+      {
+        "stock_code": "002127",
+        "stock_name": "南极电商",
+        "market_value_wan": 1144.76
+      },
+      {
+        "stock_code": "002202",
+        "stock_name": "金风科技",
+        "market_value_wan": 791.53
+      },
+      {
+        "stock_code": "002531",
+        "stock_name": "天顺风能",
+        "market_value_wan": 759.42
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 684.08
+      },
+      {
+        "stock_code": "603659",
+        "stock_name": "璞泰来",
+        "market_value_wan": 669.57
+      },
+      {
+        "stock_code": "600741",
+        "stock_name": "华域汽车",
+        "market_value_wan": 579.94
+      },
+      {
+        "stock_code": "600438",
+        "stock_name": "通威股份",
+        "market_value_wan": 539.04
+      },
+      {
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "market_value_wan": 517.04
+      },
+      {
+        "stock_code": "002659",
+        "stock_name": "凯文教育",
+        "market_value_wan": 488.2
+      }
+    ],
+    "2020-Q2": [
+      {
+        "stock_code": "002384",
+        "stock_name": "东山精密",
+        "market_value_wan": 3019.21
+      },
+      {
+        "stock_code": "002531",
+        "stock_name": "天顺风能",
+        "market_value_wan": 2628.72
+      },
+      {
+        "stock_code": "002202",
+        "stock_name": "金风科技",
+        "market_value_wan": 2481.86
+      },
+      {
+        "stock_code": "002127",
+        "stock_name": "南极电商",
+        "market_value_wan": 2018.24
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 1628.52
+      },
+      {
+        "stock_code": "002709",
+        "stock_name": "天赐材料",
+        "market_value_wan": 1200.54
+      },
+      {
+        "stock_code": "603659",
+        "stock_name": "璞泰来",
+        "market_value_wan": 1115.29
+      },
+      {
+        "stock_code": "300073",
+        "stock_name": "当升科技",
+        "market_value_wan": 1106.85
+      },
+      {
+        "stock_code": "600741",
+        "stock_name": "华域汽车",
+        "market_value_wan": 1005.55
+      },
+      {
+        "stock_code": "002027",
+        "stock_name": "分众传媒",
+        "market_value_wan": 971.45
+      }
+    ],
+    "2020-Q1": [
+      {
+        "stock_code": "002127",
+        "stock_name": "南极电商",
+        "market_value_wan": 5372.59
+      },
+      {
+        "stock_code": "002202",
+        "stock_name": "金风科技",
+        "market_value_wan": 5082.33
+      },
+      {
+        "stock_code": "002531",
+        "stock_name": "天顺风能",
+        "market_value_wan": 4567.46
+      },
+      {
+        "stock_code": "002384",
+        "stock_name": "东山精密",
+        "market_value_wan": 3390.84
+      },
+      {
+        "stock_code": "300459",
+        "stock_name": "汤姆猫",
+        "market_value_wan": 2443.24
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 2263.33
+      },
+      {
+        "stock_code": "300772",
+        "stock_name": "运达股份",
+        "market_value_wan": 2211.66
+      },
+      {
+        "stock_code": "000961",
+        "stock_name": "ST中南",
+        "market_value_wan": 2082.52
+      },
+      {
+        "stock_code": "601186",
+        "stock_name": "中国铁建",
+        "market_value_wan": 1950.75
+      },
+      {
+        "stock_code": "002340",
+        "stock_name": "格林美",
+        "market_value_wan": 1771.15
+      }
+    ]
+  }
+}

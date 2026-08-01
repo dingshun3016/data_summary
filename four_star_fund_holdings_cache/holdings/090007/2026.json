@@ -1,0 +1,115 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "090007",
+    "name": "大成策略回报混合A",
+    "base_name": "大成策略回报混合"
+  },
+  "fetched_at": "2026-08-01 20:48:37",
+  "quarters": {
+    "2026-Q2": [
+      {
+        "stock_code": "600941",
+        "stock_name": "中国移动",
+        "market_value_wan": 23181.71
+      },
+      {
+        "stock_code": "000739",
+        "stock_name": "普洛药业",
+        "market_value_wan": 18241.22
+      },
+      {
+        "stock_code": "603899",
+        "stock_name": "晨光股份",
+        "market_value_wan": 12245.18
+      },
+      {
+        "stock_code": "601333",
+        "stock_name": "广深铁路",
+        "market_value_wan": 12194.59
+      },
+      {
+        "stock_code": "000063",
+        "stock_name": "中兴通讯",
+        "market_value_wan": 10538.89
+      },
+      {
+        "stock_code": "600938",
+        "stock_name": "中国海油",
+        "market_value_wan": 9773.51
+      },
+      {
+        "stock_code": "002773",
+        "stock_name": "康弘药业",
+        "market_value_wan": 7304.45
+      },
+      {
+        "stock_code": "603658",
+        "stock_name": "安图生物",
+        "market_value_wan": 7016.71
+      },
+      {
+        "stock_code": "000100",
+        "stock_name": "TCL科技",
+        "market_value_wan": 6757.19
+      },
+      {
+        "stock_code": "000661",
+        "stock_name": "长春高新",
+        "market_value_wan": 6144.08
+      }
+    ],
+    "2026-Q1": [
+      {
+        "stock_code": "600941",
+        "stock_name": "中国移动",
+        "market_value_wan": 27151.07
+      },
+      {
+        "stock_code": "000739",
+        "stock_name": "普洛药业",
+        "market_value_wan": 21188.48
+      },
+      {
+        "stock_code": "002773",
+        "stock_name": "康弘药业",
+        "market_value_wan": 15531.61
+      },
+      {
+        "stock_code": "601333",
+        "stock_name": "广深铁路",
+        "market_value_wan": 15351.47
+      },
+      {
+        "stock_code": "600938",
+        "stock_name": "中国海油",
+        "market_value_wan": 15227.68
+      },
+      {
+        "stock_code": "000063",
+        "stock_name": "中兴通讯",
+        "market_value_wan": 10590.36
+      },
+      {
+        "stock_code": "603899",
+        "stock_name": "晨光股份",
+        "market_value_wan": 8293.66
+      },
+      {
+        "stock_code": "002318",
+        "stock_name": "久立特材",
+        "market_value_wan": 8193.24
+      },
+      {
+        "stock_code": "000661",
+        "stock_name": "长春高新",
+        "market_value_wan": 7921.8
+      },
+      {
+        "stock_code": "603658",
+        "stock_name": "安图生物",
+        "market_value_wan": 7502.13
+      }
+    ]
+  }
+}

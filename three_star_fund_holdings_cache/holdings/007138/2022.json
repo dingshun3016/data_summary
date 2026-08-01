@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "007138",
+    "name": "鹏扬元合量化大盘C",
+    "base_name": "鹏扬元合量化大盘"
+  },
+  "fetched_at": "2026-06-14 23:23:55",
+  "quarters": {
+    "2022-Q4": [
+      {
+        "stock_code": "603799",
+        "stock_name": "华友钴业",
+        "market_value_wan": 597.47
+      },
+      {
+        "stock_code": "300014",
+        "stock_name": "亿纬锂能",
+        "market_value_wan": 593.33
+      },
+      {
+        "stock_code": "688063",
+        "stock_name": "派能科技",
+        "market_value_wan": 397.28
+      },
+      {
+        "stock_code": "603501",
+        "stock_name": "韦尔股份",
+        "market_value_wan": 385.45
+      },
+      {
+        "stock_code": "000733",
+        "stock_name": "振华科技",
+        "market_value_wan": 363.25
+      },
+      {
+        "stock_code": "300919",
+        "stock_name": "中伟股份",
+        "market_value_wan": 268.34
+      },
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 257.81
+      },
+      {
+        "stock_code": "603986",
+        "stock_name": "兆易创新",
+        "market_value_wan": 257.2
+      },
+      {
+        "stock_code": "600522",
+        "stock_name": "中天科技",
+        "market_value_wan": 255.17
+      },
+      {
+        "stock_code": "300769",
+        "stock_name": "德方纳米",
+        "market_value_wan": 243.37
+      }
+    ],
+    "2022-Q3": [
+      {
+        "stock_code": "300014",
+        "stock_name": "亿纬锂能",
+        "market_value_wan": 557.51
+      },
+      {
+        "stock_code": "002466",
+        "stock_name": "天齐锂业",
+        "market_value_wan": 494.97
+      },
+      {
+        "stock_code": "603799",
+        "stock_name": "华友钴业",
+        "market_value_wan": 465.82
+      },
+      {
+        "stock_code": "688599",
+        "stock_name": "天合光能",
+        "market_value_wan": 381.45
+      },
+      {
+        "stock_code": "688063",
+        "stock_name": "派能科技",
+        "market_value_wan": 364.24
+      },
+      {
+        "stock_code": "300207",
+        "stock_name": "欣旺达",
+        "market_value_wan": 328.71
+      },
+      {
+        "stock_code": "002371",
+        "stock_name": "北方华创",
+        "market_value_wan": 322.94
+      },
+      {
+        "stock_code": "002049",
+        "stock_name": "紫光国微",
+        "market_value_wan": 312.48
+      },
+      {
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "market_value_wan": 289.73
+      },
+      {
+        "stock_code": "688778",
+        "stock_name": "厦钨新能",
+        "market_value_wan": 287.87
+      }
+    ],
+    "2022-Q2": [
+      {
+        "stock_code": "603799",
+        "stock_name": "华友钴业",
+        "market_value_wan": 564.16
+      },
+      {
+        "stock_code": "688598",
+        "stock_name": "金博股份",
+        "market_value_wan": 555.01
+      },
+      {
+        "stock_code": "002466",
+        "stock_name": "天齐锂业",
+        "market_value_wan": 391.87
+      },
+      {
+        "stock_code": "002920",
+        "stock_name": "德赛西威",
+        "market_value_wan": 367.04
+      },
+      {
+        "stock_code": "002460",
+        "stock_name": "赣锋锂业",
+        "market_value_wan": 361.34
+      },
+      {
+        "stock_code": "002049",
+        "stock_name": "紫光国微",
+        "market_value_wan": 343.39
+      },
+      {
+        "stock_code": "688005",
+        "stock_name": "容百科技",
+        "market_value_wan": 333.96
+      },
+      {
+        "stock_code": "603501",
+        "stock_name": "韦尔股份",
+        "market_value_wan": 268.2
+      },
+      {
+        "stock_code": "300035",
+        "stock_name": "中科电气",
+        "market_value_wan": 247.36
+      },
+      {
+        "stock_code": "300725",
+        "stock_name": "药石科技",
+        "market_value_wan": 240.55
+      }
+    ],
+    "2022-Q1": [
+      {
+        "stock_code": "688598",
+        "stock_name": "金博股份",
+        "market_value_wan": 461.11
+      },
+      {
+        "stock_code": "603799",
+        "stock_name": "华友钴业",
+        "market_value_wan": 422.5
+      },
+      {
+        "stock_code": "300751",
+        "stock_name": "迈为股份",
+        "market_value_wan": 394.64
+      },
+      {
+        "stock_code": "002920",
+        "stock_name": "德赛西威",
+        "market_value_wan": 340.61
+      },
+      {
+        "stock_code": "688516",
+        "stock_name": "奥特维",
+        "market_value_wan": 328.98
+      },
+      {
+        "stock_code": "002460",
+        "stock_name": "赣锋锂业",
+        "market_value_wan": 317.89
+      },
+      {
+        "stock_code": "002049",
+        "stock_name": "紫光国微",
+        "market_value_wan": 267.95
+      },
+      {
+        "stock_code": "300059",
+        "stock_name": "东方财富",
+        "market_value_wan": 265.82
+      },
+      {
+        "stock_code": "002466",
+        "stock_name": "天齐锂业",
+        "market_value_wan": 259.63
+      },
+      {
+        "stock_code": "300725",
+        "stock_name": "药石科技",
+        "market_value_wan": 212.04
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "420001",
+    "name": "天弘精选混合A",
+    "base_name": "天弘精选混合"
+  },
+  "fetched_at": "2026-06-15 00:00:08",
+  "quarters": {
+    "2021-Q4": [
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 5314.22
+      },
+      {
+        "stock_code": "300374",
+        "stock_name": "中铁装配",
+        "market_value_wan": 4241.17
+      },
+      {
+        "stock_code": "600039",
+        "stock_name": "四川路桥",
+        "market_value_wan": 3901.2
+      },
+      {
+        "stock_code": "002434",
+        "stock_name": "万里扬",
+        "market_value_wan": 3744.94
+      },
+      {
+        "stock_code": "000858",
+        "stock_name": "五粮液",
+        "market_value_wan": 3018.02
+      },
+      {
+        "stock_code": "600176",
+        "stock_name": "中国巨石",
+        "market_value_wan": 2619.97
+      },
+      {
+        "stock_code": "603816",
+        "stock_name": "顾家家居",
+        "market_value_wan": 2357.08
+      },
+      {
+        "stock_code": "603601",
+        "stock_name": "再升科技",
+        "market_value_wan": 2154.68
+      },
+      {
+        "stock_code": "002375",
+        "stock_name": "亚厦股份",
+        "market_value_wan": 2024.85
+      },
+      {
+        "stock_code": "300263",
+        "stock_name": "隆华科技",
+        "market_value_wan": 1957.18
+      }
+    ],
+    "2021-Q3": [
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 4743.91
+      },
+      {
+        "stock_code": "300374",
+        "stock_name": "中铁装配",
+        "market_value_wan": 4130.56
+      },
+      {
+        "stock_code": "603601",
+        "stock_name": "再升科技",
+        "market_value_wan": 3548.01
+      },
+      {
+        "stock_code": "000858",
+        "stock_name": "五粮液",
+        "market_value_wan": 2973.7
+      },
+      {
+        "stock_code": "600176",
+        "stock_name": "中国巨石",
+        "market_value_wan": 2564.12
+      },
+      {
+        "stock_code": "300833",
+        "stock_name": "浩洋股份",
+        "market_value_wan": 2374.59
+      },
+      {
+        "stock_code": "002434",
+        "stock_name": "万里扬",
+        "market_value_wan": 2141.16
+      },
+      {
+        "stock_code": "603816",
+        "stock_name": "顾家家居",
+        "market_value_wan": 2035.68
+      },
+      {
+        "stock_code": "600039",
+        "stock_name": "四川路桥",
+        "market_value_wan": 1981.88
+      },
+      {
+        "stock_code": "002375",
+        "stock_name": "亚厦股份",
+        "market_value_wan": 1849.71
+      }
+    ],
+    "2021-Q2": [
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 5331.58
+      },
+      {
+        "stock_code": "300374",
+        "stock_name": "中铁装配",
+        "market_value_wan": 4179.62
+      },
+      {
+        "stock_code": "000858",
+        "stock_name": "五粮液",
+        "market_value_wan": 4109.21
+      },
+      {
+        "stock_code": "000786",
+        "stock_name": "北新建材",
+        "market_value_wan": 3625.67
+      },
+      {
+        "stock_code": "603601",
+        "stock_name": "再升科技",
+        "market_value_wan": 3501.75
+      },
+      {
+        "stock_code": "603816",
+        "stock_name": "顾家家居",
+        "market_value_wan": 2621.96
+      },
+      {
+        "stock_code": "002833",
+        "stock_name": "弘亚数控",
+        "market_value_wan": 2327.11
+      },
+      {
+        "stock_code": "002311",
+        "stock_name": "海大集团",
+        "market_value_wan": 2217.4
+      },
+      {
+        "stock_code": "600176",
+        "stock_name": "中国巨石",
+        "market_value_wan": 2141.53
+      },
+      {
+        "stock_code": "603899",
+        "stock_name": "晨光股份",
+        "market_value_wan": 1974.85
+      }
+    ],
+    "2021-Q1": [
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 5207.93
+      },
+      {
+        "stock_code": "300374",
+        "stock_name": "中铁装配",
+        "market_value_wan": 4436.55
+      },
+      {
+        "stock_code": "000786",
+        "stock_name": "北新建材",
+        "market_value_wan": 3888.01
+      },
+      {
+        "stock_code": "000858",
+        "stock_name": "五粮液",
+        "market_value_wan": 3696.62
+      },
+      {
+        "stock_code": "002833",
+        "stock_name": "弘亚数控",
+        "market_value_wan": 2842.39
+      },
+      {
+        "stock_code": "600346",
+        "stock_name": "恒力石化",
+        "market_value_wan": 2743.66
+      },
+      {
+        "stock_code": "603601",
+        "stock_name": "再升科技",
+        "market_value_wan": 2710.64
+      },
+      {
+        "stock_code": "600690",
+        "stock_name": "海尔智家",
+        "market_value_wan": 2277.42
+      },
+      {
+        "stock_code": "600176",
+        "stock_name": "中国巨石",
+        "market_value_wan": 2242.94
+      },
+      {
+        "stock_code": "600882",
+        "stock_name": "妙可蓝多",
+        "market_value_wan": 2209.04
+      }
+    ]
+  }
+}

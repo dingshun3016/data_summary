@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "001915",
+    "name": "宝盈医疗健康沪港深股票A",
+    "base_name": "宝盈医疗健康沪港深股票"
+  },
+  "fetched_at": "2026-06-14 23:02:03",
+  "quarters": {
+    "2023-Q4": [
+      {
+        "stock_code": "600129",
+        "stock_name": "太极集团",
+        "market_value_wan": 6627.31
+      },
+      {
+        "stock_code": "300705",
+        "stock_name": "九典制药",
+        "market_value_wan": 6370.86
+      },
+      {
+        "stock_code": "000403",
+        "stock_name": "派林生物",
+        "market_value_wan": 5645.22
+      },
+      {
+        "stock_code": "600276",
+        "stock_name": "恒瑞医药",
+        "market_value_wan": 5370.43
+      },
+      {
+        "stock_code": "688108",
+        "stock_name": "赛诺医疗",
+        "market_value_wan": 4269.6
+      },
+      {
+        "stock_code": "688506",
+        "stock_name": "百利天恒",
+        "market_value_wan": 3771.07
+      },
+      {
+        "stock_code": "300832",
+        "stock_name": "新产业",
+        "market_value_wan": 3461.13
+      },
+      {
+        "stock_code": "300049",
+        "stock_name": "福瑞股份",
+        "market_value_wan": 3438.38
+      },
+      {
+        "stock_code": "002422",
+        "stock_name": "科伦药业",
+        "market_value_wan": 3346.56
+      },
+      {
+        "stock_code": "300122",
+        "stock_name": "智飞生物",
+        "market_value_wan": 3314.3
+      }
+    ],
+    "2023-Q3": [
+      {
+        "stock_code": "301239",
+        "stock_name": "普瑞眼科",
+        "market_value_wan": 6549.32
+      },
+      {
+        "stock_code": "600276",
+        "stock_name": "恒瑞医药",
+        "market_value_wan": 6342.2
+      },
+      {
+        "stock_code": "600129",
+        "stock_name": "太极集团",
+        "market_value_wan": 5632.59
+      },
+      {
+        "stock_code": "688108",
+        "stock_name": "赛诺医疗",
+        "market_value_wan": 3713.47
+      },
+      {
+        "stock_code": "002422",
+        "stock_name": "科伦药业",
+        "market_value_wan": 3713.13
+      },
+      {
+        "stock_code": "300049",
+        "stock_name": "福瑞股份",
+        "market_value_wan": 3628.98
+      },
+      {
+        "stock_code": "688506",
+        "stock_name": "百利天恒",
+        "market_value_wan": 3077.02
+      },
+      {
+        "stock_code": "688617",
+        "stock_name": "惠泰医疗",
+        "market_value_wan": 2999.02
+      },
+      {
+        "stock_code": "600085",
+        "stock_name": "同仁堂",
+        "market_value_wan": 2916.19
+      },
+      {
+        "stock_code": "301333",
+        "stock_name": "诺思格",
+        "market_value_wan": 2897.27
+      }
+    ],
+    "2023-Q2": [
+      {
+        "stock_code": "600129",
+        "stock_name": "太极集团",
+        "market_value_wan": 5923.75
+      },
+      {
+        "stock_code": "600276",
+        "stock_name": "恒瑞医药",
+        "market_value_wan": 3813.13
+      },
+      {
+        "stock_code": "301239",
+        "stock_name": "普瑞眼科",
+        "market_value_wan": 3780.21
+      },
+      {
+        "stock_code": "002422",
+        "stock_name": "科伦药业",
+        "market_value_wan": 3619.48
+      },
+      {
+        "stock_code": "600557",
+        "stock_name": "康缘药业",
+        "market_value_wan": 2685.86
+      },
+      {
+        "stock_code": "600085",
+        "stock_name": "同仁堂",
+        "market_value_wan": 2546.14
+      },
+      {
+        "stock_code": "600422",
+        "stock_name": "昆药集团",
+        "market_value_wan": 2487.64
+      },
+      {
+        "stock_code": "301263",
+        "stock_name": "泰恩康",
+        "market_value_wan": 2432.18
+      },
+      {
+        "stock_code": "688073",
+        "stock_name": "毕得医药",
+        "market_value_wan": 2408.89
+      },
+      {
+        "stock_code": "605186",
+        "stock_name": "健麾信息",
+        "market_value_wan": 2290.86
+      }
+    ],
+    "2023-Q1": [
+      {
+        "stock_code": "600129",
+        "stock_name": "太极集团",
+        "market_value_wan": 6450.66
+      },
+      {
+        "stock_code": "301239",
+        "stock_name": "普瑞眼科",
+        "market_value_wan": 5266.02
+      },
+      {
+        "stock_code": "300015",
+        "stock_name": "爱尔眼科",
+        "market_value_wan": 4792.12
+      },
+      {
+        "stock_code": "600557",
+        "stock_name": "康缘药业",
+        "market_value_wan": 3732.78
+      },
+      {
+        "stock_code": "600422",
+        "stock_name": "昆药集团",
+        "market_value_wan": 3595.46
+      },
+      {
+        "stock_code": "688073",
+        "stock_name": "毕得医药",
+        "market_value_wan": 3460.54
+      },
+      {
+        "stock_code": "600329",
+        "stock_name": "达仁堂",
+        "market_value_wan": 3389.93
+      },
+      {
+        "stock_code": "301333",
+        "stock_name": "诺思格",
+        "market_value_wan": 3103.98
+      },
+      {
+        "stock_code": "300896",
+        "stock_name": "爱美客",
+        "market_value_wan": 2788.16
+      },
+      {
+        "stock_code": "301257",
+        "stock_name": "普蕊斯",
+        "market_value_wan": 2770.79
+      }
+    ]
+  }
+}

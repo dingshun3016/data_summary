@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "002210",
+    "name": "创金合信量化多因子股票A",
+    "base_name": "创金合信量化多因子股票"
+  },
+  "fetched_at": "2026-06-14 23:04:48",
+  "quarters": {
+    "2023-Q4": [
+      {
+        "stock_code": "002085",
+        "stock_name": "万丰奥威",
+        "market_value_wan": 1398.66
+      },
+      {
+        "stock_code": "000811",
+        "stock_name": "冰轮环境",
+        "market_value_wan": 1385.5
+      },
+      {
+        "stock_code": "688289",
+        "stock_name": "圣湘生物",
+        "market_value_wan": 1378.13
+      },
+      {
+        "stock_code": "601369",
+        "stock_name": "陕鼓动力",
+        "market_value_wan": 1347.82
+      },
+      {
+        "stock_code": "603881",
+        "stock_name": "数据港",
+        "market_value_wan": 1337.57
+      },
+      {
+        "stock_code": "002106",
+        "stock_name": "莱宝高科",
+        "market_value_wan": 1336.07
+      },
+      {
+        "stock_code": "688403",
+        "stock_name": "汇成股份",
+        "market_value_wan": 1333.21
+      },
+      {
+        "stock_code": "300271",
+        "stock_name": "华宇软件",
+        "market_value_wan": 1318.43
+      },
+      {
+        "stock_code": "600007",
+        "stock_name": "中国国贸",
+        "market_value_wan": 1315.1
+      },
+      {
+        "stock_code": "601801",
+        "stock_name": "皖新传媒",
+        "market_value_wan": 1296.87
+      }
+    ],
+    "2023-Q3": [
+      {
+        "stock_code": "002106",
+        "stock_name": "莱宝高科",
+        "market_value_wan": 441.12
+      },
+      {
+        "stock_code": "000901",
+        "stock_name": "航天科技",
+        "market_value_wan": 424.83
+      },
+      {
+        "stock_code": "300768",
+        "stock_name": "迪普科技",
+        "market_value_wan": 421.9
+      },
+      {
+        "stock_code": "688586",
+        "stock_name": "江航装备",
+        "market_value_wan": 421.81
+      },
+      {
+        "stock_code": "603328",
+        "stock_name": "依顿电子",
+        "market_value_wan": 421.41
+      },
+      {
+        "stock_code": "601019",
+        "stock_name": "山东出版",
+        "market_value_wan": 420.72
+      },
+      {
+        "stock_code": "003012",
+        "stock_name": "东鹏控股",
+        "market_value_wan": 415.78
+      },
+      {
+        "stock_code": "603429",
+        "stock_name": "集友股份",
+        "market_value_wan": 415.76
+      },
+      {
+        "stock_code": "002838",
+        "stock_name": "道恩股份",
+        "market_value_wan": 412.73
+      },
+      {
+        "stock_code": "002815",
+        "stock_name": "崇达技术",
+        "market_value_wan": 412.36
+      }
+    ],
+    "2023-Q2": [
+      {
+        "stock_code": "002467",
+        "stock_name": "二六三",
+        "market_value_wan": 458.88
+      },
+      {
+        "stock_code": "001696",
+        "stock_name": "宗申动力",
+        "market_value_wan": 451.41
+      },
+      {
+        "stock_code": "002950",
+        "stock_name": "奥美医疗",
+        "market_value_wan": 443.33
+      },
+      {
+        "stock_code": "000555",
+        "stock_name": "神州信息",
+        "market_value_wan": 442.8
+      },
+      {
+        "stock_code": "600510",
+        "stock_name": "黑牡丹",
+        "market_value_wan": 438.68
+      },
+      {
+        "stock_code": "688005",
+        "stock_name": "容百科技",
+        "market_value_wan": 438.11
+      },
+      {
+        "stock_code": "600037",
+        "stock_name": "歌华有线",
+        "market_value_wan": 432.2
+      },
+      {
+        "stock_code": "600535",
+        "stock_name": "天士力",
+        "market_value_wan": 427.75
+      },
+      {
+        "stock_code": "300377",
+        "stock_name": "赢时胜",
+        "market_value_wan": 427.26
+      },
+      {
+        "stock_code": "300919",
+        "stock_name": "中伟股份",
+        "market_value_wan": 426.27
+      }
+    ],
+    "2023-Q1": [
+      {
+        "stock_code": "300315",
+        "stock_name": "掌趣科技",
+        "market_value_wan": 667.48
+      },
+      {
+        "stock_code": "002085",
+        "stock_name": "万丰奥威",
+        "market_value_wan": 650.11
+      },
+      {
+        "stock_code": "300348",
+        "stock_name": "长亮科技",
+        "market_value_wan": 638.88
+      },
+      {
+        "stock_code": "300377",
+        "stock_name": "赢时胜",
+        "market_value_wan": 623.83
+      },
+      {
+        "stock_code": "603258",
+        "stock_name": "电魂网络",
+        "market_value_wan": 613.1
+      },
+      {
+        "stock_code": "002675",
+        "stock_name": "东诚药业",
+        "market_value_wan": 611.09
+      },
+      {
+        "stock_code": "300765",
+        "stock_name": "新诺威",
+        "market_value_wan": 608.57
+      },
+      {
+        "stock_code": "002081",
+        "stock_name": "金螳螂",
+        "market_value_wan": 587.56
+      },
+      {
+        "stock_code": "600482",
+        "stock_name": "中国动力",
+        "market_value_wan": 583.4
+      },
+      {
+        "stock_code": "603869",
+        "stock_name": "ST智知",
+        "market_value_wan": 582.76
+      }
+    ]
+  }
+}

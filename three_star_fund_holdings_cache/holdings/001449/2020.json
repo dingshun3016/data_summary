@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "001449",
+    "name": "华商双驱优选混合",
+    "base_name": "华商双驱优选混合"
+  },
+  "fetched_at": "2026-06-14 22:57:28",
+  "quarters": {
+    "2020-Q4": [
+      {
+        "stock_code": "300059",
+        "stock_name": "东方财富",
+        "market_value_wan": 10230.0
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 7022.2
+      },
+      {
+        "stock_code": "002777",
+        "stock_name": "久远银海",
+        "market_value_wan": 7003.8
+      },
+      {
+        "stock_code": "600999",
+        "stock_name": "招商证券",
+        "market_value_wan": 5834.98
+      },
+      {
+        "stock_code": "300118",
+        "stock_name": "东方日升",
+        "market_value_wan": 5766.0
+      },
+      {
+        "stock_code": "600316",
+        "stock_name": "洪都航空",
+        "market_value_wan": 5687.0
+      },
+      {
+        "stock_code": "002926",
+        "stock_name": "华西证券",
+        "market_value_wan": 5615.91
+      },
+      {
+        "stock_code": "600346",
+        "stock_name": "恒力石化",
+        "market_value_wan": 5594.0
+      },
+      {
+        "stock_code": "600109",
+        "stock_name": "国金证券",
+        "market_value_wan": 5531.8
+      },
+      {
+        "stock_code": "688339",
+        "stock_name": "亿华通",
+        "market_value_wan": 4977.13
+      }
+    ],
+    "2020-Q3": [
+      {
+        "stock_code": "600030",
+        "stock_name": "中信证券",
+        "market_value_wan": 9009.0
+      },
+      {
+        "stock_code": "300059",
+        "stock_name": "东方财富",
+        "market_value_wan": 8396.36
+      },
+      {
+        "stock_code": "601688",
+        "stock_name": "华泰证券",
+        "market_value_wan": 8211.86
+      },
+      {
+        "stock_code": "002777",
+        "stock_name": "久远银海",
+        "market_value_wan": 6301.62
+      },
+      {
+        "stock_code": "600109",
+        "stock_name": "国金证券",
+        "market_value_wan": 6115.85
+      },
+      {
+        "stock_code": "600999",
+        "stock_name": "招商证券",
+        "market_value_wan": 5402.48
+      },
+      {
+        "stock_code": "300142",
+        "stock_name": "沃森生物",
+        "market_value_wan": 5088.0
+      },
+      {
+        "stock_code": "601066",
+        "stock_name": "中信建投",
+        "market_value_wan": 4982.0
+      },
+      {
+        "stock_code": "600801",
+        "stock_name": "华新水泥",
+        "market_value_wan": 4900.23
+      },
+      {
+        "stock_code": "601336",
+        "stock_name": "新华保险",
+        "market_value_wan": 4767.56
+      }
+    ],
+    "2020-Q2": [
+      {
+        "stock_code": "002777",
+        "stock_name": "久远银海",
+        "market_value_wan": 5537.6
+      },
+      {
+        "stock_code": "300207",
+        "stock_name": "欣旺达",
+        "market_value_wan": 4158.0
+      },
+      {
+        "stock_code": "002241",
+        "stock_name": "歌尔股份",
+        "market_value_wan": 2936.0
+      },
+      {
+        "stock_code": "300059",
+        "stock_name": "东方财富",
+        "market_value_wan": 2828.0
+      },
+      {
+        "stock_code": "603377",
+        "stock_name": "ST东时",
+        "market_value_wan": 2704.25
+      },
+      {
+        "stock_code": "000631",
+        "stock_name": "顺发恒业",
+        "market_value_wan": 2490.81
+      },
+      {
+        "stock_code": "000100",
+        "stock_name": "TCL科技",
+        "market_value_wan": 2480.0
+      },
+      {
+        "stock_code": "600570",
+        "stock_name": "恒生电子",
+        "market_value_wan": 2153.57
+      },
+      {
+        "stock_code": "002001",
+        "stock_name": "新和成",
+        "market_value_wan": 2036.95
+      },
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 2002.6
+      }
+    ],
+    "2020-Q1": [
+      {
+        "stock_code": "603377",
+        "stock_name": "ST东时",
+        "market_value_wan": 4418.84
+      },
+      {
+        "stock_code": "002777",
+        "stock_name": "久远银海",
+        "market_value_wan": 4284.5
+      },
+      {
+        "stock_code": "300142",
+        "stock_name": "沃森生物",
+        "market_value_wan": 3166.0
+      },
+      {
+        "stock_code": "002602",
+        "stock_name": "世纪华通",
+        "market_value_wan": 2838.15
+      },
+      {
+        "stock_code": "600030",
+        "stock_name": "中信证券",
+        "market_value_wan": 2659.2
+      },
+      {
+        "stock_code": "300059",
+        "stock_name": "东方财富",
+        "market_value_wan": 2407.5
+      },
+      {
+        "stock_code": "000977",
+        "stock_name": "浪潮信息",
+        "market_value_wan": 2326.8
+      },
+      {
+        "stock_code": "000631",
+        "stock_name": "顺发恒业",
+        "market_value_wan": 2304.82
+      },
+      {
+        "stock_code": "002624",
+        "stock_name": "完美世界",
+        "market_value_wan": 1664.25
+      },
+      {
+        "stock_code": "600837",
+        "stock_name": "海通证券",
+        "market_value_wan": 1496.76
+      }
+    ]
+  }
+}

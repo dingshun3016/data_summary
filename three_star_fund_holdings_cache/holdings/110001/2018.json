@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "110001",
+    "name": "易方达平稳增长混合",
+    "base_name": "易方达平稳增长混合"
+  },
+  "fetched_at": "2026-06-14 23:50:30",
+  "quarters": {
+    "2018-Q4": [
+      {
+        "stock_code": "002384",
+        "stock_name": "东山精密",
+        "market_value_wan": 12856.26
+      },
+      {
+        "stock_code": "300476",
+        "stock_name": "胜宏科技",
+        "market_value_wan": 9828.0
+      },
+      {
+        "stock_code": "002376",
+        "stock_name": "新北洋",
+        "market_value_wan": 9802.11
+      },
+      {
+        "stock_code": "300383",
+        "stock_name": "光环新网",
+        "market_value_wan": 6953.3
+      },
+      {
+        "stock_code": "002025",
+        "stock_name": "航天电器",
+        "market_value_wan": 6242.22
+      },
+      {
+        "stock_code": "002013",
+        "stock_name": "中航机电",
+        "market_value_wan": 5526.13
+      },
+      {
+        "stock_code": "002179",
+        "stock_name": "中航光电",
+        "market_value_wan": 5191.77
+      },
+      {
+        "stock_code": "300316",
+        "stock_name": "晶盛机电",
+        "market_value_wan": 5186.24
+      },
+      {
+        "stock_code": "300059",
+        "stock_name": "东方财富",
+        "market_value_wan": 4757.72
+      },
+      {
+        "stock_code": "300199",
+        "stock_name": "翰宇药业",
+        "market_value_wan": 4053.0
+      }
+    ],
+    "2018-Q3": [
+      {
+        "stock_code": "002376",
+        "stock_name": "新北洋",
+        "market_value_wan": 15011.74
+      },
+      {
+        "stock_code": "002384",
+        "stock_name": "东山精密",
+        "market_value_wan": 13190.86
+      },
+      {
+        "stock_code": "300476",
+        "stock_name": "胜宏科技",
+        "market_value_wan": 13125.31
+      },
+      {
+        "stock_code": "002013",
+        "stock_name": "中航机电",
+        "market_value_wan": 7130.49
+      },
+      {
+        "stock_code": "002025",
+        "stock_name": "航天电器",
+        "market_value_wan": 7123.48
+      },
+      {
+        "stock_code": "600967",
+        "stock_name": "内蒙一机",
+        "market_value_wan": 6476.76
+      },
+      {
+        "stock_code": "300316",
+        "stock_name": "晶盛机电",
+        "market_value_wan": 5285.48
+      },
+      {
+        "stock_code": "600703",
+        "stock_name": "三安光电",
+        "market_value_wan": 4965.91
+      },
+      {
+        "stock_code": "300383",
+        "stock_name": "光环新网",
+        "market_value_wan": 4665.46
+      },
+      {
+        "stock_code": "300199",
+        "stock_name": "翰宇药业",
+        "market_value_wan": 4652.35
+      }
+    ],
+    "2018-Q2": [
+      {
+        "stock_code": "002384",
+        "stock_name": "东山精密",
+        "market_value_wan": 15600.0
+      },
+      {
+        "stock_code": "002376",
+        "stock_name": "新北洋",
+        "market_value_wan": 13492.27
+      },
+      {
+        "stock_code": "300476",
+        "stock_name": "胜宏科技",
+        "market_value_wan": 12437.85
+      },
+      {
+        "stock_code": "300316",
+        "stock_name": "晶盛机电",
+        "market_value_wan": 6150.73
+      },
+      {
+        "stock_code": "300199",
+        "stock_name": "翰宇药业",
+        "market_value_wan": 5620.18
+      },
+      {
+        "stock_code": "600703",
+        "stock_name": "三安光电",
+        "market_value_wan": 5101.56
+      },
+      {
+        "stock_code": "002013",
+        "stock_name": "中航机电",
+        "market_value_wan": 4035.91
+      },
+      {
+        "stock_code": "002009",
+        "stock_name": "天奇股份",
+        "market_value_wan": 3267.69
+      },
+      {
+        "stock_code": "300450",
+        "stock_name": "先导智能",
+        "market_value_wan": 3177.19
+      },
+      {
+        "stock_code": "002025",
+        "stock_name": "航天电器",
+        "market_value_wan": 2954.54
+      }
+    ],
+    "2018-Q1": [
+      {
+        "stock_code": "002384",
+        "stock_name": "东山精密",
+        "market_value_wan": 16787.7
+      },
+      {
+        "stock_code": "300476",
+        "stock_name": "胜宏科技",
+        "market_value_wan": 13616.12
+      },
+      {
+        "stock_code": "002376",
+        "stock_name": "新北洋",
+        "market_value_wan": 9133.46
+      },
+      {
+        "stock_code": "300316",
+        "stock_name": "晶盛机电",
+        "market_value_wan": 8118.43
+      },
+      {
+        "stock_code": "300377",
+        "stock_name": "赢时胜",
+        "market_value_wan": 6106.38
+      },
+      {
+        "stock_code": "300199",
+        "stock_name": "翰宇药业",
+        "market_value_wan": 5719.6
+      },
+      {
+        "stock_code": "600703",
+        "stock_name": "三安光电",
+        "market_value_wan": 5711.65
+      },
+      {
+        "stock_code": "600196",
+        "stock_name": "复星医药",
+        "market_value_wan": 4876.29
+      },
+      {
+        "stock_code": "002009",
+        "stock_name": "天奇股份",
+        "market_value_wan": 4585.98
+      },
+      {
+        "stock_code": "002013",
+        "stock_name": "中航机电",
+        "market_value_wan": 4524.01
+      }
+    ]
+  }
+}

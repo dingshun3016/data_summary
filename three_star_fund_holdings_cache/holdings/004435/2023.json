@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "004435",
+    "name": "博时逆向投资混合C",
+    "base_name": "博时逆向投资混合"
+  },
+  "fetched_at": "2026-06-14 23:13:43",
+  "quarters": {
+    "2023-Q4": [
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 362.46
+      },
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 298.68
+      },
+      {
+        "stock_code": "688017",
+        "stock_name": "绿的谐波",
+        "market_value_wan": 262.15
+      },
+      {
+        "stock_code": "003021",
+        "stock_name": "兆威机电",
+        "market_value_wan": 214.3
+      },
+      {
+        "stock_code": "002126",
+        "stock_name": "银轮股份",
+        "market_value_wan": 199.02
+      },
+      {
+        "stock_code": "300498",
+        "stock_name": "温氏股份",
+        "market_value_wan": 194.58
+      },
+      {
+        "stock_code": "603283",
+        "stock_name": "赛腾股份",
+        "market_value_wan": 193.74
+      },
+      {
+        "stock_code": "688328",
+        "stock_name": "深科达",
+        "market_value_wan": 192.96
+      },
+      {
+        "stock_code": "601702",
+        "stock_name": "华峰铝业",
+        "market_value_wan": 185.42
+      },
+      {
+        "stock_code": "688639",
+        "stock_name": "华恒生物",
+        "market_value_wan": 181.33
+      }
+    ],
+    "2023-Q3": [
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 423.11
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 395.68
+      },
+      {
+        "stock_code": "603338",
+        "stock_name": "浙江鼎力",
+        "market_value_wan": 377.16
+      },
+      {
+        "stock_code": "601857",
+        "stock_name": "中国石油",
+        "market_value_wan": 365.88
+      },
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 302.97
+      },
+      {
+        "stock_code": "601899",
+        "stock_name": "紫金矿业",
+        "market_value_wan": 261.77
+      },
+      {
+        "stock_code": "603298",
+        "stock_name": "杭叉集团",
+        "market_value_wan": 241.13
+      },
+      {
+        "stock_code": "688639",
+        "stock_name": "华恒生物",
+        "market_value_wan": 215.31
+      },
+      {
+        "stock_code": "002126",
+        "stock_name": "银轮股份",
+        "market_value_wan": 207.03
+      },
+      {
+        "stock_code": "002422",
+        "stock_name": "科伦药业",
+        "market_value_wan": 206.38
+      }
+    ],
+    "2023-Q2": [
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 545.44
+      },
+      {
+        "stock_code": "300308",
+        "stock_name": "中际旭创",
+        "market_value_wan": 476.26
+      },
+      {
+        "stock_code": "603338",
+        "stock_name": "浙江鼎力",
+        "market_value_wan": 440.24
+      },
+      {
+        "stock_code": "605060",
+        "stock_name": "联德股份",
+        "market_value_wan": 387.74
+      },
+      {
+        "stock_code": "600129",
+        "stock_name": "太极集团",
+        "market_value_wan": 374.79
+      },
+      {
+        "stock_code": "601857",
+        "stock_name": "中国石油",
+        "market_value_wan": 359.38
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 355.11
+      },
+      {
+        "stock_code": "300724",
+        "stock_name": "捷佳伟创",
+        "market_value_wan": 290.99
+      },
+      {
+        "stock_code": "601138",
+        "stock_name": "工业富联",
+        "market_value_wan": 280.48
+      },
+      {
+        "stock_code": "688036",
+        "stock_name": "传音控股",
+        "market_value_wan": 263.73
+      }
+    ],
+    "2023-Q1": [
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 531.93
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 527.8
+      },
+      {
+        "stock_code": "603338",
+        "stock_name": "浙江鼎力",
+        "market_value_wan": 442.16
+      },
+      {
+        "stock_code": "600129",
+        "stock_name": "太极集团",
+        "market_value_wan": 369.28
+      },
+      {
+        "stock_code": "605060",
+        "stock_name": "联德股份",
+        "market_value_wan": 360.88
+      },
+      {
+        "stock_code": "603100",
+        "stock_name": "川仪股份",
+        "market_value_wan": 322.34
+      },
+      {
+        "stock_code": "300910",
+        "stock_name": "瑞丰新材",
+        "market_value_wan": 289.87
+      },
+      {
+        "stock_code": "002422",
+        "stock_name": "科伦药业",
+        "market_value_wan": 285.91
+      },
+      {
+        "stock_code": "601899",
+        "stock_name": "紫金矿业",
+        "market_value_wan": 272.58
+      },
+      {
+        "stock_code": "000932",
+        "stock_name": "华菱钢铁",
+        "market_value_wan": 247.7
+      }
+    ]
+  }
+}

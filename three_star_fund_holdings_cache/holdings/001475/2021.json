@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "001475",
+    "name": "易方达国防军工混合A",
+    "base_name": "易方达国防军工混合"
+  },
+  "fetched_at": "2026-06-14 22:57:41",
+  "quarters": {
+    "2021-Q4": [
+      {
+        "stock_code": "002049",
+        "stock_name": "紫光国微",
+        "market_value_wan": 191193.39
+      },
+      {
+        "stock_code": "000733",
+        "stock_name": "振华科技",
+        "market_value_wan": 189835.69
+      },
+      {
+        "stock_code": "002179",
+        "stock_name": "中航光电",
+        "market_value_wan": 165409.37
+      },
+      {
+        "stock_code": "603712",
+        "stock_name": "七一二",
+        "market_value_wan": 141526.33
+      },
+      {
+        "stock_code": "002013",
+        "stock_name": "中航机电",
+        "market_value_wan": 135302.5
+      },
+      {
+        "stock_code": "600760",
+        "stock_name": "中航沈飞",
+        "market_value_wan": 123006.71
+      },
+      {
+        "stock_code": "688122",
+        "stock_name": "西部超导",
+        "market_value_wan": 112377.9
+      },
+      {
+        "stock_code": "600399",
+        "stock_name": "抚顺特钢",
+        "market_value_wan": 107992.12
+      },
+      {
+        "stock_code": "300775",
+        "stock_name": "三角防务",
+        "market_value_wan": 97446.44
+      },
+      {
+        "stock_code": "600862",
+        "stock_name": "中航高科",
+        "market_value_wan": 95425.61
+      }
+    ],
+    "2021-Q3": [
+      {
+        "stock_code": "000733",
+        "stock_name": "振华科技",
+        "market_value_wan": 168113.6
+      },
+      {
+        "stock_code": "002049",
+        "stock_name": "紫光国微",
+        "market_value_wan": 167970.45
+      },
+      {
+        "stock_code": "002179",
+        "stock_name": "中航光电",
+        "market_value_wan": 160587.04
+      },
+      {
+        "stock_code": "603712",
+        "stock_name": "七一二",
+        "market_value_wan": 122266.77
+      },
+      {
+        "stock_code": "688122",
+        "stock_name": "西部超导",
+        "market_value_wan": 114783.74
+      },
+      {
+        "stock_code": "002013",
+        "stock_name": "中航机电",
+        "market_value_wan": 110594.93
+      },
+      {
+        "stock_code": "600760",
+        "stock_name": "中航沈飞",
+        "market_value_wan": 108000.83
+      },
+      {
+        "stock_code": "600862",
+        "stock_name": "中航高科",
+        "market_value_wan": 86985.4
+      },
+      {
+        "stock_code": "688208",
+        "stock_name": "道通科技",
+        "market_value_wan": 80255.81
+      },
+      {
+        "stock_code": "002985",
+        "stock_name": "北摩高科",
+        "market_value_wan": 66205.26
+      }
+    ],
+    "2021-Q2": [
+      {
+        "stock_code": "002049",
+        "stock_name": "紫光国微",
+        "market_value_wan": 137956.66
+      },
+      {
+        "stock_code": "002179",
+        "stock_name": "中航光电",
+        "market_value_wan": 137415.65
+      },
+      {
+        "stock_code": "688122",
+        "stock_name": "西部超导",
+        "market_value_wan": 127400.67
+      },
+      {
+        "stock_code": "603712",
+        "stock_name": "七一二",
+        "market_value_wan": 117652.99
+      },
+      {
+        "stock_code": "600760",
+        "stock_name": "中航沈飞",
+        "market_value_wan": 103884.97
+      },
+      {
+        "stock_code": "002013",
+        "stock_name": "中航机电",
+        "market_value_wan": 96925.86
+      },
+      {
+        "stock_code": "000733",
+        "stock_name": "振华科技",
+        "market_value_wan": 83999.62
+      },
+      {
+        "stock_code": "002985",
+        "stock_name": "北摩高科",
+        "market_value_wan": 70813.0
+      },
+      {
+        "stock_code": "688208",
+        "stock_name": "道通科技",
+        "market_value_wan": 65732.99
+      },
+      {
+        "stock_code": "300775",
+        "stock_name": "三角防务",
+        "market_value_wan": 58887.86
+      }
+    ],
+    "2021-Q1": [
+      {
+        "stock_code": "002049",
+        "stock_name": "紫光国微",
+        "market_value_wan": 111785.28
+      },
+      {
+        "stock_code": "002179",
+        "stock_name": "中航光电",
+        "market_value_wan": 109750.91
+      },
+      {
+        "stock_code": "688122",
+        "stock_name": "西部超导",
+        "market_value_wan": 100576.97
+      },
+      {
+        "stock_code": "603712",
+        "stock_name": "七一二",
+        "market_value_wan": 87846.54
+      },
+      {
+        "stock_code": "002013",
+        "stock_name": "中航机电",
+        "market_value_wan": 83912.74
+      },
+      {
+        "stock_code": "600760",
+        "stock_name": "中航沈飞",
+        "market_value_wan": 77876.85
+      },
+      {
+        "stock_code": "002985",
+        "stock_name": "北摩高科",
+        "market_value_wan": 59357.39
+      },
+      {
+        "stock_code": "600862",
+        "stock_name": "中航高科",
+        "market_value_wan": 47798.63
+      },
+      {
+        "stock_code": "300696",
+        "stock_name": "爱乐达",
+        "market_value_wan": 37494.02
+      },
+      {
+        "stock_code": "300775",
+        "stock_name": "三角防务",
+        "market_value_wan": 36142.13
+      }
+    ]
+  }
+}

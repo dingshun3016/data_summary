@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "166108",
+    "name": "信澳量化多因子混合(LOF)C",
+    "base_name": "信澳量化多因子混合(LOF)"
+  },
+  "fetched_at": "2026-06-14 23:55:05",
+  "quarters": {
+    "2021-Q4": [
+      {
+        "stock_code": "000858",
+        "stock_name": "五粮液",
+        "market_value_wan": 13.36
+      },
+      {
+        "stock_code": "000568",
+        "stock_name": "泸州老窖",
+        "market_value_wan": 12.69
+      },
+      {
+        "stock_code": "002304",
+        "stock_name": "洋河股份",
+        "market_value_wan": 9.88
+      },
+      {
+        "stock_code": "600887",
+        "stock_name": "伊利股份",
+        "market_value_wan": 8.71
+      },
+      {
+        "stock_code": "002371",
+        "stock_name": "北方华创",
+        "market_value_wan": 6.94
+      },
+      {
+        "stock_code": "600809",
+        "stock_name": "山西汾酒",
+        "market_value_wan": 6.32
+      },
+      {
+        "stock_code": "603288",
+        "stock_name": "海天味业",
+        "market_value_wan": 6.31
+      },
+      {
+        "stock_code": "300672",
+        "stock_name": "国科微",
+        "market_value_wan": 5.57
+      },
+      {
+        "stock_code": "688300",
+        "stock_name": "联瑞新材",
+        "market_value_wan": 5.54
+      },
+      {
+        "stock_code": "300604",
+        "stock_name": "长川科技",
+        "market_value_wan": 5.18
+      }
+    ],
+    "2021-Q3": [
+      {
+        "stock_code": "600740",
+        "stock_name": "山西焦化",
+        "market_value_wan": 16.76
+      },
+      {
+        "stock_code": "600018",
+        "stock_name": "上港集团",
+        "market_value_wan": 12.91
+      },
+      {
+        "stock_code": "600820",
+        "stock_name": "隧道股份",
+        "market_value_wan": 9.61
+      },
+      {
+        "stock_code": "601555",
+        "stock_name": "东吴证券",
+        "market_value_wan": 9.47
+      },
+      {
+        "stock_code": "600116",
+        "stock_name": "三峡水利",
+        "market_value_wan": 9.47
+      },
+      {
+        "stock_code": "000785",
+        "stock_name": "居然之家",
+        "market_value_wan": 9.35
+      },
+      {
+        "stock_code": "300630",
+        "stock_name": "普利制药",
+        "market_value_wan": 9.23
+      },
+      {
+        "stock_code": "300009",
+        "stock_name": "安科生物",
+        "market_value_wan": 9.2
+      },
+      {
+        "stock_code": "601878",
+        "stock_name": "浙商证券",
+        "market_value_wan": 8.84
+      },
+      {
+        "stock_code": "000825",
+        "stock_name": "太钢不锈",
+        "market_value_wan": 8.64
+      }
+    ],
+    "2021-Q2": [
+      {
+        "stock_code": "603882",
+        "stock_name": "金域医学",
+        "market_value_wan": 12.78
+      },
+      {
+        "stock_code": "000830",
+        "stock_name": "鲁西化工",
+        "market_value_wan": 8.79
+      },
+      {
+        "stock_code": "002920",
+        "stock_name": "德赛西威",
+        "market_value_wan": 8.72
+      },
+      {
+        "stock_code": "002648",
+        "stock_name": "卫星化学",
+        "market_value_wan": 8.5
+      },
+      {
+        "stock_code": "300327",
+        "stock_name": "中颖电子",
+        "market_value_wan": 7.7
+      },
+      {
+        "stock_code": "002311",
+        "stock_name": "海大集团",
+        "market_value_wan": 6.53
+      },
+      {
+        "stock_code": "300496",
+        "stock_name": "中科创达",
+        "market_value_wan": 6.28
+      },
+      {
+        "stock_code": "300595",
+        "stock_name": "欧普康视",
+        "market_value_wan": 6.13
+      },
+      {
+        "stock_code": "600426",
+        "stock_name": "华鲁恒升",
+        "market_value_wan": 5.79
+      },
+      {
+        "stock_code": "601919",
+        "stock_name": "中远海控",
+        "market_value_wan": 5.75
+      }
+    ],
+    "2021-Q1": [
+      {
+        "stock_code": "300760",
+        "stock_name": "迈瑞医疗",
+        "market_value_wan": 11.25
+      },
+      {
+        "stock_code": "300595",
+        "stock_name": "欧普康视",
+        "market_value_wan": 9.57
+      },
+      {
+        "stock_code": "603816",
+        "stock_name": "顾家家居",
+        "market_value_wan": 9.09
+      },
+      {
+        "stock_code": "002985",
+        "stock_name": "北摩高科",
+        "market_value_wan": 8.62
+      },
+      {
+        "stock_code": "600170",
+        "stock_name": "上海建工",
+        "market_value_wan": 8.37
+      },
+      {
+        "stock_code": "002601",
+        "stock_name": "龙佰集团",
+        "market_value_wan": 8.33
+      },
+      {
+        "stock_code": "600779",
+        "stock_name": "水井坊",
+        "market_value_wan": 8.07
+      },
+      {
+        "stock_code": "603806",
+        "stock_name": "福斯特",
+        "market_value_wan": 8.02
+      },
+      {
+        "stock_code": "601158",
+        "stock_name": "重庆水务",
+        "market_value_wan": 7.28
+      },
+      {
+        "stock_code": "603338",
+        "stock_name": "浙江鼎力",
+        "market_value_wan": 7.24
+      }
+    ]
+  }
+}

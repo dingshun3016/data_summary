@@ -1,0 +1,90 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "000556",
+    "name": "国投瑞银新机遇灵活配置混合A",
+    "base_name": "国投瑞银新机遇灵活配置混合"
+  },
+  "fetched_at": "2026-08-01 20:53:33",
+  "quarters": {
+    "2026-Q2": [
+      {
+        "stock_code": "600160",
+        "stock_name": "巨化股份",
+        "market_value_wan": 154.97
+      },
+      {
+        "stock_code": "601138",
+        "stock_name": "工业富联",
+        "market_value_wan": 138.53
+      },
+      {
+        "stock_code": "603379",
+        "stock_name": "三美股份",
+        "market_value_wan": 138.12
+      },
+      {
+        "stock_code": "601233",
+        "stock_name": "桐昆股份",
+        "market_value_wan": 117.78
+      },
+      {
+        "stock_code": "000100",
+        "stock_name": "TCL科技",
+        "market_value_wan": 92.54
+      },
+      {
+        "stock_code": "603225",
+        "stock_name": "新凤鸣",
+        "market_value_wan": 82.73
+      },
+      {
+        "stock_code": "300661",
+        "stock_name": "圣邦股份",
+        "market_value_wan": 64.57
+      },
+      {
+        "stock_code": "603063",
+        "stock_name": "禾望电气",
+        "market_value_wan": 55.53
+      },
+      {
+        "stock_code": "688981",
+        "stock_name": "中芯国际",
+        "market_value_wan": 29.75
+      },
+      {
+        "stock_code": "300054",
+        "stock_name": "鼎龙股份",
+        "market_value_wan": 26.49
+      }
+    ],
+    "2026-Q1": [
+      {
+        "stock_code": "600160",
+        "stock_name": "巨化股份",
+        "market_value_wan": 129.54
+      },
+      {
+        "stock_code": "002142",
+        "stock_name": "宁波银行",
+        "market_value_wan": 101.09
+      },
+      {
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "market_value_wan": 90.85
+      },
+      {
+        "stock_code": "300054",
+        "stock_name": "鼎龙股份",
+        "market_value_wan": 79.87
+      },
+      {
+        "stock_code": "601799",
+        "stock_name": "星宇股份",
+        "market_value_wan": 24.4
+      }
+    ]
+  }
+}

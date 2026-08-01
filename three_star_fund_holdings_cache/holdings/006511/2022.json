@@ -1,0 +1,209 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "006511",
+    "name": "博道卓远混合A",
+    "base_name": "博道卓远混合"
+  },
+  "fetched_at": "2026-06-14 23:21:40",
+  "quarters": {
+    "2022-Q4": [
+      {
+        "stock_code": "300496",
+        "stock_name": "中科创达",
+        "market_value_wan": 2534.51
+      },
+      {
+        "stock_code": "000002",
+        "stock_name": "万科A",
+        "market_value_wan": 2119.57
+      },
+      {
+        "stock_code": "601689",
+        "stock_name": "拓普集团",
+        "market_value_wan": 1897.61
+      },
+      {
+        "stock_code": "601966",
+        "stock_name": "玲珑轮胎",
+        "market_value_wan": 1580.98
+      },
+      {
+        "stock_code": "603866",
+        "stock_name": "桃李面包",
+        "market_value_wan": 956.0
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 932.58
+      },
+      {
+        "stock_code": "301050",
+        "stock_name": "雷电微力",
+        "market_value_wan": 922.45
+      },
+      {
+        "stock_code": "600887",
+        "stock_name": "伊利股份",
+        "market_value_wan": 900.24
+      },
+      {
+        "stock_code": "600460",
+        "stock_name": "士兰微",
+        "market_value_wan": 889.81
+      }
+    ],
+    "2022-Q3": [
+      {
+        "stock_code": "601689",
+        "stock_name": "拓普集团",
+        "market_value_wan": 2622.37
+      },
+      {
+        "stock_code": "300496",
+        "stock_name": "中科创达",
+        "market_value_wan": 2383.92
+      },
+      {
+        "stock_code": "000002",
+        "stock_name": "万科A",
+        "market_value_wan": 1709.9
+      },
+      {
+        "stock_code": "601966",
+        "stock_name": "玲珑轮胎",
+        "market_value_wan": 1387.14
+      },
+      {
+        "stock_code": "300316",
+        "stock_name": "晶盛机电",
+        "market_value_wan": 1015.65
+      },
+      {
+        "stock_code": "600460",
+        "stock_name": "士兰微",
+        "market_value_wan": 1013.63
+      },
+      {
+        "stock_code": "600887",
+        "stock_name": "伊利股份",
+        "market_value_wan": 1005.89
+      },
+      {
+        "stock_code": "600926",
+        "stock_name": "杭州银行",
+        "market_value_wan": 922.97
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 917.53
+      }
+    ],
+    "2022-Q2": [
+      {
+        "stock_code": "300496",
+        "stock_name": "中科创达",
+        "market_value_wan": 2443.8
+      },
+      {
+        "stock_code": "601689",
+        "stock_name": "拓普集团",
+        "market_value_wan": 2307.01
+      },
+      {
+        "stock_code": "000002",
+        "stock_name": "万科A",
+        "market_value_wan": 1653.94
+      },
+      {
+        "stock_code": "600460",
+        "stock_name": "士兰微",
+        "market_value_wan": 1462.58
+      },
+      {
+        "stock_code": "600926",
+        "stock_name": "杭州银行",
+        "market_value_wan": 1437.63
+      },
+      {
+        "stock_code": "601966",
+        "stock_name": "玲珑轮胎",
+        "market_value_wan": 1307.73
+      },
+      {
+        "stock_code": "600887",
+        "stock_name": "伊利股份",
+        "market_value_wan": 1187.98
+      },
+      {
+        "stock_code": "605111",
+        "stock_name": "新洁能",
+        "market_value_wan": 1025.96
+      },
+      {
+        "stock_code": "300316",
+        "stock_name": "晶盛机电",
+        "market_value_wan": 1015.2
+      },
+      {
+        "stock_code": "002074",
+        "stock_name": "国轩高科",
+        "market_value_wan": 893.76
+      }
+    ],
+    "2022-Q1": [
+      {
+        "stock_code": "601689",
+        "stock_name": "拓普集团",
+        "market_value_wan": 1663.1
+      },
+      {
+        "stock_code": "300496",
+        "stock_name": "中科创达",
+        "market_value_wan": 1303.42
+      },
+      {
+        "stock_code": "600926",
+        "stock_name": "杭州银行",
+        "market_value_wan": 1112.12
+      },
+      {
+        "stock_code": "600460",
+        "stock_name": "士兰微",
+        "market_value_wan": 959.82
+      },
+      {
+        "stock_code": "000002",
+        "stock_name": "万科A",
+        "market_value_wan": 910.58
+      },
+      {
+        "stock_code": "300316",
+        "stock_name": "晶盛机电",
+        "market_value_wan": 862.8
+      },
+      {
+        "stock_code": "600887",
+        "stock_name": "伊利股份",
+        "market_value_wan": 776.17
+      },
+      {
+        "stock_code": "605111",
+        "stock_name": "新洁能",
+        "market_value_wan": 694.42
+      },
+      {
+        "stock_code": "002074",
+        "stock_name": "国轩高科",
+        "market_value_wan": 645.19
+      },
+      {
+        "stock_code": "002156",
+        "stock_name": "通富微电",
+        "market_value_wan": 565.21
+      }
+    ]
+  }
+}

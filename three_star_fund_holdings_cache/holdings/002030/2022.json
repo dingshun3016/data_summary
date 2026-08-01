@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "002030",
+    "name": "中信保诚新选混合B",
+    "base_name": "中信保诚新选混合"
+  },
+  "fetched_at": "2026-06-14 23:02:51",
+  "quarters": {
+    "2022-Q4": [
+      {
+        "stock_code": "300674",
+        "stock_name": "宇信科技",
+        "market_value_wan": 111.14
+      },
+      {
+        "stock_code": "688239",
+        "stock_name": "航宇科技",
+        "market_value_wan": 89.37
+      },
+      {
+        "stock_code": "000768",
+        "stock_name": "中航西飞",
+        "market_value_wan": 87.55
+      },
+      {
+        "stock_code": "300760",
+        "stock_name": "迈瑞医疗",
+        "market_value_wan": 85.31
+      },
+      {
+        "stock_code": "688111",
+        "stock_name": "金山办公",
+        "market_value_wan": 79.08
+      },
+      {
+        "stock_code": "601166",
+        "stock_name": "兴业银行",
+        "market_value_wan": 76.87
+      },
+      {
+        "stock_code": "600837",
+        "stock_name": "海通证券",
+        "market_value_wan": 76.56
+      },
+      {
+        "stock_code": "603063",
+        "stock_name": "禾望电气",
+        "market_value_wan": 74.44
+      },
+      {
+        "stock_code": "002049",
+        "stock_name": "紫光国微",
+        "market_value_wan": 73.03
+      },
+      {
+        "stock_code": "601688",
+        "stock_name": "华泰证券",
+        "market_value_wan": 72.95
+      }
+    ],
+    "2022-Q3": [
+      {
+        "stock_code": "000568",
+        "stock_name": "泸州老窖",
+        "market_value_wan": 175.3
+      },
+      {
+        "stock_code": "600905",
+        "stock_name": "三峡能源",
+        "market_value_wan": 161.84
+      },
+      {
+        "stock_code": "600809",
+        "stock_name": "山西汾酒",
+        "market_value_wan": 133.27
+      },
+      {
+        "stock_code": "002155",
+        "stock_name": "湖南黄金",
+        "market_value_wan": 127.19
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 112.35
+      },
+      {
+        "stock_code": "000596",
+        "stock_name": "古井贡酒",
+        "market_value_wan": 108.78
+      },
+      {
+        "stock_code": "600587",
+        "stock_name": "新华医疗",
+        "market_value_wan": 105.22
+      },
+      {
+        "stock_code": "002371",
+        "stock_name": "北方华创",
+        "market_value_wan": 100.22
+      },
+      {
+        "stock_code": "002049",
+        "stock_name": "紫光国微",
+        "market_value_wan": 99.94
+      },
+      {
+        "stock_code": "300760",
+        "stock_name": "迈瑞医疗",
+        "market_value_wan": 92.69
+      }
+    ],
+    "2022-Q2": [
+      {
+        "stock_code": "000895",
+        "stock_name": "双汇发展",
+        "market_value_wan": 1086.15
+      },
+      {
+        "stock_code": "601288",
+        "stock_name": "农业银行",
+        "market_value_wan": 646.91
+      },
+      {
+        "stock_code": "600941",
+        "stock_name": "中国移动",
+        "market_value_wan": 621.34
+      },
+      {
+        "stock_code": "600415",
+        "stock_name": "小商品城",
+        "market_value_wan": 565.97
+      },
+      {
+        "stock_code": "300026",
+        "stock_name": "红日药业",
+        "market_value_wan": 538.46
+      },
+      {
+        "stock_code": "002938",
+        "stock_name": "鹏鼎控股",
+        "market_value_wan": 534.72
+      },
+      {
+        "stock_code": "600905",
+        "stock_name": "三峡能源",
+        "market_value_wan": 515.25
+      },
+      {
+        "stock_code": "000498",
+        "stock_name": "山东路桥",
+        "market_value_wan": 498.07
+      },
+      {
+        "stock_code": "601186",
+        "stock_name": "中国铁建",
+        "market_value_wan": 459.86
+      },
+      {
+        "stock_code": "600096",
+        "stock_name": "云天化",
+        "market_value_wan": 408.3
+      }
+    ],
+    "2022-Q1": [
+      {
+        "stock_code": "002938",
+        "stock_name": "鹏鼎控股",
+        "market_value_wan": 826.85
+      },
+      {
+        "stock_code": "600905",
+        "stock_name": "三峡能源",
+        "market_value_wan": 732.05
+      },
+      {
+        "stock_code": "002025",
+        "stock_name": "航天电器",
+        "market_value_wan": 539.0
+      },
+      {
+        "stock_code": "603005",
+        "stock_name": "晶方科技",
+        "market_value_wan": 531.61
+      },
+      {
+        "stock_code": "300674",
+        "stock_name": "宇信科技",
+        "market_value_wan": 523.91
+      },
+      {
+        "stock_code": "000555",
+        "stock_name": "神州信息",
+        "market_value_wan": 515.29
+      },
+      {
+        "stock_code": "600161",
+        "stock_name": "天坛生物",
+        "market_value_wan": 513.35
+      },
+      {
+        "stock_code": "000768",
+        "stock_name": "中航西飞",
+        "market_value_wan": 512.17
+      },
+      {
+        "stock_code": "002987",
+        "stock_name": "京北方",
+        "market_value_wan": 425.4
+      },
+      {
+        "stock_code": "600566",
+        "stock_name": "济川药业",
+        "market_value_wan": 415.49
+      }
+    ]
+  }
+}

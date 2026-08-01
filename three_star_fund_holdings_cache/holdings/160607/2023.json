@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "160607",
+    "name": "鹏华价值优势混合(LOF)",
+    "base_name": "鹏华价值优势混合(LOF)"
+  },
+  "fetched_at": "2026-06-14 23:51:47",
+  "quarters": {
+    "2023-Q4": [
+      {
+        "stock_code": "601567",
+        "stock_name": "三星医疗",
+        "market_value_wan": 8072.96
+      },
+      {
+        "stock_code": "603997",
+        "stock_name": "继峰股份",
+        "market_value_wan": 5981.22
+      },
+      {
+        "stock_code": "600809",
+        "stock_name": "山西汾酒",
+        "market_value_wan": 5776.33
+      },
+      {
+        "stock_code": "300498",
+        "stock_name": "温氏股份",
+        "market_value_wan": 4860.94
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 4591.16
+      },
+      {
+        "stock_code": "601021",
+        "stock_name": "春秋航空",
+        "market_value_wan": 4212.78
+      },
+      {
+        "stock_code": "002463",
+        "stock_name": "沪电股份",
+        "market_value_wan": 3912.49
+      },
+      {
+        "stock_code": "605499",
+        "stock_name": "东鹏饮料",
+        "market_value_wan": 3786.85
+      },
+      {
+        "stock_code": "603379",
+        "stock_name": "三美股份",
+        "market_value_wan": 3665.16
+      },
+      {
+        "stock_code": "688772",
+        "stock_name": "珠海冠宇",
+        "market_value_wan": 3589.63
+      }
+    ],
+    "2023-Q3": [
+      {
+        "stock_code": "601567",
+        "stock_name": "三星医疗",
+        "market_value_wan": 7563.34
+      },
+      {
+        "stock_code": "603997",
+        "stock_name": "继峰股份",
+        "market_value_wan": 6545.15
+      },
+      {
+        "stock_code": "600809",
+        "stock_name": "山西汾酒",
+        "market_value_wan": 5995.88
+      },
+      {
+        "stock_code": "601838",
+        "stock_name": "成都银行",
+        "market_value_wan": 5811.12
+      },
+      {
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "market_value_wan": 5089.85
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 4784.14
+      },
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 3841.99
+      },
+      {
+        "stock_code": "605499",
+        "stock_name": "东鹏饮料",
+        "market_value_wan": 3794.31
+      },
+      {
+        "stock_code": "000063",
+        "stock_name": "中兴通讯",
+        "market_value_wan": 3660.16
+      },
+      {
+        "stock_code": "002463",
+        "stock_name": "沪电股份",
+        "market_value_wan": 3637.52
+      }
+    ],
+    "2023-Q2": [
+      {
+        "stock_code": "002472",
+        "stock_name": "双环传动",
+        "market_value_wan": 5436.98
+      },
+      {
+        "stock_code": "000063",
+        "stock_name": "中兴通讯",
+        "market_value_wan": 5308.6
+      },
+      {
+        "stock_code": "603345",
+        "stock_name": "安井食品",
+        "market_value_wan": 5151.05
+      },
+      {
+        "stock_code": "601567",
+        "stock_name": "三星医疗",
+        "market_value_wan": 5040.29
+      },
+      {
+        "stock_code": "603300",
+        "stock_name": "华铁应急",
+        "market_value_wan": 4532.74
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 4498.06
+      },
+      {
+        "stock_code": "601838",
+        "stock_name": "成都银行",
+        "market_value_wan": 4438.46
+      },
+      {
+        "stock_code": "300498",
+        "stock_name": "温氏股份",
+        "market_value_wan": 4346.97
+      },
+      {
+        "stock_code": "300760",
+        "stock_name": "迈瑞医疗",
+        "market_value_wan": 4338.11
+      },
+      {
+        "stock_code": "600276",
+        "stock_name": "恒瑞医药",
+        "market_value_wan": 4324.86
+      }
+    ],
+    "2023-Q1": [
+      {
+        "stock_code": "002472",
+        "stock_name": "双环传动",
+        "market_value_wan": 6497.48
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 6297.2
+      },
+      {
+        "stock_code": "603300",
+        "stock_name": "华铁应急",
+        "market_value_wan": 6203.54
+      },
+      {
+        "stock_code": "601838",
+        "stock_name": "成都银行",
+        "market_value_wan": 5732.35
+      },
+      {
+        "stock_code": "600809",
+        "stock_name": "山西汾酒",
+        "market_value_wan": 5524.27
+      },
+      {
+        "stock_code": "300682",
+        "stock_name": "朗新集团",
+        "market_value_wan": 5438.49
+      },
+      {
+        "stock_code": "603345",
+        "stock_name": "安井食品",
+        "market_value_wan": 5137.8
+      },
+      {
+        "stock_code": "002311",
+        "stock_name": "海大集团",
+        "market_value_wan": 4917.8
+      },
+      {
+        "stock_code": "000858",
+        "stock_name": "五粮液",
+        "market_value_wan": 4858.02
+      },
+      {
+        "stock_code": "601567",
+        "stock_name": "三星医疗",
+        "market_value_wan": 4712.69
+      }
+    ]
+  }
+}

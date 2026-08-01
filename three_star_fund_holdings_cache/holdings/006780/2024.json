@@ -1,0 +1,69 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "006780",
+    "name": "广发稳健策略混合A",
+    "base_name": "广发稳健策略混合"
+  },
+  "fetched_at": "2026-06-14 23:22:51",
+  "quarters": {
+    "2024-Q4": [
+      {
+        "stock_code": "600919",
+        "stock_name": "江苏银行",
+        "market_value_wan": 576.04
+      },
+      {
+        "stock_code": "600388",
+        "stock_name": "龙净环保",
+        "market_value_wan": 515.65
+      },
+      {
+        "stock_code": "600642",
+        "stock_name": "申能股份",
+        "market_value_wan": 295.99
+      }
+    ],
+    "2024-Q3": [
+      {
+        "stock_code": "600710",
+        "stock_name": "苏美达",
+        "market_value_wan": 137.11
+      },
+      {
+        "stock_code": "601688",
+        "stock_name": "华泰证券",
+        "market_value_wan": 123.55
+      }
+    ],
+    "2024-Q2": [
+      {
+        "stock_code": "002588",
+        "stock_name": "史丹利",
+        "market_value_wan": 327.4
+      },
+      {
+        "stock_code": "002170",
+        "stock_name": "芭田股份",
+        "market_value_wan": 319.79
+      },
+      {
+        "stock_code": "601216",
+        "stock_name": "君正集团",
+        "market_value_wan": 245.13
+      },
+      {
+        "stock_code": "600997",
+        "stock_name": "开滦股份",
+        "market_value_wan": 160.66
+      }
+    ],
+    "2024-Q1": [
+      {
+        "stock_code": "002966",
+        "stock_name": "苏州银行",
+        "market_value_wan": 214.16
+      }
+    ]
+  }
+}

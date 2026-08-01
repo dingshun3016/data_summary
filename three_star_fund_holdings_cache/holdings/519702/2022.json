@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "519702",
+    "name": "交银趋势混合A",
+    "base_name": "交银趋势混合"
+  },
+  "fetched_at": "2026-06-15 00:04:04",
+  "quarters": {
+    "2022-Q4": [
+      {
+        "stock_code": "301035",
+        "stock_name": "润丰股份",
+        "market_value_wan": 61464.45
+      },
+      {
+        "stock_code": "600011",
+        "stock_name": "华能国际",
+        "market_value_wan": 37266.31
+      },
+      {
+        "stock_code": "688377",
+        "stock_name": "迪威尔",
+        "market_value_wan": 37163.47
+      },
+      {
+        "stock_code": "000690",
+        "stock_name": "宝新能源",
+        "market_value_wan": 32899.94
+      },
+      {
+        "stock_code": "600027",
+        "stock_name": "华电国际",
+        "market_value_wan": 31543.29
+      },
+      {
+        "stock_code": "300873",
+        "stock_name": "海晨股份",
+        "market_value_wan": 28249.53
+      },
+      {
+        "stock_code": "000539",
+        "stock_name": "粤电力A",
+        "market_value_wan": 28079.34
+      },
+      {
+        "stock_code": "600529",
+        "stock_name": "山东药玻",
+        "market_value_wan": 27581.52
+      },
+      {
+        "stock_code": "601677",
+        "stock_name": "明泰铝业",
+        "market_value_wan": 24440.48
+      },
+      {
+        "stock_code": "603639",
+        "stock_name": "海利尔",
+        "market_value_wan": 24350.9
+      }
+    ],
+    "2022-Q3": [
+      {
+        "stock_code": "301035",
+        "stock_name": "润丰股份",
+        "market_value_wan": 62794.2
+      },
+      {
+        "stock_code": "601677",
+        "stock_name": "明泰铝业",
+        "market_value_wan": 34263.73
+      },
+      {
+        "stock_code": "688377",
+        "stock_name": "迪威尔",
+        "market_value_wan": 33518.45
+      },
+      {
+        "stock_code": "600529",
+        "stock_name": "山东药玻",
+        "market_value_wan": 31579.05
+      },
+      {
+        "stock_code": "300873",
+        "stock_name": "海晨股份",
+        "market_value_wan": 30902.8
+      },
+      {
+        "stock_code": "000975",
+        "stock_name": "山金国际",
+        "market_value_wan": 23225.94
+      },
+      {
+        "stock_code": "603380",
+        "stock_name": "易德龙",
+        "market_value_wan": 22567.0
+      },
+      {
+        "stock_code": "300590",
+        "stock_name": "移为通信",
+        "market_value_wan": 22224.39
+      },
+      {
+        "stock_code": "600023",
+        "stock_name": "浙能电力",
+        "market_value_wan": 21109.93
+      },
+      {
+        "stock_code": "603639",
+        "stock_name": "海利尔",
+        "market_value_wan": 21051.99
+      }
+    ],
+    "2022-Q2": [
+      {
+        "stock_code": "301035",
+        "stock_name": "润丰股份",
+        "market_value_wan": 49462.84
+      },
+      {
+        "stock_code": "601677",
+        "stock_name": "明泰铝业",
+        "market_value_wan": 37204.36
+      },
+      {
+        "stock_code": "002046",
+        "stock_name": "国机精工",
+        "market_value_wan": 32256.14
+      },
+      {
+        "stock_code": "603380",
+        "stock_name": "易德龙",
+        "market_value_wan": 30683.54
+      },
+      {
+        "stock_code": "300590",
+        "stock_name": "移为通信",
+        "market_value_wan": 28398.97
+      },
+      {
+        "stock_code": "600529",
+        "stock_name": "山东药玻",
+        "market_value_wan": 26678.84
+      },
+      {
+        "stock_code": "601717",
+        "stock_name": "郑煤机",
+        "market_value_wan": 26063.91
+      },
+      {
+        "stock_code": "300873",
+        "stock_name": "海晨股份",
+        "market_value_wan": 26062.46
+      },
+      {
+        "stock_code": "688377",
+        "stock_name": "迪威尔",
+        "market_value_wan": 25863.77
+      },
+      {
+        "stock_code": "000975",
+        "stock_name": "山金国际",
+        "market_value_wan": 23025.37
+      }
+    ],
+    "2022-Q1": [
+      {
+        "stock_code": "601677",
+        "stock_name": "明泰铝业",
+        "market_value_wan": 33705.45
+      },
+      {
+        "stock_code": "301035",
+        "stock_name": "润丰股份",
+        "market_value_wan": 29975.83
+      },
+      {
+        "stock_code": "601717",
+        "stock_name": "郑煤机",
+        "market_value_wan": 26709.3
+      },
+      {
+        "stock_code": "300590",
+        "stock_name": "移为通信",
+        "market_value_wan": 26605.32
+      },
+      {
+        "stock_code": "603380",
+        "stock_name": "易德龙",
+        "market_value_wan": 25398.72
+      },
+      {
+        "stock_code": "600547",
+        "stock_name": "山东黄金",
+        "market_value_wan": 24352.2
+      },
+      {
+        "stock_code": "002046",
+        "stock_name": "国机精工",
+        "market_value_wan": 23121.72
+      },
+      {
+        "stock_code": "600497",
+        "stock_name": "驰宏锌锗",
+        "market_value_wan": 21698.25
+      },
+      {
+        "stock_code": "000975",
+        "stock_name": "山金国际",
+        "market_value_wan": 21400.07
+      },
+      {
+        "stock_code": "600023",
+        "stock_name": "浙能电力",
+        "market_value_wan": 19824.77
+      }
+    ]
+  }
+}

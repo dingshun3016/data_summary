@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "001490",
+    "name": "汇添富国企创新股票A",
+    "base_name": "汇添富国企创新股票"
+  },
+  "fetched_at": "2026-06-14 22:58:00",
+  "quarters": {
+    "2018-Q4": [
+      {
+        "stock_code": "002127",
+        "stock_name": "南极电商",
+        "market_value_wan": 4782.27
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 4002.27
+      },
+      {
+        "stock_code": "601888",
+        "stock_name": "中国中免",
+        "market_value_wan": 3782.5
+      },
+      {
+        "stock_code": "601088",
+        "stock_name": "中国神华",
+        "market_value_wan": 2161.67
+      },
+      {
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "market_value_wan": 1755.04
+      },
+      {
+        "stock_code": "000661",
+        "stock_name": "长春高新",
+        "market_value_wan": 1738.12
+      },
+      {
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "market_value_wan": 1592.08
+      },
+      {
+        "stock_code": "000651",
+        "stock_name": "格力电器",
+        "market_value_wan": 1506.12
+      },
+      {
+        "stock_code": "300338",
+        "stock_name": "*ST开元",
+        "market_value_wan": 1452.11
+      },
+      {
+        "stock_code": "601933",
+        "stock_name": "永辉超市",
+        "market_value_wan": 1259.2
+      }
+    ],
+    "2018-Q3": [
+      {
+        "stock_code": "002127",
+        "stock_name": "南极电商",
+        "market_value_wan": 5438.33
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 4289.19
+      },
+      {
+        "stock_code": "300338",
+        "stock_name": "*ST开元",
+        "market_value_wan": 3809.95
+      },
+      {
+        "stock_code": "603799",
+        "stock_name": "华友钴业",
+        "market_value_wan": 3044.67
+      },
+      {
+        "stock_code": "002466",
+        "stock_name": "天齐锂业",
+        "market_value_wan": 2900.55
+      },
+      {
+        "stock_code": "300618",
+        "stock_name": "寒锐钴业",
+        "market_value_wan": 2841.65
+      },
+      {
+        "stock_code": "601888",
+        "stock_name": "中国中免",
+        "market_value_wan": 2244.14
+      },
+      {
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "market_value_wan": 2170.36
+      },
+      {
+        "stock_code": "000860",
+        "stock_name": "顺鑫农业",
+        "market_value_wan": 2120.4
+      },
+      {
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "market_value_wan": 1668.86
+      }
+    ],
+    "2018-Q2": [
+      {
+        "stock_code": "002466",
+        "stock_name": "天齐锂业",
+        "market_value_wan": 6639.11
+      },
+      {
+        "stock_code": "002127",
+        "stock_name": "南极电商",
+        "market_value_wan": 6581.88
+      },
+      {
+        "stock_code": "603799",
+        "stock_name": "华友钴业",
+        "market_value_wan": 6331.19
+      },
+      {
+        "stock_code": "300338",
+        "stock_name": "*ST开元",
+        "market_value_wan": 5086.15
+      },
+      {
+        "stock_code": "000961",
+        "stock_name": "ST中南",
+        "market_value_wan": 3615.81
+      },
+      {
+        "stock_code": "300618",
+        "stock_name": "寒锐钴业",
+        "market_value_wan": 2667.19
+      },
+      {
+        "stock_code": "600867",
+        "stock_name": "通化东宝",
+        "market_value_wan": 2105.13
+      },
+      {
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "market_value_wan": 1903.15
+      },
+      {
+        "stock_code": "000488",
+        "stock_name": "晨鸣纸业",
+        "market_value_wan": 1808.8
+      },
+      {
+        "stock_code": "000651",
+        "stock_name": "格力电器",
+        "market_value_wan": 1766.71
+      }
+    ],
+    "2018-Q1": [
+      {
+        "stock_code": "002127",
+        "stock_name": "南极电商",
+        "market_value_wan": 8216.38
+      },
+      {
+        "stock_code": "300338",
+        "stock_name": "*ST开元",
+        "market_value_wan": 7423.54
+      },
+      {
+        "stock_code": "603799",
+        "stock_name": "华友钴业",
+        "market_value_wan": 6388.58
+      },
+      {
+        "stock_code": "002466",
+        "stock_name": "天齐锂业",
+        "market_value_wan": 5501.3
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 4611.22
+      },
+      {
+        "stock_code": "000961",
+        "stock_name": "ST中南",
+        "market_value_wan": 3580.62
+      },
+      {
+        "stock_code": "002366",
+        "stock_name": "融发核电",
+        "market_value_wan": 3522.63
+      },
+      {
+        "stock_code": "300618",
+        "stock_name": "寒锐钴业",
+        "market_value_wan": 2823.07
+      },
+      {
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "market_value_wan": 2617.52
+      },
+      {
+        "stock_code": "601939",
+        "stock_name": "建设银行",
+        "market_value_wan": 2588.41
+      }
+    ]
+  }
+}

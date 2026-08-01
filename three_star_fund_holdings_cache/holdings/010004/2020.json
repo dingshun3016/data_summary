@@ -1,0 +1,58 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "010004",
+    "name": "景顺长城电子信息产业股票C",
+    "base_name": "景顺长城电子信息产业股票"
+  },
+  "fetched_at": "2026-06-14 23:37:21",
+  "quarters": {
+    "2020-Q4": [
+      {
+        "stock_code": "002049",
+        "stock_name": "紫光国微",
+        "market_value_wan": 25976.68
+      },
+      {
+        "stock_code": "688099",
+        "stock_name": "晶晨股份",
+        "market_value_wan": 24777.9
+      },
+      {
+        "stock_code": "000725",
+        "stock_name": "京东方A",
+        "market_value_wan": 23915.58
+      },
+      {
+        "stock_code": "600570",
+        "stock_name": "恒生电子",
+        "market_value_wan": 23055.44
+      },
+      {
+        "stock_code": "002841",
+        "stock_name": "视源股份",
+        "market_value_wan": 22682.25
+      },
+      {
+        "stock_code": "300207",
+        "stock_name": "欣旺达",
+        "market_value_wan": 21827.02
+      },
+      {
+        "stock_code": "002056",
+        "stock_name": "横店东磁",
+        "market_value_wan": 17197.46
+      },
+      {
+        "stock_code": "688116",
+        "stock_name": "天奈科技",
+        "market_value_wan": 16893.08
+      },
+      {
+        "stock_code": "603601",
+        "stock_name": "再升科技",
+        "market_value_wan": 16201.46
+      }
+    ]
+  }
+}

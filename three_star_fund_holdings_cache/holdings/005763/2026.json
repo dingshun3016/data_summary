@@ -1,0 +1,80 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "005763",
+    "name": "中欧电子信息产业沪港深股票C",
+    "base_name": "中欧电子信息产业沪港深股票"
+  },
+  "fetched_at": "2026-08-01 20:56:37",
+  "quarters": {
+    "2026-Q2": [
+      {
+        "stock_code": "300604",
+        "stock_name": "长川科技",
+        "market_value_wan": 17176.84
+      },
+      {
+        "stock_code": "688072",
+        "stock_name": "拓荆科技",
+        "market_value_wan": 16141.13
+      },
+      {
+        "stock_code": "688249",
+        "stock_name": "晶合集成",
+        "market_value_wan": 15221.51
+      },
+      {
+        "stock_code": "002222",
+        "stock_name": "福晶科技",
+        "market_value_wan": 14208.09
+      },
+      {
+        "stock_code": "688498",
+        "stock_name": "源杰科技",
+        "market_value_wan": 13137.5
+      },
+      {
+        "stock_code": "688012",
+        "stock_name": "中微公司",
+        "market_value_wan": 13099.63
+      },
+      {
+        "stock_code": "300666",
+        "stock_name": "江丰电子",
+        "market_value_wan": 13014.68
+      }
+    ],
+    "2026-Q1": [
+      {
+        "stock_code": "688072",
+        "stock_name": "拓荆科技",
+        "market_value_wan": 12931.32
+      },
+      {
+        "stock_code": "688012",
+        "stock_name": "中微公司",
+        "market_value_wan": 11307.44
+      },
+      {
+        "stock_code": "300666",
+        "stock_name": "江丰电子",
+        "market_value_wan": 10919.02
+      },
+      {
+        "stock_code": "300604",
+        "stock_name": "长川科技",
+        "market_value_wan": 10217.83
+      },
+      {
+        "stock_code": "002222",
+        "stock_name": "福晶科技",
+        "market_value_wan": 10013.71
+      },
+      {
+        "stock_code": "688498",
+        "stock_name": "源杰科技",
+        "market_value_wan": 9698.88
+      }
+    ]
+  }
+}

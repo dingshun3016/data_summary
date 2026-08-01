@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "006195",
+    "name": "国金量化多因子股票A",
+    "base_name": "国金量化多因子股票"
+  },
+  "fetched_at": "2026-06-14 22:33:51",
+  "quarters": {
+    "2023-Q4": [
+      {
+        "stock_code": "601319",
+        "stock_name": "中国人保",
+        "market_value_wan": 6380.24
+      },
+      {
+        "stock_code": "603936",
+        "stock_name": "博敏电子",
+        "market_value_wan": 4829.99
+      },
+      {
+        "stock_code": "600808",
+        "stock_name": "马钢股份",
+        "market_value_wan": 4563.07
+      },
+      {
+        "stock_code": "600569",
+        "stock_name": "安阳钢铁",
+        "market_value_wan": 4143.45
+      },
+      {
+        "stock_code": "688538",
+        "stock_name": "和辉光电",
+        "market_value_wan": 3991.43
+      },
+      {
+        "stock_code": "600927",
+        "stock_name": "永安期货",
+        "market_value_wan": 3961.28
+      },
+      {
+        "stock_code": "600490",
+        "stock_name": "鹏欣资源",
+        "market_value_wan": 3937.86
+      },
+      {
+        "stock_code": "688173",
+        "stock_name": "希荻微",
+        "market_value_wan": 3775.01
+      },
+      {
+        "stock_code": "688209",
+        "stock_name": "英集芯",
+        "market_value_wan": 3424.27
+      },
+      {
+        "stock_code": "600810",
+        "stock_name": "神马股份",
+        "market_value_wan": 3335.24
+      }
+    ],
+    "2023-Q3": [
+      {
+        "stock_code": "600028",
+        "stock_name": "中国石化",
+        "market_value_wan": 11113.26
+      },
+      {
+        "stock_code": "601319",
+        "stock_name": "中国人保",
+        "market_value_wan": 7180.72
+      },
+      {
+        "stock_code": "601211",
+        "stock_name": "国泰君安",
+        "market_value_wan": 6575.72
+      },
+      {
+        "stock_code": "601601",
+        "stock_name": "中国太保",
+        "market_value_wan": 6241.48
+      },
+      {
+        "stock_code": "600019",
+        "stock_name": "宝钢股份",
+        "market_value_wan": 6189.81
+      },
+      {
+        "stock_code": "600837",
+        "stock_name": "海通证券",
+        "market_value_wan": 5638.47
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 5593.49
+      },
+      {
+        "stock_code": "600023",
+        "stock_name": "浙能电力",
+        "market_value_wan": 5404.85
+      },
+      {
+        "stock_code": "601398",
+        "stock_name": "工商银行",
+        "market_value_wan": 5387.76
+      },
+      {
+        "stock_code": "601800",
+        "stock_name": "中国交建",
+        "market_value_wan": 5233.66
+      }
+    ],
+    "2023-Q2": [
+      {
+        "stock_code": "601618",
+        "stock_name": "中国中冶",
+        "market_value_wan": 3548.43
+      },
+      {
+        "stock_code": "000778",
+        "stock_name": "新兴铸管",
+        "market_value_wan": 2202.14
+      },
+      {
+        "stock_code": "000987",
+        "stock_name": "越秀资本",
+        "market_value_wan": 2199.17
+      },
+      {
+        "stock_code": "600339",
+        "stock_name": "中油工程",
+        "market_value_wan": 2182.7
+      },
+      {
+        "stock_code": "600028",
+        "stock_name": "中国石化",
+        "market_value_wan": 2170.99
+      },
+      {
+        "stock_code": "601108",
+        "stock_name": "财通证券",
+        "market_value_wan": 2056.09
+      },
+      {
+        "stock_code": "600125",
+        "stock_name": "铁龙物流",
+        "market_value_wan": 2024.73
+      },
+      {
+        "stock_code": "600531",
+        "stock_name": "豫光金铅",
+        "market_value_wan": 1730.8
+      },
+      {
+        "stock_code": "601000",
+        "stock_name": "唐山港",
+        "market_value_wan": 1721.85
+      },
+      {
+        "stock_code": "000563",
+        "stock_name": "陕国投A",
+        "market_value_wan": 1620.04
+      }
+    ],
+    "2023-Q1": [
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 2079.87
+      },
+      {
+        "stock_code": "002463",
+        "stock_name": "沪电股份",
+        "market_value_wan": 1972.78
+      },
+      {
+        "stock_code": "600022",
+        "stock_name": "山东钢铁",
+        "market_value_wan": 1904.47
+      },
+      {
+        "stock_code": "600206",
+        "stock_name": "有研新材",
+        "market_value_wan": 1893.06
+      },
+      {
+        "stock_code": "601728",
+        "stock_name": "中国电信",
+        "market_value_wan": 1790.95
+      },
+      {
+        "stock_code": "600531",
+        "stock_name": "豫光金铅",
+        "market_value_wan": 1712.96
+      },
+      {
+        "stock_code": "300085",
+        "stock_name": "银之杰",
+        "market_value_wan": 1565.22
+      },
+      {
+        "stock_code": "002212",
+        "stock_name": "天融信",
+        "market_value_wan": 1553.91
+      },
+      {
+        "stock_code": "600900",
+        "stock_name": "长江电力",
+        "market_value_wan": 1520.86
+      },
+      {
+        "stock_code": "300315",
+        "stock_name": "掌趣科技",
+        "market_value_wan": 1516.02
+      }
+    ]
+  }
+}

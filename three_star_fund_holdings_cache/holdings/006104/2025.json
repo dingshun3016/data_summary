@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "006104",
+    "name": "华泰柏瑞量化智慧混合C",
+    "base_name": "华泰柏瑞量化智慧混合"
+  },
+  "fetched_at": "2026-06-14 23:20:30",
+  "quarters": {
+    "2025-Q4": [
+      {
+        "stock_code": "688017",
+        "stock_name": "绿的谐波",
+        "market_value_wan": 740.35
+      },
+      {
+        "stock_code": "601211",
+        "stock_name": "国泰海通",
+        "market_value_wan": 567.8
+      },
+      {
+        "stock_code": "300454",
+        "stock_name": "深信服",
+        "market_value_wan": 544.71
+      },
+      {
+        "stock_code": "603444",
+        "stock_name": "吉比特",
+        "market_value_wan": 529.81
+      },
+      {
+        "stock_code": "688702",
+        "stock_name": "盛科通信",
+        "market_value_wan": 470.33
+      },
+      {
+        "stock_code": "688322",
+        "stock_name": "奥比中光",
+        "market_value_wan": 464.8
+      },
+      {
+        "stock_code": "688183",
+        "stock_name": "生益电子",
+        "market_value_wan": 459.04
+      },
+      {
+        "stock_code": "000600",
+        "stock_name": "建投能源",
+        "market_value_wan": 453.63
+      },
+      {
+        "stock_code": "689009",
+        "stock_name": "九号公司",
+        "market_value_wan": 452.0
+      },
+      {
+        "stock_code": "688072",
+        "stock_name": "拓荆科技",
+        "market_value_wan": 444.51
+      }
+    ],
+    "2025-Q3": [
+      {
+        "stock_code": "688123",
+        "stock_name": "聚辰股份",
+        "market_value_wan": 477.01
+      },
+      {
+        "stock_code": "300476",
+        "stock_name": "胜宏科技",
+        "market_value_wan": 402.56
+      },
+      {
+        "stock_code": "601138",
+        "stock_name": "工业富联",
+        "market_value_wan": 384.18
+      },
+      {
+        "stock_code": "688017",
+        "stock_name": "绿的谐波",
+        "market_value_wan": 380.36
+      },
+      {
+        "stock_code": "603259",
+        "stock_name": "药明康德",
+        "market_value_wan": 364.1
+      },
+      {
+        "stock_code": "689009",
+        "stock_name": "九号公司",
+        "market_value_wan": 350.76
+      },
+      {
+        "stock_code": "300502",
+        "stock_name": "新易盛",
+        "market_value_wan": 336.51
+      },
+      {
+        "stock_code": "600109",
+        "stock_name": "国金证券",
+        "market_value_wan": 311.2
+      },
+      {
+        "stock_code": "603979",
+        "stock_name": "金诚信",
+        "market_value_wan": 305.46
+      },
+      {
+        "stock_code": "603893",
+        "stock_name": "瑞芯微",
+        "market_value_wan": 288.7
+      }
+    ],
+    "2025-Q2": [
+      {
+        "stock_code": "002517",
+        "stock_name": "恺英网络",
+        "market_value_wan": 274.78
+      },
+      {
+        "stock_code": "603444",
+        "stock_name": "吉比特",
+        "market_value_wan": 274.77
+      },
+      {
+        "stock_code": "300454",
+        "stock_name": "深信服",
+        "market_value_wan": 264.65
+      },
+      {
+        "stock_code": "300476",
+        "stock_name": "胜宏科技",
+        "market_value_wan": 252.63
+      },
+      {
+        "stock_code": "603259",
+        "stock_name": "药明康德",
+        "market_value_wan": 226.04
+      },
+      {
+        "stock_code": "300502",
+        "stock_name": "新易盛",
+        "market_value_wan": 222.29
+      },
+      {
+        "stock_code": "600066",
+        "stock_name": "宇通客车",
+        "market_value_wan": 209.07
+      },
+      {
+        "stock_code": "600988",
+        "stock_name": "赤峰黄金",
+        "market_value_wan": 201.03
+      },
+      {
+        "stock_code": "300207",
+        "stock_name": "欣旺达",
+        "market_value_wan": 196.79
+      },
+      {
+        "stock_code": "603893",
+        "stock_name": "瑞芯微",
+        "market_value_wan": 194.38
+      }
+    ],
+    "2025-Q1": [
+      {
+        "stock_code": "002517",
+        "stock_name": "恺英网络",
+        "market_value_wan": 228.53
+      },
+      {
+        "stock_code": "600066",
+        "stock_name": "宇通客车",
+        "market_value_wan": 222.95
+      },
+      {
+        "stock_code": "603893",
+        "stock_name": "瑞芯微",
+        "market_value_wan": 221.82
+      },
+      {
+        "stock_code": "300207",
+        "stock_name": "欣旺达",
+        "market_value_wan": 217.39
+      },
+      {
+        "stock_code": "000932",
+        "stock_name": "华菱钢铁",
+        "market_value_wan": 204.61
+      },
+      {
+        "stock_code": "000423",
+        "stock_name": "东阿阿胶",
+        "market_value_wan": 203.72
+      },
+      {
+        "stock_code": "600988",
+        "stock_name": "赤峰黄金",
+        "market_value_wan": 185.03
+      },
+      {
+        "stock_code": "600428",
+        "stock_name": "中远海特",
+        "market_value_wan": 183.87
+      },
+      {
+        "stock_code": "603699",
+        "stock_name": "纽威股份",
+        "market_value_wan": 178.11
+      },
+      {
+        "stock_code": "688200",
+        "stock_name": "华峰测控",
+        "market_value_wan": 175.01
+      }
+    ]
+  }
+}

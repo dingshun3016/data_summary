@@ -1,0 +1,344 @@
+{
+  "cache_version": 2,
+  "month": "2025-05",
+  "query": "2025年5月出现历史新高的次数，市值，行业板块，上市时间，非北交，非新股，非ST，市值大于200亿，上市时间在2024年之前",
+  "fetched_at": "2026-06-13 22:38:36",
+  "records": [
+    {
+      "code": "600000",
+      "name": "浦发银行",
+      "mktcap": "3,220.67亿",
+      "market_cap_yi": 3220.67,
+      "industry": "银行-银行-股份制银行",
+      "history_high_count": 11
+    },
+    {
+      "code": "601838",
+      "name": "成都银行",
+      "mktcap": "850.65亿",
+      "market_cap_yi": 850.65,
+      "industry": "银行-银行-城商行",
+      "history_high_count": 10
+    },
+    {
+      "code": "600350",
+      "name": "山东高速",
+      "mktcap": "541.47亿",
+      "market_cap_yi": 541.47,
+      "industry": "交通运输-公路铁路运输-高速公路",
+      "history_high_count": 10
+    },
+    {
+      "code": "600919",
+      "name": "江苏银行",
+      "mktcap": "2,181.97亿",
+      "market_cap_yi": 2181.97,
+      "industry": "银行-银行-城商行",
+      "history_high_count": 9
+    },
+    {
+      "code": "601998",
+      "name": "中信银行",
+      "mktcap": "4,130.59亿",
+      "market_cap_yi": 4130.59,
+      "industry": "银行-银行-股份制银行",
+      "history_high_count": 6
+    },
+    {
+      "code": "002595",
+      "name": "豪迈科技",
+      "mktcap": "558.19亿",
+      "market_cap_yi": 558.19,
+      "industry": "机械设备-专用设备-其他专用设备",
+      "history_high_count": 6
+    },
+    {
+      "code": "603699",
+      "name": "纽威股份",
+      "mktcap": "402.84亿",
+      "market_cap_yi": 402.84,
+      "industry": "机械设备-通用设备-金属制品",
+      "history_high_count": 6
+    },
+    {
+      "code": "601229",
+      "name": "上海银行",
+      "mktcap": "1,329.97亿",
+      "market_cap_yi": 1329.97,
+      "industry": "银行-银行-城商行",
+      "history_high_count": 5
+    },
+    {
+      "code": "300255",
+      "name": "常山药业",
+      "mktcap": "324.34亿",
+      "market_cap_yi": 324.34,
+      "industry": "医药生物-化学制药-化学制剂",
+      "history_high_count": 5
+    },
+    {
+      "code": "601818",
+      "name": "光大银行",
+      "mktcap": "1,875.86亿",
+      "market_cap_yi": 1875.86,
+      "industry": "银行-银行-股份制银行",
+      "history_high_count": 4
+    },
+    {
+      "code": "601169",
+      "name": "北京银行",
+      "mktcap": "1,114.24亿",
+      "market_cap_yi": 1114.24,
+      "industry": "银行-银行-城商行",
+      "history_high_count": 4
+    },
+    {
+      "code": "605499",
+      "name": "东鹏饮料",
+      "mktcap": "956.05亿",
+      "market_cap_yi": 956.05,
+      "industry": "食品饮料-饮料制造-软饮料",
+      "history_high_count": 4
+    },
+    {
+      "code": "002294",
+      "name": "信立泰",
+      "mktcap": "348.94亿",
+      "market_cap_yi": 348.94,
+      "industry": "医药生物-化学制药-化学制剂",
+      "history_high_count": 4
+    },
+    {
+      "code": "300765",
+      "name": "新诺威",
+      "mktcap": "326.29亿",
+      "market_cap_yi": 326.29,
+      "industry": "医药生物-化学制药-原料药",
+      "history_high_count": 4
+    },
+    {
+      "code": "002594",
+      "name": "比亚迪",
+      "mktcap": "7,748.54亿",
+      "market_cap_yi": 7748.54,
+      "industry": "汽车-汽车整车-乘用车",
+      "history_high_count": 3
+    },
+    {
+      "code": "601328",
+      "name": "交通银行",
+      "mktcap": "6,158.86亿",
+      "market_cap_yi": 6158.86,
+      "industry": "银行-银行-国有大型银行",
+      "history_high_count": 3
+    },
+    {
+      "code": "601166",
+      "name": "兴业银行",
+      "mktcap": "3,938.41亿",
+      "market_cap_yi": 3938.41,
+      "industry": "银行-银行-股份制银行",
+      "history_high_count": 3
+    },
+    {
+      "code": "600926",
+      "name": "杭州银行",
+      "mktcap": "1,213.48亿",
+      "market_cap_yi": 1213.48,
+      "industry": "银行-银行-城商行",
+      "history_high_count": 3
+    },
+    {
+      "code": "600415",
+      "name": "小商品城",
+      "mktcap": "619.64亿",
+      "market_cap_yi": 619.64,
+      "industry": "商贸零售-零售-商业物业经营",
+      "history_high_count": 3
+    },
+    {
+      "code": "600377",
+      "name": "宁沪高速",
+      "mktcap": "595.55亿",
+      "market_cap_yi": 595.55,
+      "industry": "交通运输-公路铁路运输-高速公路",
+      "history_high_count": 3
+    },
+    {
+      "code": "603379",
+      "name": "三美股份",
+      "mktcap": "388.14亿",
+      "market_cap_yi": 388.14,
+      "industry": "基础化工-化学制品-氟化工",
+      "history_high_count": 3
+    },
+    {
+      "code": "688336",
+      "name": "三生国健",
+      "mktcap": "351.26亿",
+      "market_cap_yi": 351.26,
+      "industry": "医药生物-生物制品-其他生物制品",
+      "history_high_count": 3
+    },
+    {
+      "code": "603119",
+      "name": "浙江荣泰",
+      "mktcap": "349.92亿",
+      "market_cap_yi": 349.92,
+      "industry": "汽车-汽车零部件-其他汽车零部件",
+      "history_high_count": 3
+    },
+    {
+      "code": "301550",
+      "name": "斯菱智驱",
+      "mktcap": "318.45亿",
+      "market_cap_yi": 318.45,
+      "industry": "汽车-汽车零部件-底盘与发动机系统",
+      "history_high_count": 3
+    },
+    {
+      "code": "601288",
+      "name": "农业银行",
+      "mktcap": "23,327.84亿",
+      "market_cap_yi": 23327.84,
+      "industry": "银行-银行-国有大型银行",
+      "history_high_count": 2
+    },
+    {
+      "code": "601939",
+      "name": "建设银行",
+      "mktcap": "21,033.45亿",
+      "market_cap_yi": 21033.45,
+      "industry": "银行-银行-国有大型银行",
+      "history_high_count": 2
+    },
+    {
+      "code": "688506",
+      "name": "百利天恒",
+      "mktcap": "957.87亿",
+      "market_cap_yi": 957.87,
+      "industry": "医药生物-化学制药-化学制剂",
+      "history_high_count": 2
+    },
+    {
+      "code": "601077",
+      "name": "渝农商行",
+      "mktcap": "765.22亿",
+      "market_cap_yi": 765.22,
+      "industry": "银行-银行-农商行",
+      "history_high_count": 2
+    },
+    {
+      "code": "002422",
+      "name": "科伦药业",
+      "mktcap": "593.52亿",
+      "market_cap_yi": 593.52,
+      "industry": "医药生物-化学制药-化学制剂",
+      "history_high_count": 2
+    },
+    {
+      "code": "688578",
+      "name": "艾力斯",
+      "mktcap": "373.73亿",
+      "market_cap_yi": 373.73,
+      "industry": "医药生物-化学制药-化学制剂",
+      "history_high_count": 2
+    },
+    {
+      "code": "301396",
+      "name": "宏景科技",
+      "mktcap": "370.87亿",
+      "market_cap_yi": 370.87,
+      "industry": "计算机-IT服务-IT服务Ⅲ",
+      "history_high_count": 2
+    },
+    {
+      "code": "603766",
+      "name": "隆鑫通用",
+      "mktcap": "259.98亿",
+      "market_cap_yi": 259.98,
+      "industry": "汽车-汽车服务及其他-其他运输设备",
+      "history_high_count": 2
+    },
+    {
+      "code": "603067",
+      "name": "振华股份",
+      "mktcap": "242.07亿",
+      "market_cap_yi": 242.07,
+      "industry": "基础化工-化学原料-无机盐",
+      "history_high_count": 2
+    },
+    {
+      "code": "688428",
+      "name": "诺诚健华",
+      "mktcap": "207.30亿",
+      "market_cap_yi": 207.3,
+      "industry": "医药生物-生物制品-其他生物制品",
+      "history_high_count": 2
+    },
+    {
+      "code": "002379",
+      "name": "宏桥控股",
+      "mktcap": "2,289.57亿",
+      "market_cap_yi": 2289.57,
+      "industry": "有色金属-工业金属-铝",
+      "history_high_count": 1
+    },
+    {
+      "code": "302132",
+      "name": "中航成飞",
+      "mktcap": "1,705.06亿",
+      "market_cap_yi": 1705.06,
+      "industry": "国防军工-军工装备-航空装备",
+      "history_high_count": 1
+    },
+    {
+      "code": "000408",
+      "name": "藏格矿业",
+      "mktcap": "1,246.82亿",
+      "market_cap_yi": 1246.82,
+      "industry": "基础化工-农化制品-钾肥",
+      "history_high_count": 1
+    },
+    {
+      "code": "600160",
+      "name": "巨化股份",
+      "mktcap": "1,144.42亿",
+      "market_cap_yi": 1144.42,
+      "industry": "基础化工-化学制品-氟化工",
+      "history_high_count": 1
+    },
+    {
+      "code": "300972",
+      "name": "万辰集团",
+      "mktcap": "378.09亿",
+      "market_cap_yi": 378.09,
+      "industry": "商贸零售-零售-百货零售",
+      "history_high_count": 1
+    },
+    {
+      "code": "000729",
+      "name": "燕京啤酒",
+      "mktcap": "330.33亿",
+      "market_cap_yi": 330.33,
+      "industry": "食品饮料-饮料制造-啤酒",
+      "history_high_count": 1
+    },
+    {
+      "code": "000029",
+      "name": "深深房A",
+      "mktcap": "230.27亿",
+      "market_cap_yi": 230.27,
+      "industry": "房地产-房地产-住宅开发",
+      "history_high_count": 1
+    },
+    {
+      "code": "301196",
+      "name": "唯科科技",
+      "mktcap": "201.88亿",
+      "market_cap_yi": 201.88,
+      "industry": "基础化工-塑料制品-其他塑料制品",
+      "history_high_count": 1
+    }
+  ]
+}

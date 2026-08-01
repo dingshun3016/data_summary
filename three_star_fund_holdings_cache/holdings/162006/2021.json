@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "162006",
+    "name": "长城久富混合(LOF)A",
+    "base_name": "长城久富混合(LOF)"
+  },
+  "fetched_at": "2026-06-14 23:52:57",
+  "quarters": {
+    "2021-Q4": [
+      {
+        "stock_code": "603596",
+        "stock_name": "伯特利",
+        "market_value_wan": 21429.53
+      },
+      {
+        "stock_code": "300627",
+        "stock_name": "华测导航",
+        "market_value_wan": 18549.65
+      },
+      {
+        "stock_code": "601677",
+        "stock_name": "明泰铝业",
+        "market_value_wan": 16955.1
+      },
+      {
+        "stock_code": "002812",
+        "stock_name": "恩捷股份",
+        "market_value_wan": 12971.6
+      },
+      {
+        "stock_code": "688065",
+        "stock_name": "凯赛生物",
+        "market_value_wan": 11948.9
+      },
+      {
+        "stock_code": "300681",
+        "stock_name": "英搏尔",
+        "market_value_wan": 11278.79
+      },
+      {
+        "stock_code": "603816",
+        "stock_name": "顾家家居",
+        "market_value_wan": 9395.37
+      },
+      {
+        "stock_code": "600522",
+        "stock_name": "中天科技",
+        "market_value_wan": 9261.09
+      },
+      {
+        "stock_code": "601117",
+        "stock_name": "中国化学",
+        "market_value_wan": 8986.56
+      },
+      {
+        "stock_code": "002791",
+        "stock_name": "坚朗五金",
+        "market_value_wan": 7839.24
+      }
+    ],
+    "2021-Q3": [
+      {
+        "stock_code": "603596",
+        "stock_name": "伯特利",
+        "market_value_wan": 11103.55
+      },
+      {
+        "stock_code": "002812",
+        "stock_name": "恩捷股份",
+        "market_value_wan": 9872.41
+      },
+      {
+        "stock_code": "300627",
+        "stock_name": "华测导航",
+        "market_value_wan": 8767.28
+      },
+      {
+        "stock_code": "300725",
+        "stock_name": "药石科技",
+        "market_value_wan": 7973.92
+      },
+      {
+        "stock_code": "002415",
+        "stock_name": "海康威视",
+        "market_value_wan": 6258.45
+      },
+      {
+        "stock_code": "601677",
+        "stock_name": "明泰铝业",
+        "market_value_wan": 6070.67
+      },
+      {
+        "stock_code": "688065",
+        "stock_name": "凯赛生物",
+        "market_value_wan": 5289.9
+      },
+      {
+        "stock_code": "603208",
+        "stock_name": "江山欧派",
+        "market_value_wan": 4743.04
+      },
+      {
+        "stock_code": "300681",
+        "stock_name": "英搏尔",
+        "market_value_wan": 4397.33
+      },
+      {
+        "stock_code": "603259",
+        "stock_name": "药明康德",
+        "market_value_wan": 4273.11
+      }
+    ],
+    "2021-Q2": [
+      {
+        "stock_code": "603596",
+        "stock_name": "伯特利",
+        "market_value_wan": 10253.96
+      },
+      {
+        "stock_code": "002415",
+        "stock_name": "海康威视",
+        "market_value_wan": 7182.72
+      },
+      {
+        "stock_code": "603208",
+        "stock_name": "江山欧派",
+        "market_value_wan": 7062.33
+      },
+      {
+        "stock_code": "300627",
+        "stock_name": "华测导航",
+        "market_value_wan": 6993.3
+      },
+      {
+        "stock_code": "002812",
+        "stock_name": "恩捷股份",
+        "market_value_wan": 6408.14
+      },
+      {
+        "stock_code": "300408",
+        "stock_name": "三环集团",
+        "market_value_wan": 5313.95
+      },
+      {
+        "stock_code": "603259",
+        "stock_name": "药明康德",
+        "market_value_wan": 5000.76
+      },
+      {
+        "stock_code": "002541",
+        "stock_name": "鸿路钢构",
+        "market_value_wan": 4703.66
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 4689.28
+      },
+      {
+        "stock_code": "300725",
+        "stock_name": "药石科技",
+        "market_value_wan": 4066.19
+      }
+    ],
+    "2021-Q1": [
+      {
+        "stock_code": "603596",
+        "stock_name": "伯特利",
+        "market_value_wan": 7848.28
+      },
+      {
+        "stock_code": "603208",
+        "stock_name": "江山欧派",
+        "market_value_wan": 6442.43
+      },
+      {
+        "stock_code": "002415",
+        "stock_name": "海康威视",
+        "market_value_wan": 6255.21
+      },
+      {
+        "stock_code": "300545",
+        "stock_name": "联得装备",
+        "market_value_wan": 5267.72
+      },
+      {
+        "stock_code": "002541",
+        "stock_name": "鸿路钢构",
+        "market_value_wan": 4726.53
+      },
+      {
+        "stock_code": "603259",
+        "stock_name": "药明康德",
+        "market_value_wan": 4690.08
+      },
+      {
+        "stock_code": "300627",
+        "stock_name": "华测导航",
+        "market_value_wan": 4515.93
+      },
+      {
+        "stock_code": "002080",
+        "stock_name": "中材科技",
+        "market_value_wan": 4157.88
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 3937.64
+      },
+      {
+        "stock_code": "300408",
+        "stock_name": "三环集团",
+        "market_value_wan": 3860.08
+      }
+    ]
+  }
+}

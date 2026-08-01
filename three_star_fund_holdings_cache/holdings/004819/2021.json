@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "004819",
+    "name": "国寿安保目标策略混合发起C",
+    "base_name": "国寿安保目标策略混合发起"
+  },
+  "fetched_at": "2026-06-14 23:15:08",
+  "quarters": {
+    "2021-Q4": [
+      {
+        "stock_code": "002254",
+        "stock_name": "泰和新材",
+        "market_value_wan": 1568.64
+      },
+      {
+        "stock_code": "300587",
+        "stock_name": "天铁股份",
+        "market_value_wan": 1428.71
+      },
+      {
+        "stock_code": "600422",
+        "stock_name": "昆药集团",
+        "market_value_wan": 1428.65
+      },
+      {
+        "stock_code": "688257",
+        "stock_name": "新锐股份",
+        "market_value_wan": 1324.0
+      },
+      {
+        "stock_code": "002637",
+        "stock_name": "赞宇科技",
+        "market_value_wan": 1321.6
+      },
+      {
+        "stock_code": "603859",
+        "stock_name": "能科科技",
+        "market_value_wan": 1190.7
+      },
+      {
+        "stock_code": "603348",
+        "stock_name": "文灿股份",
+        "market_value_wan": 1050.85
+      },
+      {
+        "stock_code": "002111",
+        "stock_name": "威海广泰",
+        "market_value_wan": 856.73
+      },
+      {
+        "stock_code": "603195",
+        "stock_name": "公牛集团",
+        "market_value_wan": 852.63
+      },
+      {
+        "stock_code": "603787",
+        "stock_name": "新日股份",
+        "market_value_wan": 845.0
+      }
+    ],
+    "2021-Q3": [
+      {
+        "stock_code": "300587",
+        "stock_name": "天铁股份",
+        "market_value_wan": 1937.96
+      },
+      {
+        "stock_code": "300241",
+        "stock_name": "瑞丰光电",
+        "market_value_wan": 1074.94
+      },
+      {
+        "stock_code": "603859",
+        "stock_name": "能科科技",
+        "market_value_wan": 1065.0
+      },
+      {
+        "stock_code": "603348",
+        "stock_name": "文灿股份",
+        "market_value_wan": 983.25
+      },
+      {
+        "stock_code": "002111",
+        "stock_name": "威海广泰",
+        "market_value_wan": 976.42
+      },
+      {
+        "stock_code": "600933",
+        "stock_name": "爱柯迪",
+        "market_value_wan": 953.59
+      },
+      {
+        "stock_code": "603228",
+        "stock_name": "景旺电子",
+        "market_value_wan": 951.99
+      },
+      {
+        "stock_code": "002056",
+        "stock_name": "横店东磁",
+        "market_value_wan": 919.8
+      },
+      {
+        "stock_code": "603787",
+        "stock_name": "新日股份",
+        "market_value_wan": 871.5
+      },
+      {
+        "stock_code": "002637",
+        "stock_name": "赞宇科技",
+        "market_value_wan": 857.54
+      }
+    ],
+    "2021-Q2": [
+      {
+        "stock_code": "300587",
+        "stock_name": "天铁股份",
+        "market_value_wan": 1346.82
+      },
+      {
+        "stock_code": "300082",
+        "stock_name": "奥克股份",
+        "market_value_wan": 1240.0
+      },
+      {
+        "stock_code": "603348",
+        "stock_name": "文灿股份",
+        "market_value_wan": 1224.69
+      },
+      {
+        "stock_code": "603787",
+        "stock_name": "新日股份",
+        "market_value_wan": 1199.0
+      },
+      {
+        "stock_code": "300241",
+        "stock_name": "瑞丰光电",
+        "market_value_wan": 1046.54
+      },
+      {
+        "stock_code": "603195",
+        "stock_name": "公牛集团",
+        "market_value_wan": 1029.47
+      },
+      {
+        "stock_code": "600309",
+        "stock_name": "万华化学",
+        "market_value_wan": 870.56
+      },
+      {
+        "stock_code": "300101",
+        "stock_name": "振芯科技",
+        "market_value_wan": 805.95
+      },
+      {
+        "stock_code": "002056",
+        "stock_name": "横店东磁",
+        "market_value_wan": 780.0
+      },
+      {
+        "stock_code": "002993",
+        "stock_name": "奥海科技",
+        "market_value_wan": 707.69
+      }
+    ],
+    "2021-Q1": [
+      {
+        "stock_code": "600585",
+        "stock_name": "海螺水泥",
+        "market_value_wan": 1280.32
+      },
+      {
+        "stock_code": "603787",
+        "stock_name": "新日股份",
+        "market_value_wan": 1086.0
+      },
+      {
+        "stock_code": "000338",
+        "stock_name": "潍柴动力",
+        "market_value_wan": 1000.48
+      },
+      {
+        "stock_code": "300082",
+        "stock_name": "奥克股份",
+        "market_value_wan": 963.0
+      },
+      {
+        "stock_code": "603788",
+        "stock_name": "宁波高发",
+        "market_value_wan": 962.26
+      },
+      {
+        "stock_code": "603195",
+        "stock_name": "公牛集团",
+        "market_value_wan": 910.68
+      },
+      {
+        "stock_code": "002056",
+        "stock_name": "横店东磁",
+        "market_value_wan": 908.4
+      },
+      {
+        "stock_code": "600309",
+        "stock_name": "万华化学",
+        "market_value_wan": 844.8
+      },
+      {
+        "stock_code": "300241",
+        "stock_name": "瑞丰光电",
+        "market_value_wan": 842.06
+      },
+      {
+        "stock_code": "600031",
+        "stock_name": "三一重工",
+        "market_value_wan": 819.37
+      }
+    ]
+  }
+}

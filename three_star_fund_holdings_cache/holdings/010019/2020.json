@@ -1,0 +1,58 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "010019",
+    "name": "招商瑞泽一年持有期混合C",
+    "base_name": "招商瑞泽一年持有期混合"
+  },
+  "fetched_at": "2026-06-14 23:37:30",
+  "quarters": {
+    "2020-Q4": [
+      {
+        "stock_code": "601818",
+        "stock_name": "光大银行",
+        "market_value_wan": 13265.48
+      },
+      {
+        "stock_code": "601336",
+        "stock_name": "新华保险",
+        "market_value_wan": 10324.79
+      },
+      {
+        "stock_code": "002352",
+        "stock_name": "顺丰控股",
+        "market_value_wan": 3475.38
+      },
+      {
+        "stock_code": "002271",
+        "stock_name": "东方雨虹",
+        "market_value_wan": 3421.77
+      },
+      {
+        "stock_code": "000538",
+        "stock_name": "云南白药",
+        "market_value_wan": 2984.27
+      },
+      {
+        "stock_code": "300815",
+        "stock_name": "玉禾田",
+        "market_value_wan": 2869.68
+      },
+      {
+        "stock_code": "600438",
+        "stock_name": "通威股份",
+        "market_value_wan": 2276.42
+      },
+      {
+        "stock_code": "601166",
+        "stock_name": "兴业银行",
+        "market_value_wan": 2231.0
+      },
+      {
+        "stock_code": "300122",
+        "stock_name": "智飞生物",
+        "market_value_wan": 2200.9
+      }
+    ]
+  }
+}

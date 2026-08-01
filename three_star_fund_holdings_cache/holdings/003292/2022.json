@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "003292",
+    "name": "嘉实优势成长混合A",
+    "base_name": "嘉实优势成长混合"
+  },
+  "fetched_at": "2026-06-14 23:10:05",
+  "quarters": {
+    "2022-Q4": [
+      {
+        "stock_code": "002410",
+        "stock_name": "广联达",
+        "market_value_wan": 6338.75
+      },
+      {
+        "stock_code": "300012",
+        "stock_name": "华测检测",
+        "market_value_wan": 5135.34
+      },
+      {
+        "stock_code": "002444",
+        "stock_name": "巨星科技",
+        "market_value_wan": 4820.25
+      },
+      {
+        "stock_code": "300795",
+        "stock_name": "米奥会展",
+        "market_value_wan": 4175.68
+      },
+      {
+        "stock_code": "603927",
+        "stock_name": "中科软",
+        "market_value_wan": 3434.81
+      },
+      {
+        "stock_code": "002352",
+        "stock_name": "顺丰控股",
+        "market_value_wan": 3366.25
+      },
+      {
+        "stock_code": "603486",
+        "stock_name": "科沃斯",
+        "market_value_wan": 3315.78
+      },
+      {
+        "stock_code": "300760",
+        "stock_name": "迈瑞医疗",
+        "market_value_wan": 3193.64
+      },
+      {
+        "stock_code": "300496",
+        "stock_name": "中科创达",
+        "market_value_wan": 2898.11
+      },
+      {
+        "stock_code": "603613",
+        "stock_name": "国联股份",
+        "market_value_wan": 2846.49
+      }
+    ],
+    "2022-Q3": [
+      {
+        "stock_code": "002444",
+        "stock_name": "巨星科技",
+        "market_value_wan": 1408.37
+      },
+      {
+        "stock_code": "002410",
+        "stock_name": "广联达",
+        "market_value_wan": 1333.08
+      },
+      {
+        "stock_code": "300012",
+        "stock_name": "华测检测",
+        "market_value_wan": 1314.49
+      },
+      {
+        "stock_code": "300760",
+        "stock_name": "迈瑞医疗",
+        "market_value_wan": 1195.22
+      },
+      {
+        "stock_code": "300496",
+        "stock_name": "中科创达",
+        "market_value_wan": 1063.24
+      },
+      {
+        "stock_code": "300795",
+        "stock_name": "米奥会展",
+        "market_value_wan": 889.9
+      },
+      {
+        "stock_code": "300285",
+        "stock_name": "国瓷材料",
+        "market_value_wan": 728.09
+      },
+      {
+        "stock_code": "300661",
+        "stock_name": "圣邦股份",
+        "market_value_wan": 704.45
+      },
+      {
+        "stock_code": "603613",
+        "stock_name": "国联股份",
+        "market_value_wan": 671.94
+      },
+      {
+        "stock_code": "688700",
+        "stock_name": "东威科技",
+        "market_value_wan": 649.85
+      }
+    ],
+    "2022-Q2": [
+      {
+        "stock_code": "300496",
+        "stock_name": "中科创达",
+        "market_value_wan": 687.94
+      },
+      {
+        "stock_code": "300012",
+        "stock_name": "华测检测",
+        "market_value_wan": 661.35
+      },
+      {
+        "stock_code": "300795",
+        "stock_name": "米奥会展",
+        "market_value_wan": 603.86
+      },
+      {
+        "stock_code": "002410",
+        "stock_name": "广联达",
+        "market_value_wan": 558.01
+      },
+      {
+        "stock_code": "002444",
+        "stock_name": "巨星科技",
+        "market_value_wan": 505.19
+      },
+      {
+        "stock_code": "300285",
+        "stock_name": "国瓷材料",
+        "market_value_wan": 480.71
+      },
+      {
+        "stock_code": "300263",
+        "stock_name": "隆华科技",
+        "market_value_wan": 410.37
+      },
+      {
+        "stock_code": "689009",
+        "stock_name": "九号公司",
+        "market_value_wan": 399.71
+      },
+      {
+        "stock_code": "603486",
+        "stock_name": "科沃斯",
+        "market_value_wan": 364.45
+      },
+      {
+        "stock_code": "300760",
+        "stock_name": "迈瑞医疗",
+        "market_value_wan": 340.57
+      }
+    ],
+    "2022-Q1": [
+      {
+        "stock_code": "300285",
+        "stock_name": "国瓷材料",
+        "market_value_wan": 820.46
+      },
+      {
+        "stock_code": "300795",
+        "stock_name": "米奥会展",
+        "market_value_wan": 784.65
+      },
+      {
+        "stock_code": "300496",
+        "stock_name": "中科创达",
+        "market_value_wan": 771.02
+      },
+      {
+        "stock_code": "300012",
+        "stock_name": "华测检测",
+        "market_value_wan": 747.15
+      },
+      {
+        "stock_code": "002410",
+        "stock_name": "广联达",
+        "market_value_wan": 624.47
+      },
+      {
+        "stock_code": "300760",
+        "stock_name": "迈瑞医疗",
+        "market_value_wan": 593.73
+      },
+      {
+        "stock_code": "689009",
+        "stock_name": "九号公司",
+        "market_value_wan": 569.56
+      },
+      {
+        "stock_code": "300263",
+        "stock_name": "隆华科技",
+        "market_value_wan": 564.71
+      },
+      {
+        "stock_code": "002444",
+        "stock_name": "巨星科技",
+        "market_value_wan": 512.32
+      },
+      {
+        "stock_code": "603486",
+        "stock_name": "科沃斯",
+        "market_value_wan": 379.22
+      }
+    ]
+  }
+}

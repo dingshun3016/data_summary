@@ -1,0 +1,115 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "005009",
+    "name": "申万菱信行业轮动股票A",
+    "base_name": "申万菱信行业轮动股票"
+  },
+  "fetched_at": "2026-08-01 20:56:17",
+  "quarters": {
+    "2026-Q2": [
+      {
+        "stock_code": "301526",
+        "stock_name": "国际复材",
+        "market_value_wan": 6784.42
+      },
+      {
+        "stock_code": "000962",
+        "stock_name": "东方钽业",
+        "market_value_wan": 6497.83
+      },
+      {
+        "stock_code": "300390",
+        "stock_name": "天华新能",
+        "market_value_wan": 5306.69
+      },
+      {
+        "stock_code": "601872",
+        "stock_name": "招商轮船",
+        "market_value_wan": 5021.74
+      },
+      {
+        "stock_code": "002240",
+        "stock_name": "盛新锂能",
+        "market_value_wan": 4220.74
+      },
+      {
+        "stock_code": "688545",
+        "stock_name": "兴福电子",
+        "market_value_wan": 3852.03
+      },
+      {
+        "stock_code": "601899",
+        "stock_name": "紫金矿业",
+        "market_value_wan": 3824.05
+      },
+      {
+        "stock_code": "000688",
+        "stock_name": "国城矿业",
+        "market_value_wan": 3761.88
+      },
+      {
+        "stock_code": "600259",
+        "stock_name": "中稀有色",
+        "market_value_wan": 3733.15
+      },
+      {
+        "stock_code": "000510",
+        "stock_name": "新金路",
+        "market_value_wan": 3659.93
+      }
+    ],
+    "2026-Q1": [
+      {
+        "stock_code": "601899",
+        "stock_name": "紫金矿业",
+        "market_value_wan": 5376.22
+      },
+      {
+        "stock_code": "600988",
+        "stock_name": "赤峰黄金",
+        "market_value_wan": 4977.78
+      },
+      {
+        "stock_code": "300390",
+        "stock_name": "天华新能",
+        "market_value_wan": 4555.98
+      },
+      {
+        "stock_code": "601872",
+        "stock_name": "招商轮船",
+        "market_value_wan": 3851.53
+      },
+      {
+        "stock_code": "600547",
+        "stock_name": "山东黄金",
+        "market_value_wan": 3790.34
+      },
+      {
+        "stock_code": "600026",
+        "stock_name": "中远海能",
+        "market_value_wan": 3354.78
+      },
+      {
+        "stock_code": "301358",
+        "stock_name": "湖南裕能",
+        "market_value_wan": 3249.94
+      },
+      {
+        "stock_code": "600188",
+        "stock_name": "兖矿能源",
+        "market_value_wan": 3110.13
+      },
+      {
+        "stock_code": "002379",
+        "stock_name": "宏桥控股",
+        "market_value_wan": 2602.93
+      },
+      {
+        "stock_code": "600426",
+        "stock_name": "华鲁恒升",
+        "market_value_wan": 2489.28
+      }
+    ]
+  }
+}

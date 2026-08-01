@@ -1,0 +1,209 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "010809",
+    "name": "达诚策略先锋混合C",
+    "base_name": "达诚策略先锋混合"
+  },
+  "fetched_at": "2026-06-14 23:43:06",
+  "quarters": {
+    "2023-Q4": [
+      {
+        "stock_code": "601058",
+        "stock_name": "赛轮轮胎",
+        "market_value_wan": 233.12
+      },
+      {
+        "stock_code": "300783",
+        "stock_name": "三只松鼠",
+        "market_value_wan": 206.67
+      },
+      {
+        "stock_code": "000100",
+        "stock_name": "TCL科技",
+        "market_value_wan": 199.69
+      },
+      {
+        "stock_code": "000725",
+        "stock_name": "京东方A",
+        "market_value_wan": 184.59
+      },
+      {
+        "stock_code": "002705",
+        "stock_name": "新宝股份",
+        "market_value_wan": 164.2
+      },
+      {
+        "stock_code": "600150",
+        "stock_name": "中国船舶",
+        "market_value_wan": 161.04
+      },
+      {
+        "stock_code": "002439",
+        "stock_name": "启明星辰",
+        "market_value_wan": 139.32
+      },
+      {
+        "stock_code": "301092",
+        "stock_name": "争光股份",
+        "market_value_wan": 135.31
+      },
+      {
+        "stock_code": "300054",
+        "stock_name": "鼎龙股份",
+        "market_value_wan": 134.55
+      },
+      {
+        "stock_code": "603324",
+        "stock_name": "盛剑科技",
+        "market_value_wan": 132.11
+      }
+    ],
+    "2023-Q3": [
+      {
+        "stock_code": "000858",
+        "stock_name": "五粮液",
+        "market_value_wan": 279.42
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 269.78
+      },
+      {
+        "stock_code": "002705",
+        "stock_name": "新宝股份",
+        "market_value_wan": 258.63
+      },
+      {
+        "stock_code": "300783",
+        "stock_name": "三只松鼠",
+        "market_value_wan": 236.28
+      },
+      {
+        "stock_code": "603659",
+        "stock_name": "璞泰来",
+        "market_value_wan": 224.74
+      },
+      {
+        "stock_code": "601058",
+        "stock_name": "赛轮轮胎",
+        "market_value_wan": 219.79
+      },
+      {
+        "stock_code": "300054",
+        "stock_name": "鼎龙股份",
+        "market_value_wan": 212.32
+      },
+      {
+        "stock_code": "000100",
+        "stock_name": "TCL科技",
+        "market_value_wan": 189.47
+      },
+      {
+        "stock_code": "000725",
+        "stock_name": "京东方A",
+        "market_value_wan": 182.69
+      },
+      {
+        "stock_code": "603939",
+        "stock_name": "益丰药房",
+        "market_value_wan": 181.24
+      }
+    ],
+    "2023-Q2": [
+      {
+        "stock_code": "300054",
+        "stock_name": "鼎龙股份",
+        "market_value_wan": 304.92
+      },
+      {
+        "stock_code": "000858",
+        "stock_name": "五粮液",
+        "market_value_wan": 287.88
+      },
+      {
+        "stock_code": "603659",
+        "stock_name": "璞泰来",
+        "market_value_wan": 286.0
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 253.65
+      },
+      {
+        "stock_code": "000725",
+        "stock_name": "京东方A",
+        "market_value_wan": 228.47
+      },
+      {
+        "stock_code": "000100",
+        "stock_name": "TCL科技",
+        "market_value_wan": 227.29
+      },
+      {
+        "stock_code": "688107",
+        "stock_name": "安路科技",
+        "market_value_wan": 226.66
+      },
+      {
+        "stock_code": "002415",
+        "stock_name": "海康威视",
+        "market_value_wan": 196.34
+      },
+      {
+        "stock_code": "002705",
+        "stock_name": "新宝股份",
+        "market_value_wan": 191.66
+      }
+    ],
+    "2023-Q1": [
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 418.6
+      },
+      {
+        "stock_code": "000858",
+        "stock_name": "五粮液",
+        "market_value_wan": 277.77
+      },
+      {
+        "stock_code": "300054",
+        "stock_name": "鼎龙股份",
+        "market_value_wan": 270.73
+      },
+      {
+        "stock_code": "000725",
+        "stock_name": "京东方A",
+        "market_value_wan": 248.02
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 227.39
+      },
+      {
+        "stock_code": "002597",
+        "stock_name": "金禾实业",
+        "market_value_wan": 221.69
+      },
+      {
+        "stock_code": "000938",
+        "stock_name": "紫光股份",
+        "market_value_wan": 198.88
+      },
+      {
+        "stock_code": "000100",
+        "stock_name": "TCL科技",
+        "market_value_wan": 198.86
+      },
+      {
+        "stock_code": "600029",
+        "stock_name": "南方航空",
+        "market_value_wan": 167.0
+      }
+    ]
+  }
+}

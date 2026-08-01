@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "000513",
+    "name": "富国高端制造行业股票A",
+    "base_name": "富国高端制造行业股票"
+  },
+  "fetched_at": "2026-06-14 22:49:47",
+  "quarters": {
+    "2022-Q4": [
+      {
+        "stock_code": "300573",
+        "stock_name": "兴齐眼药",
+        "market_value_wan": 5678.63
+      },
+      {
+        "stock_code": "300487",
+        "stock_name": "蓝晓科技",
+        "market_value_wan": 5530.21
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 5232.81
+      },
+      {
+        "stock_code": "603129",
+        "stock_name": "春风动力",
+        "market_value_wan": 3749.37
+      },
+      {
+        "stock_code": "002643",
+        "stock_name": "万润股份",
+        "market_value_wan": 3346.44
+      },
+      {
+        "stock_code": "300680",
+        "stock_name": "隆盛科技",
+        "market_value_wan": 2971.2
+      },
+      {
+        "stock_code": "300759",
+        "stock_name": "康龙化成",
+        "market_value_wan": 2903.67
+      },
+      {
+        "stock_code": "002271",
+        "stock_name": "东方雨虹",
+        "market_value_wan": 2759.79
+      },
+      {
+        "stock_code": "300285",
+        "stock_name": "国瓷材料",
+        "market_value_wan": 2532.44
+      },
+      {
+        "stock_code": "688621",
+        "stock_name": "阳光诺和",
+        "market_value_wan": 2458.49
+      }
+    ],
+    "2022-Q3": [
+      {
+        "stock_code": "300487",
+        "stock_name": "蓝晓科技",
+        "market_value_wan": 5277.13
+      },
+      {
+        "stock_code": "603129",
+        "stock_name": "春风动力",
+        "market_value_wan": 4481.78
+      },
+      {
+        "stock_code": "300573",
+        "stock_name": "兴齐眼药",
+        "market_value_wan": 4124.59
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 4044.6
+      },
+      {
+        "stock_code": "300680",
+        "stock_name": "隆盛科技",
+        "market_value_wan": 3840.03
+      },
+      {
+        "stock_code": "002643",
+        "stock_name": "万润股份",
+        "market_value_wan": 3328.18
+      },
+      {
+        "stock_code": "300767",
+        "stock_name": "震安科技",
+        "market_value_wan": 2223.47
+      },
+      {
+        "stock_code": "002409",
+        "stock_name": "雅克科技",
+        "market_value_wan": 2213.64
+      },
+      {
+        "stock_code": "300285",
+        "stock_name": "国瓷材料",
+        "market_value_wan": 2191.44
+      },
+      {
+        "stock_code": "300014",
+        "stock_name": "亿纬锂能",
+        "market_value_wan": 2140.54
+      }
+    ],
+    "2022-Q2": [
+      {
+        "stock_code": "300573",
+        "stock_name": "兴齐眼药",
+        "market_value_wan": 5686.64
+      },
+      {
+        "stock_code": "002643",
+        "stock_name": "万润股份",
+        "market_value_wan": 5006.4
+      },
+      {
+        "stock_code": "002271",
+        "stock_name": "东方雨虹",
+        "market_value_wan": 4560.76
+      },
+      {
+        "stock_code": "600438",
+        "stock_name": "通威股份",
+        "market_value_wan": 4553.55
+      },
+      {
+        "stock_code": "300487",
+        "stock_name": "蓝晓科技",
+        "market_value_wan": 4417.52
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 4417.2
+      },
+      {
+        "stock_code": "603129",
+        "stock_name": "春风动力",
+        "market_value_wan": 3789.36
+      },
+      {
+        "stock_code": "300680",
+        "stock_name": "隆盛科技",
+        "market_value_wan": 3517.08
+      },
+      {
+        "stock_code": "688116",
+        "stock_name": "天奈科技",
+        "market_value_wan": 3164.6
+      },
+      {
+        "stock_code": "002859",
+        "stock_name": "洁美科技",
+        "market_value_wan": 3009.91
+      }
+    ],
+    "2022-Q1": [
+      {
+        "stock_code": "002271",
+        "stock_name": "东方雨虹",
+        "market_value_wan": 5168.1
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 4727.25
+      },
+      {
+        "stock_code": "002643",
+        "stock_name": "万润股份",
+        "market_value_wan": 4341.6
+      },
+      {
+        "stock_code": "300285",
+        "stock_name": "国瓷材料",
+        "market_value_wan": 4152.0
+      },
+      {
+        "stock_code": "002142",
+        "stock_name": "宁波银行",
+        "market_value_wan": 3740.12
+      },
+      {
+        "stock_code": "300680",
+        "stock_name": "隆盛科技",
+        "market_value_wan": 3690.44
+      },
+      {
+        "stock_code": "002810",
+        "stock_name": "山东赫达",
+        "market_value_wan": 3633.83
+      },
+      {
+        "stock_code": "603259",
+        "stock_name": "药明康德",
+        "market_value_wan": 3617.51
+      },
+      {
+        "stock_code": "603129",
+        "stock_name": "春风动力",
+        "market_value_wan": 3377.16
+      },
+      {
+        "stock_code": "300573",
+        "stock_name": "兴齐眼药",
+        "market_value_wan": 3345.89
+      }
+    ]
+  }
+}

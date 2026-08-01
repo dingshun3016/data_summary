@@ -1,0 +1,209 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "100016",
+    "name": "富国天源沪港深平衡混合A",
+    "base_name": "富国天源沪港深平衡混合"
+  },
+  "fetched_at": "2026-06-14 23:50:21",
+  "quarters": {
+    "2023-Q4": [
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 3555.56
+      },
+      {
+        "stock_code": "600941",
+        "stock_name": "中国移动",
+        "market_value_wan": 2738.57
+      },
+      {
+        "stock_code": "688621",
+        "stock_name": "阳光诺和",
+        "market_value_wan": 2680.6
+      },
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 1694.6
+      },
+      {
+        "stock_code": "300573",
+        "stock_name": "兴齐眼药",
+        "market_value_wan": 1662.39
+      },
+      {
+        "stock_code": "300487",
+        "stock_name": "蓝晓科技",
+        "market_value_wan": 1181.38
+      },
+      {
+        "stock_code": "600426",
+        "stock_name": "华鲁恒升",
+        "market_value_wan": 1166.23
+      },
+      {
+        "stock_code": "300498",
+        "stock_name": "温氏股份",
+        "market_value_wan": 979.53
+      },
+      {
+        "stock_code": "300832",
+        "stock_name": "新产业",
+        "market_value_wan": 864.89
+      },
+      {
+        "stock_code": "002050",
+        "stock_name": "三花智控",
+        "market_value_wan": 816.44
+      }
+    ],
+    "2023-Q3": [
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 4100.69
+      },
+      {
+        "stock_code": "688621",
+        "stock_name": "阳光诺和",
+        "market_value_wan": 2813.99
+      },
+      {
+        "stock_code": "600941",
+        "stock_name": "中国移动",
+        "market_value_wan": 2522.04
+      },
+      {
+        "stock_code": "000568",
+        "stock_name": "泸州老窖",
+        "market_value_wan": 2370.15
+      },
+      {
+        "stock_code": "000596",
+        "stock_name": "古井贡酒",
+        "market_value_wan": 1889.01
+      },
+      {
+        "stock_code": "600426",
+        "stock_name": "华鲁恒升",
+        "market_value_wan": 1727.94
+      },
+      {
+        "stock_code": "601058",
+        "stock_name": "赛轮轮胎",
+        "market_value_wan": 1477.89
+      },
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 1466.85
+      },
+      {
+        "stock_code": "300487",
+        "stock_name": "蓝晓科技",
+        "market_value_wan": 1288.6
+      },
+      {
+        "stock_code": "002142",
+        "stock_name": "宁波银行",
+        "market_value_wan": 942.33
+      }
+    ],
+    "2023-Q2": [
+      {
+        "stock_code": "688621",
+        "stock_name": "阳光诺和",
+        "market_value_wan": 2866.45
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 2519.59
+      },
+      {
+        "stock_code": "600941",
+        "stock_name": "中国移动",
+        "market_value_wan": 1359.38
+      },
+      {
+        "stock_code": "300573",
+        "stock_name": "兴齐眼药",
+        "market_value_wan": 1103.21
+      },
+      {
+        "stock_code": "000568",
+        "stock_name": "泸州老窖",
+        "market_value_wan": 980.79
+      },
+      {
+        "stock_code": "688358",
+        "stock_name": "祥生医疗",
+        "market_value_wan": 945.36
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 898.23
+      },
+      {
+        "stock_code": "300308",
+        "stock_name": "中际旭创",
+        "market_value_wan": 754.94
+      },
+      {
+        "stock_code": "000596",
+        "stock_name": "古井贡酒",
+        "market_value_wan": 615.98
+      }
+    ],
+    "2023-Q1": [
+      {
+        "stock_code": "688621",
+        "stock_name": "阳光诺和",
+        "market_value_wan": 3738.11
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 2821.0
+      },
+      {
+        "stock_code": "605186",
+        "stock_name": "健麾信息",
+        "market_value_wan": 2124.45
+      },
+      {
+        "stock_code": "688389",
+        "stock_name": "普门科技",
+        "market_value_wan": 2103.34
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 1705.41
+      },
+      {
+        "stock_code": "000568",
+        "stock_name": "泸州老窖",
+        "market_value_wan": 1523.64
+      },
+      {
+        "stock_code": "600600",
+        "stock_name": "青岛啤酒",
+        "market_value_wan": 1033.54
+      },
+      {
+        "stock_code": "300573",
+        "stock_name": "兴齐眼药",
+        "market_value_wan": 977.27
+      },
+      {
+        "stock_code": "000596",
+        "stock_name": "古井贡酒",
+        "market_value_wan": 973.84
+      }
+    ]
+  }
+}

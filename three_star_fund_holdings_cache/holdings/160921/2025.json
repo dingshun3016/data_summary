@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "160921",
+    "name": "大成多策略混合(LOF)A",
+    "base_name": "大成多策略混合(LOF)"
+  },
+  "fetched_at": "2026-06-14 23:52:13",
+  "quarters": {
+    "2025-Q4": [
+      {
+        "stock_code": "688029",
+        "stock_name": "南微医学",
+        "market_value_wan": 1044.71
+      },
+      {
+        "stock_code": "600298",
+        "stock_name": "安琪酵母",
+        "market_value_wan": 953.97
+      },
+      {
+        "stock_code": "300357",
+        "stock_name": "我武生物",
+        "market_value_wan": 940.65
+      },
+      {
+        "stock_code": "300677",
+        "stock_name": "英科医疗",
+        "market_value_wan": 860.0
+      },
+      {
+        "stock_code": "603087",
+        "stock_name": "甘李药业",
+        "market_value_wan": 742.64
+      },
+      {
+        "stock_code": "600993",
+        "stock_name": "马应龙",
+        "market_value_wan": 701.96
+      },
+      {
+        "stock_code": "300760",
+        "stock_name": "迈瑞医疗",
+        "market_value_wan": 552.31
+      },
+      {
+        "stock_code": "002262",
+        "stock_name": "恩华药业",
+        "market_value_wan": 396.94
+      },
+      {
+        "stock_code": "000792",
+        "stock_name": "盐湖股份",
+        "market_value_wan": 340.45
+      },
+      {
+        "stock_code": "300171",
+        "stock_name": "东富龙",
+        "market_value_wan": 304.42
+      }
+    ],
+    "2025-Q3": [
+      {
+        "stock_code": "688029",
+        "stock_name": "南微医学",
+        "market_value_wan": 1425.77
+      },
+      {
+        "stock_code": "600298",
+        "stock_name": "安琪酵母",
+        "market_value_wan": 1328.09
+      },
+      {
+        "stock_code": "300357",
+        "stock_name": "我武生物",
+        "market_value_wan": 1311.8
+      },
+      {
+        "stock_code": "300677",
+        "stock_name": "英科医疗",
+        "market_value_wan": 1255.77
+      },
+      {
+        "stock_code": "600993",
+        "stock_name": "马应龙",
+        "market_value_wan": 1200.83
+      },
+      {
+        "stock_code": "601665",
+        "stock_name": "齐鲁银行",
+        "market_value_wan": 1057.42
+      },
+      {
+        "stock_code": "688085",
+        "stock_name": "三友医疗",
+        "market_value_wan": 970.91
+      },
+      {
+        "stock_code": "600511",
+        "stock_name": "国药股份",
+        "market_value_wan": 872.67
+      },
+      {
+        "stock_code": "603599",
+        "stock_name": "广信股份",
+        "market_value_wan": 687.76
+      },
+      {
+        "stock_code": "301039",
+        "stock_name": "中集车辆",
+        "market_value_wan": 671.74
+      }
+    ],
+    "2025-Q2": [
+      {
+        "stock_code": "600993",
+        "stock_name": "马应龙",
+        "market_value_wan": 1565.86
+      },
+      {
+        "stock_code": "002901",
+        "stock_name": "大博医疗",
+        "market_value_wan": 1460.62
+      },
+      {
+        "stock_code": "601288",
+        "stock_name": "农业银行",
+        "market_value_wan": 1398.38
+      },
+      {
+        "stock_code": "601665",
+        "stock_name": "齐鲁银行",
+        "market_value_wan": 1081.79
+      },
+      {
+        "stock_code": "600583",
+        "stock_name": "海油工程",
+        "market_value_wan": 1063.55
+      },
+      {
+        "stock_code": "603599",
+        "stock_name": "广信股份",
+        "market_value_wan": 970.29
+      },
+      {
+        "stock_code": "600511",
+        "stock_name": "国药股份",
+        "market_value_wan": 886.17
+      },
+      {
+        "stock_code": "600298",
+        "stock_name": "安琪酵母",
+        "market_value_wan": 883.82
+      },
+      {
+        "stock_code": "603367",
+        "stock_name": "辰欣药业",
+        "market_value_wan": 881.72
+      },
+      {
+        "stock_code": "002352",
+        "stock_name": "顺丰控股",
+        "market_value_wan": 731.4
+      }
+    ],
+    "2025-Q1": [
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 2671.36
+      },
+      {
+        "stock_code": "301039",
+        "stock_name": "中集车辆",
+        "market_value_wan": 2423.44
+      },
+      {
+        "stock_code": "000739",
+        "stock_name": "普洛药业",
+        "market_value_wan": 2192.08
+      },
+      {
+        "stock_code": "603599",
+        "stock_name": "广信股份",
+        "market_value_wan": 2165.01
+      },
+      {
+        "stock_code": "605183",
+        "stock_name": "确成股份",
+        "market_value_wan": 2145.27
+      },
+      {
+        "stock_code": "603367",
+        "stock_name": "辰欣药业",
+        "market_value_wan": 2114.73
+      },
+      {
+        "stock_code": "605507",
+        "stock_name": "国邦医药",
+        "market_value_wan": 2097.54
+      },
+      {
+        "stock_code": "603112",
+        "stock_name": "华翔股份",
+        "market_value_wan": 1783.56
+      },
+      {
+        "stock_code": "600583",
+        "stock_name": "海油工程",
+        "market_value_wan": 1714.62
+      },
+      {
+        "stock_code": "300979",
+        "stock_name": "华利集团",
+        "market_value_wan": 1401.45
+      }
+    ]
+  }
+}

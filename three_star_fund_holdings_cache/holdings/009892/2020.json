@@ -1,0 +1,53 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "009892",
+    "name": "富国成长策略混合A",
+    "base_name": "富国成长策略混合"
+  },
+  "fetched_at": "2026-06-14 23:36:41",
+  "quarters": {
+    "2020-Q4": [
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 83119.56
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 65482.3
+      },
+      {
+        "stock_code": "300760",
+        "stock_name": "迈瑞医疗",
+        "market_value_wan": 53181.93
+      },
+      {
+        "stock_code": "603259",
+        "stock_name": "药明康德",
+        "market_value_wan": 51479.13
+      },
+      {
+        "stock_code": "603501",
+        "stock_name": "韦尔股份",
+        "market_value_wan": 44969.47
+      },
+      {
+        "stock_code": "002352",
+        "stock_name": "顺丰控股",
+        "market_value_wan": 42595.58
+      },
+      {
+        "stock_code": "688111",
+        "stock_name": "金山办公",
+        "market_value_wan": 37666.49
+      },
+      {
+        "stock_code": "300124",
+        "stock_name": "汇川技术",
+        "market_value_wan": 37519.49
+      }
+    ]
+  }
+}

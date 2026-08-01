@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "260115",
+    "name": "景顺长城中小盘混合A",
+    "base_name": "景顺长城中小盘混合"
+  },
+  "fetched_at": "2026-06-14 23:57:37",
+  "quarters": {
+    "2018-Q4": [
+      {
+        "stock_code": "603708",
+        "stock_name": "家家悦",
+        "market_value_wan": 1104.95
+      },
+      {
+        "stock_code": "002891",
+        "stock_name": "中宠股份",
+        "market_value_wan": 861.77
+      },
+      {
+        "stock_code": "002821",
+        "stock_name": "凯莱英",
+        "market_value_wan": 803.34
+      },
+      {
+        "stock_code": "002901",
+        "stock_name": "大博医疗",
+        "market_value_wan": 754.55
+      },
+      {
+        "stock_code": "300523",
+        "stock_name": "辰安科技",
+        "market_value_wan": 746.98
+      },
+      {
+        "stock_code": "300673",
+        "stock_name": "佩蒂股份",
+        "market_value_wan": 697.93
+      },
+      {
+        "stock_code": "302132",
+        "stock_name": "中航成飞",
+        "market_value_wan": 659.63
+      },
+      {
+        "stock_code": "002174",
+        "stock_name": "游族网络",
+        "market_value_wan": 464.75
+      },
+      {
+        "stock_code": "002734",
+        "stock_name": "利民股份",
+        "market_value_wan": 460.69
+      },
+      {
+        "stock_code": "300609",
+        "stock_name": "汇纳科技",
+        "market_value_wan": 447.65
+      }
+    ],
+    "2018-Q3": [
+      {
+        "stock_code": "603708",
+        "stock_name": "家家悦",
+        "market_value_wan": 1557.28
+      },
+      {
+        "stock_code": "600138",
+        "stock_name": "中青旅",
+        "market_value_wan": 1093.15
+      },
+      {
+        "stock_code": "302132",
+        "stock_name": "中航成飞",
+        "market_value_wan": 894.22
+      },
+      {
+        "stock_code": "002821",
+        "stock_name": "凯莱英",
+        "market_value_wan": 854.73
+      },
+      {
+        "stock_code": "000028",
+        "stock_name": "国药一致",
+        "market_value_wan": 839.92
+      },
+      {
+        "stock_code": "000963",
+        "stock_name": "华东医药",
+        "market_value_wan": 831.2
+      },
+      {
+        "stock_code": "300124",
+        "stock_name": "汇川技术",
+        "market_value_wan": 831.0
+      },
+      {
+        "stock_code": "002419",
+        "stock_name": "天虹股份",
+        "market_value_wan": 812.16
+      },
+      {
+        "stock_code": "002891",
+        "stock_name": "中宠股份",
+        "market_value_wan": 766.19
+      },
+      {
+        "stock_code": "600258",
+        "stock_name": "首旅酒店",
+        "market_value_wan": 755.73
+      }
+    ],
+    "2018-Q2": [
+      {
+        "stock_code": "603708",
+        "stock_name": "家家悦",
+        "market_value_wan": 1539.08
+      },
+      {
+        "stock_code": "600138",
+        "stock_name": "中青旅",
+        "market_value_wan": 1377.15
+      },
+      {
+        "stock_code": "300523",
+        "stock_name": "辰安科技",
+        "market_value_wan": 1162.39
+      },
+      {
+        "stock_code": "002841",
+        "stock_name": "视源股份",
+        "market_value_wan": 1096.4
+      },
+      {
+        "stock_code": "603816",
+        "stock_name": "顾家家居",
+        "market_value_wan": 1065.46
+      },
+      {
+        "stock_code": "002078",
+        "stock_name": "太阳纸业",
+        "market_value_wan": 1036.83
+      },
+      {
+        "stock_code": "600258",
+        "stock_name": "首旅酒店",
+        "market_value_wan": 1013.98
+      },
+      {
+        "stock_code": "000963",
+        "stock_name": "华东医药",
+        "market_value_wan": 955.35
+      },
+      {
+        "stock_code": "603899",
+        "stock_name": "晨光股份",
+        "market_value_wan": 950.7
+      },
+      {
+        "stock_code": "300124",
+        "stock_name": "汇川技术",
+        "market_value_wan": 918.96
+      }
+    ],
+    "2018-Q1": [
+      {
+        "stock_code": "300523",
+        "stock_name": "辰安科技",
+        "market_value_wan": 1182.92
+      },
+      {
+        "stock_code": "002841",
+        "stock_name": "视源股份",
+        "market_value_wan": 1086.7
+      },
+      {
+        "stock_code": "603899",
+        "stock_name": "晨光股份",
+        "market_value_wan": 921.3
+      },
+      {
+        "stock_code": "300408",
+        "stock_name": "三环集团",
+        "market_value_wan": 868.68
+      },
+      {
+        "stock_code": "603338",
+        "stock_name": "浙江鼎力",
+        "market_value_wan": 731.06
+      },
+      {
+        "stock_code": "000338",
+        "stock_name": "潍柴动力",
+        "market_value_wan": 702.1
+      },
+      {
+        "stock_code": "000581",
+        "stock_name": "威孚高科",
+        "market_value_wan": 676.43
+      },
+      {
+        "stock_code": "302132",
+        "stock_name": "中航成飞",
+        "market_value_wan": 598.9
+      },
+      {
+        "stock_code": "000951",
+        "stock_name": "中国重汽",
+        "market_value_wan": 580.73
+      },
+      {
+        "stock_code": "300456",
+        "stock_name": "赛微电子",
+        "market_value_wan": 552.0
+      }
+    ]
+  }
+}

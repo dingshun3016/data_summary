@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "501032",
+    "name": "财通福盛混合发起(LOF)A",
+    "base_name": "财通福盛混合发起(LOF)"
+  },
+  "fetched_at": "2026-06-14 22:44:02",
+  "quarters": {
+    "2018-Q4": [
+      {
+        "stock_code": "000060",
+        "stock_name": "中金岭南",
+        "market_value_wan": 767.89
+      },
+      {
+        "stock_code": "002276",
+        "stock_name": "万马股份",
+        "market_value_wan": 648.4
+      },
+      {
+        "stock_code": "300075",
+        "stock_name": "数字政通",
+        "market_value_wan": 544.52
+      },
+      {
+        "stock_code": "601718",
+        "stock_name": "际华集团",
+        "market_value_wan": 482.41
+      },
+      {
+        "stock_code": "002431",
+        "stock_name": "棕榈股份",
+        "market_value_wan": 440.3
+      },
+      {
+        "stock_code": "603889",
+        "stock_name": "新澳股份",
+        "market_value_wan": 339.67
+      },
+      {
+        "stock_code": "000980",
+        "stock_name": "众泰汽车",
+        "market_value_wan": 316.96
+      },
+      {
+        "stock_code": "300310",
+        "stock_name": "宜通世纪",
+        "market_value_wan": 298.7
+      },
+      {
+        "stock_code": "000717",
+        "stock_name": "中南股份",
+        "market_value_wan": 212.26
+      },
+      {
+        "stock_code": "002044",
+        "stock_name": "美年健康",
+        "market_value_wan": 191.81
+      }
+    ],
+    "2018-Q3": [
+      {
+        "stock_code": "000060",
+        "stock_name": "中金岭南",
+        "market_value_wan": 872.32
+      },
+      {
+        "stock_code": "002276",
+        "stock_name": "万马股份",
+        "market_value_wan": 686.95
+      },
+      {
+        "stock_code": "002431",
+        "stock_name": "棕榈股份",
+        "market_value_wan": 604.42
+      },
+      {
+        "stock_code": "300075",
+        "stock_name": "数字政通",
+        "market_value_wan": 593.09
+      },
+      {
+        "stock_code": "601718",
+        "stock_name": "际华集团",
+        "market_value_wan": 526.72
+      },
+      {
+        "stock_code": "000980",
+        "stock_name": "众泰汽车",
+        "market_value_wan": 390.05
+      },
+      {
+        "stock_code": "603889",
+        "stock_name": "新澳股份",
+        "market_value_wan": 367.63
+      },
+      {
+        "stock_code": "000717",
+        "stock_name": "中南股份",
+        "market_value_wan": 302.29
+      },
+      {
+        "stock_code": "300310",
+        "stock_name": "宜通世纪",
+        "market_value_wan": 284.6
+      },
+      {
+        "stock_code": "002044",
+        "stock_name": "美年健康",
+        "market_value_wan": 221.06
+      }
+    ],
+    "2018-Q2": [
+      {
+        "stock_code": "002648",
+        "stock_name": "卫星化学",
+        "market_value_wan": 2143.17
+      },
+      {
+        "stock_code": "000060",
+        "stock_name": "中金岭南",
+        "market_value_wan": 1902.31
+      },
+      {
+        "stock_code": "002431",
+        "stock_name": "棕榈股份",
+        "market_value_wan": 1721.19
+      },
+      {
+        "stock_code": "002276",
+        "stock_name": "万马股份",
+        "market_value_wan": 1514.32
+      },
+      {
+        "stock_code": "300075",
+        "stock_name": "数字政通",
+        "market_value_wan": 1347.01
+      },
+      {
+        "stock_code": "601899",
+        "stock_name": "紫金矿业",
+        "market_value_wan": 1228.79
+      },
+      {
+        "stock_code": "000980",
+        "stock_name": "众泰汽车",
+        "market_value_wan": 1047.8
+      },
+      {
+        "stock_code": "300085",
+        "stock_name": "银之杰",
+        "market_value_wan": 1033.03
+      },
+      {
+        "stock_code": "002430",
+        "stock_name": "杭氧股份",
+        "market_value_wan": 1024.09
+      },
+      {
+        "stock_code": "000430",
+        "stock_name": "张家界",
+        "market_value_wan": 929.68
+      }
+    ],
+    "2018-Q1": [
+      {
+        "stock_code": "600409",
+        "stock_name": "三友化工",
+        "market_value_wan": 3029.24
+      },
+      {
+        "stock_code": "002648",
+        "stock_name": "卫星化学",
+        "market_value_wan": 2988.66
+      },
+      {
+        "stock_code": "601899",
+        "stock_name": "紫金矿业",
+        "market_value_wan": 2777.53
+      },
+      {
+        "stock_code": "000060",
+        "stock_name": "中金岭南",
+        "market_value_wan": 2390.35
+      },
+      {
+        "stock_code": "002276",
+        "stock_name": "万马股份",
+        "market_value_wan": 1997.52
+      },
+      {
+        "stock_code": "601718",
+        "stock_name": "际华集团",
+        "market_value_wan": 1915.51
+      },
+      {
+        "stock_code": "002431",
+        "stock_name": "棕榈股份",
+        "market_value_wan": 1902.65
+      },
+      {
+        "stock_code": "600167",
+        "stock_name": "联美控股",
+        "market_value_wan": 1778.96
+      },
+      {
+        "stock_code": "300075",
+        "stock_name": "数字政通",
+        "market_value_wan": 1621.69
+      },
+      {
+        "stock_code": "000980",
+        "stock_name": "众泰汽车",
+        "market_value_wan": 1421.17
+      }
+    ]
+  }
+}

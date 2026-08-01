@@ -1,0 +1,33 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "008060",
+    "name": "景顺长城价值边际灵活配置混合A",
+    "base_name": "景顺长城价值边际灵活配置混合"
+  },
+  "fetched_at": "2026-06-14 23:25:57",
+  "quarters": {
+    "2020-Q4": [
+      {
+        "stock_code": "601928",
+        "stock_name": "凤凰传媒",
+        "market_value_wan": 7930.16
+      },
+      {
+        "stock_code": "601098",
+        "stock_name": "中南传媒",
+        "market_value_wan": 7823.14
+      },
+      {
+        "stock_code": "002727",
+        "stock_name": "一心堂",
+        "market_value_wan": 6083.56
+      },
+      {
+        "stock_code": "000902",
+        "stock_name": "新洋丰",
+        "market_value_wan": 4546.88
+      }
+    ]
+  }
+}

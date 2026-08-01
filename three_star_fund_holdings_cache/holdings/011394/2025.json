@@ -1,0 +1,83 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "011394",
+    "name": "中欧融益稳健一年混合C",
+    "base_name": "中欧融益稳健一年混合"
+  },
+  "fetched_at": "2026-06-14 23:46:50",
+  "quarters": {
+    "2025-Q4": [
+      {
+        "stock_code": "601019",
+        "stock_name": "山东出版",
+        "market_value_wan": 193.46
+      },
+      {
+        "stock_code": "601900",
+        "stock_name": "南方传媒",
+        "market_value_wan": 180.1
+      },
+      {
+        "stock_code": "600873",
+        "stock_name": "梅花生物",
+        "market_value_wan": 157.32
+      },
+      {
+        "stock_code": "300681",
+        "stock_name": "英搏尔",
+        "market_value_wan": 112.77
+      }
+    ],
+    "2025-Q3": [],
+    "2025-Q2": [
+      {
+        "stock_code": "600582",
+        "stock_name": "天地科技",
+        "market_value_wan": 55.59
+      }
+    ],
+    "2025-Q1": [
+      {
+        "stock_code": "601222",
+        "stock_name": "林洋能源",
+        "market_value_wan": 45.01
+      },
+      {
+        "stock_code": "603299",
+        "stock_name": "苏盐井神",
+        "market_value_wan": 42.02
+      },
+      {
+        "stock_code": "300770",
+        "stock_name": "新媒股份",
+        "market_value_wan": 42.01
+      },
+      {
+        "stock_code": "603357",
+        "stock_name": "设计总院",
+        "market_value_wan": 39.61
+      },
+      {
+        "stock_code": "600790",
+        "stock_name": "轻纺城",
+        "market_value_wan": 37.19
+      },
+      {
+        "stock_code": "688015",
+        "stock_name": "交控科技",
+        "market_value_wan": 35.92
+      },
+      {
+        "stock_code": "000501",
+        "stock_name": "武商集团",
+        "market_value_wan": 35.91
+      },
+      {
+        "stock_code": "600038",
+        "stock_name": "中直股份",
+        "market_value_wan": 35.85
+      }
+    ]
+  }
+}

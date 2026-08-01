@@ -1,0 +1,209 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "011053",
+    "name": "鹏华弘裕一年持有期混合C",
+    "base_name": "鹏华弘裕一年持有期混合"
+  },
+  "fetched_at": "2026-06-14 23:44:44",
+  "quarters": {
+    "2023-Q4": [
+      {
+        "stock_code": "300115",
+        "stock_name": "长盈精密",
+        "market_value_wan": 221.01
+      },
+      {
+        "stock_code": "688122",
+        "stock_name": "西部超导",
+        "market_value_wan": 105.29
+      },
+      {
+        "stock_code": "688301",
+        "stock_name": "奕瑞科技",
+        "market_value_wan": 93.35
+      },
+      {
+        "stock_code": "300003",
+        "stock_name": "乐普医疗",
+        "market_value_wan": 75.31
+      },
+      {
+        "stock_code": "688425",
+        "stock_name": "铁建重工",
+        "market_value_wan": 72.65
+      },
+      {
+        "stock_code": "600522",
+        "stock_name": "中天科技",
+        "market_value_wan": 65.2
+      },
+      {
+        "stock_code": "601985",
+        "stock_name": "中国核电",
+        "market_value_wan": 57.9
+      },
+      {
+        "stock_code": "689009",
+        "stock_name": "九号公司",
+        "market_value_wan": 46.86
+      },
+      {
+        "stock_code": "600760",
+        "stock_name": "中航沈飞",
+        "market_value_wan": 31.64
+      },
+      {
+        "stock_code": "688029",
+        "stock_name": "南微医学",
+        "market_value_wan": 30.01
+      }
+    ],
+    "2023-Q3": [
+      {
+        "stock_code": "688425",
+        "stock_name": "铁建重工",
+        "market_value_wan": 117.74
+      },
+      {
+        "stock_code": "688016",
+        "stock_name": "心脉医疗",
+        "market_value_wan": 84.7
+      },
+      {
+        "stock_code": "600522",
+        "stock_name": "中天科技",
+        "market_value_wan": 66.83
+      },
+      {
+        "stock_code": "689009",
+        "stock_name": "九号公司",
+        "market_value_wan": 55.03
+      },
+      {
+        "stock_code": "300115",
+        "stock_name": "长盈精密",
+        "market_value_wan": 50.05
+      },
+      {
+        "stock_code": "300398",
+        "stock_name": "飞凯材料",
+        "market_value_wan": 35.22
+      },
+      {
+        "stock_code": "002138",
+        "stock_name": "顺络电子",
+        "market_value_wan": 32.5
+      },
+      {
+        "stock_code": "600760",
+        "stock_name": "中航沈飞",
+        "market_value_wan": 32.14
+      },
+      {
+        "stock_code": "002913",
+        "stock_name": "奥士康",
+        "market_value_wan": 29.0
+      },
+      {
+        "stock_code": "600967",
+        "stock_name": "内蒙一机",
+        "market_value_wan": 26.58
+      }
+    ],
+    "2023-Q2": [
+      {
+        "stock_code": "002683",
+        "stock_name": "广东宏大",
+        "market_value_wan": 207.85
+      },
+      {
+        "stock_code": "601311",
+        "stock_name": "骆驼股份",
+        "market_value_wan": 94.01
+      },
+      {
+        "stock_code": "600206",
+        "stock_name": "有研新材",
+        "market_value_wan": 88.3
+      },
+      {
+        "stock_code": "300398",
+        "stock_name": "飞凯材料",
+        "market_value_wan": 60.17
+      },
+      {
+        "stock_code": "300161",
+        "stock_name": "华中数控",
+        "market_value_wan": 53.36
+      },
+      {
+        "stock_code": "689009",
+        "stock_name": "九号公司",
+        "market_value_wan": 53.06
+      },
+      {
+        "stock_code": "603855",
+        "stock_name": "华荣股份",
+        "market_value_wan": 47.88
+      },
+      {
+        "stock_code": "688569",
+        "stock_name": "铁科轨道",
+        "market_value_wan": 39.13
+      },
+      {
+        "stock_code": "600928",
+        "stock_name": "西安银行",
+        "market_value_wan": 35.2
+      }
+    ],
+    "2023-Q1": [
+      {
+        "stock_code": "300115",
+        "stock_name": "长盈精密",
+        "market_value_wan": 329.94
+      },
+      {
+        "stock_code": "002683",
+        "stock_name": "广东宏大",
+        "market_value_wan": 268.4
+      },
+      {
+        "stock_code": "300161",
+        "stock_name": "华中数控",
+        "market_value_wan": 239.53
+      },
+      {
+        "stock_code": "689009",
+        "stock_name": "九号公司",
+        "market_value_wan": 225.84
+      },
+      {
+        "stock_code": "300398",
+        "stock_name": "飞凯材料",
+        "market_value_wan": 218.49
+      },
+      {
+        "stock_code": "002436",
+        "stock_name": "兴森科技",
+        "market_value_wan": 121.67
+      },
+      {
+        "stock_code": "601311",
+        "stock_name": "骆驼股份",
+        "market_value_wan": 110.81
+      },
+      {
+        "stock_code": "002588",
+        "stock_name": "史丹利",
+        "market_value_wan": 89.1
+      },
+      {
+        "stock_code": "600206",
+        "stock_name": "有研新材",
+        "market_value_wan": 87.96
+      }
+    ]
+  }
+}

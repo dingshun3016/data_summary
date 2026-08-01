@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "519732",
+    "name": "交银定期支付双息平衡混合",
+    "base_name": "交银定期支付双息平衡混合"
+  },
+  "fetched_at": "2026-06-15 00:04:21",
+  "quarters": {
+    "2025-Q4": [
+      {
+        "stock_code": "300502",
+        "stock_name": "新易盛",
+        "market_value_wan": 19416.92
+      },
+      {
+        "stock_code": "300308",
+        "stock_name": "中际旭创",
+        "market_value_wan": 16366.91
+      },
+      {
+        "stock_code": "002384",
+        "stock_name": "东山精密",
+        "market_value_wan": 7516.07
+      },
+      {
+        "stock_code": "000807",
+        "stock_name": "云铝股份",
+        "market_value_wan": 6568.0
+      },
+      {
+        "stock_code": "002837",
+        "stock_name": "英维克",
+        "market_value_wan": 6402.71
+      },
+      {
+        "stock_code": "002371",
+        "stock_name": "北方华创",
+        "market_value_wan": 6395.44
+      },
+      {
+        "stock_code": "688347",
+        "stock_name": "华虹公司",
+        "market_value_wan": 4785.61
+      },
+      {
+        "stock_code": "002532",
+        "stock_name": "天山铝业",
+        "market_value_wan": 4767.05
+      },
+      {
+        "stock_code": "002602",
+        "stock_name": "世纪华通",
+        "market_value_wan": 4672.41
+      },
+      {
+        "stock_code": "600309",
+        "stock_name": "万华化学",
+        "market_value_wan": 4549.42
+      }
+    ],
+    "2025-Q3": [
+      {
+        "stock_code": "300308",
+        "stock_name": "中际旭创",
+        "market_value_wan": 10831.14
+      },
+      {
+        "stock_code": "300502",
+        "stock_name": "新易盛",
+        "market_value_wan": 8830.93
+      },
+      {
+        "stock_code": "688347",
+        "stock_name": "华虹公司",
+        "market_value_wan": 7463.02
+      },
+      {
+        "stock_code": "600153",
+        "stock_name": "建发股份",
+        "market_value_wan": 7235.15
+      },
+      {
+        "stock_code": "002384",
+        "stock_name": "东山精密",
+        "market_value_wan": 6348.49
+      },
+      {
+        "stock_code": "002371",
+        "stock_name": "北方华创",
+        "market_value_wan": 6301.83
+      },
+      {
+        "stock_code": "600089",
+        "stock_name": "特变电工",
+        "market_value_wan": 6093.63
+      },
+      {
+        "stock_code": "600383",
+        "stock_name": "金地集团",
+        "market_value_wan": 5642.22
+      },
+      {
+        "stock_code": "688498",
+        "stock_name": "源杰科技",
+        "market_value_wan": 5363.74
+      },
+      {
+        "stock_code": "601138",
+        "stock_name": "工业富联",
+        "market_value_wan": 3987.0
+      }
+    ],
+    "2025-Q2": [
+      {
+        "stock_code": "300308",
+        "stock_name": "中际旭创",
+        "market_value_wan": 8242.69
+      },
+      {
+        "stock_code": "002648",
+        "stock_name": "卫星化学",
+        "market_value_wan": 8197.99
+      },
+      {
+        "stock_code": "600153",
+        "stock_name": "建发股份",
+        "market_value_wan": 7312.72
+      },
+      {
+        "stock_code": "688700",
+        "stock_name": "东威科技",
+        "market_value_wan": 6449.14
+      },
+      {
+        "stock_code": "300502",
+        "stock_name": "新易盛",
+        "market_value_wan": 6305.96
+      },
+      {
+        "stock_code": "600383",
+        "stock_name": "金地集团",
+        "market_value_wan": 5680.95
+      },
+      {
+        "stock_code": "002371",
+        "stock_name": "北方华创",
+        "market_value_wan": 5120.79
+      },
+      {
+        "stock_code": "600522",
+        "stock_name": "中天科技",
+        "market_value_wan": 4924.21
+      },
+      {
+        "stock_code": "300394",
+        "stock_name": "天孚通信",
+        "market_value_wan": 4543.21
+      },
+      {
+        "stock_code": "002865",
+        "stock_name": "钧达股份",
+        "market_value_wan": 4528.06
+      }
+    ],
+    "2025-Q1": [
+      {
+        "stock_code": "688700",
+        "stock_name": "东威科技",
+        "market_value_wan": 8008.18
+      },
+      {
+        "stock_code": "600153",
+        "stock_name": "建发股份",
+        "market_value_wan": 7312.72
+      },
+      {
+        "stock_code": "603119",
+        "stock_name": "浙江荣泰",
+        "market_value_wan": 7102.3
+      },
+      {
+        "stock_code": "002992",
+        "stock_name": "宝明科技",
+        "market_value_wan": 6794.99
+      },
+      {
+        "stock_code": "600383",
+        "stock_name": "金地集团",
+        "market_value_wan": 6775.16
+      },
+      {
+        "stock_code": "600782",
+        "stock_name": "新钢股份",
+        "market_value_wan": 5960.85
+      },
+      {
+        "stock_code": "002110",
+        "stock_name": "三钢闽光",
+        "market_value_wan": 5251.34
+      },
+      {
+        "stock_code": "000932",
+        "stock_name": "华菱钢铁",
+        "market_value_wan": 5154.15
+      },
+      {
+        "stock_code": "002865",
+        "stock_name": "钧达股份",
+        "market_value_wan": 5104.62
+      },
+      {
+        "stock_code": "600027",
+        "stock_name": "华电国际",
+        "market_value_wan": 4862.02
+      }
+    ]
+  }
+}

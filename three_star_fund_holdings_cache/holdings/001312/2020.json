@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "001312",
+    "name": "华安新优选灵活配置混合A",
+    "base_name": "华安新优选灵活配置混合"
+  },
+  "fetched_at": "2026-06-14 22:55:30",
+  "quarters": {
+    "2020-Q4": [
+      {
+        "stock_code": "002739",
+        "stock_name": "万达电影",
+        "market_value_wan": 1668.14
+      },
+      {
+        "stock_code": "600116",
+        "stock_name": "三峡水利",
+        "market_value_wan": 1167.52
+      },
+      {
+        "stock_code": "002531",
+        "stock_name": "天顺风能",
+        "market_value_wan": 928.67
+      },
+      {
+        "stock_code": "601601",
+        "stock_name": "中国太保",
+        "market_value_wan": 902.02
+      },
+      {
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "market_value_wan": 821.09
+      },
+      {
+        "stock_code": "600887",
+        "stock_name": "伊利股份",
+        "market_value_wan": 728.11
+      },
+      {
+        "stock_code": "601233",
+        "stock_name": "桐昆股份",
+        "market_value_wan": 658.67
+      },
+      {
+        "stock_code": "601166",
+        "stock_name": "兴业银行",
+        "market_value_wan": 637.37
+      },
+      {
+        "stock_code": "002507",
+        "stock_name": "涪陵榨菜",
+        "market_value_wan": 625.43
+      },
+      {
+        "stock_code": "002202",
+        "stock_name": "金风科技",
+        "market_value_wan": 604.67
+      }
+    ],
+    "2020-Q3": [
+      {
+        "stock_code": "002531",
+        "stock_name": "天顺风能",
+        "market_value_wan": 820.0
+      },
+      {
+        "stock_code": "300182",
+        "stock_name": "捷成股份",
+        "market_value_wan": 663.12
+      },
+      {
+        "stock_code": "300733",
+        "stock_name": "西菱动力",
+        "market_value_wan": 651.91
+      },
+      {
+        "stock_code": "600489",
+        "stock_name": "中金黄金",
+        "market_value_wan": 647.82
+      },
+      {
+        "stock_code": "002487",
+        "stock_name": "大金重工",
+        "market_value_wan": 628.33
+      },
+      {
+        "stock_code": "000910",
+        "stock_name": "大亚圣象",
+        "market_value_wan": 615.93
+      },
+      {
+        "stock_code": "000576",
+        "stock_name": "甘化科工",
+        "market_value_wan": 603.48
+      },
+      {
+        "stock_code": "600690",
+        "stock_name": "海尔智家",
+        "market_value_wan": 599.18
+      },
+      {
+        "stock_code": "300463",
+        "stock_name": "迈克生物",
+        "market_value_wan": 560.0
+      },
+      {
+        "stock_code": "601128",
+        "stock_name": "常熟银行",
+        "market_value_wan": 544.58
+      }
+    ],
+    "2020-Q2": [
+      {
+        "stock_code": "601816",
+        "stock_name": "京沪高铁",
+        "market_value_wan": 559.33
+      },
+      {
+        "stock_code": "000910",
+        "stock_name": "大亚圣象",
+        "market_value_wan": 493.08
+      },
+      {
+        "stock_code": "002531",
+        "stock_name": "天顺风能",
+        "market_value_wan": 439.37
+      },
+      {
+        "stock_code": "300440",
+        "stock_name": "运达科技",
+        "market_value_wan": 432.94
+      },
+      {
+        "stock_code": "603416",
+        "stock_name": "信捷电气",
+        "market_value_wan": 365.52
+      },
+      {
+        "stock_code": "002887",
+        "stock_name": "绿茵生态",
+        "market_value_wan": 359.55
+      },
+      {
+        "stock_code": "603985",
+        "stock_name": "恒润股份",
+        "market_value_wan": 355.45
+      },
+      {
+        "stock_code": "600489",
+        "stock_name": "中金黄金",
+        "market_value_wan": 337.63
+      },
+      {
+        "stock_code": "000877",
+        "stock_name": "天山股份",
+        "market_value_wan": 313.48
+      },
+      {
+        "stock_code": "300463",
+        "stock_name": "迈克生物",
+        "market_value_wan": 280.09
+      }
+    ],
+    "2020-Q1": [
+      {
+        "stock_code": "000975",
+        "stock_name": "山金国际",
+        "market_value_wan": 689.32
+      },
+      {
+        "stock_code": "300497",
+        "stock_name": "富祥药业",
+        "market_value_wan": 588.99
+      },
+      {
+        "stock_code": "002202",
+        "stock_name": "金风科技",
+        "market_value_wan": 583.42
+      },
+      {
+        "stock_code": "002531",
+        "stock_name": "天顺风能",
+        "market_value_wan": 517.54
+      },
+      {
+        "stock_code": "601816",
+        "stock_name": "京沪高铁",
+        "market_value_wan": 509.47
+      },
+      {
+        "stock_code": "300440",
+        "stock_name": "运达科技",
+        "market_value_wan": 469.27
+      },
+      {
+        "stock_code": "002887",
+        "stock_name": "绿茵生态",
+        "market_value_wan": 422.55
+      },
+      {
+        "stock_code": "600026",
+        "stock_name": "中远海能",
+        "market_value_wan": 385.58
+      },
+      {
+        "stock_code": "603416",
+        "stock_name": "信捷电气",
+        "market_value_wan": 360.13
+      },
+      {
+        "stock_code": "000008",
+        "stock_name": "神州高铁",
+        "market_value_wan": 342.13
+      }
+    ]
+  }
+}

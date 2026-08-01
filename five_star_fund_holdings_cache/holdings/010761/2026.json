@@ -1,0 +1,50 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "010761",
+    "name": "华商甄选回报混合A",
+    "base_name": "华商甄选回报混合"
+  },
+  "fetched_at": "2026-08-01 20:33:17",
+  "quarters": {
+    "2026-Q2": [
+      {
+        "stock_code": "601231",
+        "stock_name": "环旭电子",
+        "market_value_wan": 45611.69
+      },
+      {
+        "stock_code": "601857",
+        "stock_name": "中国石油",
+        "market_value_wan": 26052.29
+      },
+      {
+        "stock_code": "600707",
+        "stock_name": "彩虹股份",
+        "market_value_wan": 20819.12
+      },
+      {
+        "stock_code": "300161",
+        "stock_name": "华中数控",
+        "market_value_wan": 11230.03
+      }
+    ],
+    "2026-Q1": [
+      {
+        "stock_code": "601231",
+        "stock_name": "环旭电子",
+        "market_value_wan": 43191.35
+      },
+      {
+        "stock_code": "601857",
+        "stock_name": "中国石油",
+        "market_value_wan": 18719.15
+      },
+      {
+        "stock_code": "600707",
+        "stock_name": "彩虹股份",
+        "market_value_wan": 16413.53
+      }
+    ]
+  }
+}

@@ -1,0 +1,3522 @@
+{
+  "cache_version": 4,
+  "month": "2026-06",
+  "threshold": 7,
+  "min_market_cap": 200,
+  "query": "2026年6月份每天涨幅大于7%的股票数，行业板块，市值，非北交，非新股，非st，市值大于200亿，上市时间在2024年之前",
+  "fetched_at": "2026-08-01 15:58:32",
+  "records": [
+    {
+      "code": "601138",
+      "name": "工业富联",
+      "mktcap": "11,251.60亿",
+      "market_cap_yi": 11251.6,
+      "industry": "电子-消费电子-消费电子零部件及组装",
+      "daily_gain_count": 2
+    },
+    {
+      "code": "300308",
+      "name": "中际旭创",
+      "mktcap": "10,544.48亿",
+      "market_cap_yi": 10544.48,
+      "industry": "通信-通信设备-通信网络设备及器件",
+      "daily_gain_count": 2
+    },
+    {
+      "code": "601628",
+      "name": "中国人寿",
+      "mktcap": "10,110.23亿",
+      "market_cap_yi": 10110.23,
+      "industry": "非银金融-保险-保险Ⅲ",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "601899",
+      "name": "紫金矿业",
+      "mktcap": "8,511.44亿",
+      "market_cap_yi": 8511.44,
+      "industry": "有色金属-贵金属-贵金属Ⅲ",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "688256",
+      "name": "寒武纪",
+      "mktcap": "6,948.92亿",
+      "market_cap_yi": 6948.92,
+      "industry": "电子-半导体-数字芯片设计",
+      "daily_gain_count": 3
+    },
+    {
+      "code": "300502",
+      "name": "新易盛",
+      "mktcap": "5,521.40亿",
+      "market_cap_yi": 5521.4,
+      "industry": "通信-通信设备-通信网络设备及器件",
+      "daily_gain_count": 4
+    },
+    {
+      "code": "002475",
+      "name": "立讯精密",
+      "mktcap": "4,404.95亿",
+      "market_cap_yi": 4404.95,
+      "industry": "电子-消费电子-消费电子零部件及组装",
+      "daily_gain_count": 2
+    },
+    {
+      "code": "600030",
+      "name": "中信证券",
+      "mktcap": "4,088.19亿",
+      "market_cap_yi": 4088.19,
+      "industry": "非银金融-证券-证券Ⅲ",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "603993",
+      "name": "洛阳钼业",
+      "mktcap": "3,983.42亿",
+      "market_cap_yi": 3983.42,
+      "industry": "有色金属-工业金属-铜",
+      "daily_gain_count": 4
+    },
+    {
+      "code": "603259",
+      "name": "药明康德",
+      "mktcap": "3,886.51亿",
+      "market_cap_yi": 3886.51,
+      "industry": "医药生物-医疗服务-医疗研发外包",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "600276",
+      "name": "恒瑞医药",
+      "mktcap": "3,577.38亿",
+      "market_cap_yi": 3577.38,
+      "industry": "医药生物-化学制药-化学制剂",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "002415",
+      "name": "海康威视",
+      "mktcap": "3,450.57亿",
+      "market_cap_yi": 3450.57,
+      "industry": "计算机-计算机设备-安防设备",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "688012",
+      "name": "中微公司",
+      "mktcap": "3,294.98亿",
+      "market_cap_yi": 3294.98,
+      "industry": "电子-半导体-半导体设备",
+      "daily_gain_count": 3
+    },
+    {
+      "code": "300059",
+      "name": "东方财富",
+      "mktcap": "3,191.34亿",
+      "market_cap_yi": 3191.34,
+      "industry": "非银金融-证券-证券Ⅲ",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "002384",
+      "name": "东山精密",
+      "mktcap": "3,140.84亿",
+      "market_cap_yi": 3140.84,
+      "industry": "电子-元件-印制电路板",
+      "daily_gain_count": 3
+    },
+    {
+      "code": "601319",
+      "name": "中国人保",
+      "mktcap": "3,028.60亿",
+      "market_cap_yi": 3028.6,
+      "industry": "非银金融-保险-保险Ⅲ",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "688235",
+      "name": "百济神州",
+      "mktcap": "2,690.96亿",
+      "market_cap_yi": 2690.96,
+      "industry": "医药生物-化学制药-化学制剂",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "603986",
+      "name": "兆易创新",
+      "mktcap": "2,663.03亿",
+      "market_cap_yi": 2663.03,
+      "industry": "电子-半导体-数字芯片设计",
+      "daily_gain_count": 8
+    },
+    {
+      "code": "600183",
+      "name": "生益科技",
+      "mktcap": "2,566.00亿",
+      "market_cap_yi": 2566.0,
+      "industry": "电子-元件-印制电路板",
+      "daily_gain_count": 3
+    },
+    {
+      "code": "688008",
+      "name": "澜起科技",
+      "mktcap": "2,522.06亿",
+      "market_cap_yi": 2522.06,
+      "industry": "电子-半导体-数字芯片设计",
+      "daily_gain_count": 3
+    },
+    {
+      "code": "688347",
+      "name": "华虹宏力",
+      "mktcap": "2,447.05亿",
+      "market_cap_yi": 2447.05,
+      "industry": "电子-半导体-集成电路制造",
+      "daily_gain_count": 3
+    },
+    {
+      "code": "600309",
+      "name": "万华化学",
+      "mktcap": "2,332.51亿",
+      "market_cap_yi": 2332.51,
+      "industry": "基础化工-化学制品-聚氨酯",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "002714",
+      "name": "牧原股份",
+      "mktcap": "2,233.62亿",
+      "market_cap_yi": 2233.62,
+      "industry": "农林牧渔-养殖业-生猪养殖",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "300408",
+      "name": "三环集团",
+      "mktcap": "2,202.55亿",
+      "market_cap_yi": 2202.55,
+      "industry": "电子-元件-被动元件",
+      "daily_gain_count": 4
+    },
+    {
+      "code": "300274",
+      "name": "阳光电源",
+      "mktcap": "2,143.08亿",
+      "market_cap_yi": 2143.08,
+      "industry": "电力设备-光伏设备-逆变器",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "002916",
+      "name": "深南电路",
+      "mktcap": "2,097.99亿",
+      "market_cap_yi": 2097.99,
+      "industry": "电子-元件-印制电路板",
+      "daily_gain_count": 2
+    },
+    {
+      "code": "000725",
+      "name": "京东方A",
+      "mktcap": "2,032.23亿",
+      "market_cap_yi": 2032.23,
+      "industry": "电子-光学光电子-面板",
+      "daily_gain_count": 3
+    },
+    {
+      "code": "002463",
+      "name": "沪电股份",
+      "mktcap": "1,996.53亿",
+      "market_cap_yi": 1996.53,
+      "industry": "电子-元件-印制电路板",
+      "daily_gain_count": 3
+    },
+    {
+      "code": "688072",
+      "name": "拓荆科技",
+      "mktcap": "1,932.93亿",
+      "market_cap_yi": 1932.93,
+      "industry": "电子-半导体-半导体设备",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "002938",
+      "name": "鹏鼎控股",
+      "mktcap": "1,888.79亿",
+      "market_cap_yi": 1888.79,
+      "industry": "电子-元件-印制电路板",
+      "daily_gain_count": 3
+    },
+    {
+      "code": "300394",
+      "name": "天孚通信",
+      "mktcap": "1,865.42亿",
+      "market_cap_yi": 1865.42,
+      "industry": "通信-通信设备-通信网络设备及器件",
+      "daily_gain_count": 2
+    },
+    {
+      "code": "300476",
+      "name": "胜宏科技",
+      "mktcap": "1,837.29亿",
+      "market_cap_yi": 1837.29,
+      "industry": "电子-元件-印制电路板",
+      "daily_gain_count": 2
+    },
+    {
+      "code": "601066",
+      "name": "中信建投",
+      "mktcap": "1,802.52亿",
+      "market_cap_yi": 1802.52,
+      "industry": "非银金融-证券-证券Ⅲ",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "300033",
+      "name": "同花顺",
+      "mktcap": "1,768.40亿",
+      "market_cap_yi": 1768.4,
+      "industry": "计算机-软件开发-垂直应用软件",
+      "daily_gain_count": 3
+    },
+    {
+      "code": "601336",
+      "name": "新华保险",
+      "mktcap": "1,749.62亿",
+      "market_cap_yi": 1749.62,
+      "industry": "非银金融-保险-保险Ⅲ",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "601688",
+      "name": "华泰证券",
+      "mktcap": "1,685.12亿",
+      "market_cap_yi": 1685.12,
+      "industry": "非银金融-证券-证券Ⅲ",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "300604",
+      "name": "长川科技",
+      "mktcap": "1,647.20亿",
+      "market_cap_yi": 1647.2,
+      "industry": "电子-半导体-半导体设备",
+      "daily_gain_count": 3
+    },
+    {
+      "code": "601898",
+      "name": "中煤能源",
+      "mktcap": "1,643.68亿",
+      "market_cap_yi": 1643.68,
+      "industry": "煤炭-煤炭开采加工-煤炭开采",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "300433",
+      "name": "蓝思科技",
+      "mktcap": "1,625.66亿",
+      "market_cap_yi": 1625.66,
+      "industry": "电子-消费电子-消费电子零部件及组装",
+      "daily_gain_count": 3
+    },
+    {
+      "code": "600188",
+      "name": "兖矿能源",
+      "mktcap": "1,621.98亿",
+      "market_cap_yi": 1621.98,
+      "industry": "煤炭-煤炭开采加工-煤炭开采",
+      "daily_gain_count": 2
+    },
+    {
+      "code": "302132",
+      "name": "中航成飞",
+      "mktcap": "1,563.71亿",
+      "market_cap_yi": 1563.71,
+      "industry": "国防军工-军工装备-航空装备",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "603268",
+      "name": "松发股份",
+      "mktcap": "1,554.56亿",
+      "market_cap_yi": 1554.56,
+      "industry": "国防军工-军工装备-航海装备",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "000776",
+      "name": "广发证券",
+      "mktcap": "1,545.08亿",
+      "market_cap_yi": 1545.08,
+      "industry": "非银金融-证券-证券Ⅲ",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "600176",
+      "name": "中国巨石",
+      "mktcap": "1,514.79亿",
+      "market_cap_yi": 1514.79,
+      "industry": "建筑材料-建筑材料-玻璃玻纤",
+      "daily_gain_count": 7
+    },
+    {
+      "code": "301377",
+      "name": "鼎泰高科",
+      "mktcap": "1,473.40亿",
+      "market_cap_yi": 1473.4,
+      "industry": "机械设备-通用设备-金属制品",
+      "daily_gain_count": 5
+    },
+    {
+      "code": "301308",
+      "name": "江波龙",
+      "mktcap": "1,467.98亿",
+      "market_cap_yi": 1467.98,
+      "industry": "电子-半导体-数字芯片设计",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "601869",
+      "name": "长飞光纤",
+      "mktcap": "1,456.25亿",
+      "market_cap_yi": 1456.25,
+      "industry": "通信-通信设备-通信线缆及配套",
+      "daily_gain_count": 5
+    },
+    {
+      "code": "000792",
+      "name": "盐湖股份",
+      "mktcap": "1,445.66亿",
+      "market_cap_yi": 1445.66,
+      "industry": "基础化工-农化制品-钾肥",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "688146",
+      "name": "中船特气",
+      "mktcap": "1,408.24亿",
+      "market_cap_yi": 1408.24,
+      "industry": "电子-电子化学品-电子化学品Ⅲ",
+      "daily_gain_count": 7
+    },
+    {
+      "code": "688702",
+      "name": "盛科通信",
+      "mktcap": "1,403.39亿",
+      "market_cap_yi": 1403.39,
+      "industry": "电子-半导体-数字芯片设计",
+      "daily_gain_count": 3
+    },
+    {
+      "code": "002353",
+      "name": "杰瑞股份",
+      "mktcap": "1,379.13亿",
+      "market_cap_yi": 1379.13,
+      "industry": "机械设备-专用设备-能源及重型设备",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "688498",
+      "name": "源杰科技",
+      "mktcap": "1,359.67亿",
+      "market_cap_yi": 1359.67,
+      "industry": "电子-半导体-分立器件",
+      "daily_gain_count": 5
+    },
+    {
+      "code": "601872",
+      "name": "招商轮船",
+      "mktcap": "1,355.72亿",
+      "market_cap_yi": 1355.72,
+      "industry": "交通运输-港口航运-航运",
+      "daily_gain_count": 4
+    },
+    {
+      "code": "002281",
+      "name": "光迅科技",
+      "mktcap": "1,338.22亿",
+      "market_cap_yi": 1338.22,
+      "industry": "通信-通信设备-通信网络设备及器件",
+      "daily_gain_count": 3
+    },
+    {
+      "code": "600362",
+      "name": "江西铜业",
+      "mktcap": "1,320.68亿",
+      "market_cap_yi": 1320.68,
+      "industry": "有色金属-工业金属-铜",
+      "daily_gain_count": 4
+    },
+    {
+      "code": "301165",
+      "name": "锐捷网络",
+      "mktcap": "1,314.09亿",
+      "market_cap_yi": 1314.09,
+      "industry": "通信-通信设备-通信网络设备及器件",
+      "daily_gain_count": 2
+    },
+    {
+      "code": "688082",
+      "name": "盛美上海",
+      "mktcap": "1,312.13亿",
+      "market_cap_yi": 1312.13,
+      "industry": "电子-半导体-半导体设备",
+      "daily_gain_count": 6
+    },
+    {
+      "code": "688120",
+      "name": "华海清科",
+      "mktcap": "1,275.34亿",
+      "market_cap_yi": 1275.34,
+      "industry": "电子-半导体-半导体设备",
+      "daily_gain_count": 3
+    },
+    {
+      "code": "688111",
+      "name": "金山办公",
+      "mktcap": "1,250.89亿",
+      "market_cap_yi": 1250.89,
+      "industry": "计算机-软件开发-横向通用软件",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "002493",
+      "name": "荣盛石化",
+      "mktcap": "1,234.70亿",
+      "market_cap_yi": 1234.7,
+      "industry": "石油石化-石油加工贸易-石油加工",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "600760",
+      "name": "中航沈飞",
+      "mktcap": "1,231.49亿",
+      "market_cap_yi": 1231.49,
+      "industry": "国防军工-军工装备-航空装备",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "688506",
+      "name": "百利天恒",
+      "mktcap": "1,230.36亿",
+      "market_cap_yi": 1230.36,
+      "industry": "医药生物-化学制药-化学制剂",
+      "daily_gain_count": 3
+    },
+    {
+      "code": "002028",
+      "name": "思源电气",
+      "mktcap": "1,224.81亿",
+      "market_cap_yi": 1224.81,
+      "industry": "电力设备-电网设备-输变电设备",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "603019",
+      "name": "中科曙光",
+      "mktcap": "1,221.12亿",
+      "market_cap_yi": 1221.12,
+      "industry": "计算机-计算机设备-其他计算机设备",
+      "daily_gain_count": 2
+    },
+    {
+      "code": "688361",
+      "name": "中科飞测",
+      "mktcap": "1,220.21亿",
+      "market_cap_yi": 1220.21,
+      "industry": "电子-半导体-半导体设备",
+      "daily_gain_count": 2
+    },
+    {
+      "code": "603296",
+      "name": "华勤技术",
+      "mktcap": "1,212.34亿",
+      "market_cap_yi": 1212.34,
+      "industry": "电子-消费电子-消费电子零部件及组装",
+      "daily_gain_count": 2
+    },
+    {
+      "code": "301526",
+      "name": "国际复材",
+      "mktcap": "1,206.30亿",
+      "market_cap_yi": 1206.3,
+      "industry": "建筑材料-建筑材料-玻璃玻纤",
+      "daily_gain_count": 7
+    },
+    {
+      "code": "300014",
+      "name": "亿纬锂能",
+      "mktcap": "1,179.23亿",
+      "market_cap_yi": 1179.23,
+      "industry": "电力设备-电池-锂电池",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "600346",
+      "name": "恒力石化",
+      "mktcap": "1,176.94亿",
+      "market_cap_yi": 1176.94,
+      "industry": "石油石化-石油加工贸易-石油加工",
+      "daily_gain_count": 2
+    },
+    {
+      "code": "600584",
+      "name": "长电科技",
+      "mktcap": "1,175.82亿",
+      "market_cap_yi": 1175.82,
+      "industry": "电子-半导体-集成电路封测",
+      "daily_gain_count": 5
+    },
+    {
+      "code": "600487",
+      "name": "亨通光电",
+      "mktcap": "1,174.25亿",
+      "market_cap_yi": 1174.25,
+      "industry": "通信-通信设备-通信线缆及配套",
+      "daily_gain_count": 6
+    },
+    {
+      "code": "603256",
+      "name": "宏和科技",
+      "mktcap": "1,159.05亿",
+      "market_cap_yi": 1159.05,
+      "industry": "电子-电子化学品-电子化学品Ⅲ",
+      "daily_gain_count": 6
+    },
+    {
+      "code": "601881",
+      "name": "中国银河",
+      "mktcap": "1,157.97亿",
+      "market_cap_yi": 1157.97,
+      "industry": "非银金融-证券-证券Ⅲ",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "000657",
+      "name": "中钨高新",
+      "mktcap": "1,128.14亿",
+      "market_cap_yi": 1128.14,
+      "industry": "有色金属-小金属-钨",
+      "daily_gain_count": 4
+    },
+    {
+      "code": "603501",
+      "name": "豪威集团",
+      "mktcap": "1,104.02亿",
+      "market_cap_yi": 1104.02,
+      "industry": "电子-半导体-数字芯片设计",
+      "daily_gain_count": 2
+    },
+    {
+      "code": "600160",
+      "name": "巨化股份",
+      "mktcap": "1,066.94亿",
+      "market_cap_yi": 1066.94,
+      "industry": "基础化工-化学制品-氟化工",
+      "daily_gain_count": 5
+    },
+    {
+      "code": "688525",
+      "name": "佰维存储",
+      "mktcap": "1,065.69亿",
+      "market_cap_yi": 1065.69,
+      "industry": "电子-半导体-数字芯片设计",
+      "daily_gain_count": 4
+    },
+    {
+      "code": "600089",
+      "name": "特变电工",
+      "mktcap": "1,058.05亿",
+      "market_cap_yi": 1058.05,
+      "industry": "综合-综合-综合Ⅲ",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "300857",
+      "name": "协创数据",
+      "mktcap": "1,056.29亿",
+      "market_cap_yi": 1056.29,
+      "industry": "计算机-计算机设备-其他计算机设备",
+      "daily_gain_count": 4
+    },
+    {
+      "code": "000977",
+      "name": "浪潮信息",
+      "mktcap": "1,054.51亿",
+      "market_cap_yi": 1054.51,
+      "industry": "计算机-计算机设备-其他计算机设备",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "301200",
+      "name": "大族数控",
+      "mktcap": "1,051.56亿",
+      "market_cap_yi": 1051.56,
+      "industry": "机械设备-自动化设备-其他自动化设备",
+      "daily_gain_count": 3
+    },
+    {
+      "code": "605117",
+      "name": "德业股份",
+      "mktcap": "1,041.63亿",
+      "market_cap_yi": 1041.63,
+      "industry": "电力设备-光伏设备-逆变器",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "300442",
+      "name": "润泽科技",
+      "mktcap": "1,037.96亿",
+      "market_cap_yi": 1037.96,
+      "industry": "通信-通信服务-通信应用增值服务",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "600011",
+      "name": "华能国际",
+      "mktcap": "1,036.07亿",
+      "market_cap_yi": 1036.07,
+      "industry": "公用事业-电力-火电",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "688521",
+      "name": "芯原股份",
+      "mktcap": "1,015.02亿",
+      "market_cap_yi": 1015.02,
+      "industry": "电子-半导体-数字芯片设计",
+      "daily_gain_count": 2
+    },
+    {
+      "code": "000958",
+      "name": "电投产融",
+      "mktcap": "1,007.41亿",
+      "market_cap_yi": 1007.41,
+      "industry": "公用事业-电力-新能源发电",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "001289",
+      "name": "龙源电力",
+      "mktcap": "998.64亿",
+      "market_cap_yi": 998.64,
+      "industry": "公用事业-电力-新能源发电",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "000938",
+      "name": "紫光股份",
+      "mktcap": "997.88亿",
+      "market_cap_yi": 997.88,
+      "industry": "计算机-IT服务-IT服务Ⅲ",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "601868",
+      "name": "中国能建",
+      "mktcap": "997.61亿",
+      "market_cap_yi": 997.61,
+      "industry": "建筑装饰-建筑装饰-基础建设",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "601012",
+      "name": "隆基绿能",
+      "mktcap": "984.39亿",
+      "market_cap_yi": 984.39,
+      "industry": "电力设备-光伏设备-光伏电池组件",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "000100",
+      "name": "TCL科技",
+      "mktcap": "983.88亿",
+      "market_cap_yi": 983.88,
+      "industry": "电子-光学光电子-面板",
+      "daily_gain_count": 3
+    },
+    {
+      "code": "605499",
+      "name": "东鹏饮料",
+      "mktcap": "981.66亿",
+      "market_cap_yi": 981.66,
+      "industry": "食品饮料-饮料制造-软饮料",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "600522",
+      "name": "中天科技",
+      "mktcap": "973.37亿",
+      "market_cap_yi": 973.37,
+      "industry": "通信-通信设备-通信线缆及配套",
+      "daily_gain_count": 4
+    },
+    {
+      "code": "000988",
+      "name": "华工科技",
+      "mktcap": "958.95亿",
+      "market_cap_yi": 958.95,
+      "industry": "机械设备-自动化设备-激光设备",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "002460",
+      "name": "赣锋锂业",
+      "mktcap": "956.09亿",
+      "market_cap_yi": 956.09,
+      "industry": "有色金属-能源金属-锂",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "002600",
+      "name": "领益智造",
+      "mktcap": "951.50亿",
+      "market_cap_yi": 951.5,
+      "industry": "电子-消费电子-消费电子零部件及组装",
+      "daily_gain_count": 3
+    },
+    {
+      "code": "000807",
+      "name": "云铝股份",
+      "mktcap": "923.17亿",
+      "market_cap_yi": 923.17,
+      "industry": "有色金属-工业金属-铝",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "001309",
+      "name": "德明利",
+      "mktcap": "875.40亿",
+      "market_cap_yi": 875.4,
+      "industry": "电子-半导体-数字芯片设计",
+      "daily_gain_count": 4
+    },
+    {
+      "code": "002008",
+      "name": "大族激光",
+      "mktcap": "870.12亿",
+      "market_cap_yi": 870.12,
+      "industry": "机械设备-自动化设备-激光设备",
+      "daily_gain_count": 2
+    },
+    {
+      "code": "601991",
+      "name": "大唐发电",
+      "mktcap": "865.90亿",
+      "market_cap_yi": 865.9,
+      "industry": "公用事业-电力-火电",
+      "daily_gain_count": 2
+    },
+    {
+      "code": "002156",
+      "name": "通富微电",
+      "mktcap": "860.93亿",
+      "market_cap_yi": 860.93,
+      "industry": "电子-半导体-集成电路封测",
+      "daily_gain_count": 3
+    },
+    {
+      "code": "600026",
+      "name": "中远海能",
+      "mktcap": "860.40亿",
+      "market_cap_yi": 860.4,
+      "industry": "交通运输-港口航运-航运",
+      "daily_gain_count": 3
+    },
+    {
+      "code": "002648",
+      "name": "卫星化学",
+      "mktcap": "855.30亿",
+      "market_cap_yi": 855.3,
+      "industry": "基础化工-化学制品-其他化学制品",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "600673",
+      "name": "东阳光",
+      "mktcap": "853.51亿",
+      "market_cap_yi": 853.51,
+      "industry": "综合-综合-综合Ⅲ",
+      "daily_gain_count": 3
+    },
+    {
+      "code": "300015",
+      "name": "爱尔眼科",
+      "mktcap": "844.40亿",
+      "market_cap_yi": 844.4,
+      "industry": "医药生物-医疗服务-医院",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "002128",
+      "name": "电投能源",
+      "mktcap": "843.52亿",
+      "market_cap_yi": 843.52,
+      "industry": "煤炭-煤炭开采加工-煤炭开采",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "601669",
+      "name": "中国电建",
+      "mktcap": "842.36亿",
+      "market_cap_yi": 842.36,
+      "industry": "建筑装饰-建筑装饰-基础建设",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "000630",
+      "name": "铜陵有色",
+      "mktcap": "832.73亿",
+      "market_cap_yi": 832.73,
+      "industry": "有色金属-工业金属-铜",
+      "daily_gain_count": 2
+    },
+    {
+      "code": "601689",
+      "name": "拓普集团",
+      "mktcap": "810.70亿",
+      "market_cap_yi": 810.7,
+      "industry": "汽车-汽车零部件-底盘与发动机系统",
+      "daily_gain_count": 2
+    },
+    {
+      "code": "688249",
+      "name": "晶合集成",
+      "mktcap": "801.30亿",
+      "market_cap_yi": 801.3,
+      "industry": "电子-半导体-集成电路制造",
+      "daily_gain_count": 2
+    },
+    {
+      "code": "688183",
+      "name": "生益电子",
+      "mktcap": "791.52亿",
+      "market_cap_yi": 791.52,
+      "industry": "电子-元件-印制电路板",
+      "daily_gain_count": 3
+    },
+    {
+      "code": "000301",
+      "name": "东方盛虹",
+      "mktcap": "778.14亿",
+      "market_cap_yi": 778.14,
+      "industry": "石油石化-石油加工贸易-石油加工",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "688126",
+      "name": "沪硅产业",
+      "mktcap": "776.02亿",
+      "market_cap_yi": 776.02,
+      "industry": "电子-半导体-半导体材料",
+      "daily_gain_count": 3
+    },
+    {
+      "code": "600549",
+      "name": "厦门钨业",
+      "mktcap": "746.96亿",
+      "market_cap_yi": 746.96,
+      "industry": "有色金属-小金属-钨",
+      "daily_gain_count": 5
+    },
+    {
+      "code": "002466",
+      "name": "天齐锂业",
+      "mktcap": "738.16亿",
+      "market_cap_yi": 738.16,
+      "industry": "有色金属-能源金属-锂",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "688777",
+      "name": "中控技术",
+      "mktcap": "736.76亿",
+      "market_cap_yi": 736.76,
+      "industry": "机械设备-自动化设备-工控设备",
+      "daily_gain_count": 3
+    },
+    {
+      "code": "002709",
+      "name": "天赐材料",
+      "mktcap": "728.58亿",
+      "market_cap_yi": 728.58,
+      "industry": "电力设备-电池-电池化学品",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "603228",
+      "name": "景旺电子",
+      "mktcap": "727.87亿",
+      "market_cap_yi": 727.87,
+      "industry": "电子-元件-印制电路板",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "600988",
+      "name": "赤峰黄金",
+      "mktcap": "726.58亿",
+      "market_cap_yi": 726.58,
+      "industry": "有色金属-贵金属-贵金属Ⅲ",
+      "daily_gain_count": 2
+    },
+    {
+      "code": "002080",
+      "name": "中材科技",
+      "mktcap": "723.94亿",
+      "market_cap_yi": 723.94,
+      "industry": "建筑材料-建筑材料-玻璃玻纤",
+      "daily_gain_count": 6
+    },
+    {
+      "code": "688396",
+      "name": "华润微",
+      "mktcap": "721.22亿",
+      "market_cap_yi": 721.22,
+      "industry": "电子-半导体-集成电路制造",
+      "daily_gain_count": 3
+    },
+    {
+      "code": "688200",
+      "name": "华峰测控",
+      "mktcap": "718.03亿",
+      "market_cap_yi": 718.03,
+      "industry": "电子-半导体-半导体设备",
+      "daily_gain_count": 4
+    },
+    {
+      "code": "688172",
+      "name": "燕东微",
+      "mktcap": "714.81亿",
+      "market_cap_yi": 714.81,
+      "industry": "电子-半导体-分立器件",
+      "daily_gain_count": 3
+    },
+    {
+      "code": "300866",
+      "name": "安克创新",
+      "mktcap": "701.90亿",
+      "market_cap_yi": 701.9,
+      "industry": "电子-消费电子-品牌消费电子",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "002202",
+      "name": "金风科技",
+      "mktcap": "699.78亿",
+      "market_cap_yi": 699.78,
+      "industry": "电力设备-风电设备-风电整机",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "002653",
+      "name": "海思科",
+      "mktcap": "698.60亿",
+      "market_cap_yi": 698.6,
+      "industry": "医药生物-化学制药-化学制剂",
+      "daily_gain_count": 4
+    },
+    {
+      "code": "300757",
+      "name": "罗博特科",
+      "mktcap": "696.51亿",
+      "market_cap_yi": 696.51,
+      "industry": "机械设备-自动化设备-其他自动化设备",
+      "daily_gain_count": 2
+    },
+    {
+      "code": "002422",
+      "name": "科伦药业",
+      "mktcap": "691.04亿",
+      "market_cap_yi": 691.04,
+      "industry": "医药生物-化学制药-化学制剂",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "301217",
+      "name": "铜冠铜箔",
+      "mktcap": "684.93亿",
+      "market_cap_yi": 684.93,
+      "industry": "电力设备-电池-锂电池",
+      "daily_gain_count": 5
+    },
+    {
+      "code": "300475",
+      "name": "香农芯创",
+      "mktcap": "684.54亿",
+      "market_cap_yi": 684.54,
+      "industry": "电子-其他电子-其他电子Ⅲ",
+      "daily_gain_count": 4
+    },
+    {
+      "code": "601179",
+      "name": "中国西电",
+      "mktcap": "683.79亿",
+      "market_cap_yi": 683.79,
+      "industry": "电力设备-电网设备-输变电设备",
+      "daily_gain_count": 3
+    },
+    {
+      "code": "600118",
+      "name": "中国卫星",
+      "mktcap": "679.22亿",
+      "market_cap_yi": 679.22,
+      "industry": "国防军工-军工装备-航天装备",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "601958",
+      "name": "金钼股份",
+      "mktcap": "677.26亿",
+      "market_cap_yi": 677.26,
+      "industry": "有色金属-小金属-钼",
+      "daily_gain_count": 5
+    },
+    {
+      "code": "688002",
+      "name": "睿创微纳",
+      "mktcap": "666.48亿",
+      "market_cap_yi": 666.48,
+      "industry": "国防军工-军工电子-军工电子Ⅲ",
+      "daily_gain_count": 2
+    },
+    {
+      "code": "300054",
+      "name": "鼎龙股份",
+      "mktcap": "654.70亿",
+      "market_cap_yi": 654.7,
+      "industry": "电子-电子化学品-电子化学品Ⅲ",
+      "daily_gain_count": 3
+    },
+    {
+      "code": "688469",
+      "name": "芯联集成",
+      "mktcap": "653.85亿",
+      "market_cap_yi": 653.85,
+      "industry": "电子-半导体-集成电路制造",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "688629",
+      "name": "华丰科技",
+      "mktcap": "645.72亿",
+      "market_cap_yi": 645.72,
+      "industry": "国防军工-军工电子-军工电子Ⅲ",
+      "daily_gain_count": 4
+    },
+    {
+      "code": "300661",
+      "name": "圣邦股份",
+      "mktcap": "641.37亿",
+      "market_cap_yi": 641.37,
+      "industry": "电子-半导体-模拟芯片设计",
+      "daily_gain_count": 2
+    },
+    {
+      "code": "002409",
+      "name": "雅克科技",
+      "mktcap": "636.79亿",
+      "market_cap_yi": 636.79,
+      "industry": "电子-半导体-半导体材料",
+      "daily_gain_count": 7
+    },
+    {
+      "code": "688585",
+      "name": "上纬新材",
+      "mktcap": "635.21亿",
+      "market_cap_yi": 635.21,
+      "industry": "基础化工-塑料制品-合成树脂",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "002851",
+      "name": "麦格米特",
+      "mktcap": "622.74亿",
+      "market_cap_yi": 622.74,
+      "industry": "电力设备-其他电源设备-其他电源设备Ⅲ",
+      "daily_gain_count": 5
+    },
+    {
+      "code": "300285",
+      "name": "国瓷材料",
+      "mktcap": "618.57亿",
+      "market_cap_yi": 618.57,
+      "industry": "电子-电子化学品-电子化学品Ⅲ",
+      "daily_gain_count": 7
+    },
+    {
+      "code": "300759",
+      "name": "康龙化成",
+      "mktcap": "615.00亿",
+      "market_cap_yi": 615.0,
+      "industry": "医药生物-医疗服务-医疗研发外包",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "000703",
+      "name": "恒逸石化",
+      "mktcap": "614.89亿",
+      "market_cap_yi": 614.89,
+      "industry": "基础化工-化学纤维-涤纶",
+      "daily_gain_count": 2
+    },
+    {
+      "code": "300223",
+      "name": "北京君正",
+      "mktcap": "613.33亿",
+      "market_cap_yi": 613.33,
+      "industry": "电子-半导体-数字芯片设计",
+      "daily_gain_count": 5
+    },
+    {
+      "code": "002532",
+      "name": "天山铝业",
+      "mktcap": "610.99亿",
+      "market_cap_yi": 610.99,
+      "industry": "有色金属-工业金属-铝",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "600703",
+      "name": "三安光电",
+      "mktcap": "610.66亿",
+      "market_cap_yi": 610.66,
+      "industry": "电子-光学光电子-LED",
+      "daily_gain_count": 5
+    },
+    {
+      "code": "600482",
+      "name": "中国动力",
+      "mktcap": "606.98亿",
+      "market_cap_yi": 606.98,
+      "industry": "电力设备-其他电源设备-其他电源设备Ⅲ",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "002837",
+      "name": "英维克",
+      "mktcap": "604.68亿",
+      "market_cap_yi": 604.68,
+      "industry": "机械设备-专用设备-其他专用设备",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "600292",
+      "name": "电投水电",
+      "mktcap": "601.24亿",
+      "market_cap_yi": 601.24,
+      "industry": "公用事业-电力-水电",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "688037",
+      "name": "芯源微",
+      "mktcap": "591.96亿",
+      "market_cap_yi": 591.96,
+      "industry": "电子-半导体-半导体设备",
+      "daily_gain_count": 3
+    },
+    {
+      "code": "000768",
+      "name": "中航西飞",
+      "mktcap": "586.99亿",
+      "market_cap_yi": 586.99,
+      "industry": "国防军工-军工装备-航空装备",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "000021",
+      "name": "深科技",
+      "mktcap": "586.14亿",
+      "market_cap_yi": 586.14,
+      "industry": "电子-消费电子-消费电子零部件及组装",
+      "daily_gain_count": 3
+    },
+    {
+      "code": "000636",
+      "name": "风华高科",
+      "mktcap": "570.99亿",
+      "market_cap_yi": 570.99,
+      "industry": "电子-元件-被动元件",
+      "daily_gain_count": 6
+    },
+    {
+      "code": "600196",
+      "name": "复星医药",
+      "mktcap": "570.57亿",
+      "market_cap_yi": 570.57,
+      "industry": "医药生物-化学制药-化学制剂",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "000426",
+      "name": "兴业银锡",
+      "mktcap": "564.65亿",
+      "market_cap_yi": 564.65,
+      "industry": "有色金属-贵金属-贵金属Ⅲ",
+      "daily_gain_count": 3
+    },
+    {
+      "code": "300666",
+      "name": "江丰电子",
+      "mktcap": "561.38亿",
+      "market_cap_yi": 561.38,
+      "industry": "电子-半导体-半导体材料",
+      "daily_gain_count": 8
+    },
+    {
+      "code": "000960",
+      "name": "锡业股份",
+      "mktcap": "561.09亿",
+      "market_cap_yi": 561.09,
+      "industry": "有色金属-小金属-其他小金属",
+      "daily_gain_count": 5
+    },
+    {
+      "code": "300450",
+      "name": "先导智能",
+      "mktcap": "556.90亿",
+      "market_cap_yi": 556.9,
+      "industry": "电力设备-电池-锂电专用设备",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "688017",
+      "name": "绿的谐波",
+      "mktcap": "556.68亿",
+      "market_cap_yi": 556.68,
+      "industry": "机械设备-自动化设备-机器人",
+      "daily_gain_count": 3
+    },
+    {
+      "code": "002558",
+      "name": "巨人网络",
+      "mktcap": "556.48亿",
+      "market_cap_yi": 556.48,
+      "industry": "传媒-游戏-游戏Ⅲ",
+      "daily_gain_count": 2
+    },
+    {
+      "code": "300136",
+      "name": "信维通信",
+      "mktcap": "556.16亿",
+      "market_cap_yi": 556.16,
+      "industry": "电子-消费电子-消费电子零部件及组装",
+      "daily_gain_count": 3
+    },
+    {
+      "code": "300418",
+      "name": "昆仑万维",
+      "mktcap": "555.13亿",
+      "market_cap_yi": 555.13,
+      "industry": "传媒-游戏-游戏Ⅲ",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "688331",
+      "name": "荣昌生物",
+      "mktcap": "549.94亿",
+      "market_cap_yi": 549.94,
+      "industry": "医药生物-生物制品-其他生物制品",
+      "daily_gain_count": 2
+    },
+    {
+      "code": "688187",
+      "name": "时代电气",
+      "mktcap": "545.37亿",
+      "market_cap_yi": 545.37,
+      "industry": "机械设备-轨交设备-轨交设备Ⅲ",
+      "daily_gain_count": 2
+    },
+    {
+      "code": "600096",
+      "name": "云天化",
+      "mktcap": "544.53亿",
+      "market_cap_yi": 544.53,
+      "industry": "基础化工-农化制品-磷肥及磷化工",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "688019",
+      "name": "安集科技",
+      "mktcap": "540.02亿",
+      "market_cap_yi": 540.02,
+      "industry": "电子-电子化学品-电子化学品Ⅲ",
+      "daily_gain_count": 4
+    },
+    {
+      "code": "301358",
+      "name": "湖南裕能",
+      "mktcap": "536.95亿",
+      "market_cap_yi": 536.95,
+      "industry": "电力设备-电池-电池化学品",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "002821",
+      "name": "凯莱英",
+      "mktcap": "535.06亿",
+      "market_cap_yi": 535.06,
+      "industry": "医药生物-医疗服务-医疗研发外包",
+      "daily_gain_count": 3
+    },
+    {
+      "code": "300567",
+      "name": "精测电子",
+      "mktcap": "534.32亿",
+      "market_cap_yi": 534.32,
+      "industry": "机械设备-通用设备-仪器仪表",
+      "daily_gain_count": 4
+    },
+    {
+      "code": "300765",
+      "name": "石药创新",
+      "mktcap": "534.03亿",
+      "market_cap_yi": 534.03,
+      "industry": "医药生物-化学制药-原料药",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "601233",
+      "name": "桐昆股份",
+      "mktcap": "532.90亿",
+      "market_cap_yi": 532.9,
+      "industry": "基础化工-化学纤维-涤纶",
+      "daily_gain_count": 2
+    },
+    {
+      "code": "688766",
+      "name": "普冉股份",
+      "mktcap": "527.75亿",
+      "market_cap_yi": 527.75,
+      "industry": "电子-半导体-数字芯片设计",
+      "daily_gain_count": 5
+    },
+    {
+      "code": "601231",
+      "name": "环旭电子",
+      "mktcap": "524.85亿",
+      "market_cap_yi": 524.85,
+      "industry": "电子-消费电子-消费电子零部件及组装",
+      "daily_gain_count": 2
+    },
+    {
+      "code": "601377",
+      "name": "兴业证券",
+      "mktcap": "521.61亿",
+      "market_cap_yi": 521.61,
+      "industry": "非银金融-证券-证券Ⅲ",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "300454",
+      "name": "深信服",
+      "mktcap": "516.62亿",
+      "market_cap_yi": 516.62,
+      "industry": "计算机-软件开发-横向通用软件",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "002812",
+      "name": "恩捷股份",
+      "mktcap": "516.08亿",
+      "market_cap_yi": 516.08,
+      "industry": "电力设备-电池-电池化学品",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "300058",
+      "name": "蓝色光标",
+      "mktcap": "515.20亿",
+      "market_cap_yi": 515.2,
+      "industry": "传媒-文化传媒-广告营销",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "002185",
+      "name": "华天科技",
+      "mktcap": "514.13亿",
+      "market_cap_yi": 514.13,
+      "industry": "电子-半导体-集成电路封测",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "600378",
+      "name": "昊华科技",
+      "mktcap": "514.06亿",
+      "market_cap_yi": 514.06,
+      "industry": "基础化工-化学制品-氟化工",
+      "daily_gain_count": 7
+    },
+    {
+      "code": "688141",
+      "name": "杰华特",
+      "mktcap": "513.86亿",
+      "market_cap_yi": 513.86,
+      "industry": "电子-半导体-模拟芯片设计",
+      "daily_gain_count": 5
+    },
+    {
+      "code": "688519",
+      "name": "南亚新材",
+      "mktcap": "512.69亿",
+      "market_cap_yi": 512.69,
+      "industry": "电子-元件-印制电路板",
+      "daily_gain_count": 8
+    },
+    {
+      "code": "300620",
+      "name": "光库科技",
+      "mktcap": "511.57亿",
+      "market_cap_yi": 511.57,
+      "industry": "通信-通信设备-通信网络设备及器件",
+      "daily_gain_count": 3
+    },
+    {
+      "code": "000963",
+      "name": "华东医药",
+      "mktcap": "510.51亿",
+      "market_cap_yi": 510.51,
+      "industry": "医药生物-化学制药-化学制剂",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "000831",
+      "name": "中国稀土",
+      "mktcap": "507.48亿",
+      "market_cap_yi": 507.48,
+      "industry": "有色金属-小金属-稀土",
+      "daily_gain_count": 2
+    },
+    {
+      "code": "300316",
+      "name": "晶盛机电",
+      "mktcap": "505.48亿",
+      "market_cap_yi": 505.48,
+      "industry": "电力设备-光伏设备-光伏加工设备",
+      "daily_gain_count": 3
+    },
+    {
+      "code": "688409",
+      "name": "富创精密",
+      "mktcap": "505.28亿",
+      "market_cap_yi": 505.28,
+      "industry": "电子-半导体-半导体设备",
+      "daily_gain_count": 4
+    },
+    {
+      "code": "300803",
+      "name": "指南针",
+      "mktcap": "502.53亿",
+      "market_cap_yi": 502.53,
+      "industry": "计算机-软件开发-垂直应用软件",
+      "daily_gain_count": 3
+    },
+    {
+      "code": "688578",
+      "name": "艾力斯",
+      "mktcap": "500.40亿",
+      "market_cap_yi": 500.4,
+      "industry": "医药生物-化学制药-化学制剂",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "002484",
+      "name": "江海股份",
+      "mktcap": "499.34亿",
+      "market_cap_yi": 499.34,
+      "industry": "电子-元件-被动元件",
+      "daily_gain_count": 5
+    },
+    {
+      "code": "600879",
+      "name": "航天电子",
+      "mktcap": "481.04亿",
+      "market_cap_yi": 481.04,
+      "industry": "国防军工-军工装备-航天装备",
+      "daily_gain_count": 2
+    },
+    {
+      "code": "000893",
+      "name": "亚钾国际",
+      "mktcap": "479.21亿",
+      "market_cap_yi": 479.21,
+      "industry": "基础化工-农化制品-钾肥",
+      "daily_gain_count": 2
+    },
+    {
+      "code": "301269",
+      "name": "华大九天",
+      "mktcap": "478.84亿",
+      "market_cap_yi": 478.84,
+      "industry": "计算机-软件开发-垂直应用软件",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "601117",
+      "name": "中国化学",
+      "mktcap": "478.68亿",
+      "market_cap_yi": 478.68,
+      "industry": "建筑装饰-建筑装饰-专业工程",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "000783",
+      "name": "长江证券",
+      "mktcap": "475.59亿",
+      "market_cap_yi": 475.59,
+      "industry": "非银金融-证券-证券Ⅲ",
+      "daily_gain_count": 4
+    },
+    {
+      "code": "300037",
+      "name": "新宙邦",
+      "mktcap": "471.93亿",
+      "market_cap_yi": 471.93,
+      "industry": "电力设备-电池-电池化学品",
+      "daily_gain_count": 3
+    },
+    {
+      "code": "600460",
+      "name": "士兰微",
+      "mktcap": "470.27亿",
+      "market_cap_yi": 470.27,
+      "industry": "电子-半导体-模拟芯片设计",
+      "daily_gain_count": 4
+    },
+    {
+      "code": "600105",
+      "name": "永鼎股份",
+      "mktcap": "468.42亿",
+      "market_cap_yi": 468.42,
+      "industry": "通信-通信设备-通信线缆及配套",
+      "daily_gain_count": 5
+    },
+    {
+      "code": "002436",
+      "name": "兴森科技",
+      "mktcap": "467.58亿",
+      "market_cap_yi": 467.58,
+      "industry": "电子-元件-印制电路板",
+      "daily_gain_count": 4
+    },
+    {
+      "code": "688630",
+      "name": "芯碁微装",
+      "mktcap": "463.76亿",
+      "market_cap_yi": 463.76,
+      "industry": "机械设备-专用设备-其他专用设备",
+      "daily_gain_count": 4
+    },
+    {
+      "code": "603979",
+      "name": "金诚信",
+      "mktcap": "463.10亿",
+      "market_cap_yi": 463.1,
+      "industry": "有色金属-工业金属-铜",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "600497",
+      "name": "驰宏锌锗",
+      "mktcap": "461.19亿",
+      "market_cap_yi": 461.19,
+      "industry": "有色金属-工业金属-铅锌",
+      "daily_gain_count": 4
+    },
+    {
+      "code": "300373",
+      "name": "扬杰科技",
+      "mktcap": "455.98亿",
+      "market_cap_yi": 455.98,
+      "industry": "电子-半导体-分立器件",
+      "daily_gain_count": 4
+    },
+    {
+      "code": "688110",
+      "name": "东芯股份",
+      "mktcap": "451.89亿",
+      "market_cap_yi": 451.89,
+      "industry": "电子-半导体-数字芯片设计",
+      "daily_gain_count": 3
+    },
+    {
+      "code": "601699",
+      "name": "潞安环能",
+      "mktcap": "451.70亿",
+      "market_cap_yi": 451.7,
+      "industry": "煤炭-煤炭开采加工-煤炭开采",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "300390",
+      "name": "天华新能",
+      "mktcap": "450.52亿",
+      "market_cap_yi": 450.52,
+      "industry": "电力设备-电池-电池化学品",
+      "daily_gain_count": 4
+    },
+    {
+      "code": "600498",
+      "name": "烽火通信",
+      "mktcap": "449.42亿",
+      "market_cap_yi": 449.42,
+      "industry": "通信-通信设备-通信网络设备及器件",
+      "daily_gain_count": 6
+    },
+    {
+      "code": "000066",
+      "name": "中国长城",
+      "mktcap": "443.22亿",
+      "market_cap_yi": 443.22,
+      "industry": "计算机-计算机设备-其他计算机设备",
+      "daily_gain_count": 2
+    },
+    {
+      "code": "002428",
+      "name": "云南锗业",
+      "mktcap": "437.26亿",
+      "market_cap_yi": 437.26,
+      "industry": "有色金属-小金属-其他小金属",
+      "daily_gain_count": 5
+    },
+    {
+      "code": "600352",
+      "name": "浙江龙盛",
+      "mktcap": "432.04亿",
+      "market_cap_yi": 432.04,
+      "industry": "基础化工-化学制品-纺织化学用品",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "003031",
+      "name": "中瓷电子",
+      "mktcap": "427.15亿",
+      "market_cap_yi": 427.15,
+      "industry": "通信-通信设备-通信终端及配件",
+      "daily_gain_count": 3
+    },
+    {
+      "code": "002203",
+      "name": "海亮股份",
+      "mktcap": "421.00亿",
+      "market_cap_yi": 421.0,
+      "industry": "有色金属-工业金属-铜",
+      "daily_gain_count": 3
+    },
+    {
+      "code": "301511",
+      "name": "德福科技",
+      "mktcap": "417.90亿",
+      "market_cap_yi": 417.9,
+      "industry": "电力设备-电池-锂电池",
+      "daily_gain_count": 2
+    },
+    {
+      "code": "300751",
+      "name": "迈为股份",
+      "mktcap": "415.17亿",
+      "market_cap_yi": 415.17,
+      "industry": "电力设备-光伏设备-光伏加工设备",
+      "daily_gain_count": 3
+    },
+    {
+      "code": "688548",
+      "name": "广钢气体",
+      "mktcap": "415.08亿",
+      "market_cap_yi": 415.08,
+      "industry": "电子-电子化学品-电子化学品Ⅲ",
+      "daily_gain_count": 6
+    },
+    {
+      "code": "300548",
+      "name": "长芯博创",
+      "mktcap": "414.20亿",
+      "market_cap_yi": 414.2,
+      "industry": "通信-通信设备-通信网络设备及器件",
+      "daily_gain_count": 3
+    },
+    {
+      "code": "603083",
+      "name": "剑桥科技",
+      "mktcap": "412.57亿",
+      "market_cap_yi": 412.57,
+      "industry": "通信-通信设备-通信终端及配件",
+      "daily_gain_count": 3
+    },
+    {
+      "code": "603087",
+      "name": "甘李药业",
+      "mktcap": "410.96亿",
+      "market_cap_yi": 410.96,
+      "industry": "医药生物-生物制品-其他生物制品",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "300347",
+      "name": "泰格医药",
+      "mktcap": "409.08亿",
+      "market_cap_yi": 409.08,
+      "industry": "医药生物-医疗服务-医疗研发外包",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "688313",
+      "name": "仕佳光子",
+      "mktcap": "406.97亿",
+      "market_cap_yi": 406.97,
+      "industry": "通信-通信设备-通信网络设备及器件",
+      "daily_gain_count": 4
+    },
+    {
+      "code": "600985",
+      "name": "淮北矿业",
+      "mktcap": "406.95亿",
+      "market_cap_yi": 406.95,
+      "industry": "煤炭-煤炭开采加工-煤炭开采",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "688387",
+      "name": "信科移动",
+      "mktcap": "404.78亿",
+      "market_cap_yi": 404.78,
+      "industry": "通信-通信设备-通信网络设备及器件",
+      "daily_gain_count": 2
+    },
+    {
+      "code": "688147",
+      "name": "微导纳米",
+      "mktcap": "400.97亿",
+      "market_cap_yi": 400.97,
+      "industry": "电子-半导体-半导体设备",
+      "daily_gain_count": 6
+    },
+    {
+      "code": "688048",
+      "name": "长光华芯",
+      "mktcap": "400.83亿",
+      "market_cap_yi": 400.83,
+      "industry": "电子-半导体-分立器件",
+      "daily_gain_count": 5
+    },
+    {
+      "code": "688234",
+      "name": "天岳先进",
+      "mktcap": "398.72亿",
+      "market_cap_yi": 398.72,
+      "industry": "电子-半导体-半导体材料",
+      "daily_gain_count": 3
+    },
+    {
+      "code": "001203",
+      "name": "大中矿业",
+      "mktcap": "397.53亿",
+      "market_cap_yi": 397.53,
+      "industry": "钢铁-钢铁-冶钢原料",
+      "daily_gain_count": 2
+    },
+    {
+      "code": "301236",
+      "name": "软通动力",
+      "mktcap": "396.79亿",
+      "market_cap_yi": 396.79,
+      "industry": "计算机-IT服务-IT服务Ⅲ",
+      "daily_gain_count": 2
+    },
+    {
+      "code": "603260",
+      "name": "合盛硅业",
+      "mktcap": "396.51亿",
+      "market_cap_yi": 396.51,
+      "industry": "基础化工-化学制品-有机硅",
+      "daily_gain_count": 2
+    },
+    {
+      "code": "000987",
+      "name": "越秀资本",
+      "mktcap": "394.35亿",
+      "market_cap_yi": 394.35,
+      "industry": "非银金融-多元金融-多元金融Ⅲ",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "600601",
+      "name": "方正科技",
+      "mktcap": "392.76亿",
+      "market_cap_yi": 392.76,
+      "industry": "电子-元件-印制电路板",
+      "daily_gain_count": 2
+    },
+    {
+      "code": "001286",
+      "name": "陕西能源",
+      "mktcap": "392.63亿",
+      "market_cap_yi": 392.63,
+      "industry": "公用事业-电力-火电",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "688220",
+      "name": "翱捷科技",
+      "mktcap": "391.91亿",
+      "market_cap_yi": 391.91,
+      "industry": "电子-半导体-模拟芯片设计",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "002601",
+      "name": "龙佰集团",
+      "mktcap": "390.54亿",
+      "market_cap_yi": 390.54,
+      "industry": "基础化工-化学原料-钛白粉",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "300782",
+      "name": "卓胜微",
+      "mktcap": "390.53亿",
+      "market_cap_yi": 390.53,
+      "industry": "电子-半导体-模拟芯片设计",
+      "daily_gain_count": 2
+    },
+    {
+      "code": "601108",
+      "name": "财通证券",
+      "mktcap": "389.15亿",
+      "market_cap_yi": 389.15,
+      "industry": "非银金融-证券-证券Ⅲ",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "688303",
+      "name": "大全能源",
+      "mktcap": "388.93亿",
+      "market_cap_yi": 388.93,
+      "industry": "电力设备-光伏设备-硅料硅片",
+      "daily_gain_count": 2
+    },
+    {
+      "code": "688728",
+      "name": "格科微",
+      "mktcap": "388.01亿",
+      "market_cap_yi": 388.01,
+      "industry": "电子-半导体-数字芯片设计",
+      "daily_gain_count": 3
+    },
+    {
+      "code": "688627",
+      "name": "精智达",
+      "mktcap": "387.53亿",
+      "market_cap_yi": 387.53,
+      "industry": "机械设备-专用设备-其他专用设备",
+      "daily_gain_count": 6
+    },
+    {
+      "code": "688322",
+      "name": "奥比中光",
+      "mktcap": "387.49亿",
+      "market_cap_yi": 387.49,
+      "industry": "电子-光学光电子-光学元件",
+      "daily_gain_count": 4
+    },
+    {
+      "code": "600863",
+      "name": "华能蒙电",
+      "mktcap": "386.27亿",
+      "market_cap_yi": 386.27,
+      "industry": "公用事业-电力-火电",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "600578",
+      "name": "京能电力",
+      "mktcap": "385.61亿",
+      "market_cap_yi": 385.61,
+      "industry": "公用事业-电力-火电",
+      "daily_gain_count": 2
+    },
+    {
+      "code": "600909",
+      "name": "华安证券",
+      "mktcap": "383.85亿",
+      "market_cap_yi": 383.85,
+      "industry": "非银金融-证券-证券Ⅲ",
+      "daily_gain_count": 3
+    },
+    {
+      "code": "000878",
+      "name": "云南铜业",
+      "mktcap": "383.66亿",
+      "market_cap_yi": 383.66,
+      "industry": "有色金属-工业金属-铜",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "603806",
+      "name": "福斯特",
+      "mktcap": "382.70亿",
+      "market_cap_yi": 382.7,
+      "industry": "电力设备-光伏设备-光伏辅材",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "300395",
+      "name": "菲利华",
+      "mktcap": "382.57亿",
+      "market_cap_yi": 382.57,
+      "industry": "国防军工-军工装备-航空装备",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "600588",
+      "name": "用友网络",
+      "mktcap": "378.60亿",
+      "market_cap_yi": 378.6,
+      "industry": "计算机-软件开发-横向通用软件",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "601777",
+      "name": "千里科技",
+      "mktcap": "376.61亿",
+      "market_cap_yi": 376.61,
+      "industry": "汽车-汽车整车-乘用车",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "300115",
+      "name": "长盈精密",
+      "mktcap": "375.46亿",
+      "market_cap_yi": 375.46,
+      "industry": "电子-消费电子-消费电子零部件及组装",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "002407",
+      "name": "多氟多",
+      "mktcap": "374.27亿",
+      "market_cap_yi": 374.27,
+      "industry": "基础化工-化学制品-氟化工",
+      "daily_gain_count": 4
+    },
+    {
+      "code": "002294",
+      "name": "信立泰",
+      "mktcap": "371.01亿",
+      "market_cap_yi": 371.01,
+      "industry": "医药生物-化学制药-化学制剂",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "300001",
+      "name": "特锐德",
+      "mktcap": "370.42亿",
+      "market_cap_yi": 370.42,
+      "industry": "电力设备-电网设备-输变电设备",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "688213",
+      "name": "思特威",
+      "mktcap": "370.24亿",
+      "market_cap_yi": 370.24,
+      "industry": "电子-半导体-数字芯片设计",
+      "daily_gain_count": 2
+    },
+    {
+      "code": "002636",
+      "name": "金安国纪",
+      "mktcap": "370.04亿",
+      "market_cap_yi": 370.04,
+      "industry": "电子-元件-印制电路板",
+      "daily_gain_count": 8
+    },
+    {
+      "code": "000983",
+      "name": "山西焦煤",
+      "mktcap": "369.01亿",
+      "market_cap_yi": 369.01,
+      "industry": "煤炭-煤炭开采加工-煤炭开采",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "603379",
+      "name": "三美股份",
+      "mktcap": "368.12亿",
+      "market_cap_yi": 368.12,
+      "industry": "基础化工-化学制品-氟化工",
+      "daily_gain_count": 2
+    },
+    {
+      "code": "688336",
+      "name": "三生国健",
+      "mktcap": "365.66亿",
+      "market_cap_yi": 365.66,
+      "industry": "医药生物-生物制品-其他生物制品",
+      "daily_gain_count": 2
+    },
+    {
+      "code": "688432",
+      "name": "有研硅",
+      "mktcap": "364.84亿",
+      "market_cap_yi": 364.84,
+      "industry": "电子-半导体-半导体材料",
+      "daily_gain_count": 7
+    },
+    {
+      "code": "600392",
+      "name": "盛和资源",
+      "mktcap": "362.84亿",
+      "market_cap_yi": 362.84,
+      "industry": "有色金属-小金属-稀土",
+      "daily_gain_count": 3
+    },
+    {
+      "code": "600667",
+      "name": "太极实业",
+      "mktcap": "360.37亿",
+      "market_cap_yi": 360.37,
+      "industry": "建筑装饰-建筑装饰-工程咨询服务",
+      "daily_gain_count": 8
+    },
+    {
+      "code": "002155",
+      "name": "湖南黄金",
+      "mktcap": "360.19亿",
+      "market_cap_yi": 360.19,
+      "industry": "有色金属-贵金属-贵金属Ⅲ",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "002444",
+      "name": "巨星科技",
+      "mktcap": "357.63亿",
+      "market_cap_yi": 357.63,
+      "industry": "机械设备-通用设备-其他通用设备",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "002129",
+      "name": "TCL中环",
+      "mktcap": "357.01亿",
+      "market_cap_yi": 357.01,
+      "industry": "电力设备-光伏设备-硅料硅片",
+      "daily_gain_count": 3
+    },
+    {
+      "code": "605376",
+      "name": "博迁新材",
+      "mktcap": "356.48亿",
+      "market_cap_yi": 356.48,
+      "industry": "有色金属-能源金属-镍",
+      "daily_gain_count": 5
+    },
+    {
+      "code": "600060",
+      "name": "海信视像",
+      "mktcap": "354.56亿",
+      "market_cap_yi": 354.56,
+      "industry": "家用电器-黑色家电-彩电",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "603699",
+      "name": "纽威股份",
+      "mktcap": "353.37亿",
+      "market_cap_yi": 353.37,
+      "industry": "机械设备-通用设备-金属制品",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "603629",
+      "name": "利通电子",
+      "mktcap": "352.10亿",
+      "market_cap_yi": 352.1,
+      "industry": "计算机-IT服务-IT服务Ⅲ",
+      "daily_gain_count": 4
+    },
+    {
+      "code": "002273",
+      "name": "水晶光电",
+      "mktcap": "351.69亿",
+      "market_cap_yi": 351.69,
+      "industry": "电子-光学光电子-光学元件",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "000811",
+      "name": "冰轮环境",
+      "mktcap": "350.34亿",
+      "market_cap_yi": 350.34,
+      "industry": "机械设备-通用设备-制冷空调设备",
+      "daily_gain_count": 8
+    },
+    {
+      "code": "688295",
+      "name": "中复神鹰",
+      "mktcap": "347.31亿",
+      "market_cap_yi": 347.31,
+      "industry": "基础化工-化学纤维-其他纤维",
+      "daily_gain_count": 2
+    },
+    {
+      "code": "000921",
+      "name": "海信家电",
+      "mktcap": "347.00亿",
+      "market_cap_yi": 347.0,
+      "industry": "家用电器-白色家电-空调",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "600141",
+      "name": "兴发集团",
+      "mktcap": "346.94亿",
+      "market_cap_yi": 346.94,
+      "industry": "基础化工-农化制品-磷肥及磷化工",
+      "daily_gain_count": 5
+    },
+    {
+      "code": "601208",
+      "name": "东材科技",
+      "mktcap": "346.80亿",
+      "market_cap_yi": 346.8,
+      "industry": "基础化工-塑料制品-膜材料",
+      "daily_gain_count": 4
+    },
+    {
+      "code": "002138",
+      "name": "顺络电子",
+      "mktcap": "345.10亿",
+      "market_cap_yi": 345.1,
+      "industry": "电子-元件-被动元件",
+      "daily_gain_count": 5
+    },
+    {
+      "code": "688122",
+      "name": "西部超导",
+      "mktcap": "342.57亿",
+      "market_cap_yi": 342.57,
+      "industry": "国防军工-军工装备-航空装备",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "002738",
+      "name": "中矿资源",
+      "mktcap": "339.53亿",
+      "market_cap_yi": 339.53,
+      "industry": "有色金属-小金属-其他小金属",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "603606",
+      "name": "东方电缆",
+      "mktcap": "339.41亿",
+      "market_cap_yi": 339.41,
+      "industry": "电力设备-电网设备-线缆部件及其他",
+      "daily_gain_count": 2
+    },
+    {
+      "code": "002831",
+      "name": "裕同科技",
+      "mktcap": "338.70亿",
+      "market_cap_yi": 338.7,
+      "industry": "轻工制造-包装印刷-包装",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "002056",
+      "name": "横店东磁",
+      "mktcap": "338.19亿",
+      "market_cap_yi": 338.19,
+      "industry": "电力设备-光伏设备-光伏电池组件",
+      "daily_gain_count": 3
+    },
+    {
+      "code": "002429",
+      "name": "兆驰股份",
+      "mktcap": "336.35亿",
+      "market_cap_yi": 336.35,
+      "industry": "家用电器-黑色家电-彩电",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "301396",
+      "name": "宏景科技",
+      "mktcap": "335.63亿",
+      "market_cap_yi": 335.63,
+      "industry": "计算机-IT服务-IT服务Ⅲ",
+      "daily_gain_count": 5
+    },
+    {
+      "code": "300346",
+      "name": "南大光电",
+      "mktcap": "334.24亿",
+      "market_cap_yi": 334.24,
+      "industry": "电子-电子化学品-电子化学品Ⅲ",
+      "daily_gain_count": 6
+    },
+    {
+      "code": "603650",
+      "name": "彤程新材",
+      "mktcap": "333.85亿",
+      "market_cap_yi": 333.85,
+      "industry": "基础化工-橡胶制品-其他橡胶制品",
+      "daily_gain_count": 5
+    },
+    {
+      "code": "300458",
+      "name": "全志科技",
+      "mktcap": "333.27亿",
+      "market_cap_yi": 333.27,
+      "industry": "电子-半导体-数字芯片设计",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "000688",
+      "name": "国城矿业",
+      "mktcap": "330.63亿",
+      "market_cap_yi": 330.63,
+      "industry": "有色金属-小金属-钼",
+      "daily_gain_count": 2
+    },
+    {
+      "code": "000661",
+      "name": "长春高新",
+      "mktcap": "330.43亿",
+      "market_cap_yi": 330.43,
+      "industry": "医药生物-生物制品-其他生物制品",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "600711",
+      "name": "盛屯矿业",
+      "mktcap": "328.84亿",
+      "market_cap_yi": 328.84,
+      "industry": "有色金属-工业金属-铜",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "601696",
+      "name": "中银证券",
+      "mktcap": "328.64亿",
+      "market_cap_yi": 328.64,
+      "industry": "非银金融-证券-证券Ⅲ",
+      "daily_gain_count": 2
+    },
+    {
+      "code": "688065",
+      "name": "凯赛生物",
+      "mktcap": "328.26亿",
+      "market_cap_yi": 328.26,
+      "industry": "基础化工-化学制品-其他化学制品",
+      "daily_gain_count": 2
+    },
+    {
+      "code": "603225",
+      "name": "新凤鸣",
+      "mktcap": "327.78亿",
+      "market_cap_yi": 327.78,
+      "industry": "基础化工-化学纤维-涤纶",
+      "daily_gain_count": 2
+    },
+    {
+      "code": "002261",
+      "name": "拓维信息",
+      "mktcap": "326.71亿",
+      "market_cap_yi": 326.71,
+      "industry": "计算机-软件开发-垂直应用软件",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "002472",
+      "name": "双环传动",
+      "mktcap": "326.57亿",
+      "market_cap_yi": 326.57,
+      "industry": "汽车-汽车零部件-底盘与发动机系统",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "688266",
+      "name": "泽璟制药",
+      "mktcap": "323.21亿",
+      "market_cap_yi": 323.21,
+      "industry": "医药生物-化学制药-化学制剂",
+      "daily_gain_count": 3
+    },
+    {
+      "code": "688180",
+      "name": "君实生物",
+      "mktcap": "320.95亿",
+      "market_cap_yi": 320.95,
+      "industry": "医药生物-生物制品-其他生物制品",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "002432",
+      "name": "九安医疗",
+      "mktcap": "318.95亿",
+      "market_cap_yi": 318.95,
+      "industry": "医药生物-医疗器械-医疗设备",
+      "daily_gain_count": 2
+    },
+    {
+      "code": "601611",
+      "name": "中国核建",
+      "mktcap": "317.96亿",
+      "market_cap_yi": 317.96,
+      "industry": "建筑装饰-建筑装饰-基础建设",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "688599",
+      "name": "天合光能",
+      "mktcap": "317.89亿",
+      "market_cap_yi": 317.89,
+      "industry": "电力设备-光伏设备-光伏电池组件",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "603929",
+      "name": "亚翔集成",
+      "mktcap": "317.03亿",
+      "market_cap_yi": 317.03,
+      "industry": "建筑装饰-建筑装饰-专业工程",
+      "daily_gain_count": 7
+    },
+    {
+      "code": "600563",
+      "name": "法拉电子",
+      "mktcap": "307.98亿",
+      "market_cap_yi": 307.98,
+      "industry": "电子-元件-被动元件",
+      "daily_gain_count": 3
+    },
+    {
+      "code": "688536",
+      "name": "思瑞浦",
+      "mktcap": "307.91亿",
+      "market_cap_yi": 307.91,
+      "industry": "电子-半导体-模拟芯片设计",
+      "daily_gain_count": 2
+    },
+    {
+      "code": "000959",
+      "name": "首钢股份",
+      "mktcap": "301.67亿",
+      "market_cap_yi": 301.67,
+      "industry": "钢铁-钢铁-普钢",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "300438",
+      "name": "鹏辉能源",
+      "mktcap": "301.25亿",
+      "market_cap_yi": 301.25,
+      "industry": "电力设备-电池-锂电池",
+      "daily_gain_count": 2
+    },
+    {
+      "code": "300339",
+      "name": "润和软件",
+      "mktcap": "300.57亿",
+      "market_cap_yi": 300.57,
+      "industry": "计算机-IT服务-IT服务Ⅲ",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "600206",
+      "name": "有研新材",
+      "mktcap": "299.60亿",
+      "market_cap_yi": 299.6,
+      "industry": "电子-半导体-半导体材料",
+      "daily_gain_count": 8
+    },
+    {
+      "code": "300487",
+      "name": "蓝晓科技",
+      "mktcap": "298.20亿",
+      "market_cap_yi": 298.2,
+      "industry": "基础化工-塑料制品-合成树脂",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "000973",
+      "name": "佛塑科技",
+      "mktcap": "296.71亿",
+      "market_cap_yi": 296.71,
+      "industry": "基础化工-塑料制品-膜材料",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "688676",
+      "name": "金盘科技",
+      "mktcap": "295.64亿",
+      "market_cap_yi": 295.64,
+      "industry": "电力设备-电网设备-输变电设备",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "600869",
+      "name": "远东股份",
+      "mktcap": "294.95亿",
+      "market_cap_yi": 294.95,
+      "industry": "电力设备-电网设备-线缆部件及其他",
+      "daily_gain_count": 5
+    },
+    {
+      "code": "688433",
+      "name": "华曙高科",
+      "mktcap": "290.49亿",
+      "market_cap_yi": 290.49,
+      "industry": "机械设备-通用设备-其他通用设备",
+      "daily_gain_count": 2
+    },
+    {
+      "code": "688052",
+      "name": "纳芯微",
+      "mktcap": "289.76亿",
+      "market_cap_yi": 289.76,
+      "industry": "电子-半导体-模拟芯片设计",
+      "daily_gain_count": 4
+    },
+    {
+      "code": "605589",
+      "name": "圣泉集团",
+      "mktcap": "288.79亿",
+      "market_cap_yi": 288.79,
+      "industry": "基础化工-塑料制品-合成树脂",
+      "daily_gain_count": 5
+    },
+    {
+      "code": "688549",
+      "name": "中巨芯",
+      "mktcap": "288.51亿",
+      "market_cap_yi": 288.51,
+      "industry": "电子-电子化学品-电子化学品Ⅲ",
+      "daily_gain_count": 9
+    },
+    {
+      "code": "301205",
+      "name": "联特科技",
+      "mktcap": "287.49亿",
+      "market_cap_yi": 287.49,
+      "industry": "通信-通信设备-通信网络设备及器件",
+      "daily_gain_count": 4
+    },
+    {
+      "code": "605358",
+      "name": "立昂微",
+      "mktcap": "286.49亿",
+      "market_cap_yi": 286.49,
+      "industry": "电子-半导体-半导体材料",
+      "daily_gain_count": 3
+    },
+    {
+      "code": "000629",
+      "name": "钒钛股份",
+      "mktcap": "286.16亿",
+      "market_cap_yi": 286.16,
+      "industry": "钢铁-钢铁-冶钢原料",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "600777",
+      "name": "新潮能源",
+      "mktcap": "284.94亿",
+      "market_cap_yi": 284.94,
+      "industry": "石油石化-油气开采及服务-油气开采",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "603127",
+      "name": "昭衍新药",
+      "mktcap": "284.69亿",
+      "market_cap_yi": 284.69,
+      "industry": "医药生物-医疗服务-医疗研发外包",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "300776",
+      "name": "帝尔激光",
+      "mktcap": "282.50亿",
+      "market_cap_yi": 282.5,
+      "industry": "电力设备-光伏设备-光伏加工设备",
+      "daily_gain_count": 7
+    },
+    {
+      "code": "300672",
+      "name": "国科微",
+      "mktcap": "281.15亿",
+      "market_cap_yi": 281.15,
+      "industry": "电子-半导体-数字芯片设计",
+      "daily_gain_count": 2
+    },
+    {
+      "code": "000060",
+      "name": "中金岭南",
+      "mktcap": "280.24亿",
+      "market_cap_yi": 280.24,
+      "industry": "有色金属-工业金属-铅锌",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "002608",
+      "name": "江苏国信",
+      "mktcap": "279.96亿",
+      "market_cap_yi": 279.96,
+      "industry": "公用事业-电力-火电",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "600707",
+      "name": "彩虹股份",
+      "mktcap": "279.89亿",
+      "market_cap_yi": 279.89,
+      "industry": "电子-光学光电子-面板",
+      "daily_gain_count": 5
+    },
+    {
+      "code": "002025",
+      "name": "航天电器",
+      "mktcap": "278.63亿",
+      "market_cap_yi": 278.63,
+      "industry": "国防军工-军工电子-军工电子Ⅲ",
+      "daily_gain_count": 3
+    },
+    {
+      "code": "002797",
+      "name": "第一创业",
+      "mktcap": "276.10亿",
+      "market_cap_yi": 276.1,
+      "industry": "非银金融-证券-证券Ⅲ",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "603179",
+      "name": "新泉股份",
+      "mktcap": "275.68亿",
+      "market_cap_yi": 275.68,
+      "industry": "汽车-汽车零部件-汽车电子电气系统",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "601001",
+      "name": "晋控煤业",
+      "mktcap": "275.32亿",
+      "market_cap_yi": 275.32,
+      "industry": "煤炭-煤炭开采加工-煤炭开采",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "300474",
+      "name": "景嘉微",
+      "mktcap": "274.90亿",
+      "market_cap_yi": 274.9,
+      "industry": "国防军工-军工电子-军工电子Ⅲ",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "002859",
+      "name": "洁美科技",
+      "mktcap": "273.55亿",
+      "market_cap_yi": 273.55,
+      "industry": "电子-其他电子-其他电子Ⅲ",
+      "daily_gain_count": 10
+    },
+    {
+      "code": "002747",
+      "name": "埃斯顿",
+      "mktcap": "273.11亿",
+      "market_cap_yi": 273.11,
+      "industry": "机械设备-自动化设备-机器人",
+      "daily_gain_count": 5
+    },
+    {
+      "code": "002245",
+      "name": "蔚蓝锂芯",
+      "mktcap": "271.17亿",
+      "market_cap_yi": 271.17,
+      "industry": "电力设备-电池-锂电池",
+      "daily_gain_count": 2
+    },
+    {
+      "code": "300870",
+      "name": "欧陆通",
+      "mktcap": "269.69亿",
+      "market_cap_yi": 269.69,
+      "industry": "电力设备-其他电源设备-其他电源设备Ⅲ",
+      "daily_gain_count": 3
+    },
+    {
+      "code": "600737",
+      "name": "中粮糖业",
+      "mktcap": "268.43亿",
+      "market_cap_yi": 268.43,
+      "industry": "农林牧渔-农产品加工-其他农产品加工",
+      "daily_gain_count": 3
+    },
+    {
+      "code": "002378",
+      "name": "章源钨业",
+      "mktcap": "266.96亿",
+      "market_cap_yi": 266.96,
+      "industry": "有色金属-小金属-钨",
+      "daily_gain_count": 3
+    },
+    {
+      "code": "688318",
+      "name": "财富趋势",
+      "mktcap": "266.09亿",
+      "market_cap_yi": 266.09,
+      "industry": "计算机-软件开发-垂直应用软件",
+      "daily_gain_count": 2
+    },
+    {
+      "code": "688668",
+      "name": "鼎通科技",
+      "mktcap": "265.00亿",
+      "market_cap_yi": 265.0,
+      "industry": "通信-通信设备-通信网络设备及器件",
+      "daily_gain_count": 4
+    },
+    {
+      "code": "300236",
+      "name": "上海新阳",
+      "mktcap": "264.49亿",
+      "market_cap_yi": 264.49,
+      "industry": "电子-电子化学品-电子化学品Ⅲ",
+      "daily_gain_count": 3
+    },
+    {
+      "code": "688025",
+      "name": "杰普特",
+      "mktcap": "264.24亿",
+      "market_cap_yi": 264.24,
+      "industry": "机械设备-自动化设备-激光设备",
+      "daily_gain_count": 3
+    },
+    {
+      "code": "301018",
+      "name": "申菱环境",
+      "mktcap": "264.09亿",
+      "market_cap_yi": 264.09,
+      "industry": "机械设备-通用设备-制冷空调设备",
+      "daily_gain_count": 3
+    },
+    {
+      "code": "300806",
+      "name": "斯迪克",
+      "mktcap": "263.95亿",
+      "market_cap_yi": 263.95,
+      "industry": "基础化工-塑料制品-膜材料",
+      "daily_gain_count": 5
+    },
+    {
+      "code": "000967",
+      "name": "盈峰环境",
+      "mktcap": "263.70亿",
+      "market_cap_yi": 263.7,
+      "industry": "环保-环保设备-环保设备Ⅲ",
+      "daily_gain_count": 3
+    },
+    {
+      "code": "688301",
+      "name": "奕瑞科技",
+      "mktcap": "263.45亿",
+      "market_cap_yi": 263.45,
+      "industry": "医药生物-医疗器械-医疗设备",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "688362",
+      "name": "甬矽电子",
+      "mktcap": "263.03亿",
+      "market_cap_yi": 263.03,
+      "industry": "电子-半导体-集成电路封测",
+      "daily_gain_count": 7
+    },
+    {
+      "code": "000539",
+      "name": "粤电力A",
+      "mktcap": "261.61亿",
+      "market_cap_yi": 261.61,
+      "industry": "公用事业-电力-火电",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "600732",
+      "name": "爱旭股份",
+      "mktcap": "261.44亿",
+      "market_cap_yi": 261.44,
+      "industry": "电力设备-光伏设备-光伏电池组件",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "600862",
+      "name": "中航高科",
+      "mktcap": "260.92亿",
+      "market_cap_yi": 260.92,
+      "industry": "国防军工-军工装备-航空装备",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "600301",
+      "name": "华锡有色",
+      "mktcap": "260.24亿",
+      "market_cap_yi": 260.24,
+      "industry": "有色金属-小金属-其他小金属",
+      "daily_gain_count": 5
+    },
+    {
+      "code": "688300",
+      "name": "联瑞新材",
+      "mktcap": "259.14亿",
+      "market_cap_yi": 259.14,
+      "industry": "基础化工-非金属材料-非金属材料Ⅲ",
+      "daily_gain_count": 4
+    },
+    {
+      "code": "300209",
+      "name": "行云科技",
+      "mktcap": "259.09亿",
+      "market_cap_yi": 259.09,
+      "industry": "商贸零售-互联网电商-互联网电商Ⅲ",
+      "daily_gain_count": 3
+    },
+    {
+      "code": "300570",
+      "name": "太辰光",
+      "mktcap": "258.92亿",
+      "market_cap_yi": 258.92,
+      "industry": "通信-通信设备-通信网络设备及器件",
+      "daily_gain_count": 5
+    },
+    {
+      "code": "002240",
+      "name": "盛新锂能",
+      "mktcap": "257.29亿",
+      "market_cap_yi": 257.29,
+      "industry": "有色金属-能源金属-锂",
+      "daily_gain_count": 2
+    },
+    {
+      "code": "000564",
+      "name": "供销大集",
+      "mktcap": "256.42亿",
+      "market_cap_yi": 256.42,
+      "industry": "商贸零售-零售-百货零售",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "000737",
+      "name": "北方铜业",
+      "mktcap": "255.61亿",
+      "market_cap_yi": 255.61,
+      "industry": "有色金属-工业金属-铜",
+      "daily_gain_count": 2
+    },
+    {
+      "code": "601918",
+      "name": "新集能源",
+      "mktcap": "253.61亿",
+      "market_cap_yi": 253.61,
+      "industry": "煤炭-煤炭开采加工-煤炭开采",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "000791",
+      "name": "甘肃能源",
+      "mktcap": "253.02亿",
+      "market_cap_yi": 253.02,
+      "industry": "公用事业-电力-火电",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "002456",
+      "name": "欧菲光",
+      "mktcap": "252.41亿",
+      "market_cap_yi": 252.41,
+      "industry": "电子-光学光电子-光学元件",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "003022",
+      "name": "联泓新科",
+      "mktcap": "250.69亿",
+      "market_cap_yi": 250.69,
+      "industry": "电力设备-光伏设备-光伏辅材",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "600546",
+      "name": "山煤国际",
+      "mktcap": "250.38亿",
+      "market_cap_yi": 250.38,
+      "industry": "煤炭-煤炭开采加工-煤炭开采",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "688428",
+      "name": "诺诚健华",
+      "mktcap": "248.85亿",
+      "market_cap_yi": 248.85,
+      "industry": "医药生物-生物制品-其他生物制品",
+      "daily_gain_count": 2
+    },
+    {
+      "code": "002459",
+      "name": "晶澳科技",
+      "mktcap": "248.56亿",
+      "market_cap_yi": 248.56,
+      "industry": "电力设备-光伏设备-光伏电池组件",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "600641",
+      "name": "先导基电",
+      "mktcap": "246.28亿",
+      "market_cap_yi": 246.28,
+      "industry": "电子-半导体-半导体材料",
+      "daily_gain_count": 4
+    },
+    {
+      "code": "000034",
+      "name": "神州数码",
+      "mktcap": "245.03亿",
+      "market_cap_yi": 245.03,
+      "industry": "计算机-IT服务-IT服务Ⅲ",
+      "daily_gain_count": 4
+    },
+    {
+      "code": "600208",
+      "name": "衢州发展",
+      "mktcap": "244.21亿",
+      "market_cap_yi": 244.21,
+      "industry": "房地产-房地产-住宅开发",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "603160",
+      "name": "汇顶科技",
+      "mktcap": "244.17亿",
+      "market_cap_yi": 244.17,
+      "industry": "电子-半导体-模拟芯片设计",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "600961",
+      "name": "株冶集团",
+      "mktcap": "243.54亿",
+      "market_cap_yi": 243.54,
+      "industry": "有色金属-贵金属-贵金属Ⅲ",
+      "daily_gain_count": 4
+    },
+    {
+      "code": "300558",
+      "name": "贝达药业",
+      "mktcap": "243.42亿",
+      "market_cap_yi": 243.42,
+      "industry": "医药生物-化学制药-化学制剂",
+      "daily_gain_count": 2
+    },
+    {
+      "code": "600259",
+      "name": "中稀有色",
+      "mktcap": "243.31亿",
+      "market_cap_yi": 243.31,
+      "industry": "有色金属-小金属-稀土",
+      "daily_gain_count": 2
+    },
+    {
+      "code": "002756",
+      "name": "永兴材料",
+      "mktcap": "243.24亿",
+      "market_cap_yi": 243.24,
+      "industry": "有色金属-能源金属-锂",
+      "daily_gain_count": 2
+    },
+    {
+      "code": "301550",
+      "name": "斯菱智驱",
+      "mktcap": "242.93亿",
+      "market_cap_yi": 242.93,
+      "industry": "汽车-汽车零部件-底盘与发动机系统",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "603605",
+      "name": "珀莱雅",
+      "mktcap": "242.69亿",
+      "market_cap_yi": 242.69,
+      "industry": "美容护理-美容护理-化妆品",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "688349",
+      "name": "三一重能",
+      "mktcap": "242.19亿",
+      "market_cap_yi": 242.19,
+      "industry": "电力设备-风电设备-风电整机",
+      "daily_gain_count": 2
+    },
+    {
+      "code": "002180",
+      "name": "奔图科技",
+      "mktcap": "242.00亿",
+      "market_cap_yi": 242.0,
+      "industry": "计算机-计算机设备-其他计算机设备",
+      "daily_gain_count": 2
+    },
+    {
+      "code": "688018",
+      "name": "乐鑫科技",
+      "mktcap": "240.71亿",
+      "market_cap_yi": 240.71,
+      "industry": "电子-半导体-数字芯片设计",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "688127",
+      "name": "蓝特光学",
+      "mktcap": "240.66亿",
+      "market_cap_yi": 240.66,
+      "industry": "电子-光学光电子-光学元件",
+      "daily_gain_count": 2
+    },
+    {
+      "code": "300024",
+      "name": "机器人",
+      "mktcap": "240.64亿",
+      "market_cap_yi": 240.64,
+      "industry": "机械设备-自动化设备-机器人",
+      "daily_gain_count": 2
+    },
+    {
+      "code": "002266",
+      "name": "浙富控股",
+      "mktcap": "240.61亿",
+      "market_cap_yi": 240.61,
+      "industry": "环保-环境治理-固废治理",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "600688",
+      "name": "上海石化",
+      "mktcap": "239.57亿",
+      "market_cap_yi": 239.57,
+      "industry": "石油石化-石油加工贸易-石油加工",
+      "daily_gain_count": 2
+    },
+    {
+      "code": "000738",
+      "name": "航发控制",
+      "mktcap": "238.31亿",
+      "market_cap_yi": 238.31,
+      "industry": "国防军工-军工装备-航空装备",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "688192",
+      "name": "迪哲医药",
+      "mktcap": "237.47亿",
+      "market_cap_yi": 237.47,
+      "industry": "医药生物-化学制药-化学制剂",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "600956",
+      "name": "新天绿能",
+      "mktcap": "236.74亿",
+      "market_cap_yi": 236.74,
+      "industry": "公用事业-电力-新能源发电",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "688248",
+      "name": "南网科技",
+      "mktcap": "236.61亿",
+      "market_cap_yi": 236.61,
+      "industry": "公用事业-电力-电能综合服务",
+      "daily_gain_count": 3
+    },
+    {
+      "code": "300811",
+      "name": "铂科新材",
+      "mktcap": "236.20亿",
+      "market_cap_yi": 236.2,
+      "industry": "有色金属-金属新材料-磁性材料",
+      "daily_gain_count": 3
+    },
+    {
+      "code": "300779",
+      "name": "惠城环保",
+      "mktcap": "236.00亿",
+      "market_cap_yi": 236.0,
+      "industry": "环保-环境治理-固废治理",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "603067",
+      "name": "振华股份",
+      "mktcap": "235.27亿",
+      "market_cap_yi": 235.27,
+      "industry": "基础化工-化学原料-无机盐",
+      "daily_gain_count": 6
+    },
+    {
+      "code": "002670",
+      "name": "国盛证券",
+      "mktcap": "234.15亿",
+      "market_cap_yi": 234.15,
+      "industry": "非银金融-证券-证券Ⅲ",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "001267",
+      "name": "汇绿生态",
+      "mktcap": "234.09亿",
+      "market_cap_yi": 234.09,
+      "industry": "通信-通信设备-通信网络设备及器件",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "601567",
+      "name": "三星电气",
+      "mktcap": "232.84亿",
+      "market_cap_yi": 232.84,
+      "industry": "电力设备-电网设备-输变电设备",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "601016",
+      "name": "节能风电",
+      "mktcap": "231.67亿",
+      "market_cap_yi": 231.67,
+      "industry": "公用事业-电力-新能源发电",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "000962",
+      "name": "东方钽业",
+      "mktcap": "231.45亿",
+      "market_cap_yi": 231.45,
+      "industry": "有色金属-小金属-其他小金属",
+      "daily_gain_count": 5
+    },
+    {
+      "code": "002222",
+      "name": "福晶科技",
+      "mktcap": "230.56亿",
+      "market_cap_yi": 230.56,
+      "industry": "电子-光学光电子-光学元件",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "300255",
+      "name": "常山药业",
+      "mktcap": "229.40亿",
+      "market_cap_yi": 229.4,
+      "industry": "医药生物-化学制药-化学制剂",
+      "daily_gain_count": 2
+    },
+    {
+      "code": "603061",
+      "name": "金海通",
+      "mktcap": "229.15亿",
+      "market_cap_yi": 229.15,
+      "industry": "电子-半导体-半导体设备",
+      "daily_gain_count": 4
+    },
+    {
+      "code": "688167",
+      "name": "炬光科技",
+      "mktcap": "228.32亿",
+      "market_cap_yi": 228.32,
+      "industry": "电子-半导体-分立器件",
+      "daily_gain_count": 3
+    },
+    {
+      "code": "000062",
+      "name": "深圳华强",
+      "mktcap": "227.80亿",
+      "market_cap_yi": 227.8,
+      "industry": "电子-其他电子-其他电子Ⅲ",
+      "daily_gain_count": 3
+    },
+    {
+      "code": "603688",
+      "name": "石英股份",
+      "mktcap": "227.40亿",
+      "market_cap_yi": 227.4,
+      "industry": "基础化工-非金属材料-非金属材料Ⅲ",
+      "daily_gain_count": 2
+    },
+    {
+      "code": "603920",
+      "name": "世运电路",
+      "mktcap": "227.13亿",
+      "market_cap_yi": 227.13,
+      "industry": "电子-元件-印制电路板",
+      "daily_gain_count": 2
+    },
+    {
+      "code": "000887",
+      "name": "中鼎股份",
+      "mktcap": "227.09亿",
+      "market_cap_yi": 227.09,
+      "industry": "汽车-汽车零部件-其他汽车零部件",
+      "daily_gain_count": 2
+    },
+    {
+      "code": "000733",
+      "name": "振华科技",
+      "mktcap": "227.04亿",
+      "market_cap_yi": 227.04,
+      "industry": "国防军工-军工电子-军工电子Ⅲ",
+      "daily_gain_count": 4
+    },
+    {
+      "code": "000547",
+      "name": "航天发展",
+      "mktcap": "226.50亿",
+      "market_cap_yi": 226.5,
+      "industry": "国防军工-军工电子-军工电子Ⅲ",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "002046",
+      "name": "国机精工",
+      "mktcap": "225.95亿",
+      "market_cap_yi": 225.95,
+      "industry": "机械设备-通用设备-磨具磨料",
+      "daily_gain_count": 6
+    },
+    {
+      "code": "002085",
+      "name": "万丰奥威",
+      "mktcap": "225.49亿",
+      "market_cap_yi": 225.49,
+      "industry": "汽车-汽车零部件-轮胎轮毂",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "300627",
+      "name": "华测导航",
+      "mktcap": "225.41亿",
+      "market_cap_yi": 225.41,
+      "industry": "通信-通信设备-通信终端及配件",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "002430",
+      "name": "杭氧股份",
+      "mktcap": "224.92亿",
+      "market_cap_yi": 224.92,
+      "industry": "基础化工-化学制品-其他化学制品",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "002130",
+      "name": "沃尔核材",
+      "mktcap": "223.72亿",
+      "market_cap_yi": 223.72,
+      "industry": "电子-其他电子-其他电子Ⅲ",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "688333",
+      "name": "铂力特",
+      "mktcap": "223.33亿",
+      "market_cap_yi": 223.33,
+      "industry": "机械设备-通用设备-其他通用设备",
+      "daily_gain_count": 3
+    },
+    {
+      "code": "002317",
+      "name": "众生药业",
+      "mktcap": "222.85亿",
+      "market_cap_yi": 222.85,
+      "industry": "医药生物-中药-中药Ⅲ",
+      "daily_gain_count": 2
+    },
+    {
+      "code": "300738",
+      "name": "奥飞数据",
+      "mktcap": "220.29亿",
+      "market_cap_yi": 220.29,
+      "industry": "通信-通信服务-通信应用增值服务",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "001339",
+      "name": "智微智能",
+      "mktcap": "219.70亿",
+      "market_cap_yi": 219.7,
+      "industry": "计算机-计算机设备-其他计算机设备",
+      "daily_gain_count": 3
+    },
+    {
+      "code": "000623",
+      "name": "吉林敖东",
+      "mktcap": "219.69亿",
+      "market_cap_yi": 219.69,
+      "industry": "医药生物-中药-中药Ⅲ",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "688819",
+      "name": "天能股份",
+      "mktcap": "219.60亿",
+      "market_cap_yi": 219.6,
+      "industry": "电力设备-电池-其他电池",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "688368",
+      "name": "晶丰明源",
+      "mktcap": "219.07亿",
+      "market_cap_yi": 219.07,
+      "industry": "电子-半导体-模拟芯片设计",
+      "daily_gain_count": 3
+    },
+    {
+      "code": "688102",
+      "name": "斯瑞新材",
+      "mktcap": "217.14亿",
+      "market_cap_yi": 217.14,
+      "industry": "有色金属-金属新材料-其他金属新材料",
+      "daily_gain_count": 4
+    },
+    {
+      "code": "002335",
+      "name": "科华数据",
+      "mktcap": "216.52亿",
+      "market_cap_yi": 216.52,
+      "industry": "电力设备-其他电源设备-其他电源设备Ⅲ",
+      "daily_gain_count": 3
+    },
+    {
+      "code": "603119",
+      "name": "浙江荣泰",
+      "mktcap": "216.38亿",
+      "market_cap_yi": 216.38,
+      "industry": "汽车-汽车零部件-其他汽车零部件",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "688652",
+      "name": "京仪装备",
+      "mktcap": "215.68亿",
+      "market_cap_yi": 215.68,
+      "industry": "电子-半导体-半导体设备",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "002568",
+      "name": "百润股份",
+      "mktcap": "214.57亿",
+      "market_cap_yi": 214.57,
+      "industry": "食品饮料-饮料制造-其他酒类",
+      "daily_gain_count": 2
+    },
+    {
+      "code": "002624",
+      "name": "完美世界",
+      "mktcap": "212.81亿",
+      "market_cap_yi": 212.81,
+      "industry": "传媒-游戏-游戏Ⅲ",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "000158",
+      "name": "常山北明",
+      "mktcap": "212.62亿",
+      "market_cap_yi": 212.62,
+      "industry": "计算机-IT服务-IT服务Ⅲ",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "300085",
+      "name": "银之杰",
+      "mktcap": "209.73亿",
+      "market_cap_yi": 209.73,
+      "industry": "计算机-软件开发-垂直应用软件",
+      "daily_gain_count": 4
+    },
+    {
+      "code": "002895",
+      "name": "川恒股份",
+      "mktcap": "209.46亿",
+      "market_cap_yi": 209.46,
+      "industry": "基础化工-农化制品-磷肥及磷化工",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "603077",
+      "name": "和邦生物",
+      "mktcap": "209.31亿",
+      "market_cap_yi": 209.31,
+      "industry": "基础化工-农化制品-磷肥及磷化工",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "600516",
+      "name": "方大炭素",
+      "mktcap": "208.55亿",
+      "market_cap_yi": 208.55,
+      "industry": "钢铁-钢铁-冶钢原料",
+      "daily_gain_count": 4
+    },
+    {
+      "code": "600906",
+      "name": "财达证券",
+      "mktcap": "208.33亿",
+      "market_cap_yi": 208.33,
+      "industry": "非银金融-证券-证券Ⅲ",
+      "daily_gain_count": 2
+    },
+    {
+      "code": "600246",
+      "name": "万通发展",
+      "mktcap": "207.90亿",
+      "market_cap_yi": 207.9,
+      "industry": "房地产-房地产-住宅开发",
+      "daily_gain_count": 4
+    },
+    {
+      "code": "600396",
+      "name": "华电辽能",
+      "mktcap": "207.65亿",
+      "market_cap_yi": 207.65,
+      "industry": "公用事业-电力-火电",
+      "daily_gain_count": 2
+    },
+    {
+      "code": "688114",
+      "name": "华大智造",
+      "mktcap": "207.51亿",
+      "market_cap_yi": 207.51,
+      "industry": "医药生物-医疗器械-医疗设备",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "603728",
+      "name": "鸣志电器",
+      "mktcap": "207.10亿",
+      "market_cap_yi": 207.1,
+      "industry": "电力设备-电机-电机Ⅲ",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "603730",
+      "name": "岱美股份",
+      "mktcap": "206.26亿",
+      "market_cap_yi": 206.26,
+      "industry": "汽车-汽车零部件-车身附件及饰件",
+      "daily_gain_count": 2
+    },
+    {
+      "code": "301297",
+      "name": "富乐德",
+      "mktcap": "205.79亿",
+      "market_cap_yi": 205.79,
+      "industry": "电子-半导体-半导体设备",
+      "daily_gain_count": 3
+    },
+    {
+      "code": "300456",
+      "name": "赛微电子",
+      "mktcap": "205.61亿",
+      "market_cap_yi": 205.61,
+      "industry": "电子-半导体-集成电路制造",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "600330",
+      "name": "天通股份",
+      "mktcap": "204.87亿",
+      "market_cap_yi": 204.87,
+      "industry": "电子-电子化学品-电子化学品Ⅲ",
+      "daily_gain_count": 3
+    },
+    {
+      "code": "688343",
+      "name": "云天励飞",
+      "mktcap": "204.58亿",
+      "market_cap_yi": 204.58,
+      "industry": "计算机-IT服务-IT服务Ⅲ",
+      "daily_gain_count": 2
+    },
+    {
+      "code": "300903",
+      "name": "科翔股份",
+      "mktcap": "203.67亿",
+      "market_cap_yi": 203.67,
+      "industry": "电子-元件-印制电路板",
+      "daily_gain_count": 4
+    },
+    {
+      "code": "688001",
+      "name": "华兴源创",
+      "mktcap": "203.62亿",
+      "market_cap_yi": 203.62,
+      "industry": "机械设备-专用设备-其他专用设备",
+      "daily_gain_count": 3
+    },
+    {
+      "code": "688400",
+      "name": "凌云光",
+      "mktcap": "203.19亿",
+      "market_cap_yi": 203.19,
+      "industry": "机械设备-自动化设备-其他自动化设备",
+      "daily_gain_count": 2
+    },
+    {
+      "code": "605111",
+      "name": "新洁能",
+      "mktcap": "202.27亿",
+      "market_cap_yi": 202.27,
+      "industry": "电子-半导体-分立器件",
+      "daily_gain_count": 6
+    },
+    {
+      "code": "002497",
+      "name": "雅化集团",
+      "mktcap": "202.04亿",
+      "market_cap_yi": 202.04,
+      "industry": "基础化工-化学制品-民爆用品",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "603876",
+      "name": "鼎胜新材",
+      "mktcap": "201.47亿",
+      "market_cap_yi": 201.47,
+      "industry": "有色金属-工业金属-铝",
+      "daily_gain_count": 1
+    },
+    {
+      "code": "001301",
+      "name": "尚太科技",
+      "mktcap": "201.34亿",
+      "market_cap_yi": 201.34,
+      "industry": "电力设备-电池-电池化学品",
+      "daily_gain_count": 2
+    },
+    {
+      "code": "000519",
+      "name": "中兵红箭",
+      "mktcap": "200.39亿",
+      "market_cap_yi": 200.39,
+      "industry": "国防军工-军工装备-地面兵装",
+      "daily_gain_count": 2
+    },
+    {
+      "code": "603663",
+      "name": "三祥新材",
+      "mktcap": "200.03亿",
+      "market_cap_yi": 200.03,
+      "industry": "基础化工-非金属材料-非金属材料Ⅲ",
+      "daily_gain_count": 6
+    }
+  ]
+}

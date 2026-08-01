@@ -1,0 +1,117 @@
+{
+  "month": "2025-04",
+  "query": "2025年4月涨幅大于20%的股票，2025年4月涨跌幅，市值，行业板块，上市时间，非北交，非新股，非ST，市值大于200亿，上市时间在2024年之前",
+  "fetched_at": "2026-06-13 21:53:56",
+  "records": [
+    {
+      "code": "688506",
+      "name": "百利天恒",
+      "gain": "23.15",
+      "mktcap": "957.87亿",
+      "industry": "医药生物-化学制药-化学制剂",
+      "listing_date": "20230106",
+      "gain_pct": 23.15,
+      "market_cap_yi": 957.87,
+      "listing_date_parsed": "2023-01-06"
+    },
+    {
+      "code": "688313",
+      "name": "仕佳光子",
+      "gain": "53.09",
+      "mktcap": "673.78亿",
+      "industry": "通信-通信设备-通信网络设备及器件",
+      "listing_date": "20200812",
+      "gain_pct": 53.09,
+      "market_cap_yi": 673.78,
+      "listing_date_parsed": "2020-08-12"
+    },
+    {
+      "code": "688331",
+      "name": "荣昌生物",
+      "gain": "24.06",
+      "mktcap": "540.53亿",
+      "industry": "医药生物-生物制品-其他生物制品",
+      "listing_date": "20220331",
+      "gain_pct": 24.06,
+      "market_cap_yi": 540.53,
+      "listing_date_parsed": "2022-03-31"
+    },
+    {
+      "code": "688536",
+      "name": "思瑞浦",
+      "gain": "31.84",
+      "mktcap": "427.15亿",
+      "industry": "电子-半导体-模拟芯片设计",
+      "listing_date": "20200921",
+      "gain_pct": 31.84,
+      "market_cap_yi": 427.15,
+      "listing_date_parsed": "2020-09-21"
+    },
+    {
+      "code": "300972",
+      "name": "万辰集团",
+      "gain": "84.09",
+      "mktcap": "378.09亿",
+      "industry": "商贸零售-零售-百货零售",
+      "listing_date": "20210419",
+      "gain_pct": 84.09,
+      "market_cap_yi": 378.09,
+      "listing_date_parsed": "2021-04-19"
+    },
+    {
+      "code": "688052",
+      "name": "纳芯微",
+      "gain": "33.29",
+      "mktcap": "365.12亿",
+      "industry": "电子-半导体-模拟芯片设计",
+      "listing_date": "20220422",
+      "gain_pct": 33.29,
+      "market_cap_yi": 365.12,
+      "listing_date_parsed": "2022-04-22"
+    },
+    {
+      "code": "603119",
+      "name": "浙江荣泰",
+      "gain": "22.55",
+      "mktcap": "349.92亿",
+      "industry": "汽车-汽车零部件-其他汽车零部件",
+      "listing_date": "20230801",
+      "gain_pct": 22.55,
+      "market_cap_yi": 349.92,
+      "listing_date_parsed": "2023-08-01"
+    },
+    {
+      "code": "002294",
+      "name": "信立泰",
+      "gain": "25.39",
+      "mktcap": "348.94亿",
+      "industry": "医药生物-化学制药-化学制剂",
+      "listing_date": "20090910",
+      "gain_pct": 25.39,
+      "market_cap_yi": 348.94,
+      "listing_date_parsed": "2009-09-10"
+    },
+    {
+      "code": "603067",
+      "name": "振华股份",
+      "gain": "27.45",
+      "mktcap": "242.07亿",
+      "industry": "基础化工-化学原料-无机盐",
+      "listing_date": "20160913",
+      "gain_pct": 27.45,
+      "market_cap_yi": 242.07,
+      "listing_date_parsed": "2016-09-13"
+    },
+    {
+      "code": "301196",
+      "name": "唯科科技",
+      "gain": "25.69",
+      "mktcap": "201.88亿",
+      "industry": "基础化工-塑料制品-其他塑料制品",
+      "listing_date": "20220111",
+      "gain_pct": 25.69,
+      "market_cap_yi": 201.88,
+      "listing_date_parsed": "2022-01-11"
+    }
+  ]
+}

@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "010428",
+    "name": "兴银策略智选混合C",
+    "base_name": "兴银策略智选混合"
+  },
+  "fetched_at": "2026-06-14 23:40:31",
+  "quarters": {
+    "2022-Q4": [
+      {
+        "stock_code": "300382",
+        "stock_name": "斯莱克",
+        "market_value_wan": 296.23
+      },
+      {
+        "stock_code": "603345",
+        "stock_name": "安井食品",
+        "market_value_wan": 286.53
+      },
+      {
+        "stock_code": "300910",
+        "stock_name": "瑞丰新材",
+        "market_value_wan": 266.35
+      },
+      {
+        "stock_code": "600129",
+        "stock_name": "太极集团",
+        "market_value_wan": 249.5
+      },
+      {
+        "stock_code": "603755",
+        "stock_name": "日辰股份",
+        "market_value_wan": 223.5
+      },
+      {
+        "stock_code": "002532",
+        "stock_name": "天山铝业",
+        "market_value_wan": 176.32
+      },
+      {
+        "stock_code": "600298",
+        "stock_name": "安琪酵母",
+        "market_value_wan": 167.77
+      },
+      {
+        "stock_code": "600760",
+        "stock_name": "中航沈飞",
+        "market_value_wan": 166.51
+      },
+      {
+        "stock_code": "600875",
+        "stock_name": "东方电气",
+        "market_value_wan": 156.81
+      },
+      {
+        "stock_code": "600419",
+        "stock_name": "天润乳业",
+        "market_value_wan": 151.78
+      }
+    ],
+    "2022-Q3": [
+      {
+        "stock_code": "300382",
+        "stock_name": "斯莱克",
+        "market_value_wan": 323.06
+      },
+      {
+        "stock_code": "600129",
+        "stock_name": "太极集团",
+        "market_value_wan": 283.4
+      },
+      {
+        "stock_code": "603345",
+        "stock_name": "安井食品",
+        "market_value_wan": 274.85
+      },
+      {
+        "stock_code": "600760",
+        "stock_name": "中航沈飞",
+        "market_value_wan": 260.87
+      },
+      {
+        "stock_code": "600298",
+        "stock_name": "安琪酵母",
+        "market_value_wan": 221.21
+      },
+      {
+        "stock_code": "002557",
+        "stock_name": "洽洽食品",
+        "market_value_wan": 208.24
+      },
+      {
+        "stock_code": "600893",
+        "stock_name": "航发动力",
+        "market_value_wan": 203.04
+      },
+      {
+        "stock_code": "603755",
+        "stock_name": "日辰股份",
+        "market_value_wan": 200.52
+      },
+      {
+        "stock_code": "002532",
+        "stock_name": "天山铝业",
+        "market_value_wan": 198.9
+      },
+      {
+        "stock_code": "000729",
+        "stock_name": "燕京啤酒",
+        "market_value_wan": 187.63
+      }
+    ],
+    "2022-Q2": [
+      {
+        "stock_code": "301071",
+        "stock_name": "力量钻石",
+        "market_value_wan": 319.57
+      },
+      {
+        "stock_code": "688032",
+        "stock_name": "禾迈股份",
+        "market_value_wan": 262.87
+      },
+      {
+        "stock_code": "600760",
+        "stock_name": "中航沈飞",
+        "market_value_wan": 258.73
+      },
+      {
+        "stock_code": "600129",
+        "stock_name": "太极集团",
+        "market_value_wan": 257.93
+      },
+      {
+        "stock_code": "603345",
+        "stock_name": "安井食品",
+        "market_value_wan": 240.05
+      },
+      {
+        "stock_code": "002557",
+        "stock_name": "洽洽食品",
+        "market_value_wan": 202.1
+      },
+      {
+        "stock_code": "688223",
+        "stock_name": "晶科能源",
+        "market_value_wan": 200.27
+      },
+      {
+        "stock_code": "002371",
+        "stock_name": "北方华创",
+        "market_value_wan": 193.98
+      },
+      {
+        "stock_code": "603755",
+        "stock_name": "日辰股份",
+        "market_value_wan": 191.94
+      },
+      {
+        "stock_code": "688533",
+        "stock_name": "上声电子",
+        "market_value_wan": 191.22
+      }
+    ],
+    "2022-Q1": [
+      {
+        "stock_code": "600765",
+        "stock_name": "中航重机",
+        "market_value_wan": 275.35
+      },
+      {
+        "stock_code": "301071",
+        "stock_name": "力量钻石",
+        "market_value_wan": 272.93
+      },
+      {
+        "stock_code": "002557",
+        "stock_name": "洽洽食品",
+        "market_value_wan": 195.11
+      },
+      {
+        "stock_code": "000999",
+        "stock_name": "华润三九",
+        "market_value_wan": 176.0
+      },
+      {
+        "stock_code": "000519",
+        "stock_name": "中兵红箭",
+        "market_value_wan": 171.0
+      },
+      {
+        "stock_code": "002371",
+        "stock_name": "北方华创",
+        "market_value_wan": 169.88
+      },
+      {
+        "stock_code": "688223",
+        "stock_name": "晶科能源",
+        "market_value_wan": 161.75
+      },
+      {
+        "stock_code": "000683",
+        "stock_name": "远兴能源",
+        "market_value_wan": 160.85
+      },
+      {
+        "stock_code": "688202",
+        "stock_name": "美迪西",
+        "market_value_wan": 156.75
+      },
+      {
+        "stock_code": "600129",
+        "stock_name": "太极集团",
+        "market_value_wan": 149.31
+      }
+    ]
+  }
+}

@@ -1,0 +1,408 @@
+{
+  "cache_version": 2,
+  "month": "2026-06",
+  "query": "2026年6月出现历史新高的次数，市值，行业板块，上市时间，非北交，非新股，非ST，市值大于200亿，上市时间在2024年之前",
+  "fetched_at": "2026-06-20 21:23:59",
+  "records": [
+    {
+      "code": "301377",
+      "name": "鼎泰高科",
+      "mktcap": "2,468.48亿",
+      "market_cap_yi": 2468.48,
+      "industry": "机械设备-通用设备-金属制品",
+      "history_high_count": 10
+    },
+    {
+      "code": "300408",
+      "name": "三环集团",
+      "mktcap": "3,025.96亿",
+      "market_cap_yi": 3025.96,
+      "industry": "电子-元件-被动元件",
+      "history_high_count": 9
+    },
+    {
+      "code": "600487",
+      "name": "亨通光电",
+      "mktcap": "2,737.94亿",
+      "market_cap_yi": 2737.94,
+      "industry": "通信-通信设备-通信线缆及配套",
+      "history_high_count": 9
+    },
+    {
+      "code": "688146",
+      "name": "中船特气",
+      "mktcap": "1,927.06亿",
+      "market_cap_yi": 1927.06,
+      "industry": "电子-电子化学品-电子化学品Ⅲ",
+      "history_high_count": 9
+    },
+    {
+      "code": "000636",
+      "name": "风华高科",
+      "mktcap": "863.13亿",
+      "market_cap_yi": 863.13,
+      "industry": "电子-元件-被动元件",
+      "history_high_count": 9
+    },
+    {
+      "code": "002636",
+      "name": "金安国纪",
+      "mktcap": "760.10亿",
+      "market_cap_yi": 760.1,
+      "industry": "电子-元件-印制电路板",
+      "history_high_count": 9
+    },
+    {
+      "code": "688777",
+      "name": "中控技术",
+      "mktcap": "985.03亿",
+      "market_cap_yi": 985.03,
+      "industry": "机械设备-自动化设备-工控设备",
+      "history_high_count": 8
+    },
+    {
+      "code": "688519",
+      "name": "南亚新材",
+      "mktcap": "933.67亿",
+      "market_cap_yi": 933.67,
+      "industry": "电子-元件-印制电路板",
+      "history_high_count": 8
+    },
+    {
+      "code": "601208",
+      "name": "东材科技",
+      "mktcap": "755.92亿",
+      "market_cap_yi": 755.92,
+      "industry": "基础化工-塑料制品-膜材料",
+      "history_high_count": 8
+    },
+    {
+      "code": "600869",
+      "name": "远东股份",
+      "mktcap": "729.28亿",
+      "market_cap_yi": 729.28,
+      "industry": "电力设备-电网设备-线缆部件及其他",
+      "history_high_count": 8
+    },
+    {
+      "code": "688630",
+      "name": "芯碁微装",
+      "mktcap": "661.34亿",
+      "market_cap_yi": 661.34,
+      "industry": "机械设备-专用设备-其他专用设备",
+      "history_high_count": 8
+    },
+    {
+      "code": "605376",
+      "name": "博迁新材",
+      "mktcap": "605.11亿",
+      "market_cap_yi": 605.11,
+      "industry": "有色金属-能源金属-镍",
+      "history_high_count": 8
+    },
+    {
+      "code": "605589",
+      "name": "圣泉集团",
+      "mktcap": "590.95亿",
+      "market_cap_yi": 590.95,
+      "industry": "基础化工-塑料制品-合成树脂",
+      "history_high_count": 8
+    },
+    {
+      "code": "002138",
+      "name": "顺络电子",
+      "mktcap": "573.78亿",
+      "market_cap_yi": 573.78,
+      "industry": "电子-元件-被动元件",
+      "history_high_count": 8
+    },
+    {
+      "code": "600667",
+      "name": "太极实业",
+      "mktcap": "437.55亿",
+      "market_cap_yi": 437.55,
+      "industry": "建筑装饰-建筑装饰-工程咨询服务",
+      "history_high_count": 8
+    },
+    {
+      "code": "603663",
+      "name": "三祥新材",
+      "mktcap": "370.34亿",
+      "market_cap_yi": 370.34,
+      "industry": "基础化工-非金属材料-非金属材料Ⅲ",
+      "history_high_count": 8
+    },
+    {
+      "code": "603773",
+      "name": "沃格光电",
+      "mktcap": "370.17亿",
+      "market_cap_yi": 370.17,
+      "industry": "电子-光学光电子-面板",
+      "history_high_count": 8
+    },
+    {
+      "code": "301362",
+      "name": "民爆光电",
+      "mktcap": "351.39亿",
+      "market_cap_yi": 351.39,
+      "industry": "电子-光学光电子-LED",
+      "history_high_count": 8
+    },
+    {
+      "code": "600353",
+      "name": "旭光电子",
+      "mktcap": "348.18亿",
+      "market_cap_yi": 348.18,
+      "industry": "电子-其他电子-其他电子Ⅲ",
+      "history_high_count": 8
+    },
+    {
+      "code": "600226",
+      "name": "亨通股份",
+      "mktcap": "290.30亿",
+      "market_cap_yi": 290.3,
+      "industry": "公用事业-电力-热力",
+      "history_high_count": 8
+    },
+    {
+      "code": "688059",
+      "name": "华锐精密",
+      "mktcap": "205.88亿",
+      "market_cap_yi": 205.88,
+      "industry": "机械设备-通用设备-金属制品",
+      "history_high_count": 8
+    },
+    {
+      "code": "600183",
+      "name": "生益科技",
+      "mktcap": "4,466.42亿",
+      "market_cap_yi": 4466.42,
+      "industry": "电子-元件-印制电路板",
+      "history_high_count": 7
+    },
+    {
+      "code": "000657",
+      "name": "中钨高新",
+      "mktcap": "2,243.97亿",
+      "market_cap_yi": 2243.97,
+      "industry": "有色金属-小金属-钨",
+      "history_high_count": 7
+    },
+    {
+      "code": "688498",
+      "name": "源杰科技",
+      "mktcap": "2,083.34亿",
+      "market_cap_yi": 2083.34,
+      "industry": "电子-半导体-分立器件",
+      "history_high_count": 7
+    },
+    {
+      "code": "301526",
+      "name": "国际复材",
+      "mktcap": "1,541.91亿",
+      "market_cap_yi": 1541.91,
+      "industry": "建筑材料-建筑材料-玻璃玻纤",
+      "history_high_count": 7
+    },
+    {
+      "code": "300285",
+      "name": "国瓷材料",
+      "mktcap": "892.66亿",
+      "market_cap_yi": 892.66,
+      "industry": "电子-电子化学品-电子化学品Ⅲ",
+      "history_high_count": 7
+    },
+    {
+      "code": "688257",
+      "name": "新锐股份",
+      "mktcap": "384.55亿",
+      "market_cap_yi": 384.55,
+      "industry": "机械设备-通用设备-金属制品",
+      "history_high_count": 7
+    },
+    {
+      "code": "603186",
+      "name": "华正新材",
+      "mktcap": "373.33亿",
+      "market_cap_yi": 373.33,
+      "industry": "电子-元件-印制电路板",
+      "history_high_count": 7
+    },
+    {
+      "code": "600114",
+      "name": "东睦股份",
+      "mktcap": "276.86亿",
+      "market_cap_yi": 276.86,
+      "industry": "机械设备-通用设备-金属制品",
+      "history_high_count": 7
+    },
+    {
+      "code": "603256",
+      "name": "宏和科技",
+      "mktcap": "2,332.02亿",
+      "market_cap_yi": 2332.02,
+      "industry": "电子-电子化学品-电子化学品Ⅲ",
+      "history_high_count": 6
+    },
+    {
+      "code": "600522",
+      "name": "中天科技",
+      "mktcap": "1,930.02亿",
+      "market_cap_yi": 1930.02,
+      "industry": "通信-通信设备-通信线缆及配套",
+      "history_high_count": 6
+    },
+    {
+      "code": "002851",
+      "name": "麦格米特",
+      "mktcap": "1,044.31亿",
+      "market_cap_yi": 1044.31,
+      "industry": "电力设备-其他电源设备-其他电源设备Ⅲ",
+      "history_high_count": 6
+    },
+    {
+      "code": "002484",
+      "name": "江海股份",
+      "mktcap": "919.08亿",
+      "market_cap_yi": 919.08,
+      "industry": "电子-元件-被动元件",
+      "history_high_count": 6
+    },
+    {
+      "code": "002436",
+      "name": "兴森科技",
+      "mktcap": "884.85亿",
+      "market_cap_yi": 884.85,
+      "industry": "电子-元件-印制电路板",
+      "history_high_count": 6
+    },
+    {
+      "code": "688300",
+      "name": "联瑞新材",
+      "mktcap": "653.10亿",
+      "market_cap_yi": 653.1,
+      "industry": "基础化工-非金属材料-非金属材料Ⅲ",
+      "history_high_count": 6
+    },
+    {
+      "code": "688549",
+      "name": "中巨芯",
+      "mktcap": "513.65亿",
+      "market_cap_yi": 513.65,
+      "industry": "电子-电子化学品-电子化学品Ⅲ",
+      "history_high_count": 6
+    },
+    {
+      "code": "301319",
+      "name": "唯特偶",
+      "mktcap": "309.69亿",
+      "market_cap_yi": 309.69,
+      "industry": "电子-电子化学品-电子化学品Ⅲ",
+      "history_high_count": 6
+    },
+    {
+      "code": "688403",
+      "name": "汇成股份",
+      "mktcap": "297.78亿",
+      "market_cap_yi": 297.78,
+      "industry": "电子-半导体-集成电路封测",
+      "history_high_count": 6
+    },
+    {
+      "code": "002552",
+      "name": "宝鼎科技",
+      "mktcap": "280.86亿",
+      "market_cap_yi": 280.86,
+      "industry": "电子-元件-印制电路板",
+      "history_high_count": 6
+    },
+    {
+      "code": "301128",
+      "name": "强瑞技术",
+      "mktcap": "272.55亿",
+      "market_cap_yi": 272.55,
+      "industry": "机械设备-专用设备-其他专用设备",
+      "history_high_count": 6
+    },
+    {
+      "code": "002645",
+      "name": "华宏科技",
+      "mktcap": "271.88亿",
+      "market_cap_yi": 271.88,
+      "industry": "环保-环境治理-综合环境治理",
+      "history_high_count": 6
+    },
+    {
+      "code": "688625",
+      "name": "呈和科技",
+      "mktcap": "248.07亿",
+      "market_cap_yi": 248.07,
+      "industry": "基础化工-化学制品-其他化学制品",
+      "history_high_count": 6
+    },
+    {
+      "code": "003036",
+      "name": "泰坦股份",
+      "mktcap": "213.70亿",
+      "market_cap_yi": 213.7,
+      "industry": "机械设备-专用设备-纺织服装设备",
+      "history_high_count": 6
+    },
+    {
+      "code": "300433",
+      "name": "蓝思科技",
+      "mktcap": "2,854.32亿",
+      "market_cap_yi": 2854.32,
+      "industry": "电子-消费电子-消费电子零部件及组装",
+      "history_high_count": 5
+    },
+    {
+      "code": "301217",
+      "name": "铜冠铜箔",
+      "mktcap": "1,658.03亿",
+      "market_cap_yi": 1658.03,
+      "industry": "电力设备-电池-锂电池",
+      "history_high_count": 5
+    },
+    {
+      "code": "301511",
+      "name": "德福科技",
+      "mktcap": "1,014.19亿",
+      "market_cap_yi": 1014.19,
+      "industry": "电力设备-电池-锂电池",
+      "history_high_count": 5
+    },
+    {
+      "code": "300620",
+      "name": "光库科技",
+      "mktcap": "973.80亿",
+      "market_cap_yi": 973.8,
+      "industry": "通信-通信设备-通信网络设备及器件",
+      "history_high_count": 5
+    },
+    {
+      "code": "002859",
+      "name": "洁美科技",
+      "mktcap": "430.06亿",
+      "market_cap_yi": 430.06,
+      "industry": "电子-其他电子-其他电子Ⅲ",
+      "history_high_count": 5
+    },
+    {
+      "code": "300489",
+      "name": "光智科技",
+      "mktcap": "313.80亿",
+      "market_cap_yi": 313.8,
+      "industry": "电子-光学光电子-光学元件",
+      "history_high_count": 5
+    },
+    {
+      "code": "300319",
+      "name": "麦捷科技",
+      "mktcap": "246.39亿",
+      "market_cap_yi": 246.39,
+      "industry": "电子-元件-被动元件",
+      "history_high_count": 5
+    }
+  ]
+}

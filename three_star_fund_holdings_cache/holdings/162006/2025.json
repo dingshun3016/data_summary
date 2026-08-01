@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "162006",
+    "name": "长城久富混合(LOF)A",
+    "base_name": "长城久富混合(LOF)"
+  },
+  "fetched_at": "2026-06-14 23:53:00",
+  "quarters": {
+    "2025-Q4": [
+      {
+        "stock_code": "002683",
+        "stock_name": "广东宏大",
+        "market_value_wan": 16201.81
+      },
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 14430.99
+      },
+      {
+        "stock_code": "603067",
+        "stock_name": "振华股份",
+        "market_value_wan": 12891.02
+      },
+      {
+        "stock_code": "002448",
+        "stock_name": "中原内配",
+        "market_value_wan": 8519.45
+      },
+      {
+        "stock_code": "002837",
+        "stock_name": "英维克",
+        "market_value_wan": 7834.4
+      },
+      {
+        "stock_code": "300953",
+        "stock_name": "震裕科技",
+        "market_value_wan": 7351.11
+      },
+      {
+        "stock_code": "300811",
+        "stock_name": "铂科新材",
+        "market_value_wan": 7133.72
+      },
+      {
+        "stock_code": "002472",
+        "stock_name": "双环传动",
+        "market_value_wan": 7049.87
+      },
+      {
+        "stock_code": "300679",
+        "stock_name": "电连技术",
+        "market_value_wan": 6692.27
+      },
+      {
+        "stock_code": "688213",
+        "stock_name": "思特威",
+        "market_value_wan": 6260.55
+      }
+    ],
+    "2025-Q3": [
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 14753.2
+      },
+      {
+        "stock_code": "601137",
+        "stock_name": "博威合金",
+        "market_value_wan": 13047.87
+      },
+      {
+        "stock_code": "002837",
+        "stock_name": "英维克",
+        "market_value_wan": 10517.69
+      },
+      {
+        "stock_code": "603067",
+        "stock_name": "振华股份",
+        "market_value_wan": 10435.21
+      },
+      {
+        "stock_code": "002683",
+        "stock_name": "广东宏大",
+        "market_value_wan": 9890.31
+      },
+      {
+        "stock_code": "002472",
+        "stock_name": "双环传动",
+        "market_value_wan": 9408.11
+      },
+      {
+        "stock_code": "002353",
+        "stock_name": "杰瑞股份",
+        "market_value_wan": 9297.44
+      },
+      {
+        "stock_code": "300679",
+        "stock_name": "电连技术",
+        "market_value_wan": 7589.25
+      },
+      {
+        "stock_code": "688213",
+        "stock_name": "思特威",
+        "market_value_wan": 7545.35
+      },
+      {
+        "stock_code": "300811",
+        "stock_name": "铂科新材",
+        "market_value_wan": 7382.06
+      }
+    ],
+    "2025-Q2": [
+      {
+        "stock_code": "603596",
+        "stock_name": "伯特利",
+        "market_value_wan": 13654.93
+      },
+      {
+        "stock_code": "002906",
+        "stock_name": "华阳集团",
+        "market_value_wan": 13405.82
+      },
+      {
+        "stock_code": "300627",
+        "stock_name": "华测导航",
+        "market_value_wan": 12280.31
+      },
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 10360.52
+      },
+      {
+        "stock_code": "603067",
+        "stock_name": "振华股份",
+        "market_value_wan": 9416.02
+      },
+      {
+        "stock_code": "002683",
+        "stock_name": "广东宏大",
+        "market_value_wan": 8686.26
+      },
+      {
+        "stock_code": "002472",
+        "stock_name": "双环传动",
+        "market_value_wan": 6750.58
+      },
+      {
+        "stock_code": "300679",
+        "stock_name": "电连技术",
+        "market_value_wan": 6705.81
+      },
+      {
+        "stock_code": "002463",
+        "stock_name": "沪电股份",
+        "market_value_wan": 6112.78
+      },
+      {
+        "stock_code": "002353",
+        "stock_name": "杰瑞股份",
+        "market_value_wan": 5435.15
+      }
+    ],
+    "2025-Q1": [
+      {
+        "stock_code": "603596",
+        "stock_name": "伯特利",
+        "market_value_wan": 15645.97
+      },
+      {
+        "stock_code": "002906",
+        "stock_name": "华阳集团",
+        "market_value_wan": 15317.93
+      },
+      {
+        "stock_code": "002594",
+        "stock_name": "比亚迪",
+        "market_value_wan": 10996.19
+      },
+      {
+        "stock_code": "300679",
+        "stock_name": "电连技术",
+        "market_value_wan": 10911.65
+      },
+      {
+        "stock_code": "300627",
+        "stock_name": "华测导航",
+        "market_value_wan": 9314.38
+      },
+      {
+        "stock_code": "603067",
+        "stock_name": "振华股份",
+        "market_value_wan": 8350.58
+      },
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 7459.56
+      },
+      {
+        "stock_code": "603197",
+        "stock_name": "保隆科技",
+        "market_value_wan": 5913.64
+      },
+      {
+        "stock_code": "002353",
+        "stock_name": "杰瑞股份",
+        "market_value_wan": 5709.14
+      },
+      {
+        "stock_code": "601100",
+        "stock_name": "恒立液压",
+        "market_value_wan": 5228.16
+      }
+    ]
+  }
+}

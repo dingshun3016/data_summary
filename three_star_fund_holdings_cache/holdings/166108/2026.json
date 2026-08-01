@@ -1,0 +1,115 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "166108",
+    "name": "信澳量化多因子混合(LOF)C",
+    "base_name": "信澳量化多因子混合(LOF)"
+  },
+  "fetched_at": "2026-08-01 21:00:36",
+  "quarters": {
+    "2026-Q2": [
+      {
+        "stock_code": "688498",
+        "stock_name": "源杰科技",
+        "market_value_wan": 81.85
+      },
+      {
+        "stock_code": "001309",
+        "stock_name": "德明利",
+        "market_value_wan": 56.57
+      },
+      {
+        "stock_code": "300604",
+        "stock_name": "长川科技",
+        "market_value_wan": 44.38
+      },
+      {
+        "stock_code": "688002",
+        "stock_name": "睿创微纳",
+        "market_value_wan": 40.79
+      },
+      {
+        "stock_code": "300475",
+        "stock_name": "香农芯创",
+        "market_value_wan": 39.0
+      },
+      {
+        "stock_code": "300857",
+        "stock_name": "协创数据",
+        "market_value_wan": 37.39
+      },
+      {
+        "stock_code": "002738",
+        "stock_name": "中矿资源",
+        "market_value_wan": 30.67
+      },
+      {
+        "stock_code": "002008",
+        "stock_name": "大族激光",
+        "market_value_wan": 25.52
+      },
+      {
+        "stock_code": "300308",
+        "stock_name": "中际旭创",
+        "market_value_wan": 25.4
+      },
+      {
+        "stock_code": "688347",
+        "stock_name": "华虹宏力",
+        "market_value_wan": 24.62
+      }
+    ],
+    "2026-Q1": [
+      {
+        "stock_code": "688002",
+        "stock_name": "睿创微纳",
+        "market_value_wan": 74.22
+      },
+      {
+        "stock_code": "601233",
+        "stock_name": "桐昆股份",
+        "market_value_wan": 71.84
+      },
+      {
+        "stock_code": "002414",
+        "stock_name": "高德红外",
+        "market_value_wan": 70.81
+      },
+      {
+        "stock_code": "601899",
+        "stock_name": "紫金矿业",
+        "market_value_wan": 66.42
+      },
+      {
+        "stock_code": "000408",
+        "stock_name": "藏格矿业",
+        "market_value_wan": 61.83
+      },
+      {
+        "stock_code": "603993",
+        "stock_name": "洛阳钼业",
+        "market_value_wan": 54.54
+      },
+      {
+        "stock_code": "600352",
+        "stock_name": "浙江龙盛",
+        "market_value_wan": 52.04
+      },
+      {
+        "stock_code": "002558",
+        "stock_name": "巨人网络",
+        "market_value_wan": 51.09
+      },
+      {
+        "stock_code": "002111",
+        "stock_name": "威海广泰",
+        "market_value_wan": 49.24
+      },
+      {
+        "stock_code": "600378",
+        "stock_name": "昊华科技",
+        "market_value_wan": 47.71
+      }
+    ]
+  }
+}

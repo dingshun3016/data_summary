@@ -1,0 +1,65 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "519139",
+    "name": "海富通沪港深混合A",
+    "base_name": "海富通沪港深混合"
+  },
+  "fetched_at": "2026-08-01 21:01:13",
+  "quarters": {
+    "2026-Q2": [
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 200.44
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 177.82
+      },
+      {
+        "stock_code": "603889",
+        "stock_name": "新澳股份",
+        "market_value_wan": 171.92
+      },
+      {
+        "stock_code": "002833",
+        "stock_name": "弘亚数控",
+        "market_value_wan": 140.43
+      }
+    ],
+    "2026-Q1": [
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 348.0
+      },
+      {
+        "stock_code": "601601",
+        "stock_name": "中国太保",
+        "market_value_wan": 242.94
+      },
+      {
+        "stock_code": "603889",
+        "stock_name": "新澳股份",
+        "market_value_wan": 229.18
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 152.65
+      },
+      {
+        "stock_code": "603599",
+        "stock_name": "广信股份",
+        "market_value_wan": 97.95
+      },
+      {
+        "stock_code": "001979",
+        "stock_name": "招商蛇口",
+        "market_value_wan": 91.5
+      }
+    ]
+  }
+}

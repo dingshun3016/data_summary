@@ -1,0 +1,115 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "005636",
+    "name": "博时量化多策略股票C",
+    "base_name": "博时量化多策略股票"
+  },
+  "fetched_at": "2026-08-01 20:56:35",
+  "quarters": {
+    "2026-Q2": [
+      {
+        "stock_code": "300308",
+        "stock_name": "中际旭创",
+        "market_value_wan": 1016.0
+      },
+      {
+        "stock_code": "688037",
+        "stock_name": "芯源微",
+        "market_value_wan": 928.42
+      },
+      {
+        "stock_code": "603986",
+        "stock_name": "兆易创新",
+        "market_value_wan": 855.75
+      },
+      {
+        "stock_code": "300604",
+        "stock_name": "长川科技",
+        "market_value_wan": 812.58
+      },
+      {
+        "stock_code": "688257",
+        "stock_name": "新锐股份",
+        "market_value_wan": 760.38
+      },
+      {
+        "stock_code": "688498",
+        "stock_name": "源杰科技",
+        "market_value_wan": 754.4
+      },
+      {
+        "stock_code": "688059",
+        "stock_name": "华锐精密",
+        "market_value_wan": 736.93
+      },
+      {
+        "stock_code": "001309",
+        "stock_name": "德明利",
+        "market_value_wan": 735.46
+      },
+      {
+        "stock_code": "300475",
+        "stock_name": "香农芯创",
+        "market_value_wan": 735.0
+      },
+      {
+        "stock_code": "688002",
+        "stock_name": "睿创微纳",
+        "market_value_wan": 703.84
+      }
+    ],
+    "2026-Q1": [
+      {
+        "stock_code": "601398",
+        "stock_name": "工商银行",
+        "market_value_wan": 1298.19
+      },
+      {
+        "stock_code": "601328",
+        "stock_name": "交通银行",
+        "market_value_wan": 1251.67
+      },
+      {
+        "stock_code": "601988",
+        "stock_name": "中国银行",
+        "market_value_wan": 908.68
+      },
+      {
+        "stock_code": "002028",
+        "stock_name": "思源电气",
+        "market_value_wan": 606.0
+      },
+      {
+        "stock_code": "002454",
+        "stock_name": "松芝股份",
+        "market_value_wan": 539.43
+      },
+      {
+        "stock_code": "002345",
+        "stock_name": "潮宏基",
+        "market_value_wan": 518.19
+      },
+      {
+        "stock_code": "300283",
+        "stock_name": "温州宏丰",
+        "market_value_wan": 515.1
+      },
+      {
+        "stock_code": "603335",
+        "stock_name": "迪生力",
+        "market_value_wan": 513.6
+      },
+      {
+        "stock_code": "601007",
+        "stock_name": "金陵饭店",
+        "market_value_wan": 508.64
+      },
+      {
+        "stock_code": "601798",
+        "stock_name": "蓝科高新",
+        "market_value_wan": 502.55
+      }
+    ]
+  }
+}

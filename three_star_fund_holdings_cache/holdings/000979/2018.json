@@ -1,0 +1,74 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "000979",
+    "name": "景顺长城沪港深精选股票A",
+    "base_name": "景顺长城沪港深精选股票"
+  },
+  "fetched_at": "2026-06-14 22:52:15",
+  "quarters": {
+    "2018-Q4": [
+      {
+        "stock_code": "600674",
+        "stock_name": "川投能源",
+        "market_value_wan": 30114.17
+      },
+      {
+        "stock_code": "601098",
+        "stock_name": "中南传媒",
+        "market_value_wan": 20479.76
+      },
+      {
+        "stock_code": "000998",
+        "stock_name": "隆平高科",
+        "market_value_wan": 13471.19
+      },
+      {
+        "stock_code": "603708",
+        "stock_name": "家家悦",
+        "market_value_wan": 11880.6
+      }
+    ],
+    "2018-Q3": [
+      {
+        "stock_code": "600674",
+        "stock_name": "川投能源",
+        "market_value_wan": 29106.89
+      },
+      {
+        "stock_code": "000651",
+        "stock_name": "格力电器",
+        "market_value_wan": 19850.43
+      }
+    ],
+    "2018-Q2": [
+      {
+        "stock_code": "600674",
+        "stock_name": "川投能源",
+        "market_value_wan": 32517.77
+      },
+      {
+        "stock_code": "600340",
+        "stock_name": "华夏幸福",
+        "market_value_wan": 22650.81
+      }
+    ],
+    "2018-Q1": [
+      {
+        "stock_code": "600674",
+        "stock_name": "川投能源",
+        "market_value_wan": 34818.63
+      },
+      {
+        "stock_code": "600340",
+        "stock_name": "华夏幸福",
+        "market_value_wan": 20003.14
+      },
+      {
+        "stock_code": "000998",
+        "stock_name": "隆平高科",
+        "market_value_wan": 19841.41
+      }
+    ]
+  }
+}

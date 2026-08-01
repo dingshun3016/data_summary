@@ -1,0 +1,49 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "010024",
+    "name": "广发沪港深新起点股票C",
+    "base_name": "广发沪港深新起点股票"
+  },
+  "fetched_at": "2026-06-14 23:37:36",
+  "quarters": {
+    "2022-Q4": [
+      {
+        "stock_code": "600050",
+        "stock_name": "中国联通",
+        "market_value_wan": 8311.83
+      }
+    ],
+    "2022-Q3": [
+      {
+        "stock_code": "002371",
+        "stock_name": "北方华创",
+        "market_value_wan": 11837.57
+      },
+      {
+        "stock_code": "300498",
+        "stock_name": "温氏股份",
+        "market_value_wan": 9802.34
+      }
+    ],
+    "2022-Q2": [
+      {
+        "stock_code": "600309",
+        "stock_name": "万华化学",
+        "market_value_wan": 19312.65
+      }
+    ],
+    "2022-Q1": [
+      {
+        "stock_code": "601012",
+        "stock_name": "隆基绿能",
+        "market_value_wan": 27192.49
+      },
+      {
+        "stock_code": "600660",
+        "stock_name": "福耀玻璃",
+        "market_value_wan": 11273.22
+      }
+    ]
+  }
+}

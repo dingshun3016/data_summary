@@ -1,0 +1,115 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "005825",
+    "name": "申万菱信智能驱动股票A",
+    "base_name": "申万菱信智能驱动股票"
+  },
+  "fetched_at": "2026-08-01 20:47:55",
+  "quarters": {
+    "2026-Q2": [
+      {
+        "stock_code": "688120",
+        "stock_name": "华海清科",
+        "market_value_wan": 36976.08
+      },
+      {
+        "stock_code": "300308",
+        "stock_name": "中际旭创",
+        "market_value_wan": 34861.5
+      },
+      {
+        "stock_code": "688627",
+        "stock_name": "精智达",
+        "market_value_wan": 34068.82
+      },
+      {
+        "stock_code": "300567",
+        "stock_name": "精测电子",
+        "market_value_wan": 33186.02
+      },
+      {
+        "stock_code": "300666",
+        "stock_name": "江丰电子",
+        "market_value_wan": 32057.14
+      },
+      {
+        "stock_code": "300661",
+        "stock_name": "圣邦股份",
+        "market_value_wan": 29465.05
+      },
+      {
+        "stock_code": "688025",
+        "stock_name": "杰普特",
+        "market_value_wan": 28579.62
+      },
+      {
+        "stock_code": "002371",
+        "stock_name": "北方华创",
+        "market_value_wan": 28140.95
+      },
+      {
+        "stock_code": "688361",
+        "stock_name": "中科飞测",
+        "market_value_wan": 23296.2
+      },
+      {
+        "stock_code": "688082",
+        "stock_name": "盛美上海",
+        "market_value_wan": 21943.79
+      }
+    ],
+    "2026-Q1": [
+      {
+        "stock_code": "688120",
+        "stock_name": "华海清科",
+        "market_value_wan": 13450.64
+      },
+      {
+        "stock_code": "002371",
+        "stock_name": "北方华创",
+        "market_value_wan": 13070.28
+      },
+      {
+        "stock_code": "300661",
+        "stock_name": "圣邦股份",
+        "market_value_wan": 12886.9
+      },
+      {
+        "stock_code": "688012",
+        "stock_name": "中微公司",
+        "market_value_wan": 12597.92
+      },
+      {
+        "stock_code": "300567",
+        "stock_name": "精测电子",
+        "market_value_wan": 11576.97
+      },
+      {
+        "stock_code": "300308",
+        "stock_name": "中际旭创",
+        "market_value_wan": 10431.59
+      },
+      {
+        "stock_code": "688052",
+        "stock_name": "纳芯微",
+        "market_value_wan": 10303.21
+      },
+      {
+        "stock_code": "300502",
+        "stock_name": "新易盛",
+        "market_value_wan": 10180.85
+      },
+      {
+        "stock_code": "688627",
+        "stock_name": "精智达",
+        "market_value_wan": 9880.46
+      },
+      {
+        "stock_code": "688361",
+        "stock_name": "中科飞测",
+        "market_value_wan": 9535.5
+      }
+    ]
+  }
+}

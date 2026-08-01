@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "011213",
+    "name": "富国稳健策略6个月持有混合C",
+    "base_name": "富国稳健策略6个月持有混合"
+  },
+  "fetched_at": "2026-06-14 23:45:58",
+  "quarters": {
+    "2022-Q4": [
+      {
+        "stock_code": "300760",
+        "stock_name": "迈瑞医疗",
+        "market_value_wan": 6019.23
+      },
+      {
+        "stock_code": "002984",
+        "stock_name": "森麒麟",
+        "market_value_wan": 5678.29
+      },
+      {
+        "stock_code": "600426",
+        "stock_name": "华鲁恒升",
+        "market_value_wan": 5602.74
+      },
+      {
+        "stock_code": "688301",
+        "stock_name": "奕瑞科技",
+        "market_value_wan": 4117.26
+      },
+      {
+        "stock_code": "603901",
+        "stock_name": "永创智能",
+        "market_value_wan": 3696.58
+      },
+      {
+        "stock_code": "300910",
+        "stock_name": "瑞丰新材",
+        "market_value_wan": 3471.62
+      },
+      {
+        "stock_code": "600885",
+        "stock_name": "宏发股份",
+        "market_value_wan": 3338.69
+      },
+      {
+        "stock_code": "002402",
+        "stock_name": "和而泰",
+        "market_value_wan": 3326.79
+      },
+      {
+        "stock_code": "002142",
+        "stock_name": "宁波银行",
+        "market_value_wan": 3317.93
+      },
+      {
+        "stock_code": "300767",
+        "stock_name": "震安科技",
+        "market_value_wan": 3108.98
+      }
+    ],
+    "2022-Q3": [
+      {
+        "stock_code": "300760",
+        "stock_name": "迈瑞医疗",
+        "market_value_wan": 6416.54
+      },
+      {
+        "stock_code": "688116",
+        "stock_name": "天奈科技",
+        "market_value_wan": 4433.4
+      },
+      {
+        "stock_code": "688301",
+        "stock_name": "奕瑞科技",
+        "market_value_wan": 4326.88
+      },
+      {
+        "stock_code": "600048",
+        "stock_name": "保利发展",
+        "market_value_wan": 4066.27
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 3651.38
+      },
+      {
+        "stock_code": "688016",
+        "stock_name": "心脉医疗",
+        "market_value_wan": 3644.24
+      },
+      {
+        "stock_code": "600426",
+        "stock_name": "华鲁恒升",
+        "market_value_wan": 3479.16
+      },
+      {
+        "stock_code": "600885",
+        "stock_name": "宏发股份",
+        "market_value_wan": 3184.19
+      },
+      {
+        "stock_code": "300910",
+        "stock_name": "瑞丰新材",
+        "market_value_wan": 3155.01
+      },
+      {
+        "stock_code": "300759",
+        "stock_name": "康龙化成",
+        "market_value_wan": 3089.77
+      }
+    ],
+    "2022-Q2": [
+      {
+        "stock_code": "601012",
+        "stock_name": "隆基绿能",
+        "market_value_wan": 6982.24
+      },
+      {
+        "stock_code": "603612",
+        "stock_name": "索通发展",
+        "market_value_wan": 5128.46
+      },
+      {
+        "stock_code": "600048",
+        "stock_name": "保利发展",
+        "market_value_wan": 4635.38
+      },
+      {
+        "stock_code": "603606",
+        "stock_name": "东方电缆",
+        "market_value_wan": 4303.39
+      },
+      {
+        "stock_code": "600426",
+        "stock_name": "华鲁恒升",
+        "market_value_wan": 4099.07
+      },
+      {
+        "stock_code": "600690",
+        "stock_name": "海尔智家",
+        "market_value_wan": 4061.06
+      },
+      {
+        "stock_code": "688016",
+        "stock_name": "心脉医疗",
+        "market_value_wan": 4023.59
+      },
+      {
+        "stock_code": "603259",
+        "stock_name": "药明康德",
+        "market_value_wan": 3773.59
+      },
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 3607.05
+      },
+      {
+        "stock_code": "600522",
+        "stock_name": "中天科技",
+        "market_value_wan": 3561.33
+      }
+    ],
+    "2022-Q1": [
+      {
+        "stock_code": "600048",
+        "stock_name": "保利发展",
+        "market_value_wan": 9238.35
+      },
+      {
+        "stock_code": "002027",
+        "stock_name": "分众传媒",
+        "market_value_wan": 5143.53
+      },
+      {
+        "stock_code": "600426",
+        "stock_name": "华鲁恒升",
+        "market_value_wan": 4572.14
+      },
+      {
+        "stock_code": "300122",
+        "stock_name": "智飞生物",
+        "market_value_wan": 4527.2
+      },
+      {
+        "stock_code": "603259",
+        "stock_name": "药明康德",
+        "market_value_wan": 4376.98
+      },
+      {
+        "stock_code": "688016",
+        "stock_name": "心脉医疗",
+        "market_value_wan": 4307.58
+      },
+      {
+        "stock_code": "600383",
+        "stock_name": "金地集团",
+        "market_value_wan": 4157.19
+      },
+      {
+        "stock_code": "603901",
+        "stock_name": "永创智能",
+        "market_value_wan": 3787.54
+      },
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 3743.42
+      },
+      {
+        "stock_code": "603612",
+        "stock_name": "索通发展",
+        "market_value_wan": 3440.48
+      }
+    ]
+  }
+}

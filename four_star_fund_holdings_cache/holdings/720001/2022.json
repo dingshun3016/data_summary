@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "720001",
+    "name": "财通价值动量混合A",
+    "base_name": "财通价值动量混合"
+  },
+  "fetched_at": "2026-06-14 22:45:50",
+  "quarters": {
+    "2022-Q4": [
+      {
+        "stock_code": "600011",
+        "stock_name": "华能国际",
+        "market_value_wan": 26742.65
+      },
+      {
+        "stock_code": "600027",
+        "stock_name": "华电国际",
+        "market_value_wan": 24968.95
+      },
+      {
+        "stock_code": "601991",
+        "stock_name": "大唐发电",
+        "market_value_wan": 22033.0
+      },
+      {
+        "stock_code": "000539",
+        "stock_name": "粤电力A",
+        "market_value_wan": 20577.6
+      },
+      {
+        "stock_code": "600875",
+        "stock_name": "东方电气",
+        "market_value_wan": 18995.5
+      },
+      {
+        "stock_code": "301073",
+        "stock_name": "君亭酒店",
+        "market_value_wan": 17919.01
+      },
+      {
+        "stock_code": "600138",
+        "stock_name": "中青旅",
+        "market_value_wan": 15258.79
+      },
+      {
+        "stock_code": "000543",
+        "stock_name": "皖能电力",
+        "market_value_wan": 14889.06
+      },
+      {
+        "stock_code": "002033",
+        "stock_name": "丽江股份",
+        "market_value_wan": 14712.18
+      },
+      {
+        "stock_code": "603283",
+        "stock_name": "赛腾股份",
+        "market_value_wan": 14281.77
+      }
+    ],
+    "2022-Q3": [
+      {
+        "stock_code": "002840",
+        "stock_name": "华统股份",
+        "market_value_wan": 29186.16
+      },
+      {
+        "stock_code": "600011",
+        "stock_name": "华能国际",
+        "market_value_wan": 27810.87
+      },
+      {
+        "stock_code": "002124",
+        "stock_name": "ST天邦",
+        "market_value_wan": 26999.16
+      },
+      {
+        "stock_code": "002100",
+        "stock_name": "天康生物",
+        "market_value_wan": 23848.46
+      },
+      {
+        "stock_code": "603477",
+        "stock_name": "巨星农牧",
+        "market_value_wan": 23011.33
+      },
+      {
+        "stock_code": "601991",
+        "stock_name": "大唐发电",
+        "market_value_wan": 22842.67
+      },
+      {
+        "stock_code": "603363",
+        "stock_name": "*ST傲农",
+        "market_value_wan": 22572.26
+      },
+      {
+        "stock_code": "002567",
+        "stock_name": "唐人神",
+        "market_value_wan": 21583.18
+      },
+      {
+        "stock_code": "600027",
+        "stock_name": "华电国际",
+        "market_value_wan": 19186.49
+      },
+      {
+        "stock_code": "300871",
+        "stock_name": "回盛生物",
+        "market_value_wan": 15310.9
+      }
+    ],
+    "2022-Q2": [
+      {
+        "stock_code": "002100",
+        "stock_name": "天康生物",
+        "market_value_wan": 32025.51
+      },
+      {
+        "stock_code": "603363",
+        "stock_name": "*ST傲农",
+        "market_value_wan": 31637.95
+      },
+      {
+        "stock_code": "300498",
+        "stock_name": "温氏股份",
+        "market_value_wan": 30691.0
+      },
+      {
+        "stock_code": "002124",
+        "stock_name": "ST天邦",
+        "market_value_wan": 28552.94
+      },
+      {
+        "stock_code": "600754",
+        "stock_name": "锦江酒店",
+        "market_value_wan": 26556.73
+      },
+      {
+        "stock_code": "600258",
+        "stock_name": "首旅酒店",
+        "market_value_wan": 26322.7
+      },
+      {
+        "stock_code": "603477",
+        "stock_name": "巨星农牧",
+        "market_value_wan": 26008.95
+      },
+      {
+        "stock_code": "002567",
+        "stock_name": "唐人神",
+        "market_value_wan": 24929.83
+      },
+      {
+        "stock_code": "002840",
+        "stock_name": "华统股份",
+        "market_value_wan": 18658.68
+      },
+      {
+        "stock_code": "002714",
+        "stock_name": "牧原股份",
+        "market_value_wan": 18121.45
+      }
+    ],
+    "2022-Q1": [
+      {
+        "stock_code": "603477",
+        "stock_name": "巨星农牧",
+        "market_value_wan": 32396.78
+      },
+      {
+        "stock_code": "002567",
+        "stock_name": "唐人神",
+        "market_value_wan": 30759.49
+      },
+      {
+        "stock_code": "002124",
+        "stock_name": "ST天邦",
+        "market_value_wan": 30164.42
+      },
+      {
+        "stock_code": "603363",
+        "stock_name": "*ST傲农",
+        "market_value_wan": 28150.92
+      },
+      {
+        "stock_code": "300498",
+        "stock_name": "温氏股份",
+        "market_value_wan": 26721.37
+      },
+      {
+        "stock_code": "002100",
+        "stock_name": "天康生物",
+        "market_value_wan": 21094.69
+      },
+      {
+        "stock_code": "601111",
+        "stock_name": "中国国航",
+        "market_value_wan": 20656.3
+      },
+      {
+        "stock_code": "002714",
+        "stock_name": "牧原股份",
+        "market_value_wan": 19367.55
+      },
+      {
+        "stock_code": "002840",
+        "stock_name": "华统股份",
+        "market_value_wan": 18817.26
+      },
+      {
+        "stock_code": "600754",
+        "stock_name": "锦江酒店",
+        "market_value_wan": 16956.43
+      }
+    ]
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "003993",
+    "name": "前海开源沪港深核心驱动混合",
+    "base_name": "前海开源沪港深核心驱动混合"
+  },
+  "fetched_at": "2026-08-01 20:55:51",
+  "quarters": {
+    "2026-Q2": [
+      {
+        "stock_code": "688012",
+        "stock_name": "中微公司",
+        "market_value_wan": 658.76
+      },
+      {
+        "stock_code": "300502",
+        "stock_name": "新易盛",
+        "market_value_wan": 645.85
+      },
+      {
+        "stock_code": "300308",
+        "stock_name": "中际旭创",
+        "market_value_wan": 584.2
+      },
+      {
+        "stock_code": "002371",
+        "stock_name": "北方华创",
+        "market_value_wan": 371.52
+      },
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 348.48
+      },
+      {
+        "stock_code": "688256",
+        "stock_name": "寒武纪",
+        "market_value_wan": 302.68
+      }
+    ],
+    "2026-Q1": [
+      {
+        "stock_code": "002738",
+        "stock_name": "中矿资源",
+        "market_value_wan": 601.83
+      },
+      {
+        "stock_code": "000807",
+        "stock_name": "云铝股份",
+        "market_value_wan": 465.0
+      },
+      {
+        "stock_code": "603345",
+        "stock_name": "安井食品",
+        "market_value_wan": 386.1
+      },
+      {
+        "stock_code": "002532",
+        "stock_name": "天山铝业",
+        "market_value_wan": 384.26
+      }
+    ]
+  }
+}

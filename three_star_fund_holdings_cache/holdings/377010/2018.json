@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "377010",
+    "name": "摩根阿尔法混合A",
+    "base_name": "摩根阿尔法混合"
+  },
+  "fetched_at": "2026-06-14 23:59:22",
+  "quarters": {
+    "2018-Q4": [
+      {
+        "stock_code": "002572",
+        "stock_name": "索菲亚",
+        "market_value_wan": 8312.74
+      },
+      {
+        "stock_code": "002456",
+        "stock_name": "欧菲光",
+        "market_value_wan": 8228.55
+      },
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 7864.73
+      },
+      {
+        "stock_code": "002035",
+        "stock_name": "华帝股份",
+        "market_value_wan": 7817.91
+      },
+      {
+        "stock_code": "600337",
+        "stock_name": "美克家居",
+        "market_value_wan": 6914.47
+      },
+      {
+        "stock_code": "002798",
+        "stock_name": "帝欧家居",
+        "market_value_wan": 6160.29
+      },
+      {
+        "stock_code": "300136",
+        "stock_name": "信维通信",
+        "market_value_wan": 5059.31
+      },
+      {
+        "stock_code": "002236",
+        "stock_name": "大华股份",
+        "market_value_wan": 4799.9
+      },
+      {
+        "stock_code": "002614",
+        "stock_name": "奥佳华",
+        "market_value_wan": 4074.09
+      },
+      {
+        "stock_code": "601222",
+        "stock_name": "林洋能源",
+        "market_value_wan": 3976.77
+      }
+    ],
+    "2018-Q3": [
+      {
+        "stock_code": "002456",
+        "stock_name": "欧菲光",
+        "market_value_wan": 12078.69
+      },
+      {
+        "stock_code": "002450",
+        "stock_name": "康得退",
+        "market_value_wan": 11879.59
+      },
+      {
+        "stock_code": "300136",
+        "stock_name": "信维通信",
+        "market_value_wan": 11799.52
+      },
+      {
+        "stock_code": "002572",
+        "stock_name": "索菲亚",
+        "market_value_wan": 10843.78
+      },
+      {
+        "stock_code": "002236",
+        "stock_name": "大华股份",
+        "market_value_wan": 10276.55
+      },
+      {
+        "stock_code": "002035",
+        "stock_name": "华帝股份",
+        "market_value_wan": 9195.99
+      },
+      {
+        "stock_code": "600337",
+        "stock_name": "美克家居",
+        "market_value_wan": 8052.29
+      },
+      {
+        "stock_code": "002798",
+        "stock_name": "帝欧家居",
+        "market_value_wan": 7694.63
+      },
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 7253.9
+      },
+      {
+        "stock_code": "002343",
+        "stock_name": "慈文传媒",
+        "market_value_wan": 4673.95
+      }
+    ],
+    "2018-Q2": [
+      {
+        "stock_code": "002572",
+        "stock_name": "索菲亚",
+        "market_value_wan": 15970.38
+      },
+      {
+        "stock_code": "002456",
+        "stock_name": "欧菲光",
+        "market_value_wan": 15337.86
+      },
+      {
+        "stock_code": "300136",
+        "stock_name": "信维通信",
+        "market_value_wan": 13605.98
+      },
+      {
+        "stock_code": "002450",
+        "stock_name": "康得退",
+        "market_value_wan": 13039.61
+      },
+      {
+        "stock_code": "002236",
+        "stock_name": "大华股份",
+        "market_value_wan": 12637.05
+      },
+      {
+        "stock_code": "002466",
+        "stock_name": "天齐锂业",
+        "market_value_wan": 8352.39
+      },
+      {
+        "stock_code": "002035",
+        "stock_name": "华帝股份",
+        "market_value_wan": 7838.84
+      },
+      {
+        "stock_code": "600337",
+        "stock_name": "美克家居",
+        "market_value_wan": 7303.21
+      },
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 6413.58
+      },
+      {
+        "stock_code": "002798",
+        "stock_name": "帝欧家居",
+        "market_value_wan": 6308.75
+      }
+    ],
+    "2018-Q1": [
+      {
+        "stock_code": "002456",
+        "stock_name": "欧菲光",
+        "market_value_wan": 20510.52
+      },
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 20333.24
+      },
+      {
+        "stock_code": "002572",
+        "stock_name": "索菲亚",
+        "market_value_wan": 18048.31
+      },
+      {
+        "stock_code": "002450",
+        "stock_name": "康得退",
+        "market_value_wan": 17764.35
+      },
+      {
+        "stock_code": "300136",
+        "stock_name": "信维通信",
+        "market_value_wan": 15037.95
+      },
+      {
+        "stock_code": "300115",
+        "stock_name": "长盈精密",
+        "market_value_wan": 12456.74
+      },
+      {
+        "stock_code": "002236",
+        "stock_name": "大华股份",
+        "market_value_wan": 11197.14
+      },
+      {
+        "stock_code": "002466",
+        "stock_name": "天齐锂业",
+        "market_value_wan": 10559.23
+      },
+      {
+        "stock_code": "601222",
+        "stock_name": "林洋能源",
+        "market_value_wan": 6589.6
+      },
+      {
+        "stock_code": "002035",
+        "stock_name": "华帝股份",
+        "market_value_wan": 5995.72
+      }
+    ]
+  }
+}

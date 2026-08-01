@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "005825",
+    "name": "申万菱信智能驱动股票A",
+    "base_name": "申万菱信智能驱动股票"
+  },
+  "fetched_at": "2026-06-14 22:33:13",
+  "quarters": {
+    "2021-Q4": [
+      {
+        "stock_code": "002534",
+        "stock_name": "西子洁能",
+        "market_value_wan": 4023.05
+      },
+      {
+        "stock_code": "000681",
+        "stock_name": "视觉中国",
+        "market_value_wan": 3987.0
+      },
+      {
+        "stock_code": "300413",
+        "stock_name": "芒果超媒",
+        "market_value_wan": 3918.43
+      },
+      {
+        "stock_code": "000519",
+        "stock_name": "中兵红箭",
+        "market_value_wan": 3877.02
+      },
+      {
+        "stock_code": "300860",
+        "stock_name": "锋尚文化",
+        "market_value_wan": 3848.1
+      },
+      {
+        "stock_code": "002555",
+        "stock_name": "三七互娱",
+        "market_value_wan": 3846.3
+      },
+      {
+        "stock_code": "600438",
+        "stock_name": "通威股份",
+        "market_value_wan": 3456.08
+      },
+      {
+        "stock_code": "605168",
+        "stock_name": "三人行",
+        "market_value_wan": 3439.39
+      },
+      {
+        "stock_code": "603613",
+        "stock_name": "国联股份",
+        "market_value_wan": 3286.67
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 3257.52
+      }
+    ],
+    "2021-Q3": [
+      {
+        "stock_code": "002049",
+        "stock_name": "紫光国微",
+        "market_value_wan": 1685.42
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 1382.67
+      },
+      {
+        "stock_code": "603613",
+        "stock_name": "国联股份",
+        "market_value_wan": 1331.06
+      },
+      {
+        "stock_code": "300059",
+        "stock_name": "东方财富",
+        "market_value_wan": 1235.32
+      },
+      {
+        "stock_code": "002415",
+        "stock_name": "海康威视",
+        "market_value_wan": 1113.75
+      },
+      {
+        "stock_code": "600438",
+        "stock_name": "通威股份",
+        "market_value_wan": 1012.18
+      },
+      {
+        "stock_code": "002555",
+        "stock_name": "三七互娱",
+        "market_value_wan": 992.2
+      },
+      {
+        "stock_code": "000733",
+        "stock_name": "振华科技",
+        "market_value_wan": 990.17
+      },
+      {
+        "stock_code": "002291",
+        "stock_name": "遥望科技",
+        "market_value_wan": 931.61
+      },
+      {
+        "stock_code": "002594",
+        "stock_name": "比亚迪",
+        "market_value_wan": 913.21
+      }
+    ],
+    "2021-Q2": [
+      {
+        "stock_code": "603518",
+        "stock_name": "锦泓集团",
+        "market_value_wan": 1645.17
+      },
+      {
+        "stock_code": "002291",
+        "stock_name": "遥望科技",
+        "market_value_wan": 1171.87
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 984.03
+      },
+      {
+        "stock_code": "600438",
+        "stock_name": "通威股份",
+        "market_value_wan": 861.94
+      },
+      {
+        "stock_code": "002049",
+        "stock_name": "紫光国微",
+        "market_value_wan": 860.38
+      },
+      {
+        "stock_code": "002594",
+        "stock_name": "比亚迪",
+        "market_value_wan": 848.38
+      },
+      {
+        "stock_code": "300059",
+        "stock_name": "东方财富",
+        "market_value_wan": 846.77
+      },
+      {
+        "stock_code": "002027",
+        "stock_name": "分众传媒",
+        "market_value_wan": 817.45
+      },
+      {
+        "stock_code": "002415",
+        "stock_name": "海康威视",
+        "market_value_wan": 799.8
+      },
+      {
+        "stock_code": "688036",
+        "stock_name": "传音控股",
+        "market_value_wan": 705.6
+      }
+    ],
+    "2021-Q1": [
+      {
+        "stock_code": "002048",
+        "stock_name": "宁波华翔",
+        "market_value_wan": 848.89
+      },
+      {
+        "stock_code": "603337",
+        "stock_name": "杰克股份",
+        "market_value_wan": 764.75
+      },
+      {
+        "stock_code": "002833",
+        "stock_name": "弘亚数控",
+        "market_value_wan": 677.09
+      },
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 605.21
+      },
+      {
+        "stock_code": "002291",
+        "stock_name": "遥望科技",
+        "market_value_wan": 578.62
+      },
+      {
+        "stock_code": "002415",
+        "stock_name": "海康威视",
+        "market_value_wan": 524.9
+      },
+      {
+        "stock_code": "000100",
+        "stock_name": "TCL科技",
+        "market_value_wan": 499.69
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 492.92
+      },
+      {
+        "stock_code": "002027",
+        "stock_name": "分众传媒",
+        "market_value_wan": 455.65
+      },
+      {
+        "stock_code": "002955",
+        "stock_name": "鸿合科技",
+        "market_value_wan": 407.43
+      }
+    ]
+  }
+}

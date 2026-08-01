@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "008137",
+    "name": "九泰天奕量化价值混合C",
+    "base_name": "九泰天奕量化价值混合"
+  },
+  "fetched_at": "2026-06-14 23:26:30",
+  "quarters": {
+    "2025-Q4": [
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 22.68
+      },
+      {
+        "stock_code": "300274",
+        "stock_name": "阳光电源",
+        "market_value_wan": 22.24
+      },
+      {
+        "stock_code": "002415",
+        "stock_name": "海康威视",
+        "market_value_wan": 18.5
+      },
+      {
+        "stock_code": "688012",
+        "stock_name": "中微公司",
+        "market_value_wan": 17.03
+      },
+      {
+        "stock_code": "688072",
+        "stock_name": "拓荆科技",
+        "market_value_wan": 13.2
+      },
+      {
+        "stock_code": "300308",
+        "stock_name": "中际旭创",
+        "market_value_wan": 12.2
+      },
+      {
+        "stock_code": "002916",
+        "stock_name": "深南电路",
+        "market_value_wan": 11.61
+      },
+      {
+        "stock_code": "002049",
+        "stock_name": "紫光国微",
+        "market_value_wan": 11.03
+      },
+      {
+        "stock_code": "688235",
+        "stock_name": "百济神州",
+        "market_value_wan": 10.74
+      },
+      {
+        "stock_code": "600276",
+        "stock_name": "恒瑞医药",
+        "market_value_wan": 10.13
+      }
+    ],
+    "2025-Q3": [
+      {
+        "stock_code": "688008",
+        "stock_name": "澜起科技",
+        "market_value_wan": 26.32
+      },
+      {
+        "stock_code": "300308",
+        "stock_name": "中际旭创",
+        "market_value_wan": 24.22
+      },
+      {
+        "stock_code": "300502",
+        "stock_name": "新易盛",
+        "market_value_wan": 21.95
+      },
+      {
+        "stock_code": "603019",
+        "stock_name": "中科曙光",
+        "market_value_wan": 16.7
+      },
+      {
+        "stock_code": "603501",
+        "stock_name": "豪威集团",
+        "market_value_wan": 16.63
+      },
+      {
+        "stock_code": "688111",
+        "stock_name": "金山办公",
+        "market_value_wan": 15.83
+      },
+      {
+        "stock_code": "002415",
+        "stock_name": "海康威视",
+        "market_value_wan": 15.44
+      },
+      {
+        "stock_code": "000977",
+        "stock_name": "浪潮信息",
+        "market_value_wan": 14.14
+      },
+      {
+        "stock_code": "603893",
+        "stock_name": "瑞芯微",
+        "market_value_wan": 13.53
+      },
+      {
+        "stock_code": "300002",
+        "stock_name": "神州泰岳",
+        "market_value_wan": 9.42
+      }
+    ],
+    "2025-Q2": [
+      {
+        "stock_code": "688111",
+        "stock_name": "金山办公",
+        "market_value_wan": 14.0
+      },
+      {
+        "stock_code": "688008",
+        "stock_name": "澜起科技",
+        "market_value_wan": 12.3
+      },
+      {
+        "stock_code": "603019",
+        "stock_name": "中科曙光",
+        "market_value_wan": 11.97
+      },
+      {
+        "stock_code": "603501",
+        "stock_name": "豪威集团",
+        "market_value_wan": 11.49
+      },
+      {
+        "stock_code": "002415",
+        "stock_name": "海康威视",
+        "market_value_wan": 11.09
+      },
+      {
+        "stock_code": "002230",
+        "stock_name": "科大讯飞",
+        "market_value_wan": 11.01
+      },
+      {
+        "stock_code": "000977",
+        "stock_name": "浪潮信息",
+        "market_value_wan": 10.68
+      },
+      {
+        "stock_code": "300308",
+        "stock_name": "中际旭创",
+        "market_value_wan": 10.21
+      },
+      {
+        "stock_code": "603893",
+        "stock_name": "瑞芯微",
+        "market_value_wan": 9.11
+      },
+      {
+        "stock_code": "688608",
+        "stock_name": "恒玄科技",
+        "market_value_wan": 6.96
+      }
+    ],
+    "2025-Q1": [
+      {
+        "stock_code": "688008",
+        "stock_name": "澜起科技",
+        "market_value_wan": 12.52
+      },
+      {
+        "stock_code": "002415",
+        "stock_name": "海康威视",
+        "market_value_wan": 10.75
+      },
+      {
+        "stock_code": "688981",
+        "stock_name": "中芯国际",
+        "market_value_wan": 10.72
+      },
+      {
+        "stock_code": "603893",
+        "stock_name": "瑞芯微",
+        "market_value_wan": 10.4
+      },
+      {
+        "stock_code": "000977",
+        "stock_name": "浪潮信息",
+        "market_value_wan": 10.16
+      },
+      {
+        "stock_code": "603019",
+        "stock_name": "中科曙光",
+        "market_value_wan": 9.95
+      },
+      {
+        "stock_code": "002230",
+        "stock_name": "科大讯飞",
+        "market_value_wan": 9.51
+      },
+      {
+        "stock_code": "688111",
+        "stock_name": "金山办公",
+        "market_value_wan": 8.97
+      },
+      {
+        "stock_code": "688041",
+        "stock_name": "海光信息",
+        "market_value_wan": 8.48
+      },
+      {
+        "stock_code": "688608",
+        "stock_name": "恒玄科技",
+        "market_value_wan": 8.13
+      }
+    ]
+  }
+}

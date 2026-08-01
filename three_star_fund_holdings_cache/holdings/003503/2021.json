@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "003503",
+    "name": "金鹰鑫瑞混合C",
+    "base_name": "金鹰鑫瑞混合"
+  },
+  "fetched_at": "2026-06-14 23:10:55",
+  "quarters": {
+    "2021-Q4": [
+      {
+        "stock_code": "600660",
+        "stock_name": "福耀玻璃",
+        "market_value_wan": 1009.27
+      },
+      {
+        "stock_code": "002463",
+        "stock_name": "沪电股份",
+        "market_value_wan": 895.82
+      },
+      {
+        "stock_code": "002142",
+        "stock_name": "宁波银行",
+        "market_value_wan": 881.21
+      },
+      {
+        "stock_code": "600885",
+        "stock_name": "宏发股份",
+        "market_value_wan": 861.36
+      },
+      {
+        "stock_code": "300820",
+        "stock_name": "英杰电气",
+        "market_value_wan": 827.98
+      },
+      {
+        "stock_code": "603688",
+        "stock_name": "石英股份",
+        "market_value_wan": 814.12
+      },
+      {
+        "stock_code": "603035",
+        "stock_name": "常熟汽饰",
+        "market_value_wan": 801.65
+      },
+      {
+        "stock_code": "600690",
+        "stock_name": "海尔智家",
+        "market_value_wan": 788.5
+      },
+      {
+        "stock_code": "600057",
+        "stock_name": "厦门象屿",
+        "market_value_wan": 773.27
+      },
+      {
+        "stock_code": "000783",
+        "stock_name": "长江证券",
+        "market_value_wan": 750.91
+      }
+    ],
+    "2021-Q3": [
+      {
+        "stock_code": "000630",
+        "stock_name": "铜陵有色",
+        "market_value_wan": 1030.95
+      },
+      {
+        "stock_code": "600098",
+        "stock_name": "广州发展",
+        "market_value_wan": 939.24
+      },
+      {
+        "stock_code": "300820",
+        "stock_name": "英杰电气",
+        "market_value_wan": 921.65
+      },
+      {
+        "stock_code": "600660",
+        "stock_name": "福耀玻璃",
+        "market_value_wan": 904.57
+      },
+      {
+        "stock_code": "601238",
+        "stock_name": "广汽集团",
+        "market_value_wan": 884.74
+      },
+      {
+        "stock_code": "300772",
+        "stock_name": "运达股份",
+        "market_value_wan": 832.06
+      },
+      {
+        "stock_code": "002142",
+        "stock_name": "宁波银行",
+        "market_value_wan": 809.15
+      },
+      {
+        "stock_code": "603393",
+        "stock_name": "新天然气",
+        "market_value_wan": 725.02
+      },
+      {
+        "stock_code": "600885",
+        "stock_name": "宏发股份",
+        "market_value_wan": 719.88
+      },
+      {
+        "stock_code": "600057",
+        "stock_name": "厦门象屿",
+        "market_value_wan": 699.49
+      }
+    ],
+    "2021-Q2": [
+      {
+        "stock_code": "600885",
+        "stock_name": "宏发股份",
+        "market_value_wan": 947.41
+      },
+      {
+        "stock_code": "002142",
+        "stock_name": "宁波银行",
+        "market_value_wan": 941.52
+      },
+      {
+        "stock_code": "601636",
+        "stock_name": "旗滨集团",
+        "market_value_wan": 919.09
+      },
+      {
+        "stock_code": "600660",
+        "stock_name": "福耀玻璃",
+        "market_value_wan": 867.91
+      },
+      {
+        "stock_code": "601009",
+        "stock_name": "南京银行",
+        "market_value_wan": 779.95
+      },
+      {
+        "stock_code": "002430",
+        "stock_name": "杭氧股份",
+        "market_value_wan": 760.63
+      },
+      {
+        "stock_code": "002484",
+        "stock_name": "江海股份",
+        "market_value_wan": 743.04
+      },
+      {
+        "stock_code": "000001",
+        "stock_name": "平安银行",
+        "market_value_wan": 729.72
+      },
+      {
+        "stock_code": "300820",
+        "stock_name": "英杰电气",
+        "market_value_wan": 707.14
+      },
+      {
+        "stock_code": "601238",
+        "stock_name": "广汽集团",
+        "market_value_wan": 668.35
+      }
+    ],
+    "2021-Q1": [
+      {
+        "stock_code": "000100",
+        "stock_name": "TCL科技",
+        "market_value_wan": 974.63
+      },
+      {
+        "stock_code": "001965",
+        "stock_name": "招商公路",
+        "market_value_wan": 967.35
+      },
+      {
+        "stock_code": "000002",
+        "stock_name": "万科A",
+        "market_value_wan": 898.2
+      },
+      {
+        "stock_code": "002142",
+        "stock_name": "宁波银行",
+        "market_value_wan": 892.68
+      },
+      {
+        "stock_code": "601636",
+        "stock_name": "旗滨集团",
+        "market_value_wan": 831.53
+      },
+      {
+        "stock_code": "600690",
+        "stock_name": "海尔智家",
+        "market_value_wan": 788.54
+      },
+      {
+        "stock_code": "600885",
+        "stock_name": "宏发股份",
+        "market_value_wan": 746.14
+      },
+      {
+        "stock_code": "600660",
+        "stock_name": "福耀玻璃",
+        "market_value_wan": 716.08
+      },
+      {
+        "stock_code": "601601",
+        "stock_name": "中国太保",
+        "market_value_wan": 706.09
+      },
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 629.06
+      }
+    ]
+  }
+}

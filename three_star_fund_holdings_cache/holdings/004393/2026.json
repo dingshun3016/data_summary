@@ -1,0 +1,55 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "004393",
+    "name": "安信企业价值优选混合A",
+    "base_name": "安信企业价值优选混合"
+  },
+  "fetched_at": "2026-08-01 20:56:00",
+  "quarters": {
+    "2026-Q2": [
+      {
+        "stock_code": "002508",
+        "stock_name": "老板电器",
+        "market_value_wan": 753.06
+      },
+      {
+        "stock_code": "002867",
+        "stock_name": "周大生",
+        "market_value_wan": 618.92
+      },
+      {
+        "stock_code": "601668",
+        "stock_name": "中国建筑",
+        "market_value_wan": 546.84
+      },
+      {
+        "stock_code": "600919",
+        "stock_name": "江苏银行",
+        "market_value_wan": 485.1
+      }
+    ],
+    "2026-Q1": [
+      {
+        "stock_code": "601668",
+        "stock_name": "中国建筑",
+        "market_value_wan": 581.16
+      },
+      {
+        "stock_code": "600919",
+        "stock_name": "江苏银行",
+        "market_value_wan": 513.24
+      },
+      {
+        "stock_code": "002867",
+        "stock_name": "周大生",
+        "market_value_wan": 453.82
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 441.87
+      }
+    ]
+  }
+}

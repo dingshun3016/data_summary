@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "010710",
+    "name": "安信医药健康股票C",
+    "base_name": "安信医药健康股票"
+  },
+  "fetched_at": "2026-06-14 23:42:20",
+  "quarters": {
+    "2021-Q4": [
+      {
+        "stock_code": "002727",
+        "stock_name": "一心堂",
+        "market_value_wan": 6454.39
+      },
+      {
+        "stock_code": "002275",
+        "stock_name": "桂林三金",
+        "market_value_wan": 6447.35
+      },
+      {
+        "stock_code": "300705",
+        "stock_name": "九典制药",
+        "market_value_wan": 5762.96
+      },
+      {
+        "stock_code": "000739",
+        "stock_name": "普洛药业",
+        "market_value_wan": 5553.39
+      },
+      {
+        "stock_code": "603259",
+        "stock_name": "药明康德",
+        "market_value_wan": 5426.37
+      },
+      {
+        "stock_code": "002390",
+        "stock_name": "信邦制药",
+        "market_value_wan": 3956.64
+      },
+      {
+        "stock_code": "603301",
+        "stock_name": "振德医疗",
+        "market_value_wan": 3928.0
+      },
+      {
+        "stock_code": "600521",
+        "stock_name": "华海药业",
+        "market_value_wan": 3846.28
+      },
+      {
+        "stock_code": "000999",
+        "stock_name": "华润三九",
+        "market_value_wan": 3731.87
+      },
+      {
+        "stock_code": "603520",
+        "stock_name": "司太立",
+        "market_value_wan": 3726.44
+      }
+    ],
+    "2021-Q3": [
+      {
+        "stock_code": "000739",
+        "stock_name": "普洛药业",
+        "market_value_wan": 1655.84
+      },
+      {
+        "stock_code": "002727",
+        "stock_name": "一心堂",
+        "market_value_wan": 1359.71
+      },
+      {
+        "stock_code": "603456",
+        "stock_name": "九洲药业",
+        "market_value_wan": 1073.04
+      },
+      {
+        "stock_code": "603259",
+        "stock_name": "药明康德",
+        "market_value_wan": 1030.07
+      },
+      {
+        "stock_code": "603520",
+        "stock_name": "司太立",
+        "market_value_wan": 956.95
+      },
+      {
+        "stock_code": "300347",
+        "stock_name": "泰格医药",
+        "market_value_wan": 819.54
+      },
+      {
+        "stock_code": "300760",
+        "stock_name": "迈瑞医疗",
+        "market_value_wan": 736.15
+      },
+      {
+        "stock_code": "002332",
+        "stock_name": "仙琚制药",
+        "market_value_wan": 729.39
+      },
+      {
+        "stock_code": "300363",
+        "stock_name": "博腾股份",
+        "market_value_wan": 640.15
+      },
+      {
+        "stock_code": "688029",
+        "stock_name": "南微医学",
+        "market_value_wan": 626.15
+      }
+    ],
+    "2021-Q2": [
+      {
+        "stock_code": "000739",
+        "stock_name": "普洛药业",
+        "market_value_wan": 1263.0
+      },
+      {
+        "stock_code": "603259",
+        "stock_name": "药明康德",
+        "market_value_wan": 1085.37
+      },
+      {
+        "stock_code": "002727",
+        "stock_name": "一心堂",
+        "market_value_wan": 948.93
+      },
+      {
+        "stock_code": "603456",
+        "stock_name": "九洲药业",
+        "market_value_wan": 935.26
+      },
+      {
+        "stock_code": "300705",
+        "stock_name": "九典制药",
+        "market_value_wan": 902.93
+      },
+      {
+        "stock_code": "300122",
+        "stock_name": "智飞生物",
+        "market_value_wan": 758.12
+      },
+      {
+        "stock_code": "300363",
+        "stock_name": "博腾股份",
+        "market_value_wan": 715.86
+      },
+      {
+        "stock_code": "002332",
+        "stock_name": "仙琚制药",
+        "market_value_wan": 705.12
+      },
+      {
+        "stock_code": "603301",
+        "stock_name": "振德医疗",
+        "market_value_wan": 657.36
+      },
+      {
+        "stock_code": "688029",
+        "stock_name": "南微医学",
+        "market_value_wan": 653.86
+      }
+    ],
+    "2021-Q1": [
+      {
+        "stock_code": "002727",
+        "stock_name": "一心堂",
+        "market_value_wan": 2278.13
+      },
+      {
+        "stock_code": "000739",
+        "stock_name": "普洛药业",
+        "market_value_wan": 1600.54
+      },
+      {
+        "stock_code": "603456",
+        "stock_name": "九洲药业",
+        "market_value_wan": 1428.27
+      },
+      {
+        "stock_code": "300122",
+        "stock_name": "智飞生物",
+        "market_value_wan": 1328.17
+      },
+      {
+        "stock_code": "603259",
+        "stock_name": "药明康德",
+        "market_value_wan": 1225.35
+      },
+      {
+        "stock_code": "300705",
+        "stock_name": "九典制药",
+        "market_value_wan": 1200.97
+      },
+      {
+        "stock_code": "300363",
+        "stock_name": "博腾股份",
+        "market_value_wan": 1066.76
+      },
+      {
+        "stock_code": "603520",
+        "stock_name": "司太立",
+        "market_value_wan": 1016.13
+      },
+      {
+        "stock_code": "600521",
+        "stock_name": "华海药业",
+        "market_value_wan": 881.85
+      },
+      {
+        "stock_code": "002332",
+        "stock_name": "仙琚制药",
+        "market_value_wan": 878.54
+      }
+    ]
+  }
+}

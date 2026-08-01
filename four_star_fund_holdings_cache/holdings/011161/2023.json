@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "011161",
+    "name": "富国质量成长6个月持有混合C",
+    "base_name": "富国质量成长6个月持有混合"
+  },
+  "fetched_at": "2026-06-14 22:40:48",
+  "quarters": {
+    "2023-Q4": [
+      {
+        "stock_code": "002353",
+        "stock_name": "杰瑞股份",
+        "market_value_wan": 3330.47
+      },
+      {
+        "stock_code": "601717",
+        "stock_name": "郑煤机",
+        "market_value_wan": 2939.42
+      },
+      {
+        "stock_code": "002444",
+        "stock_name": "巨星科技",
+        "market_value_wan": 2198.18
+      },
+      {
+        "stock_code": "603701",
+        "stock_name": "德宏股份",
+        "market_value_wan": 1855.3
+      },
+      {
+        "stock_code": "301012",
+        "stock_name": "扬电科技",
+        "market_value_wan": 1837.23
+      },
+      {
+        "stock_code": "002305",
+        "stock_name": "南国置业",
+        "market_value_wan": 1710.27
+      },
+      {
+        "stock_code": "603611",
+        "stock_name": "诺力股份",
+        "market_value_wan": 1525.76
+      },
+      {
+        "stock_code": "688226",
+        "stock_name": "威腾电气",
+        "market_value_wan": 1430.91
+      },
+      {
+        "stock_code": "300594",
+        "stock_name": "朗进科技",
+        "market_value_wan": 1138.59
+      },
+      {
+        "stock_code": "603097",
+        "stock_name": "江苏华辰",
+        "market_value_wan": 1118.89
+      }
+    ],
+    "2023-Q3": [
+      {
+        "stock_code": "002353",
+        "stock_name": "杰瑞股份",
+        "market_value_wan": 4094.04
+      },
+      {
+        "stock_code": "601717",
+        "stock_name": "郑煤机",
+        "market_value_wan": 3948.66
+      },
+      {
+        "stock_code": "603097",
+        "stock_name": "江苏华辰",
+        "market_value_wan": 2058.71
+      },
+      {
+        "stock_code": "002444",
+        "stock_name": "巨星科技",
+        "market_value_wan": 1902.42
+      },
+      {
+        "stock_code": "300724",
+        "stock_name": "捷佳伟创",
+        "market_value_wan": 1611.66
+      },
+      {
+        "stock_code": "603081",
+        "stock_name": "大丰实业",
+        "market_value_wan": 1532.23
+      },
+      {
+        "stock_code": "688226",
+        "stock_name": "威腾电气",
+        "market_value_wan": 1405.77
+      },
+      {
+        "stock_code": "300594",
+        "stock_name": "朗进科技",
+        "market_value_wan": 1377.05
+      },
+      {
+        "stock_code": "605377",
+        "stock_name": "华旺科技",
+        "market_value_wan": 1327.67
+      },
+      {
+        "stock_code": "603966",
+        "stock_name": "法兰泰克",
+        "market_value_wan": 1278.85
+      }
+    ],
+    "2023-Q2": [
+      {
+        "stock_code": "601717",
+        "stock_name": "郑煤机",
+        "market_value_wan": 3742.04
+      },
+      {
+        "stock_code": "002353",
+        "stock_name": "杰瑞股份",
+        "market_value_wan": 2401.93
+      },
+      {
+        "stock_code": "603097",
+        "stock_name": "江苏华辰",
+        "market_value_wan": 2284.35
+      },
+      {
+        "stock_code": "603338",
+        "stock_name": "浙江鼎力",
+        "market_value_wan": 1961.47
+      },
+      {
+        "stock_code": "002444",
+        "stock_name": "巨星科技",
+        "market_value_wan": 1872.93
+      },
+      {
+        "stock_code": "301188",
+        "stock_name": "力诺特玻",
+        "market_value_wan": 1824.79
+      },
+      {
+        "stock_code": "301012",
+        "stock_name": "扬电科技",
+        "market_value_wan": 1724.04
+      },
+      {
+        "stock_code": "300594",
+        "stock_name": "朗进科技",
+        "market_value_wan": 1633.94
+      },
+      {
+        "stock_code": "300649",
+        "stock_name": "杭州园林",
+        "market_value_wan": 1418.97
+      },
+      {
+        "stock_code": "301195",
+        "stock_name": "北路智控",
+        "market_value_wan": 1239.19
+      }
+    ],
+    "2023-Q1": [
+      {
+        "stock_code": "601717",
+        "stock_name": "郑煤机",
+        "market_value_wan": 3720.07
+      },
+      {
+        "stock_code": "002353",
+        "stock_name": "杰瑞股份",
+        "market_value_wan": 2706.83
+      },
+      {
+        "stock_code": "301188",
+        "stock_name": "力诺特玻",
+        "market_value_wan": 2193.52
+      },
+      {
+        "stock_code": "002444",
+        "stock_name": "巨星科技",
+        "market_value_wan": 1619.55
+      },
+      {
+        "stock_code": "688518",
+        "stock_name": "联赢激光",
+        "market_value_wan": 1590.06
+      },
+      {
+        "stock_code": "300510",
+        "stock_name": "金冠股份",
+        "market_value_wan": 1577.15
+      },
+      {
+        "stock_code": "300938",
+        "stock_name": "信测标准",
+        "market_value_wan": 1467.41
+      },
+      {
+        "stock_code": "301012",
+        "stock_name": "扬电科技",
+        "market_value_wan": 1383.01
+      },
+      {
+        "stock_code": "300833",
+        "stock_name": "浩洋股份",
+        "market_value_wan": 1113.03
+      },
+      {
+        "stock_code": "603097",
+        "stock_name": "江苏华辰",
+        "market_value_wan": 1107.71
+      }
+    ]
+  }
+}

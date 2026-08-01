@@ -1,0 +1,50 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "002016",
+    "name": "南方荣光C",
+    "base_name": "南方荣光"
+  },
+  "fetched_at": "2026-06-14 23:02:36",
+  "quarters": {
+    "2018-Q2": [
+      {
+        "stock_code": "600887",
+        "stock_name": "伊利股份",
+        "market_value_wan": 1162.87
+      },
+      {
+        "stock_code": "600085",
+        "stock_name": "同仁堂",
+        "market_value_wan": 513.46
+      }
+    ],
+    "2018-Q1": [
+      {
+        "stock_code": "600028",
+        "stock_name": "中国石化",
+        "market_value_wan": 648.78
+      },
+      {
+        "stock_code": "000963",
+        "stock_name": "华东医药",
+        "market_value_wan": 290.17
+      },
+      {
+        "stock_code": "603939",
+        "stock_name": "益丰药房",
+        "market_value_wan": 288.89
+      },
+      {
+        "stock_code": "002454",
+        "stock_name": "松芝股份",
+        "market_value_wan": 276.52
+      },
+      {
+        "stock_code": "603816",
+        "stock_name": "顾家家居",
+        "market_value_wan": 111.93
+      }
+    ]
+  }
+}

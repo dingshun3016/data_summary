@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "320015",
+    "name": "诺安行业轮动混合A",
+    "base_name": "诺安行业轮动混合"
+  },
+  "fetched_at": "2026-06-14 23:58:50",
+  "quarters": {
+    "2018-Q4": [
+      {
+        "stock_code": "601988",
+        "stock_name": "中国银行",
+        "market_value_wan": 2989.08
+      },
+      {
+        "stock_code": "600050",
+        "stock_name": "中国联通",
+        "market_value_wan": 2372.97
+      },
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 2093.44
+      },
+      {
+        "stock_code": "600305",
+        "stock_name": "恒顺醋业",
+        "market_value_wan": 2061.01
+      },
+      {
+        "stock_code": "600332",
+        "stock_name": "白云山",
+        "market_value_wan": 1744.78
+      },
+      {
+        "stock_code": "000869",
+        "stock_name": "张裕A",
+        "market_value_wan": 1556.35
+      },
+      {
+        "stock_code": "600104",
+        "stock_name": "上汽集团",
+        "market_value_wan": 1354.78
+      },
+      {
+        "stock_code": "000538",
+        "stock_name": "云南白药",
+        "market_value_wan": 1323.0
+      },
+      {
+        "stock_code": "000625",
+        "stock_name": "长安汽车",
+        "market_value_wan": 1238.89
+      },
+      {
+        "stock_code": "600028",
+        "stock_name": "中国石化",
+        "market_value_wan": 1054.58
+      }
+    ],
+    "2018-Q3": [
+      {
+        "stock_code": "601988",
+        "stock_name": "中国银行",
+        "market_value_wan": 3191.76
+      },
+      {
+        "stock_code": "600028",
+        "stock_name": "中国石化",
+        "market_value_wan": 2198.86
+      },
+      {
+        "stock_code": "600050",
+        "stock_name": "中国联通",
+        "market_value_wan": 2044.13
+      },
+      {
+        "stock_code": "600332",
+        "stock_name": "白云山",
+        "market_value_wan": 1858.97
+      },
+      {
+        "stock_code": "601607",
+        "stock_name": "上海医药",
+        "market_value_wan": 1803.81
+      },
+      {
+        "stock_code": "000869",
+        "stock_name": "张裕A",
+        "market_value_wan": 1716.19
+      },
+      {
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "market_value_wan": 1667.29
+      },
+      {
+        "stock_code": "600887",
+        "stock_name": "伊利股份",
+        "market_value_wan": 1563.83
+      },
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 1514.28
+      },
+      {
+        "stock_code": "600305",
+        "stock_name": "恒顺醋业",
+        "market_value_wan": 1449.79
+      }
+    ],
+    "2018-Q2": [
+      {
+        "stock_code": "600028",
+        "stock_name": "中国石化",
+        "market_value_wan": 3621.42
+      },
+      {
+        "stock_code": "601988",
+        "stock_name": "中国银行",
+        "market_value_wan": 2382.6
+      },
+      {
+        "stock_code": "000869",
+        "stock_name": "张裕A",
+        "market_value_wan": 2270.62
+      },
+      {
+        "stock_code": "600050",
+        "stock_name": "中国联通",
+        "market_value_wan": 2258.23
+      },
+      {
+        "stock_code": "601607",
+        "stock_name": "上海医药",
+        "market_value_wan": 2102.97
+      },
+      {
+        "stock_code": "002294",
+        "stock_name": "信立泰",
+        "market_value_wan": 1885.38
+      },
+      {
+        "stock_code": "600332",
+        "stock_name": "白云山",
+        "market_value_wan": 1742.36
+      },
+      {
+        "stock_code": "600690",
+        "stock_name": "海尔智家",
+        "market_value_wan": 1694.88
+      },
+      {
+        "stock_code": "600887",
+        "stock_name": "伊利股份",
+        "market_value_wan": 1646.02
+      },
+      {
+        "stock_code": "000538",
+        "stock_name": "云南白药",
+        "market_value_wan": 1389.21
+      }
+    ],
+    "2018-Q1": [
+      {
+        "stock_code": "600028",
+        "stock_name": "中国石化",
+        "market_value_wan": 3810.24
+      },
+      {
+        "stock_code": "600050",
+        "stock_name": "中国联通",
+        "market_value_wan": 3081.12
+      },
+      {
+        "stock_code": "601988",
+        "stock_name": "中国银行",
+        "market_value_wan": 2593.8
+      },
+      {
+        "stock_code": "600887",
+        "stock_name": "伊利股份",
+        "market_value_wan": 2222.13
+      },
+      {
+        "stock_code": "000869",
+        "stock_name": "张裕A",
+        "market_value_wan": 2197.14
+      },
+      {
+        "stock_code": "002294",
+        "stock_name": "信立泰",
+        "market_value_wan": 2196.31
+      },
+      {
+        "stock_code": "002236",
+        "stock_name": "大华股份",
+        "market_value_wan": 1972.56
+      },
+      {
+        "stock_code": "600690",
+        "stock_name": "海尔智家",
+        "market_value_wan": 1902.96
+      },
+      {
+        "stock_code": "601607",
+        "stock_name": "上海医药",
+        "market_value_wan": 1898.59
+      },
+      {
+        "stock_code": "000538",
+        "stock_name": "云南白药",
+        "market_value_wan": 1582.82
+      }
+    ]
+  }
+}

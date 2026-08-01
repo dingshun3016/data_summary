@@ -1,0 +1,50 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "006780",
+    "name": "广发稳健策略混合A",
+    "base_name": "广发稳健策略混合"
+  },
+  "fetched_at": "2026-08-01 20:57:11",
+  "quarters": {
+    "2026-Q2": [
+      {
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "market_value_wan": 3968.15
+      },
+      {
+        "stock_code": "600060",
+        "stock_name": "海信视像",
+        "market_value_wan": 1879.48
+      },
+      {
+        "stock_code": "601699",
+        "stock_name": "潞安环能",
+        "market_value_wan": 813.25
+      }
+    ],
+    "2026-Q1": [
+      {
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "market_value_wan": 7948.63
+      },
+      {
+        "stock_code": "600941",
+        "stock_name": "中国移动",
+        "market_value_wan": 2704.9
+      },
+      {
+        "stock_code": "601166",
+        "stock_name": "兴业银行",
+        "market_value_wan": 2652.49
+      },
+      {
+        "stock_code": "600064",
+        "stock_name": "南京高科",
+        "market_value_wan": 2014.57
+      }
+    ]
+  }
+}

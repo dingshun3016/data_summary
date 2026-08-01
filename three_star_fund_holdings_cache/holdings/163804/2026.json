@@ -1,0 +1,115 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "163804",
+    "name": "中银收益混合A",
+    "base_name": "中银收益混合"
+  },
+  "fetched_at": "2026-08-01 21:00:29",
+  "quarters": {
+    "2026-Q2": [
+      {
+        "stock_code": "002080",
+        "stock_name": "中材科技",
+        "market_value_wan": 13252.19
+      },
+      {
+        "stock_code": "600549",
+        "stock_name": "厦门钨业",
+        "market_value_wan": 12132.48
+      },
+      {
+        "stock_code": "002980",
+        "stock_name": "华盛昌",
+        "market_value_wan": 11637.22
+      },
+      {
+        "stock_code": "688700",
+        "stock_name": "东威科技",
+        "market_value_wan": 10257.01
+      },
+      {
+        "stock_code": "688233",
+        "stock_name": "神工股份",
+        "market_value_wan": 8699.9
+      },
+      {
+        "stock_code": "002468",
+        "stock_name": "申通快递",
+        "market_value_wan": 8196.55
+      },
+      {
+        "stock_code": "300408",
+        "stock_name": "三环集团",
+        "market_value_wan": 8144.72
+      },
+      {
+        "stock_code": "600233",
+        "stock_name": "圆通速递",
+        "market_value_wan": 7411.93
+      },
+      {
+        "stock_code": "002484",
+        "stock_name": "江海股份",
+        "market_value_wan": 6659.06
+      },
+      {
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "market_value_wan": 6096.88
+      }
+    ],
+    "2026-Q1": [
+      {
+        "stock_code": "002080",
+        "stock_name": "中材科技",
+        "market_value_wan": 8154.67
+      },
+      {
+        "stock_code": "600233",
+        "stock_name": "圆通速递",
+        "market_value_wan": 7572.97
+      },
+      {
+        "stock_code": "002271",
+        "stock_name": "东方雨虹",
+        "market_value_wan": 6461.43
+      },
+      {
+        "stock_code": "600801",
+        "stock_name": "华新建材",
+        "market_value_wan": 6386.36
+      },
+      {
+        "stock_code": "600686",
+        "stock_name": "金龙汽车",
+        "market_value_wan": 5975.73
+      },
+      {
+        "stock_code": "002980",
+        "stock_name": "华盛昌",
+        "market_value_wan": 5784.79
+      },
+      {
+        "stock_code": "002468",
+        "stock_name": "申通快递",
+        "market_value_wan": 5661.98
+      },
+      {
+        "stock_code": "600031",
+        "stock_name": "三一重工",
+        "market_value_wan": 4904.56
+      },
+      {
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "market_value_wan": 4742.83
+      },
+      {
+        "stock_code": "601231",
+        "stock_name": "环旭电子",
+        "market_value_wan": 4668.84
+      }
+    ]
+  }
+}

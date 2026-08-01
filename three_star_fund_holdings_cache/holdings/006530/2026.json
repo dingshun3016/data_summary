@@ -1,0 +1,65 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "006530",
+    "name": "中欧匠心两年持有期混合C",
+    "base_name": "中欧匠心两年持有期混合"
+  },
+  "fetched_at": "2026-08-01 20:57:04",
+  "quarters": {
+    "2026-Q2": [
+      {
+        "stock_code": "600674",
+        "stock_name": "川投能源",
+        "market_value_wan": 13751.7
+      },
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 10472.99
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 10167.17
+      },
+      {
+        "stock_code": "600660",
+        "stock_name": "福耀玻璃",
+        "market_value_wan": 6919.41
+      },
+      {
+        "stock_code": "600900",
+        "stock_name": "长江电力",
+        "market_value_wan": 4709.01
+      }
+    ],
+    "2026-Q1": [
+      {
+        "stock_code": "600674",
+        "stock_name": "川投能源",
+        "market_value_wan": 17937.03
+      },
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 17842.6
+      },
+      {
+        "stock_code": "600660",
+        "stock_name": "福耀玻璃",
+        "market_value_wan": 12290.91
+      },
+      {
+        "stock_code": "000100",
+        "stock_name": "TCL科技",
+        "market_value_wan": 9146.67
+      },
+      {
+        "stock_code": "600690",
+        "stock_name": "海尔智家",
+        "market_value_wan": 8728.28
+      }
+    ]
+  }
+}

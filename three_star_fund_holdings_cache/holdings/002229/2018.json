@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "002229",
+    "name": "华夏经济转型股票",
+    "base_name": "华夏经济转型股票"
+  },
+  "fetched_at": "2026-06-14 23:04:56",
+  "quarters": {
+    "2018-Q4": [
+      {
+        "stock_code": "600050",
+        "stock_name": "中国联通",
+        "market_value_wan": 4172.19
+      },
+      {
+        "stock_code": "002745",
+        "stock_name": "木林森",
+        "market_value_wan": 3838.6
+      },
+      {
+        "stock_code": "300059",
+        "stock_name": "东方财富",
+        "market_value_wan": 3388.0
+      },
+      {
+        "stock_code": "600498",
+        "stock_name": "烽火通信",
+        "market_value_wan": 3359.27
+      },
+      {
+        "stock_code": "300577",
+        "stock_name": "开润股份",
+        "market_value_wan": 3216.7
+      },
+      {
+        "stock_code": "300047",
+        "stock_name": "天源迪科",
+        "market_value_wan": 3195.98
+      },
+      {
+        "stock_code": "002376",
+        "stock_name": "新北洋",
+        "market_value_wan": 3067.86
+      },
+      {
+        "stock_code": "600563",
+        "stock_name": "法拉电子",
+        "market_value_wan": 2890.66
+      },
+      {
+        "stock_code": "002371",
+        "stock_name": "北方华创",
+        "market_value_wan": 2680.96
+      },
+      {
+        "stock_code": "600570",
+        "stock_name": "恒生电子",
+        "market_value_wan": 2443.06
+      }
+    ],
+    "2018-Q3": [
+      {
+        "stock_code": "000977",
+        "stock_name": "浪潮信息",
+        "market_value_wan": 3612.0
+      },
+      {
+        "stock_code": "600050",
+        "stock_name": "中国联通",
+        "market_value_wan": 2952.1
+      },
+      {
+        "stock_code": "300577",
+        "stock_name": "开润股份",
+        "market_value_wan": 2714.76
+      },
+      {
+        "stock_code": "600563",
+        "stock_name": "法拉电子",
+        "market_value_wan": 2506.77
+      },
+      {
+        "stock_code": "300365",
+        "stock_name": "恒华科技",
+        "market_value_wan": 2222.46
+      },
+      {
+        "stock_code": "002179",
+        "stock_name": "中航光电",
+        "market_value_wan": 2199.6
+      },
+      {
+        "stock_code": "600498",
+        "stock_name": "烽火通信",
+        "market_value_wan": 2178.12
+      },
+      {
+        "stock_code": "300170",
+        "stock_name": "汉得信息",
+        "market_value_wan": 2123.52
+      },
+      {
+        "stock_code": "300047",
+        "stock_name": "天源迪科",
+        "market_value_wan": 2094.07
+      },
+      {
+        "stock_code": "002281",
+        "stock_name": "光迅科技",
+        "market_value_wan": 2055.13
+      }
+    ],
+    "2018-Q2": [
+      {
+        "stock_code": "000977",
+        "stock_name": "浪潮信息",
+        "market_value_wan": 1764.9
+      },
+      {
+        "stock_code": "300097",
+        "stock_name": "智云股份",
+        "market_value_wan": 1559.36
+      },
+      {
+        "stock_code": "600563",
+        "stock_name": "法拉电子",
+        "market_value_wan": 1465.26
+      },
+      {
+        "stock_code": "300170",
+        "stock_name": "汉得信息",
+        "market_value_wan": 1331.68
+      },
+      {
+        "stock_code": "300047",
+        "stock_name": "天源迪科",
+        "market_value_wan": 1305.25
+      },
+      {
+        "stock_code": "300577",
+        "stock_name": "开润股份",
+        "market_value_wan": 1285.51
+      },
+      {
+        "stock_code": "300365",
+        "stock_name": "恒华科技",
+        "market_value_wan": 1053.37
+      },
+      {
+        "stock_code": "600845",
+        "stock_name": "宝信软件",
+        "market_value_wan": 922.25
+      },
+      {
+        "stock_code": "002410",
+        "stock_name": "广联达",
+        "market_value_wan": 887.36
+      },
+      {
+        "stock_code": "002851",
+        "stock_name": "麦格米特",
+        "market_value_wan": 878.4
+      }
+    ],
+    "2018-Q1": [
+      {
+        "stock_code": "600563",
+        "stock_name": "法拉电子",
+        "market_value_wan": 1117.41
+      },
+      {
+        "stock_code": "300577",
+        "stock_name": "开润股份",
+        "market_value_wan": 958.17
+      },
+      {
+        "stock_code": "300365",
+        "stock_name": "恒华科技",
+        "market_value_wan": 923.64
+      },
+      {
+        "stock_code": "300170",
+        "stock_name": "汉得信息",
+        "market_value_wan": 852.48
+      },
+      {
+        "stock_code": "300097",
+        "stock_name": "智云股份",
+        "market_value_wan": 846.3
+      },
+      {
+        "stock_code": "002705",
+        "stock_name": "新宝股份",
+        "market_value_wan": 709.8
+      },
+      {
+        "stock_code": "300673",
+        "stock_name": "佩蒂股份",
+        "market_value_wan": 692.82
+      },
+      {
+        "stock_code": "002371",
+        "stock_name": "北方华创",
+        "market_value_wan": 688.05
+      },
+      {
+        "stock_code": "300047",
+        "stock_name": "天源迪科",
+        "market_value_wan": 640.0
+      },
+      {
+        "stock_code": "600570",
+        "stock_name": "恒生电子",
+        "market_value_wan": 597.8
+      }
+    ]
+  }
+}

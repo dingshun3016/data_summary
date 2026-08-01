@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "001266",
+    "name": "国投瑞银招财混合A",
+    "base_name": "国投瑞银招财混合"
+  },
+  "fetched_at": "2026-06-14 22:55:09",
+  "quarters": {
+    "2018-Q4": [
+      {
+        "stock_code": "600030",
+        "stock_name": "中信证券",
+        "market_value_wan": 528.33
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 448.41
+      },
+      {
+        "stock_code": "002368",
+        "stock_name": "太极股份",
+        "market_value_wan": 436.56
+      },
+      {
+        "stock_code": "300760",
+        "stock_name": "迈瑞医疗",
+        "market_value_wan": 401.93
+      },
+      {
+        "stock_code": "002739",
+        "stock_name": "万达电影",
+        "market_value_wan": 401.89
+      },
+      {
+        "stock_code": "002371",
+        "stock_name": "北方华创",
+        "market_value_wan": 394.22
+      },
+      {
+        "stock_code": "603019",
+        "stock_name": "中科曙光",
+        "market_value_wan": 389.66
+      },
+      {
+        "stock_code": "603259",
+        "stock_name": "药明康德",
+        "market_value_wan": 389.27
+      },
+      {
+        "stock_code": "000783",
+        "stock_name": "长江证券",
+        "market_value_wan": 360.5
+      },
+      {
+        "stock_code": "600048",
+        "stock_name": "保利发展",
+        "market_value_wan": 353.7
+      }
+    ],
+    "2018-Q3": [
+      {
+        "stock_code": "600588",
+        "stock_name": "用友网络",
+        "market_value_wan": 945.88
+      },
+      {
+        "stock_code": "603019",
+        "stock_name": "中科曙光",
+        "market_value_wan": 750.08
+      },
+      {
+        "stock_code": "600498",
+        "stock_name": "烽火通信",
+        "market_value_wan": 746.0
+      },
+      {
+        "stock_code": "603799",
+        "stock_name": "华友钴业",
+        "market_value_wan": 745.47
+      },
+      {
+        "stock_code": "603259",
+        "stock_name": "药明康德",
+        "market_value_wan": 731.15
+      },
+      {
+        "stock_code": "002368",
+        "stock_name": "太极股份",
+        "market_value_wan": 704.03
+      },
+      {
+        "stock_code": "000063",
+        "stock_name": "中兴通讯",
+        "market_value_wan": 677.1
+      },
+      {
+        "stock_code": "002371",
+        "stock_name": "北方华创",
+        "market_value_wan": 611.78
+      },
+      {
+        "stock_code": "000977",
+        "stock_name": "浪潮信息",
+        "market_value_wan": 553.84
+      },
+      {
+        "stock_code": "300059",
+        "stock_name": "东方财富",
+        "market_value_wan": 530.1
+      }
+    ],
+    "2018-Q2": [
+      {
+        "stock_code": "600967",
+        "stock_name": "内蒙一机",
+        "market_value_wan": 2513.59
+      },
+      {
+        "stock_code": "600760",
+        "stock_name": "中航沈飞",
+        "market_value_wan": 2414.68
+      },
+      {
+        "stock_code": "600879",
+        "stock_name": "航天电子",
+        "market_value_wan": 2305.83
+      },
+      {
+        "stock_code": "000768",
+        "stock_name": "中航西飞",
+        "market_value_wan": 2299.27
+      },
+      {
+        "stock_code": "300600",
+        "stock_name": "ST瑞科",
+        "market_value_wan": 2286.97
+      },
+      {
+        "stock_code": "002013",
+        "stock_name": "中航机电",
+        "market_value_wan": 2272.43
+      },
+      {
+        "stock_code": "600038",
+        "stock_name": "中直股份",
+        "market_value_wan": 2254.07
+      },
+      {
+        "stock_code": "600372",
+        "stock_name": "中航机载",
+        "market_value_wan": 2210.4
+      },
+      {
+        "stock_code": "600562",
+        "stock_name": "国睿科技",
+        "market_value_wan": 2134.52
+      },
+      {
+        "stock_code": "600990",
+        "stock_name": "四创电子",
+        "market_value_wan": 1948.12
+      }
+    ],
+    "2018-Q1": [
+      {
+        "stock_code": "002013",
+        "stock_name": "中航机电",
+        "market_value_wan": 2321.13
+      },
+      {
+        "stock_code": "600967",
+        "stock_name": "内蒙一机",
+        "market_value_wan": 2195.36
+      },
+      {
+        "stock_code": "600038",
+        "stock_name": "中直股份",
+        "market_value_wan": 2001.49
+      },
+      {
+        "stock_code": "600760",
+        "stock_name": "中航沈飞",
+        "market_value_wan": 1892.95
+      },
+      {
+        "stock_code": "600990",
+        "stock_name": "四创电子",
+        "market_value_wan": 1852.62
+      },
+      {
+        "stock_code": "000768",
+        "stock_name": "中航西飞",
+        "market_value_wan": 1780.06
+      },
+      {
+        "stock_code": "600879",
+        "stock_name": "航天电子",
+        "market_value_wan": 1778.48
+      },
+      {
+        "stock_code": "300600",
+        "stock_name": "ST瑞科",
+        "market_value_wan": 1769.58
+      },
+      {
+        "stock_code": "600562",
+        "stock_name": "国睿科技",
+        "market_value_wan": 1696.49
+      },
+      {
+        "stock_code": "603127",
+        "stock_name": "昭衍新药",
+        "market_value_wan": 1266.28
+      }
+    ]
+  }
+}

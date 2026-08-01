@@ -1,0 +1,89 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "011726",
+    "name": "安信新常态股票C",
+    "base_name": "安信新常态股票"
+  },
+  "fetched_at": "2026-06-14 23:47:59",
+  "quarters": {
+    "2025-Q4": [
+      {
+        "stock_code": "688169",
+        "stock_name": "石头科技",
+        "market_value_wan": 5930.08
+      },
+      {
+        "stock_code": "603486",
+        "stock_name": "科沃斯",
+        "market_value_wan": 2823.19
+      }
+    ],
+    "2025-Q3": [
+      {
+        "stock_code": "688169",
+        "stock_name": "石头科技",
+        "market_value_wan": 8030.19
+      },
+      {
+        "stock_code": "601668",
+        "stock_name": "中国建筑",
+        "market_value_wan": 4996.5
+      },
+      {
+        "stock_code": "600048",
+        "stock_name": "保利发展",
+        "market_value_wan": 4364.41
+      },
+      {
+        "stock_code": "002142",
+        "stock_name": "宁波银行",
+        "market_value_wan": 3427.76
+      }
+    ],
+    "2025-Q2": [
+      {
+        "stock_code": "688169",
+        "stock_name": "石头科技",
+        "market_value_wan": 6795.6
+      },
+      {
+        "stock_code": "601668",
+        "stock_name": "中国建筑",
+        "market_value_wan": 4115.21
+      },
+      {
+        "stock_code": "600048",
+        "stock_name": "保利发展",
+        "market_value_wan": 3563.82
+      },
+      {
+        "stock_code": "002142",
+        "stock_name": "宁波银行",
+        "market_value_wan": 3548.38
+      }
+    ],
+    "2025-Q1": [
+      {
+        "stock_code": "688169",
+        "stock_name": "石头科技",
+        "market_value_wan": 5546.45
+      },
+      {
+        "stock_code": "601668",
+        "stock_name": "中国建筑",
+        "market_value_wan": 3751.48
+      },
+      {
+        "stock_code": "002142",
+        "stock_name": "宁波银行",
+        "market_value_wan": 3667.27
+      },
+      {
+        "stock_code": "600048",
+        "stock_name": "保利发展",
+        "market_value_wan": 2159.48
+      }
+    ]
+  }
+}

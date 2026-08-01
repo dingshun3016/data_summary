@@ -1,0 +1,75 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "011509",
+    "name": "易方达悦弘一年持有期混合C",
+    "base_name": "易方达悦弘一年持有期混合"
+  },
+  "fetched_at": "2026-08-01 20:59:48",
+  "quarters": {
+    "2026-Q2": [
+      {
+        "stock_code": "600482",
+        "stock_name": "中国动力",
+        "market_value_wan": 319.47
+      },
+      {
+        "stock_code": "601058",
+        "stock_name": "赛轮轮胎",
+        "market_value_wan": 161.07
+      },
+      {
+        "stock_code": "603565",
+        "stock_name": "中谷物流",
+        "market_value_wan": 159.74
+      },
+      {
+        "stock_code": "920136",
+        "stock_name": "永励精密",
+        "market_value_wan": 0.58
+      }
+    ],
+    "2026-Q1": [
+      {
+        "stock_code": "600309",
+        "stock_name": "万华化学",
+        "market_value_wan": 313.45
+      },
+      {
+        "stock_code": "601799",
+        "stock_name": "星宇股份",
+        "market_value_wan": 212.3
+      },
+      {
+        "stock_code": "603565",
+        "stock_name": "中谷物流",
+        "market_value_wan": 186.77
+      },
+      {
+        "stock_code": "600900",
+        "stock_name": "长江电力",
+        "market_value_wan": 184.95
+      },
+      {
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "market_value_wan": 173.75
+      },
+      {
+        "stock_code": "688188",
+        "stock_name": "柏楚电子",
+        "market_value_wan": 143.88
+      },
+      {
+        "stock_code": "688036",
+        "stock_name": "传音控股",
+        "market_value_wan": 140.83
+      },
+      {
+        "stock_code": "000338",
+        "stock_name": "潍柴动力",
+        "market_value_wan": 131.24
+      }
+    ]
+  }
+}

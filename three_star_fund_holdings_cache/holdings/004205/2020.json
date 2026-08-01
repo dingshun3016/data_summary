@@ -1,0 +1,214 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "004205",
+    "name": "东方支柱产业灵活配置混合",
+    "base_name": "东方支柱产业灵活配置混合"
+  },
+  "fetched_at": "2026-06-14 23:12:36",
+  "quarters": {
+    "2020-Q4": [
+      {
+        "stock_code": "002532",
+        "stock_name": "天山铝业",
+        "market_value_wan": 272.55
+      },
+      {
+        "stock_code": "603993",
+        "stock_name": "洛阳钼业",
+        "market_value_wan": 187.5
+      },
+      {
+        "stock_code": "601899",
+        "stock_name": "紫金矿业",
+        "market_value_wan": 185.8
+      },
+      {
+        "stock_code": "601168",
+        "stock_name": "西部矿业",
+        "market_value_wan": 185.7
+      },
+      {
+        "stock_code": "002408",
+        "stock_name": "齐翔腾达",
+        "market_value_wan": 183.92
+      },
+      {
+        "stock_code": "000933",
+        "stock_name": "神火股份",
+        "market_value_wan": 183.54
+      },
+      {
+        "stock_code": "600141",
+        "stock_name": "兴发集团",
+        "market_value_wan": 176.48
+      },
+      {
+        "stock_code": "000878",
+        "stock_name": "云南铜业",
+        "market_value_wan": 173.64
+      },
+      {
+        "stock_code": "000807",
+        "stock_name": "云铝股份",
+        "market_value_wan": 173.19
+      },
+      {
+        "stock_code": "000975",
+        "stock_name": "山金国际",
+        "market_value_wan": 172.2
+      }
+    ],
+    "2020-Q3": [
+      {
+        "stock_code": "000975",
+        "stock_name": "山金国际",
+        "market_value_wan": 88.03
+      },
+      {
+        "stock_code": "002532",
+        "stock_name": "天山铝业",
+        "market_value_wan": 84.0
+      },
+      {
+        "stock_code": "688020",
+        "stock_name": "方邦股份",
+        "market_value_wan": 83.25
+      },
+      {
+        "stock_code": "600378",
+        "stock_name": "昊华科技",
+        "market_value_wan": 80.81
+      },
+      {
+        "stock_code": "600048",
+        "stock_name": "保利发展",
+        "market_value_wan": 76.27
+      },
+      {
+        "stock_code": "603993",
+        "stock_name": "洛阳钼业",
+        "market_value_wan": 74.4
+      },
+      {
+        "stock_code": "000002",
+        "stock_name": "万科A",
+        "market_value_wan": 72.85
+      },
+      {
+        "stock_code": "600183",
+        "stock_name": "生益科技",
+        "market_value_wan": 69.96
+      },
+      {
+        "stock_code": "603799",
+        "stock_name": "华友钴业",
+        "market_value_wan": 69.38
+      },
+      {
+        "stock_code": "002221",
+        "stock_name": "东华能源",
+        "market_value_wan": 69.2
+      }
+    ],
+    "2020-Q2": [
+      {
+        "stock_code": "601816",
+        "stock_name": "京沪高铁",
+        "market_value_wan": 558.43
+      },
+      {
+        "stock_code": "688278",
+        "stock_name": "特宝生物",
+        "market_value_wan": 58.38
+      },
+      {
+        "stock_code": "688318",
+        "stock_name": "财富趋势",
+        "market_value_wan": 29.28
+      },
+      {
+        "stock_code": "688178",
+        "stock_name": "万德斯",
+        "market_value_wan": 14.35
+      },
+      {
+        "stock_code": "603087",
+        "stock_name": "甘李药业",
+        "market_value_wan": 4.09
+      },
+      {
+        "stock_code": "300842",
+        "stock_name": "帝科股份",
+        "market_value_wan": 1.85
+      },
+      {
+        "stock_code": "600956",
+        "stock_name": "新天绿能",
+        "market_value_wan": 1.28
+      },
+      {
+        "stock_code": "300839",
+        "stock_name": "博汇股份",
+        "market_value_wan": 1.18
+      },
+      {
+        "stock_code": "300840",
+        "stock_name": "酷特智能",
+        "market_value_wan": 0.7
+      }
+    ],
+    "2020-Q1": [
+      {
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "market_value_wan": 1162.08
+      },
+      {
+        "stock_code": "601398",
+        "stock_name": "工商银行",
+        "market_value_wan": 618.0
+      },
+      {
+        "stock_code": "601166",
+        "stock_name": "兴业银行",
+        "market_value_wan": 572.76
+      },
+      {
+        "stock_code": "601816",
+        "stock_name": "京沪高铁",
+        "market_value_wan": 530.32
+      },
+      {
+        "stock_code": "600030",
+        "stock_name": "中信证券",
+        "market_value_wan": 354.56
+      },
+      {
+        "stock_code": "601688",
+        "stock_name": "华泰证券",
+        "market_value_wan": 344.6
+      },
+      {
+        "stock_code": "601288",
+        "stock_name": "农业银行",
+        "market_value_wan": 337.0
+      },
+      {
+        "stock_code": "600183",
+        "stock_name": "生益科技",
+        "market_value_wan": 317.64
+      },
+      {
+        "stock_code": "601668",
+        "stock_name": "中国建筑",
+        "market_value_wan": 316.2
+      },
+      {
+        "stock_code": "601899",
+        "stock_name": "紫金矿业",
+        "market_value_wan": 295.2
+      }
+    ]
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "009139",
+    "name": "嘉实瑞成两年持有期混合C",
+    "base_name": "嘉实瑞成两年持有期混合"
+  },
+  "fetched_at": "2026-06-14 23:31:41",
+  "quarters": {
+    "2020-Q4": [
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 8750.33
+      },
+      {
+        "stock_code": "300083",
+        "stock_name": "创世纪",
+        "market_value_wan": 8534.54
+      },
+      {
+        "stock_code": "000858",
+        "stock_name": "五粮液",
+        "market_value_wan": 8034.63
+      },
+      {
+        "stock_code": "002925",
+        "stock_name": "盈趣科技",
+        "market_value_wan": 8026.41
+      },
+      {
+        "stock_code": "300628",
+        "stock_name": "亿联网络",
+        "market_value_wan": 7715.47
+      },
+      {
+        "stock_code": "002541",
+        "stock_name": "鸿路钢构",
+        "market_value_wan": 7122.44
+      }
+    ],
+    "2020-Q3": [
+      {
+        "stock_code": "000858",
+        "stock_name": "五粮液",
+        "market_value_wan": 6868.68
+      },
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 6453.41
+      },
+      {
+        "stock_code": "300628",
+        "stock_name": "亿联网络",
+        "market_value_wan": 6216.83
+      },
+      {
+        "stock_code": "002541",
+        "stock_name": "鸿路钢构",
+        "market_value_wan": 6026.06
+      },
+      {
+        "stock_code": "000568",
+        "stock_name": "泸州老窖",
+        "market_value_wan": 5822.39
+      },
+      {
+        "stock_code": "002925",
+        "stock_name": "盈趣科技",
+        "market_value_wan": 5374.48
+      },
+      {
+        "stock_code": "600867",
+        "stock_name": "通化东宝",
+        "market_value_wan": 5115.67
+      },
+      {
+        "stock_code": "002025",
+        "stock_name": "航天电器",
+        "market_value_wan": 3917.67
+      }
+    ]
+  }
+}

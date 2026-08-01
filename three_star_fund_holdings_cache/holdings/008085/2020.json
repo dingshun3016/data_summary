@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "008085",
+    "name": "海富通先进制造股票A",
+    "base_name": "海富通先进制造股票"
+  },
+  "fetched_at": "2026-06-14 23:26:02",
+  "quarters": {
+    "2020-Q4": [
+      {
+        "stock_code": "603678",
+        "stock_name": "火炬电子",
+        "market_value_wan": 7093.35
+      },
+      {
+        "stock_code": "603267",
+        "stock_name": "鸿远电子",
+        "market_value_wan": 6971.58
+      },
+      {
+        "stock_code": "000733",
+        "stock_name": "振华科技",
+        "market_value_wan": 6964.96
+      },
+      {
+        "stock_code": "300659",
+        "stock_name": "中孚信息",
+        "market_value_wan": 6929.8
+      },
+      {
+        "stock_code": "300379",
+        "stock_name": "东方通",
+        "market_value_wan": 6495.36
+      },
+      {
+        "stock_code": "688111",
+        "stock_name": "金山办公",
+        "market_value_wan": 6312.96
+      },
+      {
+        "stock_code": "600399",
+        "stock_name": "抚顺特钢",
+        "market_value_wan": 4713.32
+      },
+      {
+        "stock_code": "688122",
+        "stock_name": "西部超导",
+        "market_value_wan": 4314.09
+      },
+      {
+        "stock_code": "300598",
+        "stock_name": "诚迈科技",
+        "market_value_wan": 3294.83
+      },
+      {
+        "stock_code": "002049",
+        "stock_name": "紫光国微",
+        "market_value_wan": 2764.21
+      }
+    ],
+    "2020-Q3": [
+      {
+        "stock_code": "000733",
+        "stock_name": "振华科技",
+        "market_value_wan": 7153.69
+      },
+      {
+        "stock_code": "300659",
+        "stock_name": "中孚信息",
+        "market_value_wan": 6599.91
+      },
+      {
+        "stock_code": "688111",
+        "stock_name": "金山办公",
+        "market_value_wan": 6385.7
+      },
+      {
+        "stock_code": "300379",
+        "stock_name": "东方通",
+        "market_value_wan": 5532.06
+      },
+      {
+        "stock_code": "300598",
+        "stock_name": "诚迈科技",
+        "market_value_wan": 5413.39
+      },
+      {
+        "stock_code": "603267",
+        "stock_name": "鸿远电子",
+        "market_value_wan": 5346.91
+      },
+      {
+        "stock_code": "688122",
+        "stock_name": "西部超导",
+        "market_value_wan": 5060.26
+      },
+      {
+        "stock_code": "603019",
+        "stock_name": "中科曙光",
+        "market_value_wan": 4038.55
+      },
+      {
+        "stock_code": "002049",
+        "stock_name": "紫光国微",
+        "market_value_wan": 3512.05
+      },
+      {
+        "stock_code": "300427",
+        "stock_name": "红相股份",
+        "market_value_wan": 2818.28
+      }
+    ],
+    "2020-Q2": [
+      {
+        "stock_code": "688111",
+        "stock_name": "金山办公",
+        "market_value_wan": 12176.17
+      },
+      {
+        "stock_code": "300598",
+        "stock_name": "诚迈科技",
+        "market_value_wan": 10708.18
+      },
+      {
+        "stock_code": "300659",
+        "stock_name": "中孚信息",
+        "market_value_wan": 9986.37
+      },
+      {
+        "stock_code": "603501",
+        "stock_name": "韦尔股份",
+        "market_value_wan": 8582.83
+      },
+      {
+        "stock_code": "300379",
+        "stock_name": "东方通",
+        "market_value_wan": 8537.04
+      },
+      {
+        "stock_code": "603986",
+        "stock_name": "兆易创新",
+        "market_value_wan": 7324.13
+      },
+      {
+        "stock_code": "603019",
+        "stock_name": "中科曙光",
+        "market_value_wan": 6972.31
+      },
+      {
+        "stock_code": "000636",
+        "stock_name": "风华高科",
+        "market_value_wan": 5553.11
+      },
+      {
+        "stock_code": "002456",
+        "stock_name": "欧菲光",
+        "market_value_wan": 3219.54
+      },
+      {
+        "stock_code": "688012",
+        "stock_name": "中微公司",
+        "market_value_wan": 2778.64
+      }
+    ],
+    "2020-Q1": [
+      {
+        "stock_code": "688111",
+        "stock_name": "金山办公",
+        "market_value_wan": 8128.02
+      },
+      {
+        "stock_code": "603986",
+        "stock_name": "兆易创新",
+        "market_value_wan": 8102.54
+      },
+      {
+        "stock_code": "603019",
+        "stock_name": "中科曙光",
+        "market_value_wan": 7770.22
+      },
+      {
+        "stock_code": "300598",
+        "stock_name": "诚迈科技",
+        "market_value_wan": 7397.49
+      },
+      {
+        "stock_code": "300659",
+        "stock_name": "中孚信息",
+        "market_value_wan": 7279.3
+      },
+      {
+        "stock_code": "300379",
+        "stock_name": "东方通",
+        "market_value_wan": 7272.11
+      },
+      {
+        "stock_code": "603501",
+        "stock_name": "韦尔股份",
+        "market_value_wan": 5560.92
+      },
+      {
+        "stock_code": "600745",
+        "stock_name": "闻泰科技",
+        "market_value_wan": 4057.85
+      },
+      {
+        "stock_code": "603721",
+        "stock_name": "中广天择",
+        "market_value_wan": 2950.11
+      },
+      {
+        "stock_code": "300316",
+        "stock_name": "晶盛机电",
+        "market_value_wan": 1961.08
+      }
+    ]
+  }
+}

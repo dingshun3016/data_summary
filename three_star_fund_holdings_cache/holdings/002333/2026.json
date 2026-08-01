@@ -1,0 +1,55 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "002333",
+    "name": "汇丰晋信沪港深C",
+    "base_name": "汇丰晋信沪港深"
+  },
+  "fetched_at": "2026-08-01 20:55:06",
+  "quarters": {
+    "2026-Q2": [
+      {
+        "stock_code": "300979",
+        "stock_name": "华利集团",
+        "market_value_wan": 3275.18
+      },
+      {
+        "stock_code": "002078",
+        "stock_name": "太阳纸业",
+        "market_value_wan": 3019.46
+      },
+      {
+        "stock_code": "603816",
+        "stock_name": "顾家家居",
+        "market_value_wan": 2228.4
+      },
+      {
+        "stock_code": "601677",
+        "stock_name": "明泰铝业",
+        "market_value_wan": 2036.82
+      },
+      {
+        "stock_code": "000932",
+        "stock_name": "华菱钢铁",
+        "market_value_wan": 1653.28
+      }
+    ],
+    "2026-Q1": [
+      {
+        "stock_code": "603816",
+        "stock_name": "顾家家居",
+        "market_value_wan": 3179.01
+      },
+      {
+        "stock_code": "300979",
+        "stock_name": "华利集团",
+        "market_value_wan": 2900.81
+      },
+      {
+        "stock_code": "002078",
+        "stock_name": "太阳纸业",
+        "market_value_wan": 2881.47
+      }
+    ]
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "009782",
+    "name": "富国兴泉回报12个月持有期混合A",
+    "base_name": "富国兴泉回报12个月持有期混合"
+  },
+  "fetched_at": "2026-06-14 23:35:44",
+  "quarters": {
+    "2025-Q4": [
+      {
+        "stock_code": "600489",
+        "stock_name": "中金黄金",
+        "market_value_wan": 2820.95
+      },
+      {
+        "stock_code": "601899",
+        "stock_name": "紫金矿业",
+        "market_value_wan": 1370.18
+      },
+      {
+        "stock_code": "600547",
+        "stock_name": "山东黄金",
+        "market_value_wan": 1071.49
+      },
+      {
+        "stock_code": "002984",
+        "stock_name": "森麒麟",
+        "market_value_wan": 700.81
+      },
+      {
+        "stock_code": "002155",
+        "stock_name": "湖南黄金",
+        "market_value_wan": 630.38
+      },
+      {
+        "stock_code": "002379",
+        "stock_name": "宏桥控股",
+        "market_value_wan": 615.46
+      }
+    ],
+    "2025-Q3": [
+      {
+        "stock_code": "600489",
+        "stock_name": "中金黄金",
+        "market_value_wan": 3500.69
+      },
+      {
+        "stock_code": "603993",
+        "stock_name": "洛阳钼业",
+        "market_value_wan": 1499.35
+      },
+      {
+        "stock_code": "601899",
+        "stock_name": "紫金矿业",
+        "market_value_wan": 1170.24
+      },
+      {
+        "stock_code": "600547",
+        "stock_name": "山东黄金",
+        "market_value_wan": 1088.65
+      },
+      {
+        "stock_code": "000426",
+        "stock_name": "兴业银锡",
+        "market_value_wan": 900.86
+      }
+    ],
+    "2025-Q2": [
+      {
+        "stock_code": "600919",
+        "stock_name": "江苏银行",
+        "market_value_wan": 1251.67
+      },
+      {
+        "stock_code": "600489",
+        "stock_name": "中金黄金",
+        "market_value_wan": 1152.84
+      },
+      {
+        "stock_code": "000975",
+        "stock_name": "山金国际",
+        "market_value_wan": 898.32
+      },
+      {
+        "stock_code": "688068",
+        "stock_name": "热景生物",
+        "market_value_wan": 813.44
+      },
+      {
+        "stock_code": "600183",
+        "stock_name": "生益科技",
+        "market_value_wan": 779.08
+      }
+    ],
+    "2025-Q1": [
+      {
+        "stock_code": "002311",
+        "stock_name": "海大集团",
+        "market_value_wan": 1094.9
+      },
+      {
+        "stock_code": "601899",
+        "stock_name": "紫金矿业",
+        "market_value_wan": 974.13
+      },
+      {
+        "stock_code": "002984",
+        "stock_name": "森麒麟",
+        "market_value_wan": 804.76
+      }
+    ]
+  }
+}

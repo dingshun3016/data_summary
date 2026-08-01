@@ -1,0 +1,104 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "001282",
+    "name": "华安新机遇灵活配置混合A",
+    "base_name": "华安新机遇灵活配置混合"
+  },
+  "fetched_at": "2026-06-14 22:55:21",
+  "quarters": {
+    "2018-Q4": [
+      {
+        "stock_code": "000063",
+        "stock_name": "中兴通讯",
+        "market_value_wan": 390.52
+      },
+      {
+        "stock_code": "002531",
+        "stock_name": "天顺风能",
+        "market_value_wan": 305.05
+      },
+      {
+        "stock_code": "002749",
+        "stock_name": "国光股份",
+        "market_value_wan": 184.99
+      },
+      {
+        "stock_code": "603507",
+        "stock_name": "振江股份",
+        "market_value_wan": 183.64
+      },
+      {
+        "stock_code": "600990",
+        "stock_name": "四创电子",
+        "market_value_wan": 178.31
+      },
+      {
+        "stock_code": "002701",
+        "stock_name": "奥瑞金",
+        "market_value_wan": 155.19
+      },
+      {
+        "stock_code": "600170",
+        "stock_name": "上海建工",
+        "market_value_wan": 154.95
+      },
+      {
+        "stock_code": "000997",
+        "stock_name": "新大陆",
+        "market_value_wan": 153.13
+      },
+      {
+        "stock_code": "603508",
+        "stock_name": "思维列控",
+        "market_value_wan": 89.17
+      },
+      {
+        "stock_code": "600132",
+        "stock_name": "重庆啤酒",
+        "market_value_wan": 82.97
+      }
+    ],
+    "2018-Q3": [
+      {
+        "stock_code": "000961",
+        "stock_name": "ST中南",
+        "market_value_wan": 608.3
+      },
+      {
+        "stock_code": "300285",
+        "stock_name": "国瓷材料",
+        "market_value_wan": 385.76
+      },
+      {
+        "stock_code": "300241",
+        "stock_name": "瑞丰光电",
+        "market_value_wan": 348.37
+      },
+      {
+        "stock_code": "002110",
+        "stock_name": "三钢闽光",
+        "market_value_wan": 251.36
+      }
+    ],
+    "2018-Q2": [
+      {
+        "stock_code": "000961",
+        "stock_name": "ST中南",
+        "market_value_wan": 666.84
+      }
+    ],
+    "2018-Q1": [
+      {
+        "stock_code": "601949",
+        "stock_name": "中国出版",
+        "market_value_wan": 9.42
+      },
+      {
+        "stock_code": "603976",
+        "stock_name": "正川股份",
+        "market_value_wan": 2.56
+      }
+    ]
+  }
+}

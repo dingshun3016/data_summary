@@ -1,0 +1,80 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "009536",
+    "name": "汇添富稳健增益一年持有混合A",
+    "base_name": "汇添富稳健增益一年持有混合"
+  },
+  "fetched_at": "2026-08-01 20:58:31",
+  "quarters": {
+    "2026-Q2": [
+      {
+        "stock_code": "600690",
+        "stock_name": "海尔智家",
+        "market_value_wan": 408.2
+      },
+      {
+        "stock_code": "000651",
+        "stock_name": "格力电器",
+        "market_value_wan": 375.0
+      },
+      {
+        "stock_code": "601899",
+        "stock_name": "紫金矿业",
+        "market_value_wan": 301.68
+      },
+      {
+        "stock_code": "601038",
+        "stock_name": "一拖股份",
+        "market_value_wan": 211.8
+      },
+      {
+        "stock_code": "000888",
+        "stock_name": "峨眉山A",
+        "market_value_wan": 178.8
+      },
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 113.3
+      }
+    ],
+    "2026-Q1": [
+      {
+        "stock_code": "600690",
+        "stock_name": "海尔智家",
+        "market_value_wan": 1069.0
+      },
+      {
+        "stock_code": "601398",
+        "stock_name": "工商银行",
+        "market_value_wan": 305.6
+      },
+      {
+        "stock_code": "603979",
+        "stock_name": "金诚信",
+        "market_value_wan": 227.32
+      },
+      {
+        "stock_code": "000651",
+        "stock_name": "格力电器",
+        "market_value_wan": 189.1
+      },
+      {
+        "stock_code": "600486",
+        "stock_name": "扬农化工",
+        "market_value_wan": 150.0
+      },
+      {
+        "stock_code": "600389",
+        "stock_name": "江山股份",
+        "market_value_wan": 145.15
+      },
+      {
+        "stock_code": "601899",
+        "stock_name": "紫金矿业",
+        "market_value_wan": 65.44
+      }
+    ]
+  }
+}

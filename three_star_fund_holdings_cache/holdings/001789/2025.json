@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "001789",
+    "name": "国泰量化收益灵活配置混合A",
+    "base_name": "国泰量化收益灵活配置混合"
+  },
+  "fetched_at": "2026-06-14 23:00:58",
+  "quarters": {
+    "2025-Q4": [
+      {
+        "stock_code": "603236",
+        "stock_name": "移远通信",
+        "market_value_wan": 131.67
+      },
+      {
+        "stock_code": "603379",
+        "stock_name": "三美股份",
+        "market_value_wan": 102.01
+      },
+      {
+        "stock_code": "002545",
+        "stock_name": "东方铁塔",
+        "market_value_wan": 91.51
+      },
+      {
+        "stock_code": "600183",
+        "stock_name": "生益科技",
+        "market_value_wan": 82.12
+      },
+      {
+        "stock_code": "000408",
+        "stock_name": "藏格矿业",
+        "market_value_wan": 77.65
+      },
+      {
+        "stock_code": "002624",
+        "stock_name": "完美世界",
+        "market_value_wan": 77.36
+      },
+      {
+        "stock_code": "603444",
+        "stock_name": "吉比特",
+        "market_value_wan": 72.05
+      },
+      {
+        "stock_code": "601899",
+        "stock_name": "紫金矿业",
+        "market_value_wan": 65.49
+      },
+      {
+        "stock_code": "603993",
+        "stock_name": "洛阳钼业",
+        "market_value_wan": 64.8
+      },
+      {
+        "stock_code": "688686",
+        "stock_name": "奥普特",
+        "market_value_wan": 59.58
+      }
+    ],
+    "2025-Q3": [
+      {
+        "stock_code": "600499",
+        "stock_name": "科达制造",
+        "market_value_wan": 97.23
+      },
+      {
+        "stock_code": "603259",
+        "stock_name": "药明康德",
+        "market_value_wan": 82.9
+      },
+      {
+        "stock_code": "688235",
+        "stock_name": "百济神州",
+        "market_value_wan": 73.66
+      },
+      {
+        "stock_code": "000408",
+        "stock_name": "藏格矿业",
+        "market_value_wan": 73.5
+      },
+      {
+        "stock_code": "002624",
+        "stock_name": "完美世界",
+        "market_value_wan": 64.38
+      },
+      {
+        "stock_code": "603129",
+        "stock_name": "春风动力",
+        "market_value_wan": 61.7
+      },
+      {
+        "stock_code": "688665",
+        "stock_name": "四方光电",
+        "market_value_wan": 60.73
+      },
+      {
+        "stock_code": "600063",
+        "stock_name": "皖维高新",
+        "market_value_wan": 58.62
+      },
+      {
+        "stock_code": "603508",
+        "stock_name": "思维列控",
+        "market_value_wan": 57.96
+      },
+      {
+        "stock_code": "600096",
+        "stock_name": "云天化",
+        "market_value_wan": 57.89
+      }
+    ],
+    "2025-Q2": [
+      {
+        "stock_code": "688100",
+        "stock_name": "威胜信息",
+        "market_value_wan": 59.65
+      },
+      {
+        "stock_code": "301080",
+        "stock_name": "百普赛斯",
+        "market_value_wan": 55.08
+      },
+      {
+        "stock_code": "603529",
+        "stock_name": "爱玛科技",
+        "market_value_wan": 51.26
+      },
+      {
+        "stock_code": "603151",
+        "stock_name": "邦基科技",
+        "market_value_wan": 47.87
+      },
+      {
+        "stock_code": "000425",
+        "stock_name": "徐工机械",
+        "market_value_wan": 47.71
+      },
+      {
+        "stock_code": "301328",
+        "stock_name": "维峰电子",
+        "market_value_wan": 47.63
+      },
+      {
+        "stock_code": "603325",
+        "stock_name": "博隆技术",
+        "market_value_wan": 45.15
+      },
+      {
+        "stock_code": "688425",
+        "stock_name": "铁建重工",
+        "market_value_wan": 44.92
+      },
+      {
+        "stock_code": "301338",
+        "stock_name": "凯格精机",
+        "market_value_wan": 43.89
+      },
+      {
+        "stock_code": "688258",
+        "stock_name": "卓易信息",
+        "market_value_wan": 43.1
+      }
+    ],
+    "2025-Q1": [
+      {
+        "stock_code": "688608",
+        "stock_name": "恒玄科技",
+        "market_value_wan": 154.39
+      },
+      {
+        "stock_code": "688208",
+        "stock_name": "道通科技",
+        "market_value_wan": 81.82
+      },
+      {
+        "stock_code": "601179",
+        "stock_name": "中国西电",
+        "market_value_wan": 77.77
+      },
+      {
+        "stock_code": "301345",
+        "stock_name": "涛涛车业",
+        "market_value_wan": 63.14
+      },
+      {
+        "stock_code": "603173",
+        "stock_name": "福斯达",
+        "market_value_wan": 58.26
+      },
+      {
+        "stock_code": "601966",
+        "stock_name": "玲珑轮胎",
+        "market_value_wan": 57.66
+      },
+      {
+        "stock_code": "300476",
+        "stock_name": "胜宏科技",
+        "market_value_wan": 57.52
+      },
+      {
+        "stock_code": "603680",
+        "stock_name": "今创集团",
+        "market_value_wan": 57.24
+      },
+      {
+        "stock_code": "603181",
+        "stock_name": "皇马科技",
+        "market_value_wan": 56.29
+      },
+      {
+        "stock_code": "603508",
+        "stock_name": "思维列控",
+        "market_value_wan": 54.96
+      }
+    ]
+  }
+}

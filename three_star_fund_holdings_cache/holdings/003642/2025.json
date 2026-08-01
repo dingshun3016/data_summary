@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "003642",
+    "name": "长盛盛丰灵活配置混合C",
+    "base_name": "长盛盛丰灵活配置混合"
+  },
+  "fetched_at": "2026-06-14 23:11:23",
+  "quarters": {
+    "2025-Q4": [
+      {
+        "stock_code": "600418",
+        "stock_name": "江淮汽车",
+        "market_value_wan": 119.3
+      },
+      {
+        "stock_code": "000988",
+        "stock_name": "华工科技",
+        "market_value_wan": 118.2
+      },
+      {
+        "stock_code": "002558",
+        "stock_name": "巨人网络",
+        "market_value_wan": 105.63
+      },
+      {
+        "stock_code": "300450",
+        "stock_name": "先导智能",
+        "market_value_wan": 90.96
+      },
+      {
+        "stock_code": "002738",
+        "stock_name": "中矿资源",
+        "market_value_wan": 88.76
+      },
+      {
+        "stock_code": "300136",
+        "stock_name": "信维通信",
+        "market_value_wan": 84.94
+      },
+      {
+        "stock_code": "688072",
+        "stock_name": "拓荆科技",
+        "market_value_wan": 81.54
+      },
+      {
+        "stock_code": "688521",
+        "stock_name": "芯原股份",
+        "market_value_wan": 80.13
+      },
+      {
+        "stock_code": "000426",
+        "stock_name": "兴业银锡",
+        "market_value_wan": 80.1
+      },
+      {
+        "stock_code": "600988",
+        "stock_name": "赤峰黄金",
+        "market_value_wan": 79.97
+      }
+    ],
+    "2025-Q3": [
+      {
+        "stock_code": "300476",
+        "stock_name": "胜宏科技",
+        "market_value_wan": 142.75
+      },
+      {
+        "stock_code": "002384",
+        "stock_name": "东山精密",
+        "market_value_wan": 115.83
+      },
+      {
+        "stock_code": "000988",
+        "stock_name": "华工科技",
+        "market_value_wan": 86.93
+      },
+      {
+        "stock_code": "600418",
+        "stock_name": "江淮汽车",
+        "market_value_wan": 83.01
+      },
+      {
+        "stock_code": "300450",
+        "stock_name": "先导智能",
+        "market_value_wan": 70.31
+      },
+      {
+        "stock_code": "002625",
+        "stock_name": "光启技术",
+        "market_value_wan": 67.27
+      },
+      {
+        "stock_code": "002558",
+        "stock_name": "巨人网络",
+        "market_value_wan": 57.83
+      },
+      {
+        "stock_code": "000831",
+        "stock_name": "中国稀土",
+        "market_value_wan": 52.79
+      },
+      {
+        "stock_code": "002195",
+        "stock_name": "岩山科技",
+        "market_value_wan": 51.01
+      },
+      {
+        "stock_code": "300339",
+        "stock_name": "润和软件",
+        "market_value_wan": 47.27
+      }
+    ],
+    "2025-Q2": [
+      {
+        "stock_code": "300476",
+        "stock_name": "胜宏科技",
+        "market_value_wan": 137.07
+      },
+      {
+        "stock_code": "600988",
+        "stock_name": "赤峰黄金",
+        "market_value_wan": 107.73
+      },
+      {
+        "stock_code": "600418",
+        "stock_name": "江淮汽车",
+        "market_value_wan": 97.82
+      },
+      {
+        "stock_code": "002625",
+        "stock_name": "光启技术",
+        "market_value_wan": 86.36
+      },
+      {
+        "stock_code": "002384",
+        "stock_name": "东山精密",
+        "market_value_wan": 73.27
+      },
+      {
+        "stock_code": "300339",
+        "stock_name": "润和软件",
+        "market_value_wan": 72.18
+      },
+      {
+        "stock_code": "000988",
+        "stock_name": "华工科技",
+        "market_value_wan": 69.1
+      },
+      {
+        "stock_code": "000426",
+        "stock_name": "兴业银锡",
+        "market_value_wan": 67.62
+      },
+      {
+        "stock_code": "002456",
+        "stock_name": "欧菲光",
+        "market_value_wan": 58.89
+      },
+      {
+        "stock_code": "000831",
+        "stock_name": "中国稀土",
+        "market_value_wan": 58.15
+      }
+    ],
+    "2025-Q1": [
+      {
+        "stock_code": "600418",
+        "stock_name": "江淮汽车",
+        "market_value_wan": 90.0
+      },
+      {
+        "stock_code": "300476",
+        "stock_name": "胜宏科技",
+        "market_value_wan": 86.68
+      },
+      {
+        "stock_code": "002625",
+        "stock_name": "光启技术",
+        "market_value_wan": 83.56
+      },
+      {
+        "stock_code": "002384",
+        "stock_name": "东山精密",
+        "market_value_wan": 65.15
+      },
+      {
+        "stock_code": "000988",
+        "stock_name": "华工科技",
+        "market_value_wan": 61.64
+      },
+      {
+        "stock_code": "002456",
+        "stock_name": "欧菲光",
+        "market_value_wan": 59.93
+      },
+      {
+        "stock_code": "300339",
+        "stock_name": "润和软件",
+        "market_value_wan": 59.71
+      },
+      {
+        "stock_code": "601058",
+        "stock_name": "赛轮轮胎",
+        "market_value_wan": 58.01
+      },
+      {
+        "stock_code": "002340",
+        "stock_name": "格林美",
+        "market_value_wan": 57.31
+      },
+      {
+        "stock_code": "600988",
+        "stock_name": "赤峰黄金",
+        "market_value_wan": 56.56
+      }
+    ]
+  }
+}

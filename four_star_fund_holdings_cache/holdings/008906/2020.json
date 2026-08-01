@@ -1,0 +1,38 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "008906",
+    "name": "嘉合锦鹏添利混合C",
+    "base_name": "嘉合锦鹏添利混合"
+  },
+  "fetched_at": "2026-06-14 22:36:27",
+  "quarters": {
+    "2020-Q4": [
+      {
+        "stock_code": "601398",
+        "stock_name": "工商银行",
+        "market_value_wan": 249.5
+      },
+      {
+        "stock_code": "601668",
+        "stock_name": "中国建筑",
+        "market_value_wan": 248.5
+      },
+      {
+        "stock_code": "600000",
+        "stock_name": "浦发银行",
+        "market_value_wan": 242.0
+      },
+      {
+        "stock_code": "601117",
+        "stock_name": "中国化学",
+        "market_value_wan": 234.8
+      },
+      {
+        "stock_code": "600188",
+        "stock_name": "兖矿能源",
+        "market_value_wan": 201.4
+      }
+    ]
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "011223",
+    "name": "信澳星奕混合C",
+    "base_name": "信澳星奕混合"
+  },
+  "fetched_at": "2026-08-01 20:59:42",
+  "quarters": {
+    "2026-Q2": [
+      {
+        "stock_code": "688169",
+        "stock_name": "石头科技",
+        "market_value_wan": 6837.7
+      },
+      {
+        "stock_code": "688775",
+        "stock_name": "影石创新",
+        "market_value_wan": 6808.88
+      },
+      {
+        "stock_code": "600733",
+        "stock_name": "北汽蓝谷",
+        "market_value_wan": 6240.13
+      },
+      {
+        "stock_code": "002244",
+        "stock_name": "滨江集团",
+        "market_value_wan": 5982.57
+      },
+      {
+        "stock_code": "600418",
+        "stock_name": "江淮汽车",
+        "market_value_wan": 5554.85
+      }
+    ],
+    "2026-Q1": [
+      {
+        "stock_code": "600418",
+        "stock_name": "江淮汽车",
+        "market_value_wan": 12978.7
+      },
+      {
+        "stock_code": "688169",
+        "stock_name": "石头科技",
+        "market_value_wan": 12721.59
+      },
+      {
+        "stock_code": "002244",
+        "stock_name": "滨江集团",
+        "market_value_wan": 12704.2
+      },
+      {
+        "stock_code": "600733",
+        "stock_name": "北汽蓝谷",
+        "market_value_wan": 12007.35
+      },
+      {
+        "stock_code": "688775",
+        "stock_name": "影石创新",
+        "market_value_wan": 10973.96
+      }
+    ]
+  }
+}

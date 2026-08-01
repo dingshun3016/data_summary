@@ -1,0 +1,115 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "006195",
+    "name": "国金量化多因子股票A",
+    "base_name": "国金量化多因子股票"
+  },
+  "fetched_at": "2026-08-01 20:56:56",
+  "quarters": {
+    "2026-Q2": [
+      {
+        "stock_code": "000725",
+        "stock_name": "京东方A",
+        "market_value_wan": 14871.15
+      },
+      {
+        "stock_code": "603259",
+        "stock_name": "药明康德",
+        "market_value_wan": 13107.17
+      },
+      {
+        "stock_code": "002407",
+        "stock_name": "多氟多",
+        "market_value_wan": 12889.7
+      },
+      {
+        "stock_code": "300014",
+        "stock_name": "亿纬锂能",
+        "market_value_wan": 11673.54
+      },
+      {
+        "stock_code": "600584",
+        "stock_name": "长电科技",
+        "market_value_wan": 10663.32
+      },
+      {
+        "stock_code": "301396",
+        "stock_name": "宏景科技",
+        "market_value_wan": 10331.99
+      },
+      {
+        "stock_code": "000630",
+        "stock_name": "铜陵有色",
+        "market_value_wan": 9855.71
+      },
+      {
+        "stock_code": "002436",
+        "stock_name": "兴森科技",
+        "market_value_wan": 7038.23
+      },
+      {
+        "stock_code": "600549",
+        "stock_name": "厦门钨业",
+        "market_value_wan": 6998.33
+      },
+      {
+        "stock_code": "002600",
+        "stock_name": "领益智造",
+        "market_value_wan": 6665.07
+      }
+    ],
+    "2026-Q1": [
+      {
+        "stock_code": "688525",
+        "stock_name": "佰维存储",
+        "market_value_wan": 12838.47
+      },
+      {
+        "stock_code": "002008",
+        "stock_name": "大族激光",
+        "market_value_wan": 9900.4
+      },
+      {
+        "stock_code": "300394",
+        "stock_name": "天孚通信",
+        "market_value_wan": 9610.82
+      },
+      {
+        "stock_code": "688498",
+        "stock_name": "源杰科技",
+        "market_value_wan": 8449.62
+      },
+      {
+        "stock_code": "300274",
+        "stock_name": "阳光电源",
+        "market_value_wan": 7873.02
+      },
+      {
+        "stock_code": "300058",
+        "stock_name": "蓝色光标",
+        "market_value_wan": 7846.12
+      },
+      {
+        "stock_code": "600010",
+        "stock_name": "包钢股份",
+        "market_value_wan": 7002.12
+      },
+      {
+        "stock_code": "000338",
+        "stock_name": "潍柴动力",
+        "market_value_wan": 6889.03
+      },
+      {
+        "stock_code": "000792",
+        "stock_name": "盐湖股份",
+        "market_value_wan": 6796.53
+      },
+      {
+        "stock_code": "688167",
+        "stock_name": "炬光科技",
+        "market_value_wan": 6642.31
+      }
+    ]
+  }
+}

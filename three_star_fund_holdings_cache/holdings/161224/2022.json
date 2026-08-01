@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "161224",
+    "name": "国投瑞银新丝路混合(LOF)",
+    "base_name": "国投瑞银新丝路混合(LOF)"
+  },
+  "fetched_at": "2026-06-14 23:52:18",
+  "quarters": {
+    "2022-Q4": [
+      {
+        "stock_code": "603658",
+        "stock_name": "安图生物",
+        "market_value_wan": 597.53
+      },
+      {
+        "stock_code": "300253",
+        "stock_name": "卫宁健康",
+        "market_value_wan": 571.47
+      },
+      {
+        "stock_code": "600079",
+        "stock_name": "人福医药",
+        "market_value_wan": 555.68
+      },
+      {
+        "stock_code": "600570",
+        "stock_name": "恒生电子",
+        "market_value_wan": 488.18
+      },
+      {
+        "stock_code": "601816",
+        "stock_name": "京沪高铁",
+        "market_value_wan": 430.6
+      },
+      {
+        "stock_code": "688378",
+        "stock_name": "奥来德",
+        "market_value_wan": 420.26
+      },
+      {
+        "stock_code": "603039",
+        "stock_name": "泛微网络",
+        "market_value_wan": 382.46
+      },
+      {
+        "stock_code": "000596",
+        "stock_name": "古井贡酒",
+        "market_value_wan": 379.0
+      },
+      {
+        "stock_code": "300331",
+        "stock_name": "苏大维格",
+        "market_value_wan": 367.86
+      },
+      {
+        "stock_code": "600305",
+        "stock_name": "恒顺醋业",
+        "market_value_wan": 362.9
+      }
+    ],
+    "2022-Q3": [
+      {
+        "stock_code": "603658",
+        "stock_name": "安图生物",
+        "market_value_wan": 764.43
+      },
+      {
+        "stock_code": "600570",
+        "stock_name": "恒生电子",
+        "market_value_wan": 408.91
+      },
+      {
+        "stock_code": "600079",
+        "stock_name": "人福医药",
+        "market_value_wan": 407.75
+      },
+      {
+        "stock_code": "601816",
+        "stock_name": "京沪高铁",
+        "market_value_wan": 395.59
+      },
+      {
+        "stock_code": "300253",
+        "stock_name": "卫宁健康",
+        "market_value_wan": 391.35
+      },
+      {
+        "stock_code": "000596",
+        "stock_name": "古井贡酒",
+        "market_value_wan": 386.17
+      },
+      {
+        "stock_code": "300260",
+        "stock_name": "新莱应材",
+        "market_value_wan": 365.36
+      },
+      {
+        "stock_code": "300331",
+        "stock_name": "苏大维格",
+        "market_value_wan": 345.47
+      },
+      {
+        "stock_code": "605186",
+        "stock_name": "健麾信息",
+        "market_value_wan": 275.14
+      },
+      {
+        "stock_code": "600305",
+        "stock_name": "恒顺醋业",
+        "market_value_wan": 274.54
+      }
+    ],
+    "2022-Q2": [
+      {
+        "stock_code": "603658",
+        "stock_name": "安图生物",
+        "market_value_wan": 678.15
+      },
+      {
+        "stock_code": "601816",
+        "stock_name": "京沪高铁",
+        "market_value_wan": 439.35
+      },
+      {
+        "stock_code": "600570",
+        "stock_name": "恒生电子",
+        "market_value_wan": 404.11
+      },
+      {
+        "stock_code": "300253",
+        "stock_name": "卫宁健康",
+        "market_value_wan": 380.09
+      },
+      {
+        "stock_code": "600079",
+        "stock_name": "人福医药",
+        "market_value_wan": 372.16
+      },
+      {
+        "stock_code": "000596",
+        "stock_name": "古井贡酒",
+        "market_value_wan": 354.52
+      },
+      {
+        "stock_code": "688378",
+        "stock_name": "奥来德",
+        "market_value_wan": 324.64
+      },
+      {
+        "stock_code": "600305",
+        "stock_name": "恒顺醋业",
+        "market_value_wan": 319.92
+      },
+      {
+        "stock_code": "600619",
+        "stock_name": "海立股份",
+        "market_value_wan": 310.25
+      },
+      {
+        "stock_code": "000661",
+        "stock_name": "长春高新",
+        "market_value_wan": 296.44
+      }
+    ],
+    "2022-Q1": [
+      {
+        "stock_code": "603658",
+        "stock_name": "安图生物",
+        "market_value_wan": 668.02
+      },
+      {
+        "stock_code": "601816",
+        "stock_name": "京沪高铁",
+        "market_value_wan": 418.35
+      },
+      {
+        "stock_code": "600079",
+        "stock_name": "人福医药",
+        "market_value_wan": 401.24
+      },
+      {
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "market_value_wan": 375.06
+      },
+      {
+        "stock_code": "688378",
+        "stock_name": "奥来德",
+        "market_value_wan": 346.19
+      },
+      {
+        "stock_code": "300253",
+        "stock_name": "卫宁健康",
+        "market_value_wan": 340.76
+      },
+      {
+        "stock_code": "000630",
+        "stock_name": "铜陵有色",
+        "market_value_wan": 327.73
+      },
+      {
+        "stock_code": "600570",
+        "stock_name": "恒生电子",
+        "market_value_wan": 316.62
+      },
+      {
+        "stock_code": "600619",
+        "stock_name": "海立股份",
+        "market_value_wan": 305.68
+      },
+      {
+        "stock_code": "300268",
+        "stock_name": "ST佳沃",
+        "market_value_wan": 291.39
+      }
+    ]
+  }
+}

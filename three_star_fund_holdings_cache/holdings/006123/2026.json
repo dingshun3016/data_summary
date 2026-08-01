@@ -1,0 +1,100 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "006123",
+    "name": "国联高股息混合A",
+    "base_name": "国联高股息混合"
+  },
+  "fetched_at": "2026-08-01 20:56:52",
+  "quarters": {
+    "2026-Q2": [
+      {
+        "stock_code": "601919",
+        "stock_name": "中远海控",
+        "market_value_wan": 850.5
+      },
+      {
+        "stock_code": "600256",
+        "stock_name": "广汇能源",
+        "market_value_wan": 768.37
+      },
+      {
+        "stock_code": "600028",
+        "stock_name": "中国石化",
+        "market_value_wan": 588.72
+      },
+      {
+        "stock_code": "600985",
+        "stock_name": "淮北矿业",
+        "market_value_wan": 574.08
+      },
+      {
+        "stock_code": "601225",
+        "stock_name": "陕西煤业",
+        "market_value_wan": 563.33
+      },
+      {
+        "stock_code": "600188",
+        "stock_name": "兖矿能源",
+        "market_value_wan": 551.94
+      },
+      {
+        "stock_code": "601006",
+        "stock_name": "大秦铁路",
+        "market_value_wan": 512.77
+      },
+      {
+        "stock_code": "601088",
+        "stock_name": "中国神华",
+        "market_value_wan": 511.31
+      },
+      {
+        "stock_code": "002271",
+        "stock_name": "东方雨虹",
+        "market_value_wan": 501.63
+      },
+      {
+        "stock_code": "000651",
+        "stock_name": "格力电器",
+        "market_value_wan": 499.5
+      }
+    ],
+    "2026-Q1": [
+      {
+        "stock_code": "600057",
+        "stock_name": "厦门象屿",
+        "market_value_wan": 941.76
+      },
+      {
+        "stock_code": "601900",
+        "stock_name": "南方传媒",
+        "market_value_wan": 683.14
+      },
+      {
+        "stock_code": "600558",
+        "stock_name": "大西洋",
+        "market_value_wan": 682.21
+      },
+      {
+        "stock_code": "600496",
+        "stock_name": "精工钢构",
+        "market_value_wan": 680.97
+      },
+      {
+        "stock_code": "603661",
+        "stock_name": "恒林股份",
+        "market_value_wan": 680.24
+      },
+      {
+        "stock_code": "600639",
+        "stock_name": "浦东金桥",
+        "market_value_wan": 679.77
+      },
+      {
+        "stock_code": "601512",
+        "stock_name": "中新集团",
+        "market_value_wan": 679.36
+      }
+    ]
+  }
+}

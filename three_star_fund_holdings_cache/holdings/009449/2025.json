@@ -1,0 +1,43 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "009449",
+    "name": "泰康申润一年持有期混合C",
+    "base_name": "泰康申润一年持有期混合"
+  },
+  "fetched_at": "2026-06-14 23:33:39",
+  "quarters": {
+    "2025-Q1": [
+      {
+        "stock_code": "600309",
+        "stock_name": "万华化学",
+        "market_value_wan": 51.75
+      },
+      {
+        "stock_code": "601728",
+        "stock_name": "中国电信",
+        "market_value_wan": 48.75
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 46.83
+      },
+      {
+        "stock_code": "601398",
+        "stock_name": "工商银行",
+        "market_value_wan": 41.2
+      },
+      {
+        "stock_code": "600938",
+        "stock_name": "中国海油",
+        "market_value_wan": 35.06
+      },
+      {
+        "stock_code": "601939",
+        "stock_name": "建设银行",
+        "market_value_wan": 34.61
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "160323",
+    "name": "华夏磐泰混合(LOF)A",
+    "base_name": "华夏磐泰混合(LOF)"
+  },
+  "fetched_at": "2026-06-14 22:12:41",
+  "quarters": {
+    "2020-Q4": [
+      {
+        "stock_code": "300059",
+        "stock_name": "东方财富",
+        "market_value_wan": 560.17
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 481.02
+      },
+      {
+        "stock_code": "300999",
+        "stock_name": "金龙鱼",
+        "market_value_wan": 453.86
+      },
+      {
+        "stock_code": "300014",
+        "stock_name": "亿纬锂能",
+        "market_value_wan": 414.02
+      },
+      {
+        "stock_code": "300015",
+        "stock_name": "爱尔眼科",
+        "market_value_wan": 377.45
+      },
+      {
+        "stock_code": "300124",
+        "stock_name": "汇川技术",
+        "market_value_wan": 376.0
+      },
+      {
+        "stock_code": "300433",
+        "stock_name": "蓝思科技",
+        "market_value_wan": 370.69
+      },
+      {
+        "stock_code": "300760",
+        "stock_name": "迈瑞医疗",
+        "market_value_wan": 310.98
+      },
+      {
+        "stock_code": "000883",
+        "stock_name": "湖北能源",
+        "market_value_wan": 291.35
+      },
+      {
+        "stock_code": "300122",
+        "stock_name": "智飞生物",
+        "market_value_wan": 282.51
+      }
+    ],
+    "2020-Q3": [
+      {
+        "stock_code": "300091",
+        "stock_name": "金通灵",
+        "market_value_wan": 54.37
+      },
+      {
+        "stock_code": "300577",
+        "stock_name": "开润股份",
+        "market_value_wan": 49.37
+      },
+      {
+        "stock_code": "002002",
+        "stock_name": "ST鸿达",
+        "market_value_wan": 48.22
+      },
+      {
+        "stock_code": "002149",
+        "stock_name": "西部材料",
+        "market_value_wan": 48.14
+      },
+      {
+        "stock_code": "002637",
+        "stock_name": "赞宇科技",
+        "market_value_wan": 47.38
+      },
+      {
+        "stock_code": "300288",
+        "stock_name": "朗玛信息",
+        "market_value_wan": 46.53
+      },
+      {
+        "stock_code": "300409",
+        "stock_name": "道氏技术",
+        "market_value_wan": 45.47
+      },
+      {
+        "stock_code": "000909",
+        "stock_name": "ST数源",
+        "market_value_wan": 44.58
+      },
+      {
+        "stock_code": "300688",
+        "stock_name": "创业黑马",
+        "market_value_wan": 43.98
+      },
+      {
+        "stock_code": "002036",
+        "stock_name": "联创电子",
+        "market_value_wan": 42.96
+      }
+    ],
+    "2020-Q2": [
+      {
+        "stock_code": "688111",
+        "stock_name": "金山办公",
+        "market_value_wan": 199.18
+      },
+      {
+        "stock_code": "002659",
+        "stock_name": "凯文教育",
+        "market_value_wan": 54.4
+      },
+      {
+        "stock_code": "688020",
+        "stock_name": "方邦股份",
+        "market_value_wan": 40.73
+      },
+      {
+        "stock_code": "688008",
+        "stock_name": "澜起科技",
+        "market_value_wan": 39.12
+      },
+      {
+        "stock_code": "688088",
+        "stock_name": "虹软科技",
+        "market_value_wan": 37.65
+      },
+      {
+        "stock_code": "002601",
+        "stock_name": "龙佰集团",
+        "market_value_wan": 35.52
+      },
+      {
+        "stock_code": "603398",
+        "stock_name": "沐邦高科",
+        "market_value_wan": 35.14
+      },
+      {
+        "stock_code": "000657",
+        "stock_name": "中钨高新",
+        "market_value_wan": 34.93
+      },
+      {
+        "stock_code": "600039",
+        "stock_name": "四川路桥",
+        "market_value_wan": 34.88
+      },
+      {
+        "stock_code": "300571",
+        "stock_name": "平治信息",
+        "market_value_wan": 34.65
+      }
+    ],
+    "2020-Q1": [
+      {
+        "stock_code": "688111",
+        "stock_name": "金山办公",
+        "market_value_wan": 309.54
+      },
+      {
+        "stock_code": "300420",
+        "stock_name": "五洋自控",
+        "market_value_wan": 39.32
+      },
+      {
+        "stock_code": "002876",
+        "stock_name": "三利谱",
+        "market_value_wan": 38.76
+      },
+      {
+        "stock_code": "603083",
+        "stock_name": "剑桥科技",
+        "market_value_wan": 38.14
+      },
+      {
+        "stock_code": "603598",
+        "stock_name": "引力传媒",
+        "market_value_wan": 37.71
+      },
+      {
+        "stock_code": "002659",
+        "stock_name": "凯文教育",
+        "market_value_wan": 37.56
+      },
+      {
+        "stock_code": "002600",
+        "stock_name": "领益智造",
+        "market_value_wan": 37.07
+      },
+      {
+        "stock_code": "300223",
+        "stock_name": "北京君正",
+        "market_value_wan": 36.91
+      },
+      {
+        "stock_code": "300671",
+        "stock_name": "富满微",
+        "market_value_wan": 36.41
+      },
+      {
+        "stock_code": "603186",
+        "stock_name": "华正新材",
+        "market_value_wan": 35.46
+      }
+    ]
+  }
+}

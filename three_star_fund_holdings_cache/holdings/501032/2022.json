@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "501032",
+    "name": "财通福盛混合发起(LOF)A",
+    "base_name": "财通福盛混合发起(LOF)"
+  },
+  "fetched_at": "2026-06-15 00:01:34",
+  "quarters": {
+    "2022-Q4": [
+      {
+        "stock_code": "688526",
+        "stock_name": "科前生物",
+        "market_value_wan": 1375.75
+      },
+      {
+        "stock_code": "300122",
+        "stock_name": "智飞生物",
+        "market_value_wan": 1253.33
+      },
+      {
+        "stock_code": "603477",
+        "stock_name": "巨星农牧",
+        "market_value_wan": 1169.26
+      },
+      {
+        "stock_code": "603283",
+        "stock_name": "赛腾股份",
+        "market_value_wan": 1145.64
+      },
+      {
+        "stock_code": "300759",
+        "stock_name": "康龙化成",
+        "market_value_wan": 1143.08
+      },
+      {
+        "stock_code": "301235",
+        "stock_name": "华康医疗",
+        "market_value_wan": 1142.71
+      },
+      {
+        "stock_code": "002714",
+        "stock_name": "牧原股份",
+        "market_value_wan": 1070.26
+      },
+      {
+        "stock_code": "300881",
+        "stock_name": "盛德鑫泰",
+        "market_value_wan": 1004.1
+      },
+      {
+        "stock_code": "301239",
+        "stock_name": "普瑞眼科",
+        "market_value_wan": 771.66
+      },
+      {
+        "stock_code": "600079",
+        "stock_name": "人福医药",
+        "market_value_wan": 685.07
+      }
+    ],
+    "2022-Q3": [
+      {
+        "stock_code": "002548",
+        "stock_name": "金新农",
+        "market_value_wan": 589.61
+      },
+      {
+        "stock_code": "600975",
+        "stock_name": "新五丰",
+        "market_value_wan": 518.38
+      },
+      {
+        "stock_code": "002714",
+        "stock_name": "牧原股份",
+        "market_value_wan": 480.87
+      },
+      {
+        "stock_code": "603363",
+        "stock_name": "*ST傲农",
+        "market_value_wan": 396.41
+      },
+      {
+        "stock_code": "300122",
+        "stock_name": "智飞生物",
+        "market_value_wan": 389.8
+      },
+      {
+        "stock_code": "301195",
+        "stock_name": "北路智控",
+        "market_value_wan": 319.38
+      },
+      {
+        "stock_code": "601567",
+        "stock_name": "三星医疗",
+        "market_value_wan": 311.05
+      },
+      {
+        "stock_code": "300759",
+        "stock_name": "康龙化成",
+        "market_value_wan": 305.92
+      },
+      {
+        "stock_code": "688526",
+        "stock_name": "科前生物",
+        "market_value_wan": 283.73
+      },
+      {
+        "stock_code": "002100",
+        "stock_name": "天康生物",
+        "market_value_wan": 253.14
+      }
+    ],
+    "2022-Q2": [
+      {
+        "stock_code": "603363",
+        "stock_name": "*ST傲农",
+        "market_value_wan": 651.0
+      },
+      {
+        "stock_code": "002548",
+        "stock_name": "金新农",
+        "market_value_wan": 601.86
+      },
+      {
+        "stock_code": "002714",
+        "stock_name": "牧原股份",
+        "market_value_wan": 558.23
+      },
+      {
+        "stock_code": "600975",
+        "stock_name": "新五丰",
+        "market_value_wan": 551.9
+      },
+      {
+        "stock_code": "301073",
+        "stock_name": "君亭酒店",
+        "market_value_wan": 545.55
+      },
+      {
+        "stock_code": "300122",
+        "stock_name": "智飞生物",
+        "market_value_wan": 498.43
+      },
+      {
+        "stock_code": "601007",
+        "stock_name": "金陵饭店",
+        "market_value_wan": 483.76
+      },
+      {
+        "stock_code": "603259",
+        "stock_name": "药明康德",
+        "market_value_wan": 480.43
+      },
+      {
+        "stock_code": "601111",
+        "stock_name": "中国国航",
+        "market_value_wan": 437.81
+      },
+      {
+        "stock_code": "000516",
+        "stock_name": "国际医学",
+        "market_value_wan": 368.51
+      }
+    ],
+    "2022-Q1": [
+      {
+        "stock_code": "603259",
+        "stock_name": "药明康德",
+        "market_value_wan": 619.21
+      },
+      {
+        "stock_code": "301073",
+        "stock_name": "君亭酒店",
+        "market_value_wan": 583.71
+      },
+      {
+        "stock_code": "601111",
+        "stock_name": "中国国航",
+        "market_value_wan": 546.05
+      },
+      {
+        "stock_code": "300122",
+        "stock_name": "智飞生物",
+        "market_value_wan": 494.04
+      },
+      {
+        "stock_code": "002567",
+        "stock_name": "唐人神",
+        "market_value_wan": 330.44
+      },
+      {
+        "stock_code": "603477",
+        "stock_name": "巨星农牧",
+        "market_value_wan": 322.52
+      },
+      {
+        "stock_code": "002100",
+        "stock_name": "天康生物",
+        "market_value_wan": 309.53
+      },
+      {
+        "stock_code": "002483",
+        "stock_name": "润邦股份",
+        "market_value_wan": 304.47
+      },
+      {
+        "stock_code": "002548",
+        "stock_name": "金新农",
+        "market_value_wan": 303.88
+      },
+      {
+        "stock_code": "688037",
+        "stock_name": "芯源微",
+        "market_value_wan": 298.04
+      }
+    ]
+  }
+}

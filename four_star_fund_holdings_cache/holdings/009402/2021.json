@@ -1,0 +1,209 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "009402",
+    "name": "交银启明混合A",
+    "base_name": "交银启明混合"
+  },
+  "fetched_at": "2026-06-14 22:37:55",
+  "quarters": {
+    "2021-Q4": [
+      {
+        "stock_code": "000733",
+        "stock_name": "振华科技",
+        "market_value_wan": 38153.05
+      },
+      {
+        "stock_code": "603678",
+        "stock_name": "火炬电子",
+        "market_value_wan": 31018.11
+      },
+      {
+        "stock_code": "300408",
+        "stock_name": "三环集团",
+        "market_value_wan": 26728.71
+      },
+      {
+        "stock_code": "603799",
+        "stock_name": "华友钴业",
+        "market_value_wan": 25075.27
+      },
+      {
+        "stock_code": "600876",
+        "stock_name": "凯盛新能",
+        "market_value_wan": 24980.44
+      },
+      {
+        "stock_code": "002928",
+        "stock_name": "华夏航空",
+        "market_value_wan": 21147.67
+      },
+      {
+        "stock_code": "002049",
+        "stock_name": "紫光国微",
+        "market_value_wan": 20966.22
+      },
+      {
+        "stock_code": "688033",
+        "stock_name": "天宜上佳",
+        "market_value_wan": 19763.27
+      },
+      {
+        "stock_code": "600258",
+        "stock_name": "首旅酒店",
+        "market_value_wan": 15805.65
+      },
+      {
+        "stock_code": "000776",
+        "stock_name": "广发证券",
+        "market_value_wan": 15787.85
+      }
+    ],
+    "2021-Q3": [
+      {
+        "stock_code": "000733",
+        "stock_name": "振华科技",
+        "market_value_wan": 28369.55
+      },
+      {
+        "stock_code": "300408",
+        "stock_name": "三环集团",
+        "market_value_wan": 18107.89
+      },
+      {
+        "stock_code": "002928",
+        "stock_name": "华夏航空",
+        "market_value_wan": 14912.15
+      },
+      {
+        "stock_code": "600258",
+        "stock_name": "首旅酒店",
+        "market_value_wan": 14588.67
+      },
+      {
+        "stock_code": "002049",
+        "stock_name": "紫光国微",
+        "market_value_wan": 12490.37
+      },
+      {
+        "stock_code": "603678",
+        "stock_name": "火炬电子",
+        "market_value_wan": 11754.55
+      },
+      {
+        "stock_code": "603799",
+        "stock_name": "华友钴业",
+        "market_value_wan": 11657.13
+      },
+      {
+        "stock_code": "603267",
+        "stock_name": "鸿远电子",
+        "market_value_wan": 10961.57
+      },
+      {
+        "stock_code": "688033",
+        "stock_name": "天宜上佳",
+        "market_value_wan": 10906.99
+      },
+      {
+        "stock_code": "000776",
+        "stock_name": "广发证券",
+        "market_value_wan": 10103.98
+      }
+    ],
+    "2021-Q2": [
+      {
+        "stock_code": "002928",
+        "stock_name": "华夏航空",
+        "market_value_wan": 22572.41
+      },
+      {
+        "stock_code": "000733",
+        "stock_name": "振华科技",
+        "market_value_wan": 19405.16
+      },
+      {
+        "stock_code": "300408",
+        "stock_name": "三环集团",
+        "market_value_wan": 15585.68
+      },
+      {
+        "stock_code": "002049",
+        "stock_name": "紫光国微",
+        "market_value_wan": 13816.32
+      },
+      {
+        "stock_code": "603678",
+        "stock_name": "火炬电子",
+        "market_value_wan": 10887.96
+      },
+      {
+        "stock_code": "603267",
+        "stock_name": "鸿远电子",
+        "market_value_wan": 10166.11
+      },
+      {
+        "stock_code": "600258",
+        "stock_name": "首旅酒店",
+        "market_value_wan": 9553.9
+      },
+      {
+        "stock_code": "002859",
+        "stock_name": "洁美科技",
+        "market_value_wan": 8000.95
+      },
+      {
+        "stock_code": "601137",
+        "stock_name": "博威合金",
+        "market_value_wan": 7000.03
+      }
+    ],
+    "2021-Q1": [
+      {
+        "stock_code": "002928",
+        "stock_name": "华夏航空",
+        "market_value_wan": 23977.58
+      },
+      {
+        "stock_code": "002049",
+        "stock_name": "紫光国微",
+        "market_value_wan": 20648.77
+      },
+      {
+        "stock_code": "000733",
+        "stock_name": "振华科技",
+        "market_value_wan": 17349.3
+      },
+      {
+        "stock_code": "300408",
+        "stock_name": "三环集团",
+        "market_value_wan": 15387.27
+      },
+      {
+        "stock_code": "603678",
+        "stock_name": "火炬电子",
+        "market_value_wan": 14417.94
+      },
+      {
+        "stock_code": "300014",
+        "stock_name": "亿纬锂能",
+        "market_value_wan": 9843.22
+      },
+      {
+        "stock_code": "601601",
+        "stock_name": "中国太保",
+        "market_value_wan": 9018.03
+      },
+      {
+        "stock_code": "603267",
+        "stock_name": "鸿远电子",
+        "market_value_wan": 8594.92
+      },
+      {
+        "stock_code": "002859",
+        "stock_name": "洁美科技",
+        "market_value_wan": 8162.14
+      }
+    ]
+  }
+}

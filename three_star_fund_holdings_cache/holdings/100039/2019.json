@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "100039",
+    "name": "富国通胀通缩主题轮动混合A",
+    "base_name": "富国通胀通缩主题轮动混合"
+  },
+  "fetched_at": "2026-06-14 23:50:27",
+  "quarters": {
+    "2019-Q4": [
+      {
+        "stock_code": "000977",
+        "stock_name": "浪潮信息",
+        "market_value_wan": 1953.79
+      },
+      {
+        "stock_code": "002008",
+        "stock_name": "大族激光",
+        "market_value_wan": 1642.4
+      },
+      {
+        "stock_code": "300572",
+        "stock_name": "安车检测",
+        "market_value_wan": 1300.94
+      },
+      {
+        "stock_code": "603133",
+        "stock_name": "退市碳元",
+        "market_value_wan": 1217.08
+      },
+      {
+        "stock_code": "002001",
+        "stock_name": "新和成",
+        "market_value_wan": 1162.21
+      },
+      {
+        "stock_code": "603501",
+        "stock_name": "韦尔股份",
+        "market_value_wan": 1137.16
+      },
+      {
+        "stock_code": "600114",
+        "stock_name": "东睦股份",
+        "market_value_wan": 1066.58
+      },
+      {
+        "stock_code": "000063",
+        "stock_name": "中兴通讯",
+        "market_value_wan": 784.95
+      },
+      {
+        "stock_code": "000338",
+        "stock_name": "潍柴动力",
+        "market_value_wan": 775.74
+      },
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 775.26
+      }
+    ],
+    "2019-Q3": [
+      {
+        "stock_code": "002008",
+        "stock_name": "大族激光",
+        "market_value_wan": 1977.29
+      },
+      {
+        "stock_code": "000977",
+        "stock_name": "浪潮信息",
+        "market_value_wan": 1920.3
+      },
+      {
+        "stock_code": "603986",
+        "stock_name": "兆易创新",
+        "market_value_wan": 1753.57
+      },
+      {
+        "stock_code": "300572",
+        "stock_name": "安车检测",
+        "market_value_wan": 1282.96
+      },
+      {
+        "stock_code": "603501",
+        "stock_name": "韦尔股份",
+        "market_value_wan": 1142.98
+      },
+      {
+        "stock_code": "600114",
+        "stock_name": "东睦股份",
+        "market_value_wan": 1115.99
+      },
+      {
+        "stock_code": "300226",
+        "stock_name": "上海钢联",
+        "market_value_wan": 917.18
+      },
+      {
+        "stock_code": "603259",
+        "stock_name": "药明康德",
+        "market_value_wan": 769.9
+      },
+      {
+        "stock_code": "600030",
+        "stock_name": "中信证券",
+        "market_value_wan": 705.65
+      },
+      {
+        "stock_code": "601688",
+        "stock_name": "华泰证券",
+        "market_value_wan": 703.47
+      }
+    ],
+    "2019-Q2": [
+      {
+        "stock_code": "300572",
+        "stock_name": "安车检测",
+        "market_value_wan": 971.51
+      },
+      {
+        "stock_code": "300226",
+        "stock_name": "上海钢联",
+        "market_value_wan": 958.74
+      },
+      {
+        "stock_code": "600729",
+        "stock_name": "重庆百货",
+        "market_value_wan": 560.14
+      },
+      {
+        "stock_code": "300130",
+        "stock_name": "新国都",
+        "market_value_wan": 542.88
+      },
+      {
+        "stock_code": "600887",
+        "stock_name": "伊利股份",
+        "market_value_wan": 522.87
+      },
+      {
+        "stock_code": "300014",
+        "stock_name": "亿纬锂能",
+        "market_value_wan": 520.97
+      },
+      {
+        "stock_code": "600845",
+        "stock_name": "宝信软件",
+        "market_value_wan": 504.45
+      },
+      {
+        "stock_code": "300735",
+        "stock_name": "光弘科技",
+        "market_value_wan": 470.95
+      },
+      {
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "market_value_wan": 386.34
+      },
+      {
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "market_value_wan": 383.76
+      }
+    ],
+    "2019-Q1": [
+      {
+        "stock_code": "300226",
+        "stock_name": "上海钢联",
+        "market_value_wan": 1169.42
+      },
+      {
+        "stock_code": "300572",
+        "stock_name": "安车检测",
+        "market_value_wan": 866.38
+      },
+      {
+        "stock_code": "300130",
+        "stock_name": "新国都",
+        "market_value_wan": 830.42
+      },
+      {
+        "stock_code": "002415",
+        "stock_name": "海康威视",
+        "market_value_wan": 815.73
+      },
+      {
+        "stock_code": "002001",
+        "stock_name": "新和成",
+        "market_value_wan": 749.36
+      },
+      {
+        "stock_code": "300590",
+        "stock_name": "移为通信",
+        "market_value_wan": 688.05
+      },
+      {
+        "stock_code": "300014",
+        "stock_name": "亿纬锂能",
+        "market_value_wan": 528.56
+      },
+      {
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "market_value_wan": 507.32
+      },
+      {
+        "stock_code": "600729",
+        "stock_name": "重庆百货",
+        "market_value_wan": 446.64
+      },
+      {
+        "stock_code": "002153",
+        "stock_name": "石基信息",
+        "market_value_wan": 398.0
+      }
+    ]
+  }
+}

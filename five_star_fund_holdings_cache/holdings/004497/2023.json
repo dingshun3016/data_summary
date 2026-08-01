@@ -1,0 +1,94 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "004497",
+    "name": "前海开源多元策略混合C",
+    "base_name": "前海开源多元策略混合"
+  },
+  "fetched_at": "2026-06-14 22:11:18",
+  "quarters": {
+    "2023-Q4": [
+      {
+        "stock_code": "601766",
+        "stock_name": "中国中车",
+        "market_value_wan": 1226.99
+      },
+      {
+        "stock_code": "601186",
+        "stock_name": "中国铁建",
+        "market_value_wan": 1200.63
+      },
+      {
+        "stock_code": "600528",
+        "stock_name": "中铁工业",
+        "market_value_wan": 1127.95
+      }
+    ],
+    "2023-Q3": [
+      {
+        "stock_code": "601766",
+        "stock_name": "中国中车",
+        "market_value_wan": 1629.53
+      },
+      {
+        "stock_code": "601186",
+        "stock_name": "中国铁建",
+        "market_value_wan": 1617.84
+      },
+      {
+        "stock_code": "600528",
+        "stock_name": "中铁工业",
+        "market_value_wan": 1542.16
+      },
+      {
+        "stock_code": "600495",
+        "stock_name": "晋西车轴",
+        "market_value_wan": 1189.14
+      }
+    ],
+    "2023-Q2": [
+      {
+        "stock_code": "601186",
+        "stock_name": "中国铁建",
+        "market_value_wan": 1191.55
+      },
+      {
+        "stock_code": "601766",
+        "stock_name": "中国中车",
+        "market_value_wan": 1179.42
+      },
+      {
+        "stock_code": "600528",
+        "stock_name": "中铁工业",
+        "market_value_wan": 1122.83
+      },
+      {
+        "stock_code": "000768",
+        "stock_name": "中航西飞",
+        "market_value_wan": 893.99
+      }
+    ],
+    "2023-Q1": [
+      {
+        "stock_code": "601766",
+        "stock_name": "中国中车",
+        "market_value_wan": 1198.29
+      },
+      {
+        "stock_code": "601186",
+        "stock_name": "中国铁建",
+        "market_value_wan": 1176.17
+      },
+      {
+        "stock_code": "600528",
+        "stock_name": "中铁工业",
+        "market_value_wan": 1160.68
+      },
+      {
+        "stock_code": "600988",
+        "stock_name": "赤峰黄金",
+        "market_value_wan": 1030.38
+      }
+    ]
+  }
+}

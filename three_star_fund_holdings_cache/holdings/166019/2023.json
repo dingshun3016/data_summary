@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "166019",
+    "name": "中欧价值智选混合A",
+    "base_name": "中欧价值智选混合"
+  },
+  "fetched_at": "2026-06-14 23:54:55",
+  "quarters": {
+    "2023-Q4": [
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 56447.31
+      },
+      {
+        "stock_code": "300014",
+        "stock_name": "亿纬锂能",
+        "market_value_wan": 55645.01
+      },
+      {
+        "stock_code": "002594",
+        "stock_name": "比亚迪",
+        "market_value_wan": 55376.11
+      },
+      {
+        "stock_code": "002180",
+        "stock_name": "纳思达",
+        "market_value_wan": 55101.64
+      },
+      {
+        "stock_code": "603678",
+        "stock_name": "火炬电子",
+        "market_value_wan": 50543.55
+      },
+      {
+        "stock_code": "603876",
+        "stock_name": "鼎胜新材",
+        "market_value_wan": 31378.12
+      },
+      {
+        "stock_code": "002984",
+        "stock_name": "森麒麟",
+        "market_value_wan": 27906.07
+      },
+      {
+        "stock_code": "688198",
+        "stock_name": "佰仁医疗",
+        "market_value_wan": 27826.44
+      },
+      {
+        "stock_code": "002850",
+        "stock_name": "科达利",
+        "market_value_wan": 22711.83
+      },
+      {
+        "stock_code": "600522",
+        "stock_name": "中天科技",
+        "market_value_wan": 19481.32
+      }
+    ],
+    "2023-Q3": [
+      {
+        "stock_code": "002180",
+        "stock_name": "纳思达",
+        "market_value_wan": 68576.78
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 68143.57
+      },
+      {
+        "stock_code": "300014",
+        "stock_name": "亿纬锂能",
+        "market_value_wan": 68027.97
+      },
+      {
+        "stock_code": "603678",
+        "stock_name": "火炬电子",
+        "market_value_wan": 51975.57
+      },
+      {
+        "stock_code": "300760",
+        "stock_name": "迈瑞医疗",
+        "market_value_wan": 41370.37
+      },
+      {
+        "stock_code": "688198",
+        "stock_name": "佰仁医疗",
+        "market_value_wan": 38006.6
+      },
+      {
+        "stock_code": "603876",
+        "stock_name": "鼎胜新材",
+        "market_value_wan": 37512.15
+      },
+      {
+        "stock_code": "002984",
+        "stock_name": "森麒麟",
+        "market_value_wan": 35895.95
+      },
+      {
+        "stock_code": "600276",
+        "stock_name": "恒瑞医药",
+        "market_value_wan": 32535.75
+      },
+      {
+        "stock_code": "600522",
+        "stock_name": "中天科技",
+        "market_value_wan": 28156.45
+      }
+    ],
+    "2023-Q2": [
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 84913.81
+      },
+      {
+        "stock_code": "300014",
+        "stock_name": "亿纬锂能",
+        "market_value_wan": 81422.61
+      },
+      {
+        "stock_code": "601899",
+        "stock_name": "紫金矿业",
+        "market_value_wan": 77117.19
+      },
+      {
+        "stock_code": "603678",
+        "stock_name": "火炬电子",
+        "market_value_wan": 74856.12
+      },
+      {
+        "stock_code": "002180",
+        "stock_name": "纳思达",
+        "market_value_wan": 67994.76
+      },
+      {
+        "stock_code": "002812",
+        "stock_name": "恩捷股份",
+        "market_value_wan": 46252.53
+      },
+      {
+        "stock_code": "002984",
+        "stock_name": "森麒麟",
+        "market_value_wan": 39785.62
+      },
+      {
+        "stock_code": "000933",
+        "stock_name": "神火股份",
+        "market_value_wan": 38713.23
+      },
+      {
+        "stock_code": "603876",
+        "stock_name": "鼎胜新材",
+        "market_value_wan": 37037.31
+      },
+      {
+        "stock_code": "688198",
+        "stock_name": "佰仁医疗",
+        "market_value_wan": 29723.47
+      }
+    ],
+    "2023-Q1": [
+      {
+        "stock_code": "300014",
+        "stock_name": "亿纬锂能",
+        "market_value_wan": 104227.17
+      },
+      {
+        "stock_code": "601899",
+        "stock_name": "紫金矿业",
+        "market_value_wan": 104054.91
+      },
+      {
+        "stock_code": "603678",
+        "stock_name": "火炬电子",
+        "market_value_wan": 92630.97
+      },
+      {
+        "stock_code": "002180",
+        "stock_name": "纳思达",
+        "market_value_wan": 61854.67
+      },
+      {
+        "stock_code": "603267",
+        "stock_name": "鸿远电子",
+        "market_value_wan": 51618.69
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 50128.25
+      },
+      {
+        "stock_code": "000933",
+        "stock_name": "神火股份",
+        "market_value_wan": 43780.28
+      },
+      {
+        "stock_code": "603876",
+        "stock_name": "鼎胜新材",
+        "market_value_wan": 39457.47
+      },
+      {
+        "stock_code": "002984",
+        "stock_name": "森麒麟",
+        "market_value_wan": 38959.49
+      },
+      {
+        "stock_code": "600276",
+        "stock_name": "恒瑞医药",
+        "market_value_wan": 37039.83
+      }
+    ]
+  }
+}

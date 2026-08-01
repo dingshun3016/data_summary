@@ -1,0 +1,169 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "010030",
+    "name": "富国稳进回报12个月持有期混合C",
+    "base_name": "富国稳进回报12个月持有期混合"
+  },
+  "fetched_at": "2026-06-14 23:37:39",
+  "quarters": {
+    "2023-Q4": [
+      {
+        "stock_code": "601088",
+        "stock_name": "中国神华",
+        "market_value_wan": 1308.24
+      },
+      {
+        "stock_code": "000933",
+        "stock_name": "神火股份",
+        "market_value_wan": 972.22
+      },
+      {
+        "stock_code": "603556",
+        "stock_name": "海兴电力",
+        "market_value_wan": 540.71
+      },
+      {
+        "stock_code": "600674",
+        "stock_name": "川投能源",
+        "market_value_wan": 486.41
+      },
+      {
+        "stock_code": "600535",
+        "stock_name": "天士力",
+        "market_value_wan": 297.51
+      },
+      {
+        "stock_code": "600557",
+        "stock_name": "康缘药业",
+        "market_value_wan": 278.17
+      },
+      {
+        "stock_code": "300002",
+        "stock_name": "神州泰岳",
+        "market_value_wan": 277.54
+      },
+      {
+        "stock_code": "300770",
+        "stock_name": "新媒股份",
+        "market_value_wan": 261.86
+      },
+      {
+        "stock_code": "605090",
+        "stock_name": "九丰能源",
+        "market_value_wan": 251.2
+      }
+    ],
+    "2023-Q3": [
+      {
+        "stock_code": "601088",
+        "stock_name": "中国神华",
+        "market_value_wan": 1629.26
+      },
+      {
+        "stock_code": "000933",
+        "stock_name": "神火股份",
+        "market_value_wan": 1216.27
+      },
+      {
+        "stock_code": "600985",
+        "stock_name": "淮北矿业",
+        "market_value_wan": 1016.4
+      },
+      {
+        "stock_code": "600012",
+        "stock_name": "皖通高速",
+        "market_value_wan": 613.72
+      },
+      {
+        "stock_code": "601677",
+        "stock_name": "明泰铝业",
+        "market_value_wan": 384.38
+      },
+      {
+        "stock_code": "000651",
+        "stock_name": "格力电器",
+        "market_value_wan": 352.47
+      }
+    ],
+    "2023-Q2": [
+      {
+        "stock_code": "601088",
+        "stock_name": "中国神华",
+        "market_value_wan": 1671.88
+      },
+      {
+        "stock_code": "600535",
+        "stock_name": "天士力",
+        "market_value_wan": 930.24
+      },
+      {
+        "stock_code": "000690",
+        "stock_name": "宝新能源",
+        "market_value_wan": 679.75
+      },
+      {
+        "stock_code": "600027",
+        "stock_name": "华电国际",
+        "market_value_wan": 611.0
+      },
+      {
+        "stock_code": "605090",
+        "stock_name": "九丰能源",
+        "market_value_wan": 584.91
+      },
+      {
+        "stock_code": "600012",
+        "stock_name": "皖通高速",
+        "market_value_wan": 579.44
+      },
+      {
+        "stock_code": "300244",
+        "stock_name": "迪安诊断",
+        "market_value_wan": 564.02
+      }
+    ],
+    "2023-Q1": [
+      {
+        "stock_code": "600025",
+        "stock_name": "华能水电",
+        "market_value_wan": 1166.62
+      },
+      {
+        "stock_code": "300181",
+        "stock_name": "佐力药业",
+        "market_value_wan": 893.86
+      },
+      {
+        "stock_code": "600372",
+        "stock_name": "中航机载",
+        "market_value_wan": 776.17
+      },
+      {
+        "stock_code": "600373",
+        "stock_name": "中文传媒",
+        "market_value_wan": 736.68
+      },
+      {
+        "stock_code": "601088",
+        "stock_name": "中国神华",
+        "market_value_wan": 735.8
+      },
+      {
+        "stock_code": "300244",
+        "stock_name": "迪安诊断",
+        "market_value_wan": 704.22
+      },
+      {
+        "stock_code": "600535",
+        "stock_name": "天士力",
+        "market_value_wan": 668.52
+      },
+      {
+        "stock_code": "000999",
+        "stock_name": "华润三九",
+        "market_value_wan": 664.7
+      }
+    ]
+  }
+}

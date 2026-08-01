@@ -1,0 +1,115 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "001789",
+    "name": "国泰量化收益灵活配置混合A",
+    "base_name": "国泰量化收益灵活配置混合"
+  },
+  "fetched_at": "2026-08-01 20:54:29",
+  "quarters": {
+    "2026-Q2": [
+      {
+        "stock_code": "002266",
+        "stock_name": "浙富控股",
+        "market_value_wan": 60.42
+      },
+      {
+        "stock_code": "603507",
+        "stock_name": "振江股份",
+        "market_value_wan": 57.56
+      },
+      {
+        "stock_code": "600426",
+        "stock_name": "华鲁恒升",
+        "market_value_wan": 57.41
+      },
+      {
+        "stock_code": "688239",
+        "stock_name": "航宇科技",
+        "market_value_wan": 53.85
+      },
+      {
+        "stock_code": "300308",
+        "stock_name": "中际旭创",
+        "market_value_wan": 50.8
+      },
+      {
+        "stock_code": "600273",
+        "stock_name": "嘉化能源",
+        "market_value_wan": 48.31
+      },
+      {
+        "stock_code": "688378",
+        "stock_name": "奥来德",
+        "market_value_wan": 44.64
+      },
+      {
+        "stock_code": "688002",
+        "stock_name": "睿创微纳",
+        "market_value_wan": 43.31
+      },
+      {
+        "stock_code": "601233",
+        "stock_name": "桐昆股份",
+        "market_value_wan": 42.22
+      },
+      {
+        "stock_code": "000338",
+        "stock_name": "潍柴动力",
+        "market_value_wan": 40.6
+      }
+    ],
+    "2026-Q1": [
+      {
+        "stock_code": "000408",
+        "stock_name": "藏格矿业",
+        "market_value_wan": 126.83
+      },
+      {
+        "stock_code": "600885",
+        "stock_name": "宏发股份",
+        "market_value_wan": 104.38
+      },
+      {
+        "stock_code": "301031",
+        "stock_name": "中熔电气",
+        "market_value_wan": 85.7
+      },
+      {
+        "stock_code": "603737",
+        "stock_name": "三棵树",
+        "market_value_wan": 85.68
+      },
+      {
+        "stock_code": "688213",
+        "stock_name": "思特威",
+        "market_value_wan": 72.69
+      },
+      {
+        "stock_code": "603379",
+        "stock_name": "三美股份",
+        "market_value_wan": 65.33
+      },
+      {
+        "stock_code": "603214",
+        "stock_name": "爱婴室",
+        "market_value_wan": 63.63
+      },
+      {
+        "stock_code": "688182",
+        "stock_name": "灿勤科技",
+        "market_value_wan": 62.24
+      },
+      {
+        "stock_code": "002787",
+        "stock_name": "华源控股",
+        "market_value_wan": 61.9
+      },
+      {
+        "stock_code": "688625",
+        "stock_name": "呈和科技",
+        "market_value_wan": 60.63
+      }
+    ]
+  }
+}

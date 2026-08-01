@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "161225",
+    "name": "国投瑞银瑞盈混合(LOF)A",
+    "base_name": "国投瑞银瑞盈混合(LOF)"
+  },
+  "fetched_at": "2026-06-14 22:42:03",
+  "quarters": {
+    "2018-Q4": [
+      {
+        "stock_code": "601336",
+        "stock_name": "新华保险",
+        "market_value_wan": 881.13
+      },
+      {
+        "stock_code": "603259",
+        "stock_name": "药明康德",
+        "market_value_wan": 844.42
+      },
+      {
+        "stock_code": "002343",
+        "stock_name": "慈文传媒",
+        "market_value_wan": 705.38
+      },
+      {
+        "stock_code": "300232",
+        "stock_name": "洲明科技",
+        "market_value_wan": 694.2
+      },
+      {
+        "stock_code": "002439",
+        "stock_name": "启明星辰",
+        "market_value_wan": 514.0
+      },
+      {
+        "stock_code": "300170",
+        "stock_name": "汉得信息",
+        "market_value_wan": 512.68
+      },
+      {
+        "stock_code": "002737",
+        "stock_name": "葵花药业",
+        "market_value_wan": 502.01
+      },
+      {
+        "stock_code": "603877",
+        "stock_name": "太平鸟",
+        "market_value_wan": 494.74
+      },
+      {
+        "stock_code": "300383",
+        "stock_name": "光环新网",
+        "market_value_wan": 446.28
+      },
+      {
+        "stock_code": "603359",
+        "stock_name": "东珠生态",
+        "market_value_wan": 438.43
+      }
+    ],
+    "2018-Q3": [
+      {
+        "stock_code": "601336",
+        "stock_name": "新华保险",
+        "market_value_wan": 1223.8
+      },
+      {
+        "stock_code": "002343",
+        "stock_name": "慈文传媒",
+        "market_value_wan": 968.91
+      },
+      {
+        "stock_code": "603259",
+        "stock_name": "药明康德",
+        "market_value_wan": 902.36
+      },
+      {
+        "stock_code": "300232",
+        "stock_name": "洲明科技",
+        "market_value_wan": 709.48
+      },
+      {
+        "stock_code": "002737",
+        "stock_name": "葵花药业",
+        "market_value_wan": 603.23
+      },
+      {
+        "stock_code": "300170",
+        "stock_name": "汉得信息",
+        "market_value_wan": 579.78
+      },
+      {
+        "stock_code": "600114",
+        "stock_name": "东睦股份",
+        "market_value_wan": 529.92
+      },
+      {
+        "stock_code": "002439",
+        "stock_name": "启明星辰",
+        "market_value_wan": 526.01
+      },
+      {
+        "stock_code": "603877",
+        "stock_name": "太平鸟",
+        "market_value_wan": 525.85
+      },
+      {
+        "stock_code": "300383",
+        "stock_name": "光环新网",
+        "market_value_wan": 460.5
+      }
+    ],
+    "2018-Q2": [
+      {
+        "stock_code": "601336",
+        "stock_name": "新华保险",
+        "market_value_wan": 1170.65
+      },
+      {
+        "stock_code": "002343",
+        "stock_name": "慈文传媒",
+        "market_value_wan": 987.55
+      },
+      {
+        "stock_code": "603877",
+        "stock_name": "太平鸟",
+        "market_value_wan": 888.91
+      },
+      {
+        "stock_code": "600114",
+        "stock_name": "东睦股份",
+        "market_value_wan": 872.41
+      },
+      {
+        "stock_code": "002717",
+        "stock_name": "岭南股份",
+        "market_value_wan": 757.14
+      },
+      {
+        "stock_code": "002737",
+        "stock_name": "葵花药业",
+        "market_value_wan": 734.68
+      },
+      {
+        "stock_code": "300232",
+        "stock_name": "洲明科技",
+        "market_value_wan": 718.94
+      },
+      {
+        "stock_code": "300170",
+        "stock_name": "汉得信息",
+        "market_value_wan": 714.07
+      },
+      {
+        "stock_code": "002310",
+        "stock_name": "*ST东园",
+        "market_value_wan": 666.67
+      },
+      {
+        "stock_code": "603368",
+        "stock_name": "柳药集团",
+        "market_value_wan": 646.77
+      }
+    ],
+    "2018-Q1": [
+      {
+        "stock_code": "601336",
+        "stock_name": "新华保险",
+        "market_value_wan": 1735.18
+      },
+      {
+        "stock_code": "002717",
+        "stock_name": "岭南股份",
+        "market_value_wan": 1694.08
+      },
+      {
+        "stock_code": "002310",
+        "stock_name": "*ST东园",
+        "market_value_wan": 1466.32
+      },
+      {
+        "stock_code": "002258",
+        "stock_name": "利尔化学",
+        "market_value_wan": 1282.11
+      },
+      {
+        "stock_code": "002343",
+        "stock_name": "慈文传媒",
+        "market_value_wan": 1143.89
+      },
+      {
+        "stock_code": "300197",
+        "stock_name": "节能铁汉",
+        "market_value_wan": 1088.04
+      },
+      {
+        "stock_code": "600114",
+        "stock_name": "东睦股份",
+        "market_value_wan": 1084.52
+      },
+      {
+        "stock_code": "002737",
+        "stock_name": "葵花药业",
+        "market_value_wan": 1030.0
+      },
+      {
+        "stock_code": "300232",
+        "stock_name": "洲明科技",
+        "market_value_wan": 1017.48
+      },
+      {
+        "stock_code": "603877",
+        "stock_name": "太平鸟",
+        "market_value_wan": 917.84
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "001637",
+    "name": "嘉实量化精选股票",
+    "base_name": "嘉实量化精选股票"
+  },
+  "fetched_at": "2026-06-14 22:59:09",
+  "quarters": {
+    "2021-Q4": [
+      {
+        "stock_code": "000039",
+        "stock_name": "中集集团",
+        "market_value_wan": 1265.89
+      },
+      {
+        "stock_code": "600728",
+        "stock_name": "佳都科技",
+        "market_value_wan": 1212.68
+      },
+      {
+        "stock_code": "000830",
+        "stock_name": "鲁西化工",
+        "market_value_wan": 1201.57
+      },
+      {
+        "stock_code": "600803",
+        "stock_name": "新奥股份",
+        "market_value_wan": 1165.86
+      },
+      {
+        "stock_code": "002396",
+        "stock_name": "星网锐捷",
+        "market_value_wan": 1165.54
+      },
+      {
+        "stock_code": "002092",
+        "stock_name": "ST中泰",
+        "market_value_wan": 1156.63
+      },
+      {
+        "stock_code": "002517",
+        "stock_name": "恺英网络",
+        "market_value_wan": 1134.96
+      },
+      {
+        "stock_code": "600116",
+        "stock_name": "三峡水利",
+        "market_value_wan": 1134.63
+      },
+      {
+        "stock_code": "300639",
+        "stock_name": "凯普生物",
+        "market_value_wan": 1129.94
+      },
+      {
+        "stock_code": "600884",
+        "stock_name": "杉杉股份",
+        "market_value_wan": 1067.65
+      }
+    ],
+    "2021-Q3": [
+      {
+        "stock_code": "300223",
+        "stock_name": "北京君正",
+        "market_value_wan": 1044.71
+      },
+      {
+        "stock_code": "002013",
+        "stock_name": "中航机电",
+        "market_value_wan": 989.82
+      },
+      {
+        "stock_code": "600884",
+        "stock_name": "杉杉股份",
+        "market_value_wan": 955.53
+      },
+      {
+        "stock_code": "002648",
+        "stock_name": "卫星化学",
+        "market_value_wan": 903.93
+      },
+      {
+        "stock_code": "000885",
+        "stock_name": "城发环境",
+        "market_value_wan": 841.75
+      },
+      {
+        "stock_code": "600808",
+        "stock_name": "马钢股份",
+        "market_value_wan": 828.78
+      },
+      {
+        "stock_code": "601689",
+        "stock_name": "拓普集团",
+        "market_value_wan": 825.03
+      },
+      {
+        "stock_code": "002495",
+        "stock_name": "佳隆股份",
+        "market_value_wan": 814.59
+      },
+      {
+        "stock_code": "600426",
+        "stock_name": "华鲁恒升",
+        "market_value_wan": 783.08
+      },
+      {
+        "stock_code": "000100",
+        "stock_name": "TCL科技",
+        "market_value_wan": 778.37
+      }
+    ],
+    "2021-Q2": [
+      {
+        "stock_code": "300661",
+        "stock_name": "圣邦股份",
+        "market_value_wan": 572.43
+      },
+      {
+        "stock_code": "603882",
+        "stock_name": "金域医学",
+        "market_value_wan": 519.25
+      },
+      {
+        "stock_code": "002025",
+        "stock_name": "航天电器",
+        "market_value_wan": 460.56
+      },
+      {
+        "stock_code": "300124",
+        "stock_name": "汇川技术",
+        "market_value_wan": 430.71
+      },
+      {
+        "stock_code": "600803",
+        "stock_name": "新奥股份",
+        "market_value_wan": 428.93
+      },
+      {
+        "stock_code": "300496",
+        "stock_name": "中科创达",
+        "market_value_wan": 398.93
+      },
+      {
+        "stock_code": "600782",
+        "stock_name": "新钢股份",
+        "market_value_wan": 384.02
+      },
+      {
+        "stock_code": "600886",
+        "stock_name": "国投电力",
+        "market_value_wan": 366.33
+      },
+      {
+        "stock_code": "600563",
+        "stock_name": "法拉电子",
+        "market_value_wan": 364.23
+      },
+      {
+        "stock_code": "000401",
+        "stock_name": "冀东水泥",
+        "market_value_wan": 355.93
+      }
+    ],
+    "2021-Q1": [
+      {
+        "stock_code": "002675",
+        "stock_name": "东诚药业",
+        "market_value_wan": 507.19
+      },
+      {
+        "stock_code": "002557",
+        "stock_name": "洽洽食品",
+        "market_value_wan": 493.04
+      },
+      {
+        "stock_code": "300661",
+        "stock_name": "圣邦股份",
+        "market_value_wan": 457.97
+      },
+      {
+        "stock_code": "002768",
+        "stock_name": "国恩股份",
+        "market_value_wan": 449.29
+      },
+      {
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "market_value_wan": 444.66
+      },
+      {
+        "stock_code": "300124",
+        "stock_name": "汇川技术",
+        "market_value_wan": 401.9
+      },
+      {
+        "stock_code": "600886",
+        "stock_name": "国投电力",
+        "market_value_wan": 383.0
+      },
+      {
+        "stock_code": "000975",
+        "stock_name": "山金国际",
+        "market_value_wan": 379.03
+      },
+      {
+        "stock_code": "600803",
+        "stock_name": "新奥股份",
+        "market_value_wan": 358.75
+      },
+      {
+        "stock_code": "000401",
+        "stock_name": "冀东水泥",
+        "market_value_wan": 331.31
+      }
+    ]
+  }
+}

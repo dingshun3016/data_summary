@@ -1,0 +1,219 @@
+{
+  "cache_version": 2,
+  "fund": {
+    "code": "010428",
+    "name": "兴银策略智选混合C",
+    "base_name": "兴银策略智选混合"
+  },
+  "fetched_at": "2026-06-14 23:40:31",
+  "quarters": {
+    "2024-Q4": [
+      {
+        "stock_code": "688668",
+        "stock_name": "鼎通科技",
+        "market_value_wan": 359.13
+      },
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 281.24
+      },
+      {
+        "stock_code": "300910",
+        "stock_name": "瑞丰新材",
+        "market_value_wan": 256.03
+      },
+      {
+        "stock_code": "000063",
+        "stock_name": "中兴通讯",
+        "market_value_wan": 209.68
+      },
+      {
+        "stock_code": "688279",
+        "stock_name": "峰岹科技",
+        "market_value_wan": 183.88
+      },
+      {
+        "stock_code": "300750",
+        "stock_name": "宁德时代",
+        "market_value_wan": 183.54
+      },
+      {
+        "stock_code": "002273",
+        "stock_name": "水晶光电",
+        "market_value_wan": 182.87
+      },
+      {
+        "stock_code": "000338",
+        "stock_name": "潍柴动力",
+        "market_value_wan": 178.92
+      },
+      {
+        "stock_code": "002555",
+        "stock_name": "三七互娱",
+        "market_value_wan": 173.02
+      },
+      {
+        "stock_code": "688099",
+        "stock_name": "晶晨股份",
+        "market_value_wan": 162.98
+      }
+    ],
+    "2024-Q3": [
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 417.65
+      },
+      {
+        "stock_code": "688668",
+        "stock_name": "鼎通科技",
+        "market_value_wan": 306.82
+      },
+      {
+        "stock_code": "301236",
+        "stock_name": "软通动力",
+        "market_value_wan": 267.9
+      },
+      {
+        "stock_code": "300910",
+        "stock_name": "瑞丰新材",
+        "market_value_wan": 246.14
+      },
+      {
+        "stock_code": "002064",
+        "stock_name": "华峰化学",
+        "market_value_wan": 244.44
+      },
+      {
+        "stock_code": "688213",
+        "stock_name": "思特威",
+        "market_value_wan": 242.1
+      },
+      {
+        "stock_code": "603508",
+        "stock_name": "思维列控",
+        "market_value_wan": 215.17
+      },
+      {
+        "stock_code": "002273",
+        "stock_name": "水晶光电",
+        "market_value_wan": 195.36
+      },
+      {
+        "stock_code": "603129",
+        "stock_name": "春风动力",
+        "market_value_wan": 188.46
+      },
+      {
+        "stock_code": "600031",
+        "stock_name": "三一重工",
+        "market_value_wan": 188.42
+      }
+    ],
+    "2024-Q2": [
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 266.91
+      },
+      {
+        "stock_code": "688668",
+        "stock_name": "鼎通科技",
+        "market_value_wan": 214.63
+      },
+      {
+        "stock_code": "600031",
+        "stock_name": "三一重工",
+        "market_value_wan": 196.68
+      },
+      {
+        "stock_code": "300910",
+        "stock_name": "瑞丰新材",
+        "market_value_wan": 191.49
+      },
+      {
+        "stock_code": "600875",
+        "stock_name": "东方电气",
+        "market_value_wan": 173.98
+      },
+      {
+        "stock_code": "002064",
+        "stock_name": "华峰化学",
+        "market_value_wan": 170.93
+      },
+      {
+        "stock_code": "002138",
+        "stock_name": "顺络电子",
+        "market_value_wan": 146.64
+      },
+      {
+        "stock_code": "300364",
+        "stock_name": "中文在线",
+        "market_value_wan": 142.64
+      },
+      {
+        "stock_code": "603508",
+        "stock_name": "思维列控",
+        "market_value_wan": 139.13
+      },
+      {
+        "stock_code": "301236",
+        "stock_name": "软通动力",
+        "market_value_wan": 137.32
+      }
+    ],
+    "2024-Q1": [
+      {
+        "stock_code": "688668",
+        "stock_name": "鼎通科技",
+        "market_value_wan": 208.75
+      },
+      {
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "market_value_wan": 199.69
+      },
+      {
+        "stock_code": "301236",
+        "stock_name": "软通动力",
+        "market_value_wan": 181.27
+      },
+      {
+        "stock_code": "300364",
+        "stock_name": "中文在线",
+        "market_value_wan": 178.34
+      },
+      {
+        "stock_code": "600031",
+        "stock_name": "三一重工",
+        "market_value_wan": 173.79
+      },
+      {
+        "stock_code": "300910",
+        "stock_name": "瑞丰新材",
+        "market_value_wan": 167.58
+      },
+      {
+        "stock_code": "002064",
+        "stock_name": "华峰化学",
+        "market_value_wan": 160.2
+      },
+      {
+        "stock_code": "600875",
+        "stock_name": "东方电气",
+        "market_value_wan": 148.52
+      },
+      {
+        "stock_code": "300161",
+        "stock_name": "华中数控",
+        "market_value_wan": 139.4
+      },
+      {
+        "stock_code": "688127",
+        "stock_name": "蓝特光学",
+        "market_value_wan": 137.44
+      }
+    ]
+  }
+}

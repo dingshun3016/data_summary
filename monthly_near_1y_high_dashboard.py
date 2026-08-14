@@ -93,6 +93,11 @@ def month_label(year, month):
     return f"{year}年{month}月"
 
 
+def month_distance(earlier, later):
+    """返回两个年月之间相隔的自然月数。"""
+    return (later[0] - earlier[0]) * 12 + later[1] - earlier[1]
+
+
 def build_query(year, month):
     return (
         f"{month_label(year, month)}出现近1年新高的股票，"
@@ -415,7 +420,9 @@ def build_previous_maps(payloads, periods):
     return result
 
 
-def save_monthly_csv(year, month, records, previous_map):
+def save_monthly_csv(
+    year, month, records, previous_map, latest_period, latest_codes
+):
     os.makedirs(OUTPUT_DIR, exist_ok=True)
     fields = [
         "股票代码",
@@ -424,12 +431,18 @@ def save_monthly_csv(year, month, records, previous_map):
         "总市值",
         "区间内此前出现近1年新高月份数量",
         "区间内此前出现近1年新高月份",
+        "距最新月份未再创新高月数",
     ]
     with open(csv_path(year, month), "w", newline="", encoding="utf-8-sig") as file:
         writer = csv.DictWriter(file, fieldnames=fields)
         writer.writeheader()
         for record in records:
             previous = previous_map.get(record["code"], [])
+            months_since = (
+                0
+                if record["code"] in latest_codes
+                else month_distance((year, month), latest_period)
+            )
             writer.writerow(
                 {
                     "股票代码": record["code"],
@@ -438,6 +451,7 @@ def save_monthly_csv(year, month, records, previous_map):
                     "总市值": record["mktcap"],
                     "区间内此前出现近1年新高月份数量": len(previous),
                     "区间内此前出现近1年新高月份": "、".join(previous) if previous else "未出现",
+                    "距最新月份未再创新高月数": months_since,
                 }
             )
 
@@ -447,6 +461,10 @@ def save_dashboard(periods, payloads, previous_maps):
     start_key, end_key = month_key(*periods[0]), month_key(*periods[-1])
     output = os.path.join(OUTPUT_DIR, f"{start_key}_至_{end_key}_近1年新高整合看板.html")
     buttons, sections = [], []
+    latest_period = periods[-1]
+    latest_codes = {
+        record["code"] for record in payloads[latest_period]["records"]
+    }
 
     for index, period in enumerate(periods):
         year, month = period
@@ -463,6 +481,11 @@ def save_dashboard(periods, payloads, previous_maps):
             previous = previous_map.get(record["code"], [])
             previous_text = "、".join(previous) if previous else "未出现"
             mark_class = "new" if not previous else "repeat"
+            months_since = (
+                0
+                if record["code"] in latest_codes
+                else month_distance(period, latest_period)
+            )
             search_text = (record["code"] + record["name"] + record["industry"]).lower()
             rows.append(
                 f"""<tr data-text="{html.escape(search_text)}">
@@ -472,6 +495,7 @@ def save_dashboard(periods, payloads, previous_maps):
                 <td class="number">{html.escape(record["mktcap"])}</td>
                 <td class="number">{len(previous)}</td>
                 <td><span class="mark {mark_class}">{html.escape(previous_text)}</span></td>
+                <td class="number months-since">{months_since}</td>
                 </tr>"""
             )
         sections.append(
@@ -480,7 +504,8 @@ def save_dashboard(periods, payloads, previous_maps):
             <div><span>区间首次出现</span><strong>{new_count}</strong></div>
             <div><span>区间重复出现</span><strong>{len(records)-new_count}</strong></div></div>
             <div class="table-wrap"><table><thead><tr><th>股票代码</th><th>股票简称</th>
-            <th>同花顺行业</th><th>总市值</th><th>此前月份数量</th><th>区间内此前出现近1年新高月份</th></tr></thead>
+            <th>同花顺行业</th><th>总市值</th><th>此前月份数量</th><th>区间内此前出现近1年新高月份</th>
+            <th title="若该股票在最新月份再次出现则为0；否则为最新月份与当前页月份的自然月差">距最新月份未再创新高月数</th></tr></thead>
             <tbody>{"".join(rows)}</tbody></table></div></section>"""
         )
 
@@ -493,13 +518,14 @@ main{{max-width:1500px;margin:auto;padding:20px}}.toolbar{{display:flex;flex-wra
 input,button{{height:38px;border:1px solid #cbd5e1;border-radius:5px;background:#fff;padding:0 12px;font-size:14px}}input{{width:min(360px,100%)}}button{{cursor:pointer;color:#334155}}button.active{{background:#17365d;border-color:#17365d;color:#fff}}
 .month-section{{display:none}}.month-section.active{{display:block}}.metrics{{display:grid;grid-template-columns:repeat(3,minmax(120px,220px));gap:10px;margin-bottom:14px}}
 .metrics div{{background:#fff;border:1px solid #d8e0e8;padding:13px}}.metrics span{{display:block;color:#64748b;font-size:13px}}.metrics strong{{display:block;margin-top:4px;font-size:22px}}
-.table-wrap{{overflow:auto;max-height:calc(100vh - 255px);background:#fff;border:1px solid #d8e0e8}}table{{width:100%;min-width:850px;border-collapse:collapse}}
+.table-wrap{{overflow:auto;max-height:calc(100vh - 255px);background:#fff;border:1px solid #d8e0e8}}table{{width:100%;min-width:1050px;border-collapse:collapse}}
 th{{position:sticky;top:0;z-index:1;text-align:left;padding:11px 12px;color:#fff;background:#1f4e78;font-size:13px}}td{{padding:10px 12px;border-bottom:1px solid #e6ebf0;font-size:14px}}
 tbody tr:hover{{background:#f1f6fb}}.code,.number{{white-space:nowrap;font-variant-numeric:tabular-nums}}.name{{font-weight:600;white-space:nowrap}}
 .mark{{display:inline-block;padding:3px 8px;border-radius:4px;white-space:nowrap;font-size:12px;font-weight:600}}.mark.new{{color:#166534;background:#dcfce7}}.mark.repeat{{color:#854d0e;background:#fef9c3}}
+.months-since{{font-weight:700;color:#1f4e78}}
 @media(max-width:700px){{header{{padding:18px}}main{{padding:12px}}.metrics{{grid-template-columns:repeat(3,1fr)}}.table-wrap{{max-height:calc(100vh - 310px)}}}}
 </style></head><body><header><h1>{start_key} 至 {end_key} 近1年新高股票</h1>
-<p>市值大于200亿元 · 非北交/非新股/非ST · 2024年之前上市 · 按总市值倒排 · 历史月份使用独立缓存</p></header>
+<p>市值大于200亿元 · 非北交/非新股/非ST · 2024年之前上市 · 按总市值倒排 · “距最新月份未再创新高月数”：最新月再次出现为0，否则按当前页月份计算自然月差</p></header>
 <main><div class="toolbar"><input id="search" type="search" placeholder="搜索当前月份的股票代码、简称或行业">{"".join(buttons)}</div>{"".join(sections)}</main>
 <script>const search=document.querySelector("#search");let activeMonth=document.querySelector(".month-button.active").dataset.month;
 function filterRows(){{const term=search.value.trim().toLowerCase();document.querySelectorAll(`.month-section[data-month="${{activeMonth}}"] tbody tr`).forEach(row=>row.hidden=!!term&&!row.dataset.text.includes(term));}}
@@ -518,9 +544,18 @@ def main():
         return
 
     previous_maps = build_previous_maps(payloads, periods)
+    latest_period = periods[-1]
+    latest_codes = {
+        record["code"] for record in payloads[latest_period]["records"]
+    }
     for year, month in periods:
         save_monthly_csv(
-            year, month, payloads[(year, month)]["records"], previous_maps[(year, month)]
+            year,
+            month,
+            payloads[(year, month)]["records"],
+            previous_maps[(year, month)],
+            latest_period,
+            latest_codes,
         )
     dashboard = save_dashboard(periods, payloads, previous_maps)
     enhance_html_sorting.enhance_file(dashboard)

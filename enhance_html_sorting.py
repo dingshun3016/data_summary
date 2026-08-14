@@ -49,7 +49,7 @@ th.sortable-header.sorted .sort-icon {{
 SORT_SCRIPT = f"""{SCRIPT_MARKER}
 <script>
 (function () {{
-  const metricWords = ['总市值', '市值', '次数', '涨跌幅', '历史新高次数', '基金数量', '持有该股票的基金数量', '月份数量', '数量'];
+  const metricWords = ['总市值', '市值', '次数', '涨跌幅', '历史新高次数', '基金数量', '持有该股票的基金数量', '月份数量', '月数', '数量'];
   const excludedWords = ['股票代码', '股票简称', '同花顺行业', '行业', '月份', '此前', '变化'];
 
   function shouldSort(label) {{
@@ -58,6 +58,7 @@ SORT_SCRIPT = f"""{SCRIPT_MARKER}
     if (excludedWords.some(word => text.includes(word)) &&
         !text.includes('总市值') &&
         !text.includes('数量') &&
+        !text.includes('月数') &&
         !text.includes('次数') &&
         !text.includes('涨跌幅') &&
         !text.includes('历史新高次数')) return false;

@@ -59,6 +59,12 @@ def parse_args():
     )
     parser.add_argument("--refresh", action="store_true", help="强制重新抓取区间内月份")
     parser.add_argument("--headless", action="store_true", help="无界面浏览器运行")
+    parser.add_argument(
+        "--login-timeout",
+        type=int,
+        default=45,
+        help="等待问财表格或人工登录的秒数，默认45秒",
+    )
     parser.add_argument("--dry-run", action="store_true", help="仅显示缓存与抓取计划")
     return parser.parse_args()
 
@@ -101,9 +107,8 @@ def month_distance(earlier, later):
 def build_query(year, month):
     return (
         f"{month_label(year, month)}出现近1年新高的股票，"
-        "市值，行业板块，上市时间，"
-        "非北交，非新股，非ST，"
-        "市值大于200亿，上市时间在2024年之前"
+        "市值，行业板块，非科创板，非北交，非新股，"
+        "上市时间在2024年之前，非ST，市值大于100亿"
     )
 
 
@@ -283,27 +288,102 @@ def click_next_page(driver, target_page):
 
 
 def get_page_records(driver):
-    """
-    近一年新高查询的问财结果布局较精简：
-    第3列代码、第4列简称、第7列总市值、第8列行业。
-    """
-    rows = driver.execute_script(
+    """兼容问财旧版单表和新版左右冻结分栏结果。"""
+    table_data = driver.execute_script(
         r"""
+        const textCells = row => Array.from(row.querySelectorAll('th, td'))
+          .map(cell => cell.innerText.trim());
+        const visibleContents = Array.from(document.querySelectorAll('.iwc-table-content'))
+          .filter(element => element.offsetParent !== null);
+        const content = visibleContents[0] || document.querySelector('.iwc-table-content');
+        if (content) {
+          const fixedRows = Array.from(content.querySelectorAll(
+            '.iwc-table-fixed .iwc-table-body-inner tbody tr'
+          ));
+          const scrollRows = Array.from(content.querySelectorAll(
+            '.iwc-table-scroll .iwc-table-body tbody tr'
+          ));
+          if (fixedRows.length && fixedRows.length === scrollRows.length) {
+            return {
+              mode: 'split',
+              fixedHeaders: Array.from(content.querySelectorAll(
+                '.iwc-table-fixed .iwc-table-header li'
+              )).map(item => item.innerText.trim()),
+              scrollHeaders: Array.from(content.querySelectorAll(
+                '.iwc-table-scroll .iwc-table-header-ul > li'
+              )).map(item => item.innerText.trim()),
+              rows: fixedRows.map((row, index) => ({
+                fixed: textCells(row),
+                scroll: textCells(scrollRows[index]),
+              })),
+            };
+          }
+        }
         const tables = Array.from(document.querySelectorAll('table'));
         let best = null, maxRows = 0;
         for (const table of tables) {
           const n = table.querySelectorAll('tbody tr').length;
           if (n > maxRows) { maxRows = n; best = table; }
         }
-        if (!best) return [];
-        return Array.from(best.querySelectorAll('tbody tr')).map(row =>
-          Array.from(row.querySelectorAll('td')).map(td => td.innerText.trim())
-        );
+        if (!best) return { mode: 'none', rows: [] };
+        return {
+          mode: 'single',
+          headers: textCells(best.querySelector('thead tr') || document.createElement('tr')),
+          rows: Array.from(best.querySelectorAll('tbody tr')).map(textCells),
+        };
         """
     )
 
+    def header_value(headers, cells, keywords):
+        for index, header in enumerate(headers):
+            compact = re.sub(r"\s+", "", header)
+            if any(keyword in compact for keyword in keywords) and index < len(cells):
+                return cells[index].strip()
+        return ""
+
     records = []
-    for cells in rows or []:
+    if table_data.get("mode") == "split":
+        fixed_headers = table_data.get("fixedHeaders", [])
+        scroll_headers = table_data.get("scrollHeaders", [])
+        for row in table_data.get("rows", []):
+            fixed_cells = row.get("fixed", [])
+            scroll_cells = row.get("scroll", [])
+            # 新版滚动区的行会重复冻结区列，但其表头只含滚动区列。
+            repeated_columns = len(scroll_cells) - len(scroll_headers)
+            if repeated_columns == len(fixed_cells):
+                scroll_cells = scroll_cells[repeated_columns:]
+            elif repeated_columns != 0:
+                raise RuntimeError("问财表格列数与表头不一致")
+            code = header_value(fixed_headers, fixed_cells, ("股票代码",))
+            if not re.fullmatch(r"\d{6}", code):
+                raise RuntimeError("问财表格缺少有效股票代码")
+            name = header_value(fixed_headers, fixed_cells, ("股票简称", "股票名称"))
+            if not name:
+                code_index = next(
+                    (index for index, cell in enumerate(fixed_cells) if code in cell),
+                    -1,
+                )
+                name = fixed_cells[code_index + 1].strip() if code_index + 1 < len(fixed_cells) else ""
+            market_cap = header_value(scroll_headers, scroll_cells, ("总市值",))
+            industry = header_value(
+                scroll_headers,
+                scroll_cells,
+                ("同花顺行业", "行业板块", "所属行业"),
+            )
+            if not name or not market_cap or not industry:
+                raise RuntimeError("问财表格缺少股票简称、总市值或行业")
+            records.append(
+                {
+                    "code": code,
+                    "name": name,
+                    "mktcap": market_cap,
+                    "market_cap_yi": parse_market_cap_yi(market_cap),
+                    "industry": industry or "未分类",
+                }
+            )
+        return records
+
+    for cells in table_data.get("rows", []):
         if len(cells) < 8:
             continue
         code = cells[2].strip()
@@ -333,7 +413,7 @@ def wait_for_page_change(driver, old_first_code, timeout=15):
     return False
 
 
-def scrape_month(driver, year, month):
+def scrape_month(driver, year, month, login_timeout=45):
     label = month_label(year, month)
     query = build_query(year, month)
     url = build_url(query)
@@ -342,7 +422,7 @@ def scrape_month(driver, year, month):
     driver.get(url)
     time.sleep(6)
 
-    if not wait_for_data(driver):
+    if not wait_for_data(driver, timeout=login_timeout):
         print_page_diagnostics(driver)
         raise RuntimeError(f"{label} 问财表格未加载")
 
@@ -402,7 +482,7 @@ def load_or_fetch(args, periods):
         try:
             for year, month in missing:
                 payloads[(year, month)] = save_cache(
-                    year, month, scrape_month(driver, year, month)
+                    year, month, scrape_month(driver, year, month, args.login_timeout)
                 )
         finally:
             driver.quit()
